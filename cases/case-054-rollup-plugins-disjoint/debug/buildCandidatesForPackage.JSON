@@ -1,0 +1,767 @@
+[
+  {
+    "packageName": "rollup",
+    "requestedRange": "4.50.0",
+    "candidates": [
+      {
+        "packageName": "rollup",
+        "version": "4.60.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.58.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.56.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.54.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "3.30.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "2.80.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "1.32.1",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "rollup-plugin-corejs",
+    "requestedRange": "0.1.0",
+    "candidates": [
+      {
+        "packageName": "rollup-plugin-corejs",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "rollup": "^3 || ^4"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-corejs",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "rollup": "^3 || ^4"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-corejs",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "rollup": "^3 || ^4"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "rollup-plugin-copy-assets-to",
+    "requestedRange": "1.0.0",
+    "candidates": [
+      {
+        "packageName": "rollup-plugin-copy-assets-to",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "rollup": ">=0.67.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@rollup-extras/plugin-clean",
+    "requestedRange": "1.2.3",
+    "candidates": [
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "rollup": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "rollup": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.9",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0 || ^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.8",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0 || ^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.7",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.6",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.5",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.4",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.3",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.2",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.1",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "rollup": "^2.60.1 || ^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.2.4",
+        "peerDependencies": {
+          "rollup": "^2.60.1"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.2.3",
+        "peerDependencies": {
+          "rollup": "^2.60.1"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.2.2",
+        "peerDependencies": {
+          "rollup": "^2.60.1"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "rollup": "^2.60.1"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "rollup": "^2.60.1"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "rollup": "^2.60.1"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "rollup": "^2.60.1"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.0.4",
+        "peerDependencies": {
+          "rollup": "^2.60.2"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.0.3",
+        "peerDependencies": {
+          "rollup": "^2.60.2"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "rollup": "^2.60.2"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "rollup": "^2.60.2"
+        }
+      },
+      {
+        "packageName": "@rollup-extras/plugin-clean",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "rollup": "^2.60.2"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@rollup/plugin-node-resolve",
+    "requestedRange": "11.0.1",
+    "candidates": [
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "16.0.3",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "16.0.2",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "16.0.1",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "16.0.0",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.3.1",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.3.0",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.2.4",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.2.3",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.2.2",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.2.1",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.2.0",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.1.0",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.0.2",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.0.1",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "15.0.0",
+        "peerDependencies": {
+          "rollup": "^2.78.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "14.1.0",
+        "peerDependencies": {
+          "rollup": "^2.78.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "14.0.1",
+        "peerDependencies": {
+          "rollup": "^2.78.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "14.0.0",
+        "peerDependencies": {
+          "rollup": "^2.78.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "13.3.0",
+        "peerDependencies": {
+          "rollup": "^2.42.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "13.2.2",
+        "peerDependencies": {
+          "rollup": "^2.42.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "13.2.1",
+        "peerDependencies": {
+          "rollup": "^2.42.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "13.2.0",
+        "peerDependencies": {
+          "rollup": "^2.42.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "13.1.3",
+        "peerDependencies": {
+          "rollup": "^2.42.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "13.1.2",
+        "peerDependencies": {
+          "rollup": "^2.42.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "11.2.1",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "8.4.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "7.1.3",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-node-resolve",
+        "version": "6.1.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "rollup-plugin-cleandir",
+    "requestedRange": "3.0.0",
+    "candidates": [
+      {
+        "packageName": "rollup-plugin-cleandir",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "rollup": ">=4.0.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-cleandir",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "rollup": ">=2.0.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-cleandir",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "rollup": ">=1.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@honeybadger-io/rollup-plugin",
+    "requestedRange": "5.8.0",
+    "candidates": [
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.10.1",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.10.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.9.3",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.9.2",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.9.1",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.9.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.8.4",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.8.3",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.8.2",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.8.1",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.8.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.7.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.6.1",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.6.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.5.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.4.1",
+        "peerDependencies": {
+          "rollup": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.4.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.1.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@honeybadger-io/rollup-plugin",
+        "version": "5.0.0",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "rollup-plugin-deassert",
+    "requestedRange": "1.3.0",
+    "candidates": [
+      {
+        "packageName": "rollup-plugin-deassert",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "acorn": "^8.12.1",
+          "rollup": "^4.20.0"
+        }
+      }
+    ]
+  }
+]

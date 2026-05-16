@@ -1,0 +1,19 @@
+{
+  "name": "case-077-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.99.3",
+    "@webpack-cli/generators": "0.0.4",
+    "cache-loader": "1.1.0",
+    "@svgv/webpack": "0.1.0",
+    "@planjs/webpack-deploy-plugin": "0.0.3",
+    "@4c/unused-files-webpack-plugin": "4.0.0",
+    "@insin/npm-install-webpack-plugin": "5.0.0",
+    "browser-sync-v3-webpack-plugin": "0.1.1",
+    "@pieced/js-config-webpack-plugin": "1.1.3",
+    "@dyad-sh/nextjs-webpack-component-tagger": "0.8.0"
+  }
+}

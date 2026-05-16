@@ -1,0 +1,19 @@
+{
+  "name": "case-046-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@roots/bud-tailwindcss": "4.3.0",
+    "@rvxlab/tailwind-plugin-ios-full-height": "1.1.0",
+    "@relume_io/relume-ui": "0.7.0",
+    "@freeloop/tailwindcss-backgrounds": "0.1.0",
+    "@designbycode/tailwindcss-text-shadow": "1.1.6",
+    "@opengraphplus/tailwind": "0.1.0",
+    "@dugyu/luna-tailwind": "0.3.0",
+    "@hacknug/tailwindcss-plugin-utils": "0.1.5",
+    "@toolwind/anchors": "0.1.3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "case-071-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "22.1.1",
+    "@haojian-app/jest-preset": "1.1.0",
+    "@side/jest-runtime": "1.0.0",
+    "jest-dynalite": "3.2.3",
+    "jest-enzyme": "5.0.2",
+    "jest-matchmedia-mock": "1.0.1",
+    "jest-mock-server": "0.0.2",
+    "jest-environment-enzyme": "7.1.0",
+    "@lwc/jest-resolver": "1.0.0",
+    "@ta-interaktiv/jest-preset": "1.4.5"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "case-063-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.3",
+    "@cyco130/vite-plugin-mdx": "0.0.2",
+    "@plugin-web-update-notification/vite": "1.5.1",
+    "@junobuild/vite-plugin": "0.0.2",
+    "@formatjs/vite-plugin": "1.0.3",
+    "@joshwooding/vite-plugin-react-docgen-typescript": "0.6.2",
+    "@serwist/vite": "8.4.2",
+    "@meituan-nocode/vite-plugin-nocode-compiler": "0.2.3",
+    "@lingui-solid/vite-plugin": "5.1.2",
+    "@builder.io/vite-plugin-jsx-loc": "0.1.1"
+  }
+}

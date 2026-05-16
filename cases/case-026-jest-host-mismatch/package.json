@@ -1,0 +1,19 @@
+{
+  "name": "case-026-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-cucumber": "1.0.0",
+    "jest-enzyme": "7.1.0",
+    "@glen/jest-raw-loader": "2.0.0",
+    "@vue/vue3-jest": "28.1.0",
+    "jest-json": "1.1.0",
+    "@wordpress/jest-puppeteer-axe": "6.13.7",
+    "jest-preset-saya": "0.1.0",
+    "jest-mock-extended": "1.0.11",
+    "jest-preset-ns": "0.2.0"
+  }
+}

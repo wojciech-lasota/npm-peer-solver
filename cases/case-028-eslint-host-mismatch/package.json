@@ -1,0 +1,19 @@
+{
+  "name": "case-028-eslint-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "4.18.2",
+    "@containerbase/eslint-plugin": "1.0.1",
+    "@angular-eslint/eslint-plugin": "12.6.0",
+    "@cksource-cs/eslint-config-cs-module": "7.0.1",
+    "@addon24/eslint-config": "1.31.0",
+    "@cspell/eslint-plugin": "9.8.0",
+    "@appliedblockchain/eslint-config": "1.2.3",
+    "@adonisjs/eslint-plugin": "1.2.1",
+    "@eslint-recommended/eslint-config": "19.0.0",
+    "@eslint-community/eslint-plugin-eslint-comments": "4.4.1"
+  }
+}

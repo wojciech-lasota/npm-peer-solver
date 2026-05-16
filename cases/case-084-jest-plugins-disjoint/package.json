@@ -1,0 +1,19 @@
+{
+  "name": "case-084-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "29.3.1",
+    "@lwc/jest-serializer": "8.0.0",
+    "jest-auto-spies": "2.0.0",
+    "@wordpress/jest-preset-default": "11.13.10",
+    "json5-jest": "2.0.0",
+    "@minna-ui/jest-config": "0.10.0",
+    "jest-dynalite": "3.4.0",
+    "jest-preset-ignite": "0.4.1",
+    "@vue/vue2-jest": "26.0.1",
+    "@vue/vue3-jest": "26.0.1"
+  }
+}

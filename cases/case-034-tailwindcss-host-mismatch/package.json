@@ -1,0 +1,19 @@
+{
+  "name": "case-034-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@djangocfg/layouts": "1.0.1",
+    "@imwebme/clay-theme-tailwindcss": "0.0.1",
+    "@freeloop/tailwindcss-backgrounds": "0.1.1",
+    "@egoist/tailwindcss-icons": "1.9.0",
+    "@herb-tools/tailwind-class-sorter": "0.9.4",
+    "@limpiolux/ui-styles": "1.0.1",
+    "@designbycode/tailwindcss-stripes": "1.0.5",
+    "@designbycode/tailwindcss-text-shadow": "1.1.5",
+    "@meetdomaine/tailwind-syrah": "1.0.29"
+  }
+}

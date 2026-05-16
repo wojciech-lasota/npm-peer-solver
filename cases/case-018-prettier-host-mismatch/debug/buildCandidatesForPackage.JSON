@@ -1,0 +1,454 @@
+[
+  {
+    "packageName": "prettier",
+    "requestedRange": "0.0.1",
+    "candidates": [
+      {
+        "packageName": "prettier",
+        "version": "3.8.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.8.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.8.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.6.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.6.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.6.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.4.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.4.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.4.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "2.8.8",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "1.19.1",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "eslint-config-ssjs",
+    "requestedRange": "2.0.0",
+    "candidates": [
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "eslint": ">=8.56.0",
+          "prettier": ">=3.0.0",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "eslint": ">=8.56.0",
+          "prettier": ">=3.0.0",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.13",
+        "peerDependencies": {
+          "eslint": ">=5.4.0 <9.0.0",
+          "prettier": ">=2.0.5",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.12",
+        "peerDependencies": {
+          "eslint": ">=5.4.0 || <9.0.0",
+          "prettier": ">=2.0.5",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.11",
+        "peerDependencies": {
+          "eslint": ">=5.4.0",
+          "prettier": ">=2.0.5",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.10",
+        "peerDependencies": {
+          "eslint": ">=5.4.0",
+          "prettier": ">=2.0.5",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.9",
+        "peerDependencies": {
+          "eslint": ">=5.4.0",
+          "prettier": ">=2.0.5",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.8",
+        "peerDependencies": {
+          "eslint": ">=5.4.0",
+          "prettier": ">2.0.5",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.7",
+        "peerDependencies": {
+          "eslint": ">=5.4.0",
+          "prettier": ">2.0.5",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.6",
+        "peerDependencies": {
+          "eslint": ">=5.4.0",
+          "prettier": ">2.0.5",
+          "eslint-config-prettier": ">=6.11.0",
+          "eslint-plugin-prettier": ">=3.1.3"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.5",
+        "peerDependencies": {
+          "eslint": ">=5.4.0"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.4",
+        "peerDependencies": {
+          "eslint": ">=5.4.0"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.3",
+        "peerDependencies": {
+          "eslint": ">=5.4.0"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "eslint": ">=5.4.0"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "eslint": ">=5.4.0"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.0.5",
+        "peerDependencies": {
+          "eslint": ">=5.4.0"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.0.4",
+        "peerDependencies": {
+          "eslint": ">=5.4.0"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.0.3",
+        "peerDependencies": {
+          "eslint": ">=5.4.0"
+        }
+      },
+      {
+        "packageName": "eslint-config-ssjs",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "eslint": ">=5.4.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@onerepo/plugin-prettier",
+    "requestedRange": "1.0.4",
+    "candidates": [
+      {
+        "packageName": "@onerepo/plugin-prettier",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "onerepo": "^1",
+          "prettier": "^2 || ^3"
+        }
+      },
+      {
+        "packageName": "@onerepo/plugin-prettier",
+        "version": "1.0.4",
+        "peerDependencies": {
+          "onerepo": "^1",
+          "prettier": "^2 || ^3"
+        }
+      },
+      {
+        "packageName": "@onerepo/plugin-prettier",
+        "version": "1.0.3",
+        "peerDependencies": {
+          "onerepo": "^1",
+          "prettier": "^2 || ^3"
+        }
+      },
+      {
+        "packageName": "@onerepo/plugin-prettier",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "onerepo": "^1",
+          "prettier": "^2 || ^3"
+        }
+      },
+      {
+        "packageName": "@onerepo/plugin-prettier",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "onerepo": "^1",
+          "prettier": "^2 || ^3"
+        }
+      },
+      {
+        "packageName": "@onerepo/plugin-prettier",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "onerepo": "^1",
+          "prettier": "^2 || ^3"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@chazuk/prettier-plugin-angular-sort-attributes",
+    "requestedRange": "1.0.0",
+    "candidates": [
+      {
+        "packageName": "@chazuk/prettier-plugin-angular-sort-attributes",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "prettier": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@chazuk/prettier-plugin-angular-sort-attributes",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "prettier": "^3.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@jabworks/prettier-config",
+    "requestedRange": "0.1.1",
+    "candidates": [
+      {
+        "packageName": "@jabworks/prettier-config",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "prettier": "^3.8.1"
+        }
+      },
+      {
+        "packageName": "@jabworks/prettier-config",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "prettier": "^3.8.1"
+        }
+      },
+      {
+        "packageName": "@jabworks/prettier-config",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "prettier": "^3.8.1",
+          "prettier-plugin-sort-json": "^4.2.0",
+          "prettier-plugin-packagejson": "^3.0.0",
+          "prettier-plugin-tailwindcss": "^0.7.2"
+        }
+      },
+      {
+        "packageName": "@jabworks/prettier-config",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "prettier": ">=3.8.1",
+          "prettier-plugin-sort-json": ">=4.2.0",
+          "prettier-plugin-packagejson": ">=3.0.0",
+          "prettier-plugin-tailwindcss": ">=0.7.2"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@azabraao/prettier-plugin-css-order",
+    "requestedRange": "1.3.0",
+    "candidates": [
+      {
+        "packageName": "@azabraao/prettier-plugin-css-order",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "prettier": "2.x"
+        }
+      }
+    ]
+  }
+]

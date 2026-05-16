@@ -1,0 +1,19 @@
+{
+  "name": "case-031-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@kimesh/tailwindcss": "0.0.1",
+    "@beeq/tailwindcss": "1.8.3",
+    "@hyoban/eslint-plugin-tailwindcss": "3.18.0",
+    "@havaem/tailwindcss-havaem": "0.0.1",
+    "@savaryna/tailwindcss-material-symbols": "1.0.1",
+    "@designbycode/tailwindcss-mask-image": "2.0.0",
+    "@skeletonlabs/skeleton": "1.2.5",
+    "@bosh-code/tsdown-plugin-tailwindcss": "1.0.1",
+    "@opengraphplus/tailwind": "0.1.0"
+  }
+}

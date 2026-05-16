@@ -1,0 +1,19 @@
+{
+  "name": "case-068-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@inversifyjs/http-fastify": "2.0.0",
+    "@prefabs.tech/fastify-slonik": "0.91.0",
+    "@fastify/schedule": "3.0.2",
+    "@exortek/fastify-mongo-sanitize": "1.0.0",
+    "@pikku/fastify-plugin": "0.11.1",
+    "@fluxstack/live-fastify": "0.6.0",
+    "@sp-uvb/fastify": "0.1.0",
+    "@ericedouard/fastify-socket.io": "5.1.1",
+    "@vikejs/fastify": "0.2.3"
+  }
+}

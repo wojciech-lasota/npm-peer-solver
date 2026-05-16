@@ -1,0 +1,42 @@
+{
+  "name": "npm-peer-solver",
+  "version": "1.0.0",
+  "description": "SMT-based solver for npm peer dependency conflicts, with test case generator",
+  "bin": {
+    "npm-peer-solver": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "dev": "tsc -p tsconfig.build.json --watch",
+    "typecheck": "tsc --noEmit",
+    "generate": "tsx scripts/generate-cases.ts",
+    "generate:100:min-deps:10": "tsx scripts/generate-cases.ts --count 100 --min-deps 10",
+    "generate:1000": "tsx scripts/generate-cases.ts --count 1000",
+    "solve": "tsx scripts/run-cases.ts",
+    "pipeline": "npm run generate && npm run solve",
+    "pipeline:100": "tsx scripts/generate-cases.ts --count 100 && tsx scripts/run-cases.ts",
+    "verify": "tsx scripts/verify-unsat.ts",
+    "clean": "rimraf dist cases",
+    "clean:dist": "rimraf dist",
+    "clean:cases": "rimraf cases"
+  },
+  "keywords": [
+    "npm",
+    "peer-dependencies",
+    "z3",
+    "smt",
+    "solver"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "semver": "^7.5.4",
+    "z3-solver": "^4.12.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.39",
+    "@types/semver": "^7.5.6",
+    "rimraf": "^5.0.5",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "case-049-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@luca-iachini/prettier-plugin-fluent": "1.0.4",
+    "@roopairs/prettier-plugin-style-order": "0.7.0",
+    "@markw65/prettier-plugin-monkeyc": "1.0.5",
+    "@sanity/prettier-plugin-groq": "0.0.2",
+    "@prettier/plugin-php": "0.19.2",
+    "@yoy20/prettier-plugin-css-order": "1.0.0",
+    "@4az/prettier-plugin-html-erb": "0.0.5",
+    "@elegantech/prettier-multi-config": "1.0.2",
+    "prettier-grundy-scss-order": "0.0.6"
+  }
+}

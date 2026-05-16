@@ -1,0 +1,19 @@
+{
+  "name": "case-036-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.9",
+    "@progress/kendo-angular-icons": "0.1.0",
+    "@progress/kendo-angular-layout": "0.10.1",
+    "@fortawesome/angular-fontawesome": "0.6.0",
+    "@angular/youtube-player": "19.1.5",
+    "@angular/fire": "6.1.2",
+    "@angular/platform-server": "10.2.4",
+    "@progress/kendo-angular-inputs": "8.0.5",
+    "@ckeditor/ckeditor5-angular": "9.1.0",
+    "@angular/elements": "11.2.4"
+  }
+}

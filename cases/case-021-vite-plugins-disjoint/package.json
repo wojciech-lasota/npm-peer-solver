@@ -1,0 +1,19 @@
+{
+  "name": "case-021-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "6.0.14",
+    "@metagptx/web-sdk": "0.0.52",
+    "@geajs/vite-plugin": "1.0.0",
+    "@pyreon/vite-plugin": "0.7.10",
+    "@peterek/vite-plugin-favicons": "2.0.0",
+    "@linaria/vite": "4.5.0",
+    "@remcovaes/web-test-runner-vite-plugin": "1.2.1",
+    "@datadog/vite-plugin": "3.0.7",
+    "@entur/vite-plugin-assets-json": "0.0.8",
+    "@netlify/vite-plugin-react-router": "2.1.0"
+  }
+}

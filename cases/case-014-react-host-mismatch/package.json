@@ -1,0 +1,19 @@
+{
+  "name": "case-014-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/toggle": "3.0.0",
+    "@react-navigation/core": "7.10.0",
+    "@react-aria/listbox": "3.15.1",
+    "@react-stately/form": "3.0.1",
+    "@react-aria/select": "3.14.4",
+    "@react-aria/tag": "3.7.1",
+    "@react-aria/meter": "3.1.8",
+    "@react-stately/radio": "3.11.1",
+    "@clerk/clerk-react": "4.30.4"
+  }
+}

@@ -1,0 +1,3413 @@
+[
+  {
+    "packageName": "@angular/core",
+    "requestedRange": "19.2.9",
+    "candidates": [
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.13"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.9"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.8"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.7"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.6"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.2"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "20.3.21",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0",
+          "@angular/compiler": "20.3.21"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "19.2.22",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "17.3.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "16.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "15.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0 || ~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "13.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "12.2.17",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "11.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "^0.10.2 || ^0.11.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "10.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "9.1.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "tslib": "^1.10.0",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "8.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.4.0",
+          "zone.js": "~0.9.1"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "7.2.16",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "6.1.10",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "5.2.11",
+        "peerDependencies": {
+          "rxjs": "^5.5.0",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "4.4.7",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "2.4.10",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.7.2"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@progress/kendo-angular-icons",
+    "requestedRange": "0.1.0",
+    "candidates": [
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "23.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.11.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "23.4.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "23.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "23.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "23.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "23.2.2"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "23.2.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "23.2.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "23.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "23.2.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "23.1.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "23.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "23.0.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "23.0.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "23.0.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "23.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "22.0.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "22.0.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "22.0.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "22.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "21.4.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 21",
+          "@angular/common": "18 - 21",
+          "@angular/animations": "18 - 21",
+          "@angular/platform-browser": "18 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "21.4.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "21.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 21",
+          "@angular/common": "18 - 21",
+          "@angular/animations": "18 - 21",
+          "@angular/platform-browser": "18 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "21.4.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "21.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 21",
+          "@angular/common": "18 - 21",
+          "@angular/animations": "18 - 21",
+          "@angular/platform-browser": "18 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "21.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "21.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 21",
+          "@angular/common": "18 - 21",
+          "@angular/animations": "18 - 21",
+          "@angular/platform-browser": "18 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "21.2.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "21.1.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 21",
+          "@angular/common": "18 - 21",
+          "@angular/animations": "18 - 21",
+          "@angular/platform-browser": "18 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "21.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "21.0.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 20",
+          "@angular/common": "18 - 20",
+          "@angular/animations": "18 - 20",
+          "@angular/platform-browser": "18 - 20",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "21.0.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "21.0.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 20",
+          "@angular/common": "18 - 20",
+          "@angular/animations": "18 - 20",
+          "@angular/platform-browser": "18 - 20",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "21.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "20.1.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 20",
+          "@angular/common": "16 - 20",
+          "@angular/animations": "16 - 20",
+          "@angular/platform-browser": "16 - 20",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "20.1.2"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "20.1.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 20",
+          "@angular/common": "16 - 20",
+          "@angular/animations": "16 - 20",
+          "@angular/platform-browser": "16 - 20",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "20.1.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "19.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 20",
+          "@angular/common": "16 - 20",
+          "@angular/animations": "16 - 20",
+          "@angular/platform-browser": "16 - 20",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "19.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "18.5.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 19",
+          "@angular/common": "16 - 19",
+          "@angular/animations": "16 - 19",
+          "@angular/platform-browser": "16 - 19",
+          "@progress/kendo-licensing": "^1.5.0",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "18.5.2"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "17.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 19",
+          "@angular/common": "16 - 19",
+          "@angular/animations": "16 - 19",
+          "@angular/platform-browser": "16 - 19",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-svg-icons": "^4.0.0",
+          "@progress/kendo-angular-common": "17.2.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "16.11.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "15 - 18",
+          "@angular/common": "15 - 18",
+          "@angular/animations": "15 - 18",
+          "@angular/platform-browser": "15 - 18",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-svg-icons": "^3.1.0",
+          "@progress/kendo-angular-common": "16.11.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "15.5.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 17",
+          "@angular/common": "13 - 17",
+          "@angular/animations": "13 - 17",
+          "@angular/platform-browser": "13 - 17",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-svg-icons": "^2.0.0",
+          "@progress/kendo-angular-common": "15.5.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 17",
+          "@angular/common": "13 - 17",
+          "@angular/animations": "13 - 17",
+          "@angular/platform-browser": "13 - 17",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-svg-icons": "^2.0.0",
+          "@progress/kendo-angular-common": "14.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "13.5.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 16",
+          "@angular/common": "13 - 16",
+          "@angular/animations": "13 - 16",
+          "@angular/platform-browser": "13 - 16",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-svg-icons": "^1.0.0",
+          "@progress/kendo-angular-common": "13.5.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "12.1.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 16",
+          "@angular/common": "13 - 16",
+          "@angular/animations": "13 - 16",
+          "@angular/platform-browser": "13 - 16",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-svg-icons": "^1.0.0",
+          "@progress/kendo-angular-common": "12.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "11.6.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 15",
+          "@angular/common": "13 - 15",
+          "@angular/animations": "13 - 15",
+          "@angular/platform-browser": "13 - 15",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-svg-icons": "^1.0.0",
+          "@progress/kendo-angular-common": "11.6.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "2.0.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "12 - 15",
+          "@angular/common": "12 - 15",
+          "@angular/platform-browser": "12 - 15",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-svg-icons": "^0.1.2",
+          "@progress/kendo-angular-common": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-icons",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "rxjs": "^6.4.0 || ^7.0.0",
+          "@angular/core": "8 - 13",
+          "@angular/common": "8 - 13",
+          "@angular/platform-browser": "8 - 13",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-svg-icons": "^0.1.2",
+          "@progress/kendo-angular-common": "^2.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@progress/kendo-angular-layout",
+    "requestedRange": "0.10.1",
+    "candidates": [
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "23.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.11.0",
+          "@progress/kendo-angular-intl": "23.4.0",
+          "@progress/kendo-angular-l10n": "23.4.0",
+          "@progress/kendo-angular-icons": "23.4.0",
+          "@progress/kendo-angular-common": "23.4.0",
+          "@progress/kendo-angular-buttons": "23.4.0",
+          "@progress/kendo-angular-progressbar": "23.4.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "23.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.3.0",
+          "@progress/kendo-angular-l10n": "23.3.0",
+          "@progress/kendo-angular-icons": "23.3.0",
+          "@progress/kendo-angular-common": "23.3.0",
+          "@progress/kendo-angular-buttons": "23.3.0",
+          "@progress/kendo-angular-progressbar": "23.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "23.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.2.2",
+          "@progress/kendo-angular-l10n": "23.2.2",
+          "@progress/kendo-angular-icons": "23.2.2",
+          "@progress/kendo-angular-common": "23.2.2",
+          "@progress/kendo-angular-buttons": "23.2.2",
+          "@progress/kendo-angular-progressbar": "23.2.2"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "23.2.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.2.1",
+          "@progress/kendo-angular-l10n": "23.2.1",
+          "@progress/kendo-angular-icons": "23.2.1",
+          "@progress/kendo-angular-common": "23.2.1",
+          "@progress/kendo-angular-buttons": "23.2.1",
+          "@progress/kendo-angular-progressbar": "23.2.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "23.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.2.0",
+          "@progress/kendo-angular-l10n": "23.2.0",
+          "@progress/kendo-angular-icons": "23.2.0",
+          "@progress/kendo-angular-common": "23.2.0",
+          "@progress/kendo-angular-buttons": "23.2.0",
+          "@progress/kendo-angular-progressbar": "23.2.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "23.1.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.1.0",
+          "@progress/kendo-angular-l10n": "23.1.0",
+          "@progress/kendo-angular-icons": "23.1.0",
+          "@progress/kendo-angular-common": "23.1.0",
+          "@progress/kendo-angular-buttons": "23.1.0",
+          "@progress/kendo-angular-progressbar": "23.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "23.0.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.0.1",
+          "@progress/kendo-angular-l10n": "23.0.1",
+          "@progress/kendo-angular-icons": "23.0.1",
+          "@progress/kendo-angular-common": "23.0.1",
+          "@progress/kendo-angular-buttons": "23.0.1",
+          "@progress/kendo-angular-progressbar": "23.0.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "23.0.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.0.0",
+          "@progress/kendo-angular-l10n": "23.0.0",
+          "@progress/kendo-angular-icons": "23.0.0",
+          "@progress/kendo-angular-common": "23.0.0",
+          "@progress/kendo-angular-buttons": "23.0.0",
+          "@progress/kendo-angular-progressbar": "23.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "22.0.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "22.0.1",
+          "@progress/kendo-angular-l10n": "22.0.1",
+          "@progress/kendo-angular-icons": "22.0.1",
+          "@progress/kendo-angular-common": "22.0.1",
+          "@progress/kendo-angular-buttons": "22.0.1",
+          "@progress/kendo-angular-progressbar": "22.0.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "22.0.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "22.0.0",
+          "@progress/kendo-angular-l10n": "22.0.0",
+          "@progress/kendo-angular-icons": "22.0.0",
+          "@progress/kendo-angular-common": "22.0.0",
+          "@progress/kendo-angular-buttons": "22.0.0",
+          "@progress/kendo-angular-progressbar": "22.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "21.4.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 21",
+          "@angular/common": "18 - 21",
+          "@angular/animations": "18 - 21",
+          "@angular/platform-browser": "18 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "21.4.1",
+          "@progress/kendo-angular-l10n": "21.4.1",
+          "@progress/kendo-angular-icons": "21.4.1",
+          "@progress/kendo-angular-common": "21.4.1",
+          "@progress/kendo-angular-buttons": "21.4.1",
+          "@progress/kendo-angular-progressbar": "21.4.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "21.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 21",
+          "@angular/common": "18 - 21",
+          "@angular/animations": "18 - 21",
+          "@angular/platform-browser": "18 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "21.4.0",
+          "@progress/kendo-angular-l10n": "21.4.0",
+          "@progress/kendo-angular-icons": "21.4.0",
+          "@progress/kendo-angular-common": "21.4.0",
+          "@progress/kendo-angular-buttons": "21.4.0",
+          "@progress/kendo-angular-progressbar": "21.4.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "21.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 21",
+          "@angular/common": "18 - 21",
+          "@angular/animations": "18 - 21",
+          "@angular/platform-browser": "18 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "21.3.0",
+          "@progress/kendo-angular-l10n": "21.3.0",
+          "@progress/kendo-angular-icons": "21.3.0",
+          "@progress/kendo-angular-common": "21.3.0",
+          "@progress/kendo-angular-buttons": "21.3.0",
+          "@progress/kendo-angular-progressbar": "21.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "20.1.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 20",
+          "@angular/common": "16 - 20",
+          "@angular/animations": "16 - 20",
+          "@angular/platform-browser": "16 - 20",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "20.1.2",
+          "@progress/kendo-angular-l10n": "20.1.2",
+          "@progress/kendo-angular-icons": "20.1.2",
+          "@progress/kendo-angular-common": "20.1.2",
+          "@progress/kendo-angular-buttons": "20.1.2",
+          "@progress/kendo-angular-progressbar": "20.1.2"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "19.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 20",
+          "@angular/common": "16 - 20",
+          "@angular/animations": "16 - 20",
+          "@angular/platform-browser": "16 - 20",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "19.3.0",
+          "@progress/kendo-angular-l10n": "19.3.0",
+          "@progress/kendo-angular-icons": "19.3.0",
+          "@progress/kendo-angular-common": "19.3.0",
+          "@progress/kendo-angular-buttons": "19.3.0",
+          "@progress/kendo-angular-progressbar": "19.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "18.5.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 19",
+          "@angular/common": "16 - 19",
+          "@angular/animations": "16 - 19",
+          "@angular/platform-browser": "16 - 19",
+          "@progress/kendo-licensing": "^1.5.0",
+          "@progress/kendo-angular-intl": "18.5.2",
+          "@progress/kendo-angular-l10n": "18.5.2",
+          "@progress/kendo-angular-icons": "18.5.2",
+          "@progress/kendo-angular-common": "18.5.2",
+          "@progress/kendo-angular-buttons": "18.5.2",
+          "@progress/kendo-angular-progressbar": "18.5.2"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "17.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 19",
+          "@angular/common": "16 - 19",
+          "@angular/animations": "16 - 19",
+          "@angular/platform-browser": "16 - 19",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "17.2.0",
+          "@progress/kendo-angular-l10n": "17.2.0",
+          "@progress/kendo-angular-icons": "17.2.0",
+          "@progress/kendo-angular-common": "17.2.0",
+          "@progress/kendo-angular-buttons": "17.2.0",
+          "@progress/kendo-angular-progressbar": "17.2.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "16.11.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "15 - 18",
+          "@angular/common": "15 - 18",
+          "@angular/animations": "15 - 18",
+          "@angular/platform-browser": "15 - 18",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "16.11.0",
+          "@progress/kendo-angular-l10n": "16.11.0",
+          "@progress/kendo-angular-icons": "16.11.0",
+          "@progress/kendo-angular-common": "16.11.0",
+          "@progress/kendo-angular-buttons": "16.11.0",
+          "@progress/kendo-angular-progressbar": "16.11.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "15.5.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 17",
+          "@angular/common": "13 - 17",
+          "@angular/animations": "13 - 17",
+          "@angular/platform-browser": "13 - 17",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-l10n": "15.5.0",
+          "@progress/kendo-angular-icons": "15.5.0",
+          "@progress/kendo-angular-common": "15.5.0",
+          "@progress/kendo-angular-buttons": "15.5.0",
+          "@progress/kendo-angular-progressbar": "15.5.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 17",
+          "@angular/common": "13 - 17",
+          "@angular/animations": "13 - 17",
+          "@angular/platform-browser": "13 - 17",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-l10n": "14.3.0",
+          "@progress/kendo-angular-icons": "14.3.0",
+          "@progress/kendo-angular-common": "14.3.0",
+          "@progress/kendo-angular-buttons": "14.3.0",
+          "@progress/kendo-angular-progressbar": "14.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "13.5.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 16",
+          "@angular/common": "13 - 16",
+          "@angular/animations": "13 - 16",
+          "@angular/platform-browser": "13 - 16",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-l10n": "13.5.0",
+          "@progress/kendo-angular-icons": "13.5.0",
+          "@progress/kendo-angular-common": "13.5.0",
+          "@progress/kendo-angular-buttons": "13.5.0",
+          "@progress/kendo-angular-progressbar": "13.5.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "12.1.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 16",
+          "@angular/common": "13 - 16",
+          "@angular/animations": "13 - 16",
+          "@angular/platform-browser": "13 - 16",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-l10n": "12.1.0",
+          "@progress/kendo-angular-icons": "12.1.0",
+          "@progress/kendo-angular-common": "12.1.0",
+          "@progress/kendo-angular-buttons": "12.1.0",
+          "@progress/kendo-angular-progressbar": "12.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "11.6.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 15",
+          "@angular/common": "13 - 15",
+          "@angular/animations": "13 - 15",
+          "@angular/platform-browser": "13 - 15",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-l10n": "11.6.0",
+          "@progress/kendo-angular-icons": "11.6.0",
+          "@progress/kendo-angular-common": "11.6.0",
+          "@progress/kendo-angular-buttons": "11.6.0",
+          "@progress/kendo-angular-progressbar": "11.6.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "7.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "12 - 15",
+          "@angular/common": "12 - 15",
+          "@angular/animations": "12 - 15",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-l10n": "^4.0.0",
+          "@progress/kendo-angular-common": "^3.0.0",
+          "@progress/kendo-angular-progressbar": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "6.6.0",
+        "peerDependencies": {
+          "rxjs": "^6.4.0 || ^7.0.0",
+          "@angular/core": "8 - 13",
+          "@angular/common": "8 - 13",
+          "@angular/animations": "8 - 13",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-l10n": "^3.0.0",
+          "@progress/kendo-angular-common": "^2.0.0",
+          "@progress/kendo-angular-progressbar": "^2.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "@angular/core": "6 - 11",
+          "@angular/common": "6 - 11",
+          "@angular/animations": "6 - 11",
+          "@progress/kendo-angular-l10n": "^2.0.0",
+          "@progress/kendo-angular-common": "^1.0.0",
+          "@progress/kendo-angular-progressbar": "^0.2.3"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "4.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "@angular/core": "6 - 9",
+          "@angular/common": "6 - 9",
+          "@angular/animations": "6 - 9",
+          "@progress/kendo-angular-l10n": "^2.0.0",
+          "@progress/kendo-angular-common": "^1.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "3.3.2",
+        "peerDependencies": {
+          "rxjs": "5.5 - 6",
+          "@angular/core": "4 - 8",
+          "@angular/common": "4 - 8",
+          "@angular/animations": "4 - 8",
+          "@progress/kendo-angular-l10n": "^1.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "2.2.1",
+        "peerDependencies": {
+          "rxjs": "^5.5.0",
+          "@angular/core": "^4.0.0 || ^5.0.0",
+          "@angular/common": "^4.0.0 || ^5.0.0",
+          "@angular/animations": "^4.0.0 || ^5.0.0",
+          "@progress/kendo-angular-l10n": "^1.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-layout",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "rxjs": "^5 <5.5",
+          "@angular/core": "^4.0.0 || ^5.0.0",
+          "@angular/common": "^4.0.0 || ^5.0.0",
+          "@angular/animations": "^4.0.0 || ^5.0.0",
+          "@progress/kendo-angular-l10n": "^1.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@fortawesome/angular-fontawesome",
+    "requestedRange": "0.6.0",
+    "candidates": [
+      {
+        "packageName": "@fortawesome/angular-fontawesome",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "@angular/core": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@fortawesome/angular-fontawesome",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "@angular/core": "^20.0.0"
+        }
+      },
+      {
+        "packageName": "@fortawesome/angular-fontawesome",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "@angular/core": "^20.0.0"
+        }
+      },
+      {
+        "packageName": "@fortawesome/angular-fontawesome",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "@angular/core": "^20.0.0"
+        }
+      },
+      {
+        "packageName": "@fortawesome/angular-fontawesome",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "@angular/core": "^19.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular/youtube-player",
+    "requestedRange": "19.1.5",
+    "candidates": [
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.1.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.1.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.1.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.1.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "21.1.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "20.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^20.0.0 || ^21.0.0",
+          "@angular/common": "^20.0.0 || ^21.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "19.2.19",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^19.0.0 || ^20.0.0",
+          "@angular/common": "^19.0.0 || ^20.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^18.0.0 || ^19.0.0",
+          "@angular/common": "^18.0.0 || ^19.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "17.3.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^17.0.0 || ^18.0.0",
+          "@angular/common": "^17.0.0 || ^18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "16.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^16.0.0 || ^17.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "15.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^15.0.0 || ^16.0.0",
+          "@angular/common": "^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "14.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^14.0.0 || ^15.0.0",
+          "@angular/common": "^14.0.0 || ^15.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "13.3.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^13.0.0 || ^14.0.0-0",
+          "@angular/common": "^13.0.0 || ^14.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "12.2.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0-0",
+          "@angular/common": "^12.0.0 || ^13.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "11.2.13",
+        "peerDependencies": {
+          "@angular/core": "^11.0.0 || ^12.0.0-0",
+          "@angular/common": "^11.0.0 || ^12.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "10.2.7",
+        "peerDependencies": {
+          "@angular/core": "^10.0.0 || ^11.0.0-0",
+          "@angular/common": "^10.0.0 || ^11.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "9.2.4",
+        "peerDependencies": {
+          "@angular/core": "^9.0.0 || ^10.0.0-0",
+          "@angular/common": "^9.0.0 || ^10.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/youtube-player",
+        "version": "8.2.3",
+        "peerDependencies": {
+          "@angular/core": "^8.0.0 || ^9.0.0-0",
+          "@angular/common": "^8.0.0 || ^9.0.0-0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular/fire",
+    "requestedRange": "6.1.2",
+    "candidates": [
+      {
+        "packageName": "@angular/fire",
+        "version": "20.0.1",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^20.0.0",
+          "firebase-tools": "^14.0.0",
+          "@angular/common": "^20.0.0",
+          "@angular/platform-server": "^20.0.0",
+          "@angular/platform-browser": "^20.0.0",
+          "@angular/platform-browser-dynamic": "^20.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "20.0.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^20.0.0",
+          "firebase-tools": "^14.0.0",
+          "@angular/common": "^20.0.0",
+          "@angular/platform-server": "^20.0.0",
+          "@angular/platform-browser": "^20.0.0",
+          "@angular/platform-browser-dynamic": "^20.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "19.2.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^19.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^19.0.0",
+          "@angular/platform-server": "^19.0.0",
+          "@angular/platform-browser": "^19.0.0",
+          "@angular/platform-browser-dynamic": "^19.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "19.1.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^19.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^19.0.0",
+          "@angular/platform-server": "^19.0.0",
+          "@angular/platform-browser": "^19.0.0",
+          "@angular/platform-browser-dynamic": "^19.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "19.0.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^19.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^19.0.0",
+          "@angular/platform-server": "^19.0.0",
+          "@angular/platform-browser": "^19.0.0",
+          "@angular/platform-browser-dynamic": "^19.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "18.0.1",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^18.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^18.0.0",
+          "@angular/platform-browser": "^18.0.0",
+          "@angular/platform-browser-dynamic": "^18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "18.0.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^18.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^18.0.0",
+          "@angular/platform-browser": "^18.0.0",
+          "@angular/platform-browser-dynamic": "^18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "17.1.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^17.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^17.0.0",
+          "@angular/platform-browser": "^17.0.0",
+          "@angular/platform-browser-dynamic": "^17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "17.0.1",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^17.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^17.0.0",
+          "@angular/platform-browser": "^17.0.0",
+          "@angular/platform-browser-dynamic": "^17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "17.0.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^17.0.0",
+          "firebase-tools": "^12.0.0",
+          "@angular/common": "^17.0.0",
+          "@angular/platform-browser": "^17.0.0",
+          "@angular/platform-browser-dynamic": "^17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "16.0.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^16.0.0",
+          "firebase-tools": "^12.0.0",
+          "@angular/common": "^16.0.0",
+          "@angular/platform-browser": "^16.0.0",
+          "@angular/platform-browser-dynamic": "^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.6.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.6.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.5.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0 || ^11.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.4.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0 || ^11.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.4.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.3.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.2.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.4.0",
+          "@angular/core": "^12.0.0 || ^13.0.0",
+          "firebase-tools": "^9.9.0",
+          "@angular/common": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.2.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.4.0",
+          "@angular/core": "^12.0.0 || ^13.0.0",
+          "firebase-tools": "^9.9.0",
+          "@angular/common": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.1.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.1.0",
+          "@angular/core": "^12.0.0",
+          "firebase-tools": "^9.9.0",
+          "@angular/common": "^12.0.0",
+          "@schematics/angular": "^12.0.0",
+          "@angular-devkit/architect": "> 0.1200.0 < 0.1300.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular-devkit/schematics": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.1.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.1.0",
+          "@angular/core": "^12.0.0",
+          "firebase-tools": "^9.9.0",
+          "@angular/common": "^12.0.0",
+          "@schematics/angular": "^12.0.0",
+          "@angular-devkit/architect": "> 0.1200.0 < 0.1300.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular-devkit/schematics": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.4",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.3",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.2",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "6.1.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "firebase": "^7.0 || ^8.0",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/platform-browser": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/platform-browser-dynamic": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "6.1.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "firebase": "^7.0 || ^8.0",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/platform-browser": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/platform-browser-dynamic": "^9.0.0 || ^10.0.0 || ^11.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "6.1.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "firebase": "^7.0.0 || ^8.0.0",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/platform-browser": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/platform-browser-dynamic": "^9.0.0 || ^10.0.0 || ^11.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "5.4.2",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "firebase": ">= 5.5.7 <8",
+          "@angular/core": ">=6.0.0 <9 || ^9.0.0-0",
+          "@angular/common": ">=6.0.0 <9 || ^9.0.0-0",
+          "@angular/platform-browser": ">=6.0.0 <9 || ^9.0.0-0",
+          "@angular/platform-browser-dynamic": ">=6.0.0 <9 || ^9.0.0-0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular/platform-server",
+    "requestedRange": "10.2.4",
+    "candidates": [
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.13",
+          "@angular/common": "21.2.13",
+          "@angular/compiler": "21.2.13",
+          "@angular/platform-browser": "21.2.13"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.12",
+          "@angular/common": "21.2.12",
+          "@angular/compiler": "21.2.12",
+          "@angular/platform-browser": "21.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.11",
+          "@angular/common": "21.2.11",
+          "@angular/compiler": "21.2.11",
+          "@angular/platform-browser": "21.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.10",
+          "@angular/common": "21.2.10",
+          "@angular/compiler": "21.2.10",
+          "@angular/platform-browser": "21.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.9",
+          "@angular/common": "21.2.9",
+          "@angular/compiler": "21.2.9",
+          "@angular/platform-browser": "21.2.9"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.8",
+          "@angular/common": "21.2.8",
+          "@angular/compiler": "21.2.8",
+          "@angular/platform-browser": "21.2.8"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.7",
+          "@angular/common": "21.2.7",
+          "@angular/compiler": "21.2.7",
+          "@angular/platform-browser": "21.2.7"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.6",
+          "@angular/common": "21.2.6",
+          "@angular/compiler": "21.2.6",
+          "@angular/platform-browser": "21.2.6"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.5",
+          "@angular/common": "21.2.5",
+          "@angular/compiler": "21.2.5",
+          "@angular/platform-browser": "21.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.4",
+          "@angular/common": "21.2.4",
+          "@angular/compiler": "21.2.4",
+          "@angular/platform-browser": "21.2.4"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.3",
+          "@angular/common": "21.2.3",
+          "@angular/compiler": "21.2.3",
+          "@angular/platform-browser": "21.2.3"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.2",
+          "@angular/common": "21.2.2",
+          "@angular/compiler": "21.2.2",
+          "@angular/platform-browser": "21.2.2"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "20.3.21",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "20.3.21",
+          "@angular/common": "20.3.21",
+          "@angular/compiler": "20.3.21",
+          "@angular/platform-browser": "20.3.21"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "19.2.22",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "19.2.22",
+          "@angular/common": "19.2.22",
+          "@angular/compiler": "19.2.22",
+          "@angular/platform-browser": "19.2.22"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "@angular/core": "18.2.14",
+          "@angular/common": "18.2.14",
+          "@angular/compiler": "18.2.14",
+          "@angular/animations": "18.2.14",
+          "@angular/platform-browser": "18.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "17.3.12",
+        "peerDependencies": {
+          "@angular/core": "17.3.12",
+          "@angular/common": "17.3.12",
+          "@angular/compiler": "17.3.12",
+          "@angular/animations": "17.3.12",
+          "@angular/platform-browser": "17.3.12"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "16.2.12",
+        "peerDependencies": {
+          "@angular/core": "16.2.12",
+          "@angular/common": "16.2.12",
+          "@angular/compiler": "16.2.12",
+          "@angular/animations": "16.2.12",
+          "@angular/platform-browser": "16.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "15.2.10",
+        "peerDependencies": {
+          "@angular/core": "15.2.10",
+          "@angular/common": "15.2.10",
+          "@angular/compiler": "15.2.10",
+          "@angular/animations": "15.2.10",
+          "@angular/platform-browser": "15.2.10",
+          "@angular/platform-browser-dynamic": "15.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "@angular/core": "14.3.0",
+          "@angular/common": "14.3.0",
+          "@angular/compiler": "14.3.0",
+          "@angular/animations": "14.3.0",
+          "@angular/platform-browser": "14.3.0",
+          "@angular/platform-browser-dynamic": "14.3.0"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "13.4.0",
+        "peerDependencies": {
+          "@angular/core": "13.4.0",
+          "@angular/common": "13.4.0",
+          "@angular/compiler": "13.4.0",
+          "@angular/animations": "13.4.0",
+          "@angular/platform-browser": "13.4.0",
+          "@angular/platform-browser-dynamic": "13.4.0"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "12.2.17",
+        "peerDependencies": {
+          "@angular/core": "12.2.17",
+          "@angular/common": "12.2.17",
+          "@angular/compiler": "12.2.17",
+          "@angular/animations": "12.2.17",
+          "@angular/platform-browser": "12.2.17",
+          "@angular/platform-browser-dynamic": "12.2.17"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "11.2.14",
+        "peerDependencies": {
+          "@angular/core": "11.2.14",
+          "@angular/common": "11.2.14",
+          "@angular/compiler": "11.2.14",
+          "@angular/animations": "11.2.14",
+          "@angular/platform-browser": "11.2.14",
+          "@angular/platform-browser-dynamic": "11.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "10.2.5",
+        "peerDependencies": {
+          "@angular/core": "10.2.5",
+          "@angular/common": "10.2.5",
+          "@angular/compiler": "10.2.5",
+          "@angular/animations": "10.2.5",
+          "@angular/platform-browser": "10.2.5",
+          "@angular/platform-browser-dynamic": "10.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "9.1.13",
+        "peerDependencies": {
+          "tslib": "^1.10.0",
+          "@angular/core": "9.1.13",
+          "@angular/common": "9.1.13",
+          "@angular/compiler": "9.1.13",
+          "@angular/animations": "9.1.13",
+          "@angular/platform-browser": "9.1.13",
+          "@angular/platform-browser-dynamic": "9.1.13"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "8.2.14",
+        "peerDependencies": {
+          "@angular/core": "8.2.14",
+          "@angular/common": "8.2.14",
+          "@angular/compiler": "8.2.14",
+          "@angular/animations": "8.2.14",
+          "@angular/platform-browser": "8.2.14",
+          "@angular/platform-browser-dynamic": "8.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "7.2.16",
+        "peerDependencies": {
+          "@angular/core": "7.2.16",
+          "@angular/http": "7.2.16",
+          "@angular/common": "7.2.16",
+          "@angular/compiler": "7.2.16",
+          "@angular/animations": "7.2.16",
+          "@angular/platform-browser": "7.2.16",
+          "@angular/platform-browser-dynamic": "7.2.16"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "6.1.10",
+        "peerDependencies": {
+          "@angular/core": "6.1.10",
+          "@angular/common": "6.1.10",
+          "@angular/compiler": "6.1.10",
+          "@angular/animations": "6.1.10",
+          "@angular/platform-browser": "6.1.10",
+          "@angular/platform-browser-dynamic": "6.1.10"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "5.2.11",
+        "peerDependencies": {
+          "@angular/core": "5.2.11",
+          "@angular/common": "5.2.11",
+          "@angular/compiler": "5.2.11",
+          "@angular/animations": "5.2.11",
+          "@angular/platform-browser": "5.2.11",
+          "@angular/platform-browser-dynamic": "5.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "4.4.7",
+        "peerDependencies": {
+          "@angular/core": "4.4.7",
+          "@angular/common": "4.4.7",
+          "@angular/compiler": "4.4.7",
+          "@angular/animations": "4.4.7",
+          "@angular/platform-browser": "4.4.7"
+        }
+      },
+      {
+        "packageName": "@angular/platform-server",
+        "version": "2.4.10",
+        "peerDependencies": {
+          "@angular/core": "2.4.10",
+          "@angular/common": "2.4.10",
+          "@angular/compiler": "2.4.10",
+          "@angular/platform-browser": "2.4.10"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@progress/kendo-angular-inputs",
+    "requestedRange": "8.0.5",
+    "candidates": [
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "23.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/forms": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@progress/kendo-drawing": "^1.24.1",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.11.0",
+          "@progress/kendo-angular-intl": "23.4.0",
+          "@progress/kendo-angular-l10n": "23.4.0",
+          "@progress/kendo-angular-icons": "23.4.0",
+          "@progress/kendo-angular-popup": "23.4.0",
+          "@progress/kendo-angular-utils": "23.4.0",
+          "@progress/kendo-angular-common": "23.4.0",
+          "@progress/kendo-angular-dialog": "23.4.0",
+          "@progress/kendo-angular-buttons": "23.4.0",
+          "@progress/kendo-angular-navigation": "23.4.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "23.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/forms": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@progress/kendo-drawing": "^1.24.1",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.3.0",
+          "@progress/kendo-angular-l10n": "23.3.0",
+          "@progress/kendo-angular-icons": "23.3.0",
+          "@progress/kendo-angular-popup": "23.3.0",
+          "@progress/kendo-angular-utils": "23.3.0",
+          "@progress/kendo-angular-common": "23.3.0",
+          "@progress/kendo-angular-dialog": "23.3.0",
+          "@progress/kendo-angular-buttons": "23.3.0",
+          "@progress/kendo-angular-navigation": "23.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "23.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/forms": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@progress/kendo-drawing": "^1.24.1",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.2.2",
+          "@progress/kendo-angular-l10n": "23.2.2",
+          "@progress/kendo-angular-icons": "23.2.2",
+          "@progress/kendo-angular-popup": "23.2.2",
+          "@progress/kendo-angular-utils": "23.2.2",
+          "@progress/kendo-angular-common": "23.2.2",
+          "@progress/kendo-angular-dialog": "23.2.2",
+          "@progress/kendo-angular-buttons": "23.2.2",
+          "@progress/kendo-angular-navigation": "23.2.2"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "23.2.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/forms": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@progress/kendo-drawing": "^1.24.1",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.2.1",
+          "@progress/kendo-angular-l10n": "23.2.1",
+          "@progress/kendo-angular-icons": "23.2.1",
+          "@progress/kendo-angular-popup": "23.2.1",
+          "@progress/kendo-angular-utils": "23.2.1",
+          "@progress/kendo-angular-common": "23.2.1",
+          "@progress/kendo-angular-dialog": "23.2.1",
+          "@progress/kendo-angular-buttons": "23.2.1",
+          "@progress/kendo-angular-navigation": "23.2.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "23.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/forms": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@progress/kendo-drawing": "^1.24.0",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.2.0",
+          "@progress/kendo-angular-l10n": "23.2.0",
+          "@progress/kendo-angular-icons": "23.2.0",
+          "@progress/kendo-angular-popup": "23.2.0",
+          "@progress/kendo-angular-utils": "23.2.0",
+          "@progress/kendo-angular-common": "23.2.0",
+          "@progress/kendo-angular-dialog": "23.2.0",
+          "@progress/kendo-angular-buttons": "23.2.0",
+          "@progress/kendo-angular-navigation": "23.2.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "23.1.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/forms": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@progress/kendo-drawing": "^1.24.0",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.1.0",
+          "@progress/kendo-angular-l10n": "23.1.0",
+          "@progress/kendo-angular-icons": "23.1.0",
+          "@progress/kendo-angular-popup": "23.1.0",
+          "@progress/kendo-angular-utils": "23.1.0",
+          "@progress/kendo-angular-common": "23.1.0",
+          "@progress/kendo-angular-dialog": "23.1.0",
+          "@progress/kendo-angular-buttons": "23.1.0",
+          "@progress/kendo-angular-navigation": "23.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "23.0.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/forms": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@progress/kendo-drawing": "^1.24.0",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.0.1",
+          "@progress/kendo-angular-l10n": "23.0.1",
+          "@progress/kendo-angular-icons": "23.0.1",
+          "@progress/kendo-angular-popup": "23.0.1",
+          "@progress/kendo-angular-utils": "23.0.1",
+          "@progress/kendo-angular-common": "23.0.1",
+          "@progress/kendo-angular-dialog": "23.0.1",
+          "@progress/kendo-angular-buttons": "23.0.1",
+          "@progress/kendo-angular-navigation": "23.0.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "23.0.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/forms": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@progress/kendo-drawing": "^1.24.0",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.10.0",
+          "@progress/kendo-angular-intl": "23.0.0",
+          "@progress/kendo-angular-l10n": "23.0.0",
+          "@progress/kendo-angular-icons": "23.0.0",
+          "@progress/kendo-angular-popup": "23.0.0",
+          "@progress/kendo-angular-utils": "23.0.0",
+          "@progress/kendo-angular-common": "23.0.0",
+          "@progress/kendo-angular-dialog": "23.0.0",
+          "@progress/kendo-angular-buttons": "23.0.0",
+          "@progress/kendo-angular-navigation": "23.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "22.0.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "19 - 21",
+          "@angular/forms": "19 - 21",
+          "@angular/common": "19 - 21",
+          "@angular/animations": "19 - 21",
+          "@progress/kendo-drawing": "^1.23.1",
+          "@angular/platform-browser": "19 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "22.0.1",
+          "@progress/kendo-angular-l10n": "22.0.1",
+          "@progress/kendo-angular-icons": "22.0.1",
+          "@progress/kendo-angular-popup": "22.0.1",
+          "@progress/kendo-angular-utils": "22.0.1",
+          "@progress/kendo-angular-common": "22.0.1",
+          "@progress/kendo-angular-dialog": "22.0.1",
+          "@progress/kendo-angular-buttons": "22.0.1",
+          "@progress/kendo-angular-navigation": "22.0.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "21.4.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "18 - 21",
+          "@angular/forms": "18 - 21",
+          "@angular/common": "18 - 21",
+          "@angular/animations": "18 - 21",
+          "@progress/kendo-drawing": "^1.23.1",
+          "@angular/platform-browser": "18 - 21",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "21.4.1",
+          "@progress/kendo-angular-l10n": "21.4.1",
+          "@progress/kendo-angular-icons": "21.4.1",
+          "@progress/kendo-angular-popup": "21.4.1",
+          "@progress/kendo-angular-utils": "21.4.1",
+          "@progress/kendo-angular-common": "21.4.1",
+          "@progress/kendo-angular-dialog": "21.4.1",
+          "@progress/kendo-angular-buttons": "21.4.1",
+          "@progress/kendo-angular-navigation": "21.4.1"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "20.1.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 20",
+          "@angular/forms": "16 - 20",
+          "@angular/common": "16 - 20",
+          "@angular/animations": "16 - 20",
+          "@progress/kendo-drawing": "^1.21.0",
+          "@angular/platform-browser": "16 - 20",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "20.1.2",
+          "@progress/kendo-angular-l10n": "20.1.2",
+          "@progress/kendo-angular-icons": "20.1.2",
+          "@progress/kendo-angular-popup": "20.1.2",
+          "@progress/kendo-angular-utils": "20.1.2",
+          "@progress/kendo-angular-common": "20.1.2",
+          "@progress/kendo-angular-dialog": "20.1.2",
+          "@progress/kendo-angular-buttons": "20.1.2",
+          "@progress/kendo-angular-navigation": "20.1.2"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "19.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 20",
+          "@angular/forms": "16 - 20",
+          "@angular/common": "16 - 20",
+          "@angular/animations": "16 - 20",
+          "@progress/kendo-drawing": "^1.21.0",
+          "@angular/platform-browser": "16 - 20",
+          "@progress/kendo-licensing": "^1.7.0",
+          "@progress/kendo-angular-intl": "19.3.0",
+          "@progress/kendo-angular-l10n": "19.3.0",
+          "@progress/kendo-angular-icons": "19.3.0",
+          "@progress/kendo-angular-popup": "19.3.0",
+          "@progress/kendo-angular-utils": "19.3.0",
+          "@progress/kendo-angular-common": "19.3.0",
+          "@progress/kendo-angular-dialog": "19.3.0",
+          "@progress/kendo-angular-buttons": "19.3.0",
+          "@progress/kendo-angular-navigation": "19.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "18.5.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 19",
+          "@angular/forms": "16 - 19",
+          "@angular/common": "16 - 19",
+          "@angular/animations": "16 - 19",
+          "@progress/kendo-drawing": "^1.21.0",
+          "@angular/platform-browser": "16 - 19",
+          "@progress/kendo-licensing": "^1.5.0",
+          "@progress/kendo-angular-intl": "18.5.2",
+          "@progress/kendo-angular-l10n": "18.5.2",
+          "@progress/kendo-angular-icons": "18.5.2",
+          "@progress/kendo-angular-popup": "18.5.2",
+          "@progress/kendo-angular-utils": "18.5.2",
+          "@progress/kendo-angular-common": "18.5.2",
+          "@progress/kendo-angular-dialog": "18.5.2",
+          "@progress/kendo-angular-buttons": "18.5.2",
+          "@progress/kendo-angular-navigation": "18.5.2"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "17.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "16 - 19",
+          "@angular/forms": "16 - 19",
+          "@angular/common": "16 - 19",
+          "@angular/animations": "16 - 19",
+          "@progress/kendo-drawing": "^1.21.0",
+          "@angular/platform-browser": "16 - 19",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "17.2.0",
+          "@progress/kendo-angular-l10n": "17.2.0",
+          "@progress/kendo-angular-icons": "17.2.0",
+          "@progress/kendo-angular-popup": "17.2.0",
+          "@progress/kendo-angular-common": "17.2.0",
+          "@progress/kendo-angular-dialog": "17.2.0",
+          "@progress/kendo-angular-buttons": "17.2.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "16.11.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "15 - 18",
+          "@angular/forms": "15 - 18",
+          "@angular/common": "15 - 18",
+          "@angular/animations": "15 - 18",
+          "@progress/kendo-drawing": "^1.20.4",
+          "@angular/platform-browser": "15 - 18",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "16.11.0",
+          "@progress/kendo-angular-l10n": "16.11.0",
+          "@progress/kendo-angular-icons": "16.11.0",
+          "@progress/kendo-angular-popup": "16.11.0",
+          "@progress/kendo-angular-common": "16.11.0",
+          "@progress/kendo-angular-dialog": "16.11.0",
+          "@progress/kendo-angular-buttons": "16.11.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "15.5.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 17",
+          "@angular/forms": "13 - 17",
+          "@angular/common": "13 - 17",
+          "@angular/animations": "13 - 17",
+          "@progress/kendo-drawing": "^1.19.0",
+          "@angular/platform-browser": "13 - 17",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "15.5.0",
+          "@progress/kendo-angular-l10n": "15.5.0",
+          "@progress/kendo-angular-icons": "15.5.0",
+          "@progress/kendo-angular-popup": "15.5.0",
+          "@progress/kendo-angular-common": "15.5.0",
+          "@progress/kendo-angular-dialog": "15.5.0",
+          "@progress/kendo-angular-upload": "15.5.0",
+          "@progress/kendo-angular-buttons": "15.5.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 17",
+          "@angular/forms": "13 - 17",
+          "@angular/common": "13 - 17",
+          "@angular/animations": "13 - 17",
+          "@progress/kendo-drawing": "^1.17.2",
+          "@angular/platform-browser": "13 - 17",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "14.3.0",
+          "@progress/kendo-angular-l10n": "14.3.0",
+          "@progress/kendo-angular-icons": "14.3.0",
+          "@progress/kendo-angular-popup": "14.3.0",
+          "@progress/kendo-angular-common": "14.3.0",
+          "@progress/kendo-angular-dialog": "14.3.0",
+          "@progress/kendo-angular-upload": "14.3.0",
+          "@progress/kendo-angular-buttons": "14.3.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "13.5.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 16",
+          "@angular/common": "13 - 16",
+          "@angular/animations": "13 - 16",
+          "@progress/kendo-drawing": "^1.17.2",
+          "@angular/platform-browser": "13 - 16",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "13.5.0",
+          "@progress/kendo-angular-l10n": "13.5.0",
+          "@progress/kendo-angular-icons": "13.5.0",
+          "@progress/kendo-angular-popup": "13.5.0",
+          "@progress/kendo-angular-common": "13.5.0",
+          "@progress/kendo-angular-dialog": "13.5.0",
+          "@progress/kendo-angular-upload": "13.5.0",
+          "@progress/kendo-angular-buttons": "13.5.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "12.1.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 16",
+          "@angular/common": "13 - 16",
+          "@angular/animations": "13 - 16",
+          "@progress/kendo-drawing": "^1.17.2",
+          "@angular/platform-browser": "13 - 16",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "12.1.0",
+          "@progress/kendo-angular-l10n": "12.1.0",
+          "@progress/kendo-angular-icons": "12.1.0",
+          "@progress/kendo-angular-popup": "12.1.0",
+          "@progress/kendo-angular-common": "12.1.0",
+          "@progress/kendo-angular-dialog": "12.1.0",
+          "@progress/kendo-angular-upload": "12.1.0",
+          "@progress/kendo-angular-buttons": "12.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "11.6.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "13 - 15",
+          "@angular/common": "13 - 15",
+          "@angular/animations": "13 - 15",
+          "@progress/kendo-drawing": "^1.17.2",
+          "@angular/platform-browser": "13 - 15",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "11.6.0",
+          "@progress/kendo-angular-l10n": "11.6.0",
+          "@progress/kendo-angular-icons": "11.6.0",
+          "@progress/kendo-angular-popup": "11.6.0",
+          "@progress/kendo-angular-common": "11.6.0",
+          "@progress/kendo-angular-dialog": "11.6.0",
+          "@progress/kendo-angular-upload": "11.6.0",
+          "@progress/kendo-angular-buttons": "11.6.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "10.1.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "12 - 15",
+          "@angular/forms": "12 - 15",
+          "@angular/common": "12 - 15",
+          "@angular/animations": "12 - 15",
+          "@progress/kendo-drawing": "^1.17.0",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "^4.0.0",
+          "@progress/kendo-angular-l10n": "^4.0.0",
+          "@progress/kendo-angular-popup": "^5.0.0",
+          "@progress/kendo-angular-common": "^3.0.0",
+          "@progress/kendo-angular-dialog": "^7.0.0",
+          "@progress/kendo-angular-buttons": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "9.0.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "12 - 14",
+          "@angular/forms": "12 - 14",
+          "@angular/common": "12 - 14",
+          "@angular/animations": "12 - 14",
+          "@progress/kendo-drawing": "^1.5.12",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "^4.0.0",
+          "@progress/kendo-angular-l10n": "^4.0.0",
+          "@progress/kendo-angular-popup": "^5.0.0",
+          "@progress/kendo-angular-common": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "8.0.9",
+        "peerDependencies": {
+          "rxjs": "^6.4.0 || ^7.0.0",
+          "@angular/core": "8 - 13",
+          "@angular/forms": "8 - 13",
+          "@angular/common": "8 - 13",
+          "@angular/animations": "8 - 13",
+          "@progress/kendo-drawing": "^1.5.12",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "^3.0.0",
+          "@progress/kendo-angular-l10n": "^3.0.0",
+          "@progress/kendo-angular-popup": "^4.0.0",
+          "@progress/kendo-angular-common": "^2.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "7.5.3",
+        "peerDependencies": {
+          "rxjs": "^6.4.0 || ^7.0.0",
+          "@angular/core": "8 - 13",
+          "@angular/forms": "8 - 13",
+          "@angular/common": "8 - 13",
+          "@angular/animations": "8 - 13",
+          "@progress/kendo-drawing": "^1.5.12",
+          "@progress/kendo-licensing": "^1.0.2",
+          "@progress/kendo-angular-intl": "^3.0.0",
+          "@progress/kendo-angular-l10n": "^3.0.0",
+          "@progress/kendo-angular-popup": "^4.0.0",
+          "@progress/kendo-angular-common": "^2.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "6.7.4",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "@angular/core": "6 - 11",
+          "@angular/forms": "6 - 11",
+          "@angular/common": "6 - 11",
+          "@angular/animations": "6 - 11",
+          "@progress/kendo-drawing": "^1.5.12",
+          "@progress/kendo-angular-intl": "^2.0.0",
+          "@progress/kendo-angular-l10n": "^2.0.0",
+          "@progress/kendo-angular-popup": "^3.0.0",
+          "@progress/kendo-angular-common": "^1.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "5.2.2",
+        "peerDependencies": {
+          "rxjs": "5.5 - 6",
+          "@angular/core": "4 - 8",
+          "@angular/forms": "4 - 8",
+          "@angular/common": "4 - 8",
+          "@angular/animations": "4 - 8",
+          "@progress/kendo-drawing": "^1.5.12",
+          "@progress/kendo-angular-intl": "^1.4.0",
+          "@progress/kendo-angular-l10n": "^1.1.0",
+          "@progress/kendo-angular-popup": "^2.5.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "4.2.1",
+        "peerDependencies": {
+          "rxjs": "5.5 - 6",
+          "@angular/core": "4 - 7",
+          "@angular/forms": "4 - 7",
+          "@angular/common": "4 - 7",
+          "@angular/animations": "4 - 7",
+          "@progress/kendo-angular-intl": "^1.4.0",
+          "@progress/kendo-angular-l10n": "^1.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "3.5.0",
+        "peerDependencies": {
+          "rxjs": "5.5 - 6",
+          "@angular/core": "4 - 7",
+          "@angular/forms": "4 - 7",
+          "@angular/common": "4 - 7",
+          "@angular/animations": "4 - 7",
+          "@progress/kendo-angular-intl": "^1.4.0",
+          "@progress/kendo-angular-l10n": "^1.1.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "2.2.0",
+        "peerDependencies": {
+          "rxjs": "^5.5.0",
+          "@angular/core": "^4.0.0 || ^5.0.0",
+          "@angular/forms": "^4.0.0 || ^5.0.0",
+          "@angular/common": "^4.0.0 || ^5.0.0",
+          "@progress/kendo-angular-intl": "^1.0.0",
+          "@progress/kendo-angular-l10n": "^1.0.0"
+        }
+      },
+      {
+        "packageName": "@progress/kendo-angular-inputs",
+        "version": "1.5.0",
+        "peerDependencies": {
+          "rxjs": "^5 <5.5",
+          "@angular/core": "^4.0.0 || ^5.0.0",
+          "@angular/forms": "^4.0.0 || ^5.0.0",
+          "@angular/common": "^4.0.0 || ^5.0.0",
+          "@progress/kendo-angular-intl": "^1.0.0",
+          "@progress/kendo-angular-l10n": "^1.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@ckeditor/ckeditor5-angular",
+    "requestedRange": "9.1.0",
+    "candidates": [
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "11.1.2",
+        "peerDependencies": {
+          "@angular/core": ">=19.2.19",
+          "@angular/common": ">=19.2.19",
+          "@angular/forms": ">=19.2.19",
+          "ckeditor5": ">=47.0.0 || ^0.0.0-nightly || ^0.0.0-internal",
+          "rxjs": ">=6.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "11.1.1",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "ckeditor5": ">=47.0.0 || ^0.0.0-nightly || ^0.0.0-internal",
+          "@angular/core": ">=19.2.19",
+          "@angular/forms": ">=19.2.19",
+          "@angular/common": ">=19.2.19"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "11.1.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "ckeditor5": ">=47.0.0 || ^0.0.0-nightly || ^0.0.0-internal",
+          "@angular/core": ">=19.2.19",
+          "@angular/forms": ">=19.2.19",
+          "@angular/common": ">=19.2.19"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "11.0.1",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "ckeditor5": ">=47.0.0 || ^0.0.0-nightly || ^0.0.0-internal",
+          "@angular/core": ">=19.2.19",
+          "@angular/forms": ">=19.2.19",
+          "@angular/common": ">=19.2.19"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "11.0.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "ckeditor5": ">=47.0.0 || ^0.0.0-nightly",
+          "@angular/core": ">=19.2.15",
+          "@angular/forms": ">=19.2.15",
+          "@angular/common": ">=19.2.15"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "10.1.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "ckeditor5": ">=46.0.0-alpha.0 || ^0.0.0-nightly",
+          "@angular/core": ">=16.0.0",
+          "@angular/forms": ">=16.0.0",
+          "@angular/common": ">=16.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "ckeditor5": ">=46.0.0-alpha.0 || ^0.0.0-nightly",
+          "@angular/core": ">=16.0.0",
+          "@angular/forms": ">=16.0.0",
+          "@angular/common": ">=16.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "9.1.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "ckeditor5": ">=42.0.0 || ^0.0.0-nightly",
+          "@angular/core": ">=16.0.0",
+          "@angular/forms": ">=16.0.0",
+          "@angular/common": ">=16.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "ckeditor5": ">=42.0.0 || ^0.0.0-nightly",
+          "@angular/core": ">=16.0.0",
+          "@angular/forms": ">=16.0.0",
+          "@angular/common": ">=16.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "ckeditor5": ">=42.0.0 || ^0.0.0-nightly",
+          "@angular/core": ">=13.0.0",
+          "@angular/forms": ">=13.0.0",
+          "@angular/common": ">=13.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "7.0.1",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=13.0.0",
+          "@angular/forms": ">=13.0.0",
+          "@angular/common": ">=13.0.0",
+          "@ckeditor/ckeditor5-core": ">=37.0.0",
+          "@ckeditor/ckeditor5-utils": ">=37.0.0",
+          "@ckeditor/ckeditor5-engine": ">=37.0.0",
+          "@ckeditor/ckeditor5-watchdog": ">=37.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=13.0.0",
+          "@angular/forms": ">=13.0.0",
+          "@angular/common": ">=13.0.0",
+          "@ckeditor/ckeditor5-core": ">=37.0.0",
+          "@ckeditor/ckeditor5-utils": ">=37.0.0",
+          "@ckeditor/ckeditor5-engine": ">=37.0.0",
+          "@ckeditor/ckeditor5-watchdog": ">=37.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "6.0.1",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=13.0.0",
+          "@angular/forms": ">=13.0.0",
+          "@angular/common": ">=13.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=13.0.0",
+          "@angular/forms": ">=13.0.0",
+          "@angular/common": ">=13.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "5.2.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=13.0.0",
+          "@angular/forms": ">=13.0.0",
+          "@angular/common": ">=13.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "5.1.1",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=13.0.0",
+          "@angular/forms": ">=13.0.0",
+          "@angular/common": ">=13.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=13.0.0",
+          "@angular/forms": ">=13.0.0",
+          "@angular/common": ">=13.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=13.0.0",
+          "@angular/forms": ">=13.0.0",
+          "@angular/common": ">=13.0.0",
+          "@ckeditor/ckeditor5-watchdog": ">=34.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=9.0.0",
+          "@angular/forms": ">=9.0.0",
+          "@angular/common": ">=9.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=9.0.0",
+          "@angular/forms": ">=9.0.0",
+          "@angular/common": ">=9.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "rxjs": ">=6.0.0",
+          "@angular/core": ">=9.0.0",
+          "@angular/forms": ">=9.0.0",
+          "@angular/common": ">=9.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "@angular/core": ">=9.0.0",
+          "@angular/forms": ">=9.0.0",
+          "@angular/common": ">=9.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "@angular/core": ">=9.0.0",
+          "@angular/forms": ">=9.0.0",
+          "@angular/common": ">=9.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "1.2.3",
+        "peerDependencies": {
+          "@angular/core": ">=5.0.0",
+          "@angular/forms": ">=5.0.0",
+          "@angular/common": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "1.2.2",
+        "peerDependencies": {
+          "@angular/core": ">=5.0.0",
+          "@angular/forms": ">=5.0.0",
+          "@angular/common": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "@angular/core": ">=5.0.0",
+          "@angular/forms": ">=5.0.0",
+          "@angular/common": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "@angular/core": ">=5.0.0",
+          "@angular/forms": ">=5.0.0",
+          "@angular/common": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "@angular/core": ">=5.0.0",
+          "@angular/forms": ">=5.0.0",
+          "@angular/common": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "@angular/core": ">=5.0.0",
+          "@angular/forms": ">=5.0.0",
+          "@angular/common": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@ckeditor/ckeditor5-angular",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "@angular/core": ">=5.0.0",
+          "@angular/forms": ">=5.0.0",
+          "@angular/common": ">=5.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular/elements",
+    "requestedRange": "11.2.4",
+    "candidates": [
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.13"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.9"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.8"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.7"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.6"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.4"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.3"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.2"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.1"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.2.0"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "21.1.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "21.1.6"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "20.3.21",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "20.3.21"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "19.2.22",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "19.2.22"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "18.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "17.3.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "17.3.12"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "16.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "16.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "15.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "15.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "14.3.0"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "13.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "13.4.0"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "12.2.17",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "12.2.17",
+          "@angular/platform-browser": "12.2.17"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "11.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "@angular/core": "11.2.14",
+          "@angular/platform-browser": "11.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "10.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "@angular/core": "10.2.5",
+          "@angular/platform-browser": "10.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "9.1.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "tslib": "^1.10.0",
+          "@angular/core": "9.1.13",
+          "@angular/platform-browser": "9.1.13"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "8.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.4.0",
+          "@angular/core": "8.2.14",
+          "@angular/platform-browser": "8.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "7.2.16",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "@angular/core": "7.2.16",
+          "@angular/platform-browser": "7.2.16"
+        }
+      },
+      {
+        "packageName": "@angular/elements",
+        "version": "6.1.10",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "@angular/core": "6.1.10",
+          "@angular/platform-browser": "6.1.10"
+        }
+      }
+    ]
+  }
+]

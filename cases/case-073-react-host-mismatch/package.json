@@ -1,0 +1,19 @@
+{
+  "name": "case-073-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-stately/grid": "3.0.0",
+    "@react-aria/button": "3.11.0",
+    "@react-aria/switch": "3.5.4",
+    "@react-stately/checkbox": "3.8.0",
+    "@react-stately/list": "3.4.2",
+    "@react-stately/searchfield": "3.3.4",
+    "@react-spring/shared": "9.7.2",
+    "@react-stately/datepicker": "3.10.2",
+    "@react-aria/numberfield": "3.3.1"
+  }
+}

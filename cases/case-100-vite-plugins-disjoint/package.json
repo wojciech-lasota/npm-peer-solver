@@ -1,0 +1,19 @@
+{
+  "name": "case-100-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.0.8",
+    "@geajs/vite-plugin": "1.0.0",
+    "@jihchi/vite-plugin-rescript": "1.1.1",
+    "@meituan-nocode/vite-plugin-nocode-compiler": "0.2.7",
+    "@spiriit/vite-plugin-svg-spritemap": "2.2.2",
+    "@crxjs/vite-plugin": "1.0.1",
+    "@livestore/devtools-vite": "0.2.0",
+    "@dyad-sh/react-vite-component-tagger": "0.8.0",
+    "@netlify/vite-plugin-react-router": "3.1.0",
+    "@serwist/vite": "9.5.4"
+  }
+}

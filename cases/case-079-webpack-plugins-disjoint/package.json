@@ -1,0 +1,19 @@
+{
+  "name": "case-079-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.87.0",
+    "babel-minify-webpack-plugin": "0.2.0",
+    "@vxna/mini-html-webpack-template": "0.0.2",
+    "bundle-stats-webpack-plugin": "4.0.3",
+    "@wyw-in-js/webpack-loader": "1.0.4",
+    "@webdiscus/pug-loader": "1.6.0",
+    "browser-sync-webpack": "1.0.1",
+    "coffee-loader": "0.8.0",
+    "context-map-webpack-plugin": "0.1.0",
+    "@indiv/indiv-loader": "4.0.0"
+  }
+}

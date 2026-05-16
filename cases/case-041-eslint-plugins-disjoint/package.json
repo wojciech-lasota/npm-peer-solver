@@ -1,0 +1,19 @@
+{
+  "name": "case-041-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "9.9.1",
+    "@amedia/eslint-config-react": "7.0.0",
+    "@cerner/eslint-config-terra": "4.0.0",
+    "@algoan/eslint-config": "1.0.9",
+    "@grafana/eslint-config": "2.5.0",
+    "@hideoo/eslint-config": "1.5.0",
+    "@electron-toolkit/eslint-config-ts": "2.0.0",
+    "@angular-eslint/eslint-plugin": "18.0.1",
+    "@eslint-community/eslint-plugin-eslint-comments": "4.6.0",
+    "@eslint-recommended/eslint-config": "6.0.1"
+  }
+}

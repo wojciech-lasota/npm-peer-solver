@@ -1,0 +1,19 @@
+{
+  "name": "case-039-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "4.6.4",
+    "cosmiconfig-typescript-loader": "0.0.2",
+    "fork-ts-checker-webpack-plugin": "0.1.0",
+    "ts-declaration-location": "1.0.1",
+    "@zerollup/ts-helpers": "1.0.25",
+    "@typescript-eslint/parser": "2.16.0",
+    "@zerollup/ts-transform-paths": "1.2.0",
+    "@typescript-eslint/typescript-estree": "6.1.0",
+    "ts-type-forge": "2.0.1",
+    "@typescript-eslint/eslint-plugin": "8.39.1"
+  }
+}

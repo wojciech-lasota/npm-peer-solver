@@ -1,0 +1,19 @@
+{
+  "name": "case-007-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "@formatjs/ts-transformer": "2.4.2",
+    "ts-declaration-location": "1.0.2",
+    "ts-type-forge": "0.1.0",
+    "fork-ts-checker-webpack-plugin": "1.1.0",
+    "ts-loader": "1.2.2",
+    "typescript-tuple": "1.7.1",
+    "ts-pnp": "1.1.6",
+    "@typescript-eslint/typescript-estree": "8.14.0",
+    "@zerollup/ts-transform-paths": "1.0.8"
+  }
+}

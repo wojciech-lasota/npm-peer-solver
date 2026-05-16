@@ -1,0 +1,19 @@
+{
+  "name": "case-091-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "browser-sync-webpack-plugin": "0.1.0",
+    "assets-webpack-plugin": "3.8.1",
+    "@dyad-sh/nextjs-webpack-component-tagger": "0.8.0",
+    "@cerner/duplicate-package-checker-webpack-plugin": "2.5.0",
+    "css-minimizer-webpack-plugin": "1.1.4",
+    "css-split-webpack-plugin": "0.1.0",
+    "@trinasolar/auto-complete-code-webpack-plugin": "0.0.2",
+    "@pmmmwh/react-refresh-webpack-plugin": "0.3.1",
+    "@webpack-contrib/config-loader": "1.1.3"
+  }
+}

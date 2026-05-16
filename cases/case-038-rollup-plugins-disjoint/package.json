@@ -1,0 +1,19 @@
+{
+  "name": "case-038-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "3.26.1",
+    "@rollup/plugin-node-resolve": "6.0.0",
+    "@posthog/rollup-plugin": "0.0.0",
+    "rollup-plugin-auto-entry": "1.0.2",
+    "@literals/rollup-plugin-html-css-minifier": "4.0.0",
+    "@rollup/plugin-yaml": "3.0.0",
+    "@rollup/plugin-terser": "0.4.2",
+    "@backtrace/rollup-plugin": "0.2.0",
+    "@mo36924/rollup-plugin-cache": "1.1.96",
+    "rollup-plugin-cleaner": "0.1.0"
+  }
+}

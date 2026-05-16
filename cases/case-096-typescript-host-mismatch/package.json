@@ -1,0 +1,19 @@
+{
+  "name": "case-096-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "@typescript-eslint/project-service": "8.33.1",
+    "ts-pnp": "1.1.2",
+    "ts-declaration-location": "1.0.0",
+    "ts-essentials": "2.0.1",
+    "@typescript-eslint/parser": "8.39.0",
+    "detective-typescript": "10.0.0",
+    "ts-unused-exports": "8.0.5",
+    "openapi-typescript": "2.4.1",
+    "@typescript-eslint/experimental-utils": "5.2.0"
+  }
+}

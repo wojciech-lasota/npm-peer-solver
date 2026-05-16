@@ -1,0 +1,19 @@
+{
+  "name": "case-011-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "4.19.1",
+    "@commercetools-frontend/eslint-config-mc-app": "6.0.0",
+    "@equisoft/eslint-config-react": "2.0.0",
+    "@eslint/json": "1.0.1",
+    "@domenic/eslint-config": "3.0.0",
+    "@eslint-recommended/eslint-config-typescript": "30.0.1",
+    "@grafana/eslint-config": "2.0.5",
+    "@equisoft/eslint-config-typescript-react": "4.0.0",
+    "@cspell/eslint-plugin": "9.3.1",
+    "@cksource-cs/eslint-config-cs-module": "6.0.4"
+  }
+}

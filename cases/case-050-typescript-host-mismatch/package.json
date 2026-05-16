@@ -1,0 +1,19 @@
+{
+  "name": "case-050-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "openapi-typescript": "7.0.0",
+    "ts-loader": "0.7.2",
+    "ts-migrate-plugins": "0.1.26",
+    "@typescript-eslint/parser": "5.37.0",
+    "@zerollup/ts-helpers": "1.0.20",
+    "ts-declaration-location": "1.0.5",
+    "@kubb/ts-codegen": "1.4.2",
+    "@typescript-eslint/experimental-utils": "2.0.0",
+    "rollup-plugin-typescript2": "0.2.0"
+  }
+}

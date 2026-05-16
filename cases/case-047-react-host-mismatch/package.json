@@ -1,0 +1,19 @@
+{
+  "name": "case-047-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/numberfield": "3.0.0",
+    "@react-stately/checkbox": "3.1.1",
+    "@react-aria/focus": "3.18.4",
+    "@react-aria/link": "3.2.5",
+    "@react-stately/table": "3.5.0",
+    "@react-aria/overlays": "3.16.0",
+    "@react-aria/select": "3.14.10",
+    "@react-stately/calendar": "3.5.0",
+    "@react-stately/collections": "3.5.0"
+  }
+}

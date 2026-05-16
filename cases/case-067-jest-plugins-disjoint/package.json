@@ -1,0 +1,19 @@
+{
+  "name": "case-067-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.34",
+    "@vue/vue2-jest": "26.0.1",
+    "@tdd-buffet/jest-config": "1.0.0",
+    "jest-sinon": "0.5.1",
+    "jest-mock-console": "1.0.0",
+    "ts-jest": "26.5.6",
+    "jest-sentry-environment": "1.1.4",
+    "@tailify/jest-preset": "0.1.1",
+    "@wordpress/jest-preset-default": "7.0.1",
+    "jest-preset-moon": "2.0.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "case-064-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.4.0",
+    "@netlify/vite-plugin": "0.2.0",
+    "@sveltejs/vite-plugin-svelte-inspector": "1.0.1",
+    "@qtd/vite-plugin-lib-legacy": "6.0.0",
+    "@cloudflare/vite-plugin": "1.21.2",
+    "@jihchi/vite-plugin-rescript": "2.0.0",
+    "@usehercules/vite": "1.0.21",
+    "@froxz/vite-plugin-s3": "1.0.1",
+    "@joshwooding/vite-plugin-react-docgen-typescript": "0.3.0",
+    "@rozenite/vite-plugin": "1.9.0"
+  }
+}

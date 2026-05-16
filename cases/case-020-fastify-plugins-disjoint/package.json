@@ -1,0 +1,19 @@
+{
+  "name": "case-020-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "4.10.0",
+    "@lde/fastify-rdf": "0.1.0",
+    "@fastify/schedule": "2.0.0",
+    "@trymarket/fastify": "0.2.0",
+    "@nitra/as-integrations-fastify": "3.0.2",
+    "@jackdbd/fastify-token-endpoint": "1.1.6",
+    "@coobaha/typed-fastify": "0.6.0",
+    "@classytic/arc": "2.2.0",
+    "@payweave/fastify": "0.0.8",
+    "@universal-rate-limit/fastify": "1.1.0"
+  }
+}

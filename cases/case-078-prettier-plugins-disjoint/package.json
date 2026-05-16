@@ -1,0 +1,19 @@
+{
+  "name": "case-078-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.14.0",
+    "@shopify/prettier-plugin-liquid": "0.1.2",
+    "@sanity/prettier-plugin-groq": "0.0.1",
+    "@jabworks/prettier-config": "1.1.0",
+    "eslint-config-ssjs": "1.1.5",
+    "prettier-plugin-antlers": "1.2.7",
+    "@altalang/prettier-plugin-elm-tailwind": "0.2.1",
+    "@fredluetkemeier/prettier-plugin-css-order": "1.2.2",
+    "@sylphlab/prettier-config": "0.2.0",
+    "@1adybug/prettier-plugin-block-padding": "0.0.16"
+  }
+}

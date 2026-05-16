@@ -1,0 +1,19 @@
+{
+  "name": "case-069-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@exortek/remix-fastify": "2.0.0",
+    "@mastra/fastify": "1.1.7",
+    "@fastify/type-provider-typebox": "2.1.0",
+    "@getlarge/nestjs-tools-fastify-upload": "0.1.0",
+    "@byu-oit-sdk/session-fastify": "0.2.1",
+    "@emdzej/keycloak-api-keys-fastify": "0.1.0",
+    "@waylaidwanderer/fastify-sse-v2": "3.1.0",
+    "@glidemq/fastify": "0.2.0",
+    "@prefabs.tech/fastify-error-handler": "0.93.0"
+  }
+}

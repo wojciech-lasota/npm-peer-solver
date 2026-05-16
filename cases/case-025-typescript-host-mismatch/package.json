@@ -1,0 +1,19 @@
+{
+  "name": "case-025-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "@typescript-eslint/utils": "8.18.0",
+    "ts-pnp": "1.2.0",
+    "openapi-typescript": "4.1.1",
+    "ts-loader": "8.0.4",
+    "ts-node-dev": "1.1.4",
+    "@typescript-eslint/experimental-utils": "4.28.2",
+    "ts-unused-exports": "8.0.0",
+    "fork-ts-checker-webpack-plugin": "6.0.2",
+    "@typescript-eslint/project-service": "8.59.0"
+  }
+}

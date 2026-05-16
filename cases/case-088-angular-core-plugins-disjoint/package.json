@@ -1,0 +1,19 @@
+{
+  "name": "case-088-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.1.6",
+    "@ant-design/icons-angular": "0.0.1",
+    "@angular/ssr": "17.0.0",
+    "@progress/kendo-angular-intl": "16.4.0",
+    "@angular/platform-browser": "4.4.5",
+    "@angular-builders/jest": "12.0.0",
+    "@angular/fire": "7.6.0",
+    "@herd/angular-client": "0.72.0",
+    "@angular/router": "18.0.1",
+    "@angular/service-worker": "16.1.3"
+  }
+}

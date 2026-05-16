@@ -1,0 +1,6965 @@
+{
+  "jest": {
+    "name": "jest",
+    "dist-tags": {
+      "next": "30.0.0-rc.1",
+      "latest": "30.4.2"
+    },
+    "versions": {
+      "0.0.6": {
+        "name": "jest",
+        "version": "0.0.6"
+      },
+      "0.0.7": {
+        "name": "jest",
+        "version": "0.0.7"
+      },
+      "0.0.61": {
+        "name": "jest",
+        "version": "0.0.61"
+      },
+      "0.0.71": {
+        "name": "jest",
+        "version": "0.0.71"
+      },
+      "0.0.72": {
+        "name": "jest",
+        "version": "0.0.72"
+      },
+      "0.0.73": {
+        "name": "jest",
+        "version": "0.0.73"
+      },
+      "0.0.74": {
+        "name": "jest",
+        "version": "0.0.74"
+      },
+      "0.0.75": {
+        "name": "jest",
+        "version": "0.0.75"
+      },
+      "0.0.80": {
+        "name": "jest",
+        "version": "0.0.80"
+      },
+      "0.0.81": {
+        "name": "jest",
+        "version": "0.0.81"
+      },
+      "0.0.76": {
+        "name": "jest",
+        "version": "0.0.76"
+      },
+      "0.0.78": {
+        "name": "jest",
+        "version": "0.0.78"
+      },
+      "0.0.79": {
+        "name": "jest",
+        "version": "0.0.79"
+      },
+      "0.0.82": {
+        "name": "jest",
+        "version": "0.0.82"
+      },
+      "0.0.83": {
+        "name": "jest",
+        "version": "0.0.83"
+      },
+      "0.0.84": {
+        "name": "jest",
+        "version": "0.0.84"
+      },
+      "0.0.85": {
+        "name": "jest",
+        "version": "0.0.85"
+      },
+      "0.0.86": {
+        "name": "jest",
+        "version": "0.0.86"
+      },
+      "0.0.87": {
+        "name": "jest",
+        "version": "0.0.87"
+      },
+      "0.0.88": {
+        "name": "jest",
+        "version": "0.0.88"
+      },
+      "0.0.89": {
+        "name": "jest",
+        "version": "0.0.89"
+      },
+      "0.0.90": {
+        "name": "jest",
+        "version": "0.0.90"
+      },
+      "0.0.91": {
+        "name": "jest",
+        "version": "0.0.91"
+      },
+      "0.0.92": {
+        "name": "jest",
+        "version": "0.0.92"
+      },
+      "0.0.93": {
+        "name": "jest",
+        "version": "0.0.93"
+      },
+      "0.0.94": {
+        "name": "jest",
+        "version": "0.0.94"
+      },
+      "0.0.95": {
+        "name": "jest",
+        "version": "0.0.95"
+      },
+      "0.0.96": {
+        "name": "jest",
+        "version": "0.0.96"
+      },
+      "0.0.97": {
+        "name": "jest",
+        "version": "0.0.97"
+      },
+      "0.0.98": {
+        "name": "jest",
+        "version": "0.0.98"
+      },
+      "0.0.99": {
+        "name": "jest",
+        "version": "0.0.99"
+      },
+      "0.1.0": {
+        "name": "jest",
+        "version": "0.1.0"
+      },
+      "0.1.1": {
+        "name": "jest",
+        "version": "0.1.1"
+      },
+      "0.1.2": {
+        "name": "jest",
+        "version": "0.1.2"
+      },
+      "0.1.21": {
+        "name": "jest",
+        "version": "0.1.21"
+      },
+      "0.1.22": {
+        "name": "jest",
+        "version": "0.1.22"
+      },
+      "0.1.30": {
+        "name": "jest",
+        "version": "0.1.30"
+      },
+      "0.1.31": {
+        "name": "jest",
+        "version": "0.1.31"
+      },
+      "0.1.32": {
+        "name": "jest",
+        "version": "0.1.32"
+      },
+      "0.1.33": {
+        "name": "jest",
+        "version": "0.1.33"
+      },
+      "0.1.34": {
+        "name": "jest",
+        "version": "0.1.34"
+      },
+      "0.1.35": {
+        "name": "jest",
+        "version": "0.1.35"
+      },
+      "0.1.37": {
+        "name": "jest",
+        "version": "0.1.37"
+      },
+      "0.1.39": {
+        "name": "jest",
+        "version": "0.1.39"
+      },
+      "0.1.40": {
+        "name": "jest",
+        "version": "0.1.40"
+      },
+      "12.1.0": {
+        "name": "jest",
+        "version": "12.1.0"
+      },
+      "12.1.0-alpha1": {
+        "name": "jest",
+        "version": "12.1.0-alpha1"
+      },
+      "12.1.1": {
+        "name": "jest",
+        "version": "12.1.1"
+      },
+      "12.1.1-alpha.2935e14d": {
+        "name": "jest",
+        "version": "12.1.1-alpha.2935e14d"
+      },
+      "12.1.2-alpha.a482b15c": {
+        "name": "jest",
+        "version": "12.1.2-alpha.a482b15c"
+      },
+      "12.1.2-alpha.6230044c": {
+        "name": "jest",
+        "version": "12.1.2-alpha.6230044c"
+      },
+      "12.1.3-alpha.6230044c": {
+        "name": "jest",
+        "version": "12.1.3-alpha.6230044c"
+      },
+      "12.1.4-alpha.a737c6e5": {
+        "name": "jest",
+        "version": "12.1.4-alpha.a737c6e5"
+      },
+      "12.1.5-alpha.b5322422": {
+        "name": "jest",
+        "version": "12.1.5-alpha.b5322422"
+      },
+      "13.0.0": {
+        "name": "jest",
+        "version": "13.0.0"
+      },
+      "13.1.0": {
+        "name": "jest",
+        "version": "13.1.0"
+      },
+      "13.1.1": {
+        "name": "jest",
+        "version": "13.1.1"
+      },
+      "13.1.2": {
+        "name": "jest",
+        "version": "13.1.2"
+      },
+      "13.1.3": {
+        "name": "jest",
+        "version": "13.1.3"
+      },
+      "13.2.0": {
+        "name": "jest",
+        "version": "13.2.0"
+      },
+      "13.2.1": {
+        "name": "jest",
+        "version": "13.2.1"
+      },
+      "13.2.2": {
+        "name": "jest",
+        "version": "13.2.2"
+      },
+      "13.2.3": {
+        "name": "jest",
+        "version": "13.2.3"
+      },
+      "13.3.0-alpha.a44f195f": {
+        "name": "jest",
+        "version": "13.3.0-alpha.a44f195f"
+      },
+      "13.3.0-alpha.4eb0c908": {
+        "name": "jest",
+        "version": "13.3.0-alpha.4eb0c908"
+      },
+      "13.2.3-alpha.ffc7404b": {
+        "name": "jest",
+        "version": "13.2.3-alpha.ffc7404b"
+      },
+      "13.3.0-alpha.ffc7404b": {
+        "name": "jest",
+        "version": "13.3.0-alpha.ffc7404b"
+      },
+      "13.3.0-alpha.8b48d59e": {
+        "name": "jest",
+        "version": "13.3.0-alpha.8b48d59e"
+      },
+      "13.3.0-alpha.g8b48d59": {
+        "name": "jest",
+        "version": "13.3.0-alpha.g8b48d59"
+      },
+      "13.4.0-alpha.d2632006": {
+        "name": "jest",
+        "version": "13.4.0-alpha.d2632006"
+      },
+      "14.0.0": {
+        "name": "jest",
+        "version": "14.0.0"
+      },
+      "14.0.1": {
+        "name": "jest",
+        "version": "14.0.1"
+      },
+      "14.1.0": {
+        "name": "jest",
+        "version": "14.1.0"
+      },
+      "14.2.0-alpha.ca8bfb6e": {
+        "name": "jest",
+        "version": "14.2.0-alpha.ca8bfb6e"
+      },
+      "14.2.1-alpha.e21d71a4": {
+        "name": "jest",
+        "version": "14.2.1-alpha.e21d71a4"
+      },
+      "14.2.2-alpha.22bd3c33": {
+        "name": "jest",
+        "version": "14.2.2-alpha.22bd3c33"
+      },
+      "14.3.0-alpha.d13c163e": {
+        "name": "jest",
+        "version": "14.3.0-alpha.d13c163e"
+      },
+      "14.3.1-alpha.410cb91a": {
+        "name": "jest",
+        "version": "14.3.1-alpha.410cb91a"
+      },
+      "14.3.2-alpha.83c25417": {
+        "name": "jest",
+        "version": "14.3.2-alpha.83c25417"
+      },
+      "15.0.0": {
+        "name": "jest",
+        "version": "15.0.0"
+      },
+      "15.0.1": {
+        "name": "jest",
+        "version": "15.0.1"
+      },
+      "15.0.2": {
+        "name": "jest",
+        "version": "15.0.2"
+      },
+      "15.1.0": {
+        "name": "jest",
+        "version": "15.1.0"
+      },
+      "15.1.1": {
+        "name": "jest",
+        "version": "15.1.1"
+      },
+      "15.2.0-alpha.c681f819": {
+        "name": "jest",
+        "version": "15.2.0-alpha.c681f819"
+      },
+      "16.0.0": {
+        "name": "jest",
+        "version": "16.0.0"
+      },
+      "16.0.1": {
+        "name": "jest",
+        "version": "16.0.1"
+      },
+      "16.0.2": {
+        "name": "jest",
+        "version": "16.0.2"
+      },
+      "16.1.0-alpha.691b0e22": {
+        "name": "jest",
+        "version": "16.1.0-alpha.691b0e22"
+      },
+      "17.0.0": {
+        "name": "jest",
+        "version": "17.0.0"
+      },
+      "17.0.1": {
+        "name": "jest",
+        "version": "17.0.1"
+      },
+      "17.0.2": {
+        "name": "jest",
+        "version": "17.0.2"
+      },
+      "17.0.3": {
+        "name": "jest",
+        "version": "17.0.3"
+      },
+      "18.0.0": {
+        "name": "jest",
+        "version": "18.0.0"
+      },
+      "18.1.0": {
+        "name": "jest",
+        "version": "18.1.0"
+      },
+      "18.5.0-alpha.7da3df39": {
+        "name": "jest",
+        "version": "18.5.0-alpha.7da3df39"
+      },
+      "19.0.0": {
+        "name": "jest",
+        "version": "19.0.0"
+      },
+      "19.0.1": {
+        "name": "jest",
+        "version": "19.0.1"
+      },
+      "19.0.2": {
+        "name": "jest",
+        "version": "19.0.2"
+      },
+      "19.1.0-alpha.eed82034": {
+        "name": "jest",
+        "version": "19.1.0-alpha.eed82034"
+      },
+      "19.2.0-alpha.993e64af": {
+        "name": "jest",
+        "version": "19.2.0-alpha.993e64af"
+      },
+      "19.3.0-alpha.85402254": {
+        "name": "jest",
+        "version": "19.3.0-alpha.85402254"
+      },
+      "20.0.0": {
+        "name": "jest",
+        "version": "20.0.0"
+      },
+      "20.0.1": {
+        "name": "jest",
+        "version": "20.0.1"
+      },
+      "20.0.2": {
+        "name": "jest",
+        "version": "20.0.2"
+      },
+      "20.0.3": {
+        "name": "jest",
+        "version": "20.0.3"
+      },
+      "20.0.4": {
+        "name": "jest",
+        "version": "20.0.4"
+      },
+      "20.1.0-alpha.1": {
+        "name": "jest",
+        "version": "20.1.0-alpha.1"
+      },
+      "20.1.0-alpha.2": {
+        "name": "jest",
+        "version": "20.1.0-alpha.2"
+      },
+      "20.1.0-alpha.3": {
+        "name": "jest",
+        "version": "20.1.0-alpha.3"
+      },
+      "20.1.0-beta.1": {
+        "name": "jest",
+        "version": "20.1.0-beta.1"
+      },
+      "20.1.0-chi.1": {
+        "name": "jest",
+        "version": "20.1.0-chi.1"
+      },
+      "20.1.0-delta.1": {
+        "name": "jest",
+        "version": "20.1.0-delta.1"
+      },
+      "20.1.0-delta.2": {
+        "name": "jest",
+        "version": "20.1.0-delta.2"
+      },
+      "20.1.0-delta.3": {
+        "name": "jest",
+        "version": "20.1.0-delta.3"
+      },
+      "20.1.0-delta.4": {
+        "name": "jest",
+        "version": "20.1.0-delta.4"
+      },
+      "20.1.0-delta.5": {
+        "name": "jest",
+        "version": "20.1.0-delta.5"
+      },
+      "20.1.0-echo.1": {
+        "name": "jest",
+        "version": "20.1.0-echo.1"
+      },
+      "21.0.0-alpha.1": {
+        "name": "jest",
+        "version": "21.0.0-alpha.1"
+      },
+      "21.0.0-alpha.2": {
+        "name": "jest",
+        "version": "21.0.0-alpha.2"
+      },
+      "21.0.0-beta.1": {
+        "name": "jest",
+        "version": "21.0.0-beta.1"
+      },
+      "21.0.0": {
+        "name": "jest",
+        "version": "21.0.0"
+      },
+      "21.0.1": {
+        "name": "jest",
+        "version": "21.0.1"
+      },
+      "21.0.2": {
+        "name": "jest",
+        "version": "21.0.2"
+      },
+      "21.1.0": {
+        "name": "jest",
+        "version": "21.1.0"
+      },
+      "21.2.0": {
+        "name": "jest",
+        "version": "21.2.0"
+      },
+      "21.2.1": {
+        "name": "jest",
+        "version": "21.2.1"
+      },
+      "21.3.0-alpha.1e3ee68e": {
+        "name": "jest",
+        "version": "21.3.0-alpha.1e3ee68e"
+      },
+      "21.3.0-alpha.eff7a1cf": {
+        "name": "jest",
+        "version": "21.3.0-alpha.eff7a1cf"
+      },
+      "21.3.0-beta.1": {
+        "name": "jest",
+        "version": "21.3.0-beta.1"
+      },
+      "21.3.0-beta.2": {
+        "name": "jest",
+        "version": "21.3.0-beta.2"
+      },
+      "21.3.0-beta.3": {
+        "name": "jest",
+        "version": "21.3.0-beta.3"
+      },
+      "21.3.0-beta.4": {
+        "name": "jest",
+        "version": "21.3.0-beta.4"
+      },
+      "21.3.0-beta.5": {
+        "name": "jest",
+        "version": "21.3.0-beta.5"
+      },
+      "21.3.0-beta.6": {
+        "name": "jest",
+        "version": "21.3.0-beta.6"
+      },
+      "21.3.0-beta.7": {
+        "name": "jest",
+        "version": "21.3.0-beta.7"
+      },
+      "21.3.0-beta.8": {
+        "name": "jest",
+        "version": "21.3.0-beta.8"
+      },
+      "21.3.0-beta.9": {
+        "name": "jest",
+        "version": "21.3.0-beta.9"
+      },
+      "21.3.0-beta.10": {
+        "name": "jest",
+        "version": "21.3.0-beta.10"
+      },
+      "21.3.0-beta.11": {
+        "name": "jest",
+        "version": "21.3.0-beta.11"
+      },
+      "21.3.0-beta.12": {
+        "name": "jest",
+        "version": "21.3.0-beta.12"
+      },
+      "21.3.0-beta.13": {
+        "name": "jest",
+        "version": "21.3.0-beta.13"
+      },
+      "21.3.0-beta.14": {
+        "name": "jest",
+        "version": "21.3.0-beta.14"
+      },
+      "21.3.0-beta.15": {
+        "name": "jest",
+        "version": "21.3.0-beta.15"
+      },
+      "22.0.0": {
+        "name": "jest",
+        "version": "22.0.0"
+      },
+      "22.0.1": {
+        "name": "jest",
+        "version": "22.0.1"
+      },
+      "22.0.2": {
+        "name": "jest",
+        "version": "22.0.2"
+      },
+      "22.0.3": {
+        "name": "jest",
+        "version": "22.0.3"
+      },
+      "22.0.4": {
+        "name": "jest",
+        "version": "22.0.4"
+      },
+      "22.0.5": {
+        "name": "jest",
+        "version": "22.0.5"
+      },
+      "22.0.6": {
+        "name": "jest",
+        "version": "22.0.6"
+      },
+      "22.1.0": {
+        "name": "jest",
+        "version": "22.1.0"
+      },
+      "22.1.1": {
+        "name": "jest",
+        "version": "22.1.1"
+      },
+      "22.1.2": {
+        "name": "jest",
+        "version": "22.1.2"
+      },
+      "22.1.3": {
+        "name": "jest",
+        "version": "22.1.3"
+      },
+      "22.1.4": {
+        "name": "jest",
+        "version": "22.1.4"
+      },
+      "22.2.0": {
+        "name": "jest",
+        "version": "22.2.0"
+      },
+      "22.2.1": {
+        "name": "jest",
+        "version": "22.2.1"
+      },
+      "22.2.2": {
+        "name": "jest",
+        "version": "22.2.2"
+      },
+      "22.3.0": {
+        "name": "jest",
+        "version": "22.3.0"
+      },
+      "22.4.0": {
+        "name": "jest",
+        "version": "22.4.0"
+      },
+      "22.4.1": {
+        "name": "jest",
+        "version": "22.4.1"
+      },
+      "22.4.2": {
+        "name": "jest",
+        "version": "22.4.2"
+      },
+      "23.0.0-alpha.1": {
+        "name": "jest",
+        "version": "23.0.0-alpha.1"
+      },
+      "22.4.3": {
+        "name": "jest",
+        "version": "22.4.3"
+      },
+      "23.0.0-alpha.2": {
+        "name": "jest",
+        "version": "23.0.0-alpha.2"
+      },
+      "23.0.0-alpha.4": {
+        "name": "jest",
+        "version": "23.0.0-alpha.4"
+      },
+      "23.0.0-alpha.5": {
+        "name": "jest",
+        "version": "23.0.0-alpha.5"
+      },
+      "23.0.0-alpha.5r": {
+        "name": "jest",
+        "version": "23.0.0-alpha.5r"
+      },
+      "23.0.0-alpha.6r": {
+        "name": "jest",
+        "version": "23.0.0-alpha.6r"
+      },
+      "23.0.0-alpha.7": {
+        "name": "jest",
+        "version": "23.0.0-alpha.7"
+      },
+      "23.0.0-beta.0": {
+        "name": "jest",
+        "version": "23.0.0-beta.0"
+      },
+      "23.0.0-beta.1": {
+        "name": "jest",
+        "version": "23.0.0-beta.1"
+      },
+      "23.0.0-beta.2": {
+        "name": "jest",
+        "version": "23.0.0-beta.2"
+      },
+      "23.0.0-alpha.3r": {
+        "name": "jest",
+        "version": "23.0.0-alpha.3r"
+      },
+      "23.0.0-beta.3r": {
+        "name": "jest",
+        "version": "23.0.0-beta.3r"
+      },
+      "23.0.0-charlie.0": {
+        "name": "jest",
+        "version": "23.0.0-charlie.0"
+      },
+      "23.0.0-charlie.1": {
+        "name": "jest",
+        "version": "23.0.0-charlie.1"
+      },
+      "23.0.0-charlie.2": {
+        "name": "jest",
+        "version": "23.0.0-charlie.2"
+      },
+      "22.4.4": {
+        "name": "jest",
+        "version": "22.4.4"
+      },
+      "23.0.0-charlie.3": {
+        "name": "jest",
+        "version": "23.0.0-charlie.3"
+      },
+      "23.0.0-charlie.4": {
+        "name": "jest",
+        "version": "23.0.0-charlie.4"
+      },
+      "23.0.0": {
+        "name": "jest",
+        "version": "23.0.0"
+      },
+      "23.0.1": {
+        "name": "jest",
+        "version": "23.0.1"
+      },
+      "23.1.0": {
+        "name": "jest",
+        "version": "23.1.0"
+      },
+      "23.2.0": {
+        "name": "jest",
+        "version": "23.2.0"
+      },
+      "23.3.0": {
+        "name": "jest",
+        "version": "23.3.0"
+      },
+      "23.4.0": {
+        "name": "jest",
+        "version": "23.4.0"
+      },
+      "23.4.1": {
+        "name": "jest",
+        "version": "23.4.1"
+      },
+      "23.4.2": {
+        "name": "jest",
+        "version": "23.4.2"
+      },
+      "23.5.0": {
+        "name": "jest",
+        "version": "23.5.0"
+      },
+      "23.6.0": {
+        "name": "jest",
+        "version": "23.6.0"
+      },
+      "24.0.0-alpha.0": {
+        "name": "jest",
+        "version": "24.0.0-alpha.0"
+      },
+      "24.0.0-alpha.1": {
+        "name": "jest",
+        "version": "24.0.0-alpha.1"
+      },
+      "24.0.0-alpha.2": {
+        "name": "jest",
+        "version": "24.0.0-alpha.2"
+      },
+      "24.0.0-alpha.3": {
+        "name": "jest",
+        "version": "24.0.0-alpha.3"
+      },
+      "24.0.0-alpha.4": {
+        "name": "jest",
+        "version": "24.0.0-alpha.4"
+      },
+      "24.0.0-alpha.5": {
+        "name": "jest",
+        "version": "24.0.0-alpha.5"
+      },
+      "24.0.0-alpha.6": {
+        "name": "jest",
+        "version": "24.0.0-alpha.6"
+      },
+      "24.0.0-alpha.7": {
+        "name": "jest",
+        "version": "24.0.0-alpha.7"
+      },
+      "24.0.0-alpha.8": {
+        "name": "jest",
+        "version": "24.0.0-alpha.8"
+      },
+      "24.0.0-alpha.9": {
+        "name": "jest",
+        "version": "24.0.0-alpha.9"
+      },
+      "24.0.0-alpha.10": {
+        "name": "jest",
+        "version": "24.0.0-alpha.10"
+      },
+      "24.0.0-alpha.11": {
+        "name": "jest",
+        "version": "24.0.0-alpha.11"
+      },
+      "24.0.0-alpha.12": {
+        "name": "jest",
+        "version": "24.0.0-alpha.12"
+      },
+      "24.0.0-alpha.13": {
+        "name": "jest",
+        "version": "24.0.0-alpha.13"
+      },
+      "24.0.0-alpha.14": {
+        "name": "jest",
+        "version": "24.0.0-alpha.14"
+      },
+      "24.0.0-alpha.15": {
+        "name": "jest",
+        "version": "24.0.0-alpha.15"
+      },
+      "24.0.0-alpha.16": {
+        "name": "jest",
+        "version": "24.0.0-alpha.16"
+      },
+      "24.0.0": {
+        "name": "jest",
+        "version": "24.0.0"
+      },
+      "24.1.0": {
+        "name": "jest",
+        "version": "24.1.0"
+      },
+      "24.2.0-alpha.0": {
+        "name": "jest",
+        "version": "24.2.0-alpha.0"
+      },
+      "24.3.0": {
+        "name": "jest",
+        "version": "24.3.0"
+      },
+      "24.3.1": {
+        "name": "jest",
+        "version": "24.3.1"
+      },
+      "24.4.0": {
+        "name": "jest",
+        "version": "24.4.0"
+      },
+      "24.5.0": {
+        "name": "jest",
+        "version": "24.5.0"
+      },
+      "24.6.0": {
+        "name": "jest",
+        "version": "24.6.0"
+      },
+      "24.7.0": {
+        "name": "jest",
+        "version": "24.7.0"
+      },
+      "24.7.1": {
+        "name": "jest",
+        "version": "24.7.1"
+      },
+      "24.8.0": {
+        "name": "jest",
+        "version": "24.8.0"
+      },
+      "24.9.0": {
+        "name": "jest",
+        "version": "24.9.0"
+      },
+      "25.0.0": {
+        "name": "jest",
+        "version": "25.0.0"
+      },
+      "25.1.0": {
+        "name": "jest",
+        "version": "25.1.0"
+      },
+      "25.2.0-alpha.86": {
+        "name": "jest",
+        "version": "25.2.0-alpha.86"
+      },
+      "25.2.0": {
+        "name": "jest",
+        "version": "25.2.0"
+      },
+      "25.2.1-alpha.1": {
+        "name": "jest",
+        "version": "25.2.1-alpha.1"
+      },
+      "25.2.1-alpha.2": {
+        "name": "jest",
+        "version": "25.2.1-alpha.2"
+      },
+      "25.2.1": {
+        "name": "jest",
+        "version": "25.2.1"
+      },
+      "25.2.2": {
+        "name": "jest",
+        "version": "25.2.2"
+      },
+      "25.2.3": {
+        "name": "jest",
+        "version": "25.2.3"
+      },
+      "25.2.4": {
+        "name": "jest",
+        "version": "25.2.4"
+      },
+      "25.2.6": {
+        "name": "jest",
+        "version": "25.2.6"
+      },
+      "25.2.7": {
+        "name": "jest",
+        "version": "25.2.7"
+      },
+      "25.3.0": {
+        "name": "jest",
+        "version": "25.3.0"
+      },
+      "25.4.0": {
+        "name": "jest",
+        "version": "25.4.0"
+      },
+      "25.5.0": {
+        "name": "jest",
+        "version": "25.5.0"
+      },
+      "25.5.1": {
+        "name": "jest",
+        "version": "25.5.1"
+      },
+      "25.5.2": {
+        "name": "jest",
+        "version": "25.5.2"
+      },
+      "25.5.3": {
+        "name": "jest",
+        "version": "25.5.3"
+      },
+      "25.5.4": {
+        "name": "jest",
+        "version": "25.5.4"
+      },
+      "26.0.0-alpha.0": {
+        "name": "jest",
+        "version": "26.0.0-alpha.0"
+      },
+      "26.0.0-alpha.1": {
+        "name": "jest",
+        "version": "26.0.0-alpha.1"
+      },
+      "26.0.0-alpha.2": {
+        "name": "jest",
+        "version": "26.0.0-alpha.2"
+      },
+      "26.0.0": {
+        "name": "jest",
+        "version": "26.0.0"
+      },
+      "26.0.1-alpha.0": {
+        "name": "jest",
+        "version": "26.0.1-alpha.0"
+      },
+      "26.0.1": {
+        "name": "jest",
+        "version": "26.0.1"
+      },
+      "26.1.0": {
+        "name": "jest",
+        "version": "26.1.0"
+      },
+      "26.2.0": {
+        "name": "jest",
+        "version": "26.2.0"
+      },
+      "26.2.1": {
+        "name": "jest",
+        "version": "26.2.1"
+      },
+      "26.2.2": {
+        "name": "jest",
+        "version": "26.2.2"
+      },
+      "26.3.0": {
+        "name": "jest",
+        "version": "26.3.0"
+      },
+      "26.4.0": {
+        "name": "jest",
+        "version": "26.4.0"
+      },
+      "26.4.1": {
+        "name": "jest",
+        "version": "26.4.1"
+      },
+      "26.4.2": {
+        "name": "jest",
+        "version": "26.4.2"
+      },
+      "26.5.0": {
+        "name": "jest",
+        "version": "26.5.0"
+      },
+      "26.5.2": {
+        "name": "jest",
+        "version": "26.5.2"
+      },
+      "26.5.3": {
+        "name": "jest",
+        "version": "26.5.3"
+      },
+      "26.6.0": {
+        "name": "jest",
+        "version": "26.6.0"
+      },
+      "26.6.1": {
+        "name": "jest",
+        "version": "26.6.1"
+      },
+      "26.6.2": {
+        "name": "jest",
+        "version": "26.6.2"
+      },
+      "26.6.3": {
+        "name": "jest",
+        "version": "26.6.3"
+      },
+      "27.0.0-next.0": {
+        "name": "jest",
+        "version": "27.0.0-next.0"
+      },
+      "27.0.0-next.1": {
+        "name": "jest",
+        "version": "27.0.0-next.1"
+      },
+      "27.0.0-next.2": {
+        "name": "jest",
+        "version": "27.0.0-next.2"
+      },
+      "27.0.0-next.3": {
+        "name": "jest",
+        "version": "27.0.0-next.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.4": {
+        "name": "jest",
+        "version": "27.0.0-next.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.5": {
+        "name": "jest",
+        "version": "27.0.0-next.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.6": {
+        "name": "jest",
+        "version": "27.0.0-next.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.7": {
+        "name": "jest",
+        "version": "27.0.0-next.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.8": {
+        "name": "jest",
+        "version": "27.0.0-next.8",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.9": {
+        "name": "jest",
+        "version": "27.0.0-next.9",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.10": {
+        "name": "jest",
+        "version": "27.0.0-next.10",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.11": {
+        "name": "jest",
+        "version": "27.0.0-next.11",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0": {
+        "name": "jest",
+        "version": "27.0.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.1": {
+        "name": "jest",
+        "version": "27.0.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.2": {
+        "name": "jest",
+        "version": "27.0.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.3": {
+        "name": "jest",
+        "version": "27.0.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.4": {
+        "name": "jest",
+        "version": "27.0.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.5": {
+        "name": "jest",
+        "version": "27.0.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.0.6": {
+        "name": "jest",
+        "version": "27.0.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.1.0": {
+        "name": "jest",
+        "version": "27.1.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.1.1": {
+        "name": "jest",
+        "version": "27.1.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.0": {
+        "name": "jest",
+        "version": "27.2.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.1": {
+        "name": "jest",
+        "version": "27.2.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.2": {
+        "name": "jest",
+        "version": "27.2.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.3": {
+        "name": "jest",
+        "version": "27.2.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.4": {
+        "name": "jest",
+        "version": "27.2.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.5": {
+        "name": "jest",
+        "version": "27.2.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.3.0": {
+        "name": "jest",
+        "version": "27.3.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.3.1": {
+        "name": "jest",
+        "version": "27.3.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.0": {
+        "name": "jest",
+        "version": "27.4.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.1": {
+        "name": "jest",
+        "version": "27.4.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.2": {
+        "name": "jest",
+        "version": "27.4.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.3": {
+        "name": "jest",
+        "version": "27.4.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.4": {
+        "name": "jest",
+        "version": "27.4.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.5": {
+        "name": "jest",
+        "version": "27.4.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.6": {
+        "name": "jest",
+        "version": "27.4.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.7": {
+        "name": "jest",
+        "version": "27.4.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.5.0": {
+        "name": "jest",
+        "version": "27.5.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.5.1": {
+        "name": "jest",
+        "version": "27.5.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.0": {
+        "name": "jest",
+        "version": "28.0.0-alpha.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.1": {
+        "name": "jest",
+        "version": "28.0.0-alpha.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.2": {
+        "name": "jest",
+        "version": "28.0.0-alpha.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.3": {
+        "name": "jest",
+        "version": "28.0.0-alpha.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.4": {
+        "name": "jest",
+        "version": "28.0.0-alpha.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.5": {
+        "name": "jest",
+        "version": "28.0.0-alpha.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.6": {
+        "name": "jest",
+        "version": "28.0.0-alpha.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.7": {
+        "name": "jest",
+        "version": "28.0.0-alpha.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.8": {
+        "name": "jest",
+        "version": "28.0.0-alpha.8",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.9": {
+        "name": "jest",
+        "version": "28.0.0-alpha.9",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.10": {
+        "name": "jest",
+        "version": "28.0.0-alpha.10",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.11": {
+        "name": "jest",
+        "version": "28.0.0-alpha.11",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0": {
+        "name": "jest",
+        "version": "28.0.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.1": {
+        "name": "jest",
+        "version": "28.0.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.2": {
+        "name": "jest",
+        "version": "28.0.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.3": {
+        "name": "jest",
+        "version": "28.0.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.1.0": {
+        "name": "jest",
+        "version": "28.1.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.1.1": {
+        "name": "jest",
+        "version": "28.1.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.1.2": {
+        "name": "jest",
+        "version": "28.1.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.1.3": {
+        "name": "jest",
+        "version": "28.1.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.0": {
+        "name": "jest",
+        "version": "29.0.0-alpha.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.1": {
+        "name": "jest",
+        "version": "29.0.0-alpha.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.3": {
+        "name": "jest",
+        "version": "29.0.0-alpha.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.4": {
+        "name": "jest",
+        "version": "29.0.0-alpha.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.5": {
+        "name": "jest",
+        "version": "29.0.0-alpha.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.6": {
+        "name": "jest",
+        "version": "29.0.0-alpha.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0": {
+        "name": "jest",
+        "version": "29.0.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.1": {
+        "name": "jest",
+        "version": "29.0.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.2": {
+        "name": "jest",
+        "version": "29.0.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.3": {
+        "name": "jest",
+        "version": "29.0.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.1.0": {
+        "name": "jest",
+        "version": "29.1.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.1.1": {
+        "name": "jest",
+        "version": "29.1.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.1.2": {
+        "name": "jest",
+        "version": "29.1.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.2.0": {
+        "name": "jest",
+        "version": "29.2.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.2.1": {
+        "name": "jest",
+        "version": "29.2.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.2.2": {
+        "name": "jest",
+        "version": "29.2.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.3.0": {
+        "name": "jest",
+        "version": "29.3.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.3.1": {
+        "name": "jest",
+        "version": "29.3.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.4.0": {
+        "name": "jest",
+        "version": "29.4.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.4.1": {
+        "name": "jest",
+        "version": "29.4.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.4.2": {
+        "name": "jest",
+        "version": "29.4.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.4.3": {
+        "name": "jest",
+        "version": "29.4.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.5.0": {
+        "name": "jest",
+        "version": "29.5.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.0": {
+        "name": "jest",
+        "version": "29.6.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.1": {
+        "name": "jest",
+        "version": "29.6.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.2": {
+        "name": "jest",
+        "version": "29.6.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.3": {
+        "name": "jest",
+        "version": "29.6.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.4": {
+        "name": "jest",
+        "version": "29.6.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.7.0": {
+        "name": "jest",
+        "version": "29.7.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.1": {
+        "name": "jest",
+        "version": "30.0.0-alpha.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.2": {
+        "name": "jest",
+        "version": "30.0.0-alpha.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.3": {
+        "name": "jest",
+        "version": "30.0.0-alpha.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.4": {
+        "name": "jest",
+        "version": "30.0.0-alpha.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.5": {
+        "name": "jest",
+        "version": "30.0.0-alpha.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.6": {
+        "name": "jest",
+        "version": "30.0.0-alpha.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.7": {
+        "name": "jest",
+        "version": "30.0.0-alpha.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.2": {
+        "name": "jest",
+        "version": "30.0.0-beta.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.3": {
+        "name": "jest",
+        "version": "30.0.0-beta.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.4": {
+        "name": "jest",
+        "version": "30.0.0-beta.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.5": {
+        "name": "jest",
+        "version": "30.0.0-beta.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.6": {
+        "name": "jest",
+        "version": "30.0.0-beta.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.7": {
+        "name": "jest",
+        "version": "30.0.0-beta.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.8": {
+        "name": "jest",
+        "version": "30.0.0-beta.8",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.9": {
+        "name": "jest",
+        "version": "30.0.0-beta.9",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-rc.1": {
+        "name": "jest",
+        "version": "30.0.0-rc.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0": {
+        "name": "jest",
+        "version": "30.0.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.1": {
+        "name": "jest",
+        "version": "30.0.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.2": {
+        "name": "jest",
+        "version": "30.0.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.3": {
+        "name": "jest",
+        "version": "30.0.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.4": {
+        "name": "jest",
+        "version": "30.0.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.5": {
+        "name": "jest",
+        "version": "30.0.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.1.0": {
+        "name": "jest",
+        "version": "30.1.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.1.1": {
+        "name": "jest",
+        "version": "30.1.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.1.2": {
+        "name": "jest",
+        "version": "30.1.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.1.3": {
+        "name": "jest",
+        "version": "30.1.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.2.0": {
+        "name": "jest",
+        "version": "30.2.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.3.0": {
+        "name": "jest",
+        "version": "30.3.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.4.0": {
+        "name": "jest",
+        "version": "30.4.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.4.1": {
+        "name": "jest",
+        "version": "30.4.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.4.2": {
+        "name": "jest",
+        "version": "30.4.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      }
+    }
+  },
+  "jest-auto-spies": {
+    "name": "jest-auto-spies",
+    "dist-tags": {
+      "latest": "3.0.1"
+    },
+    "versions": {
+      "1.0.0": {
+        "name": "jest-auto-spies",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.0.1": {
+        "name": "jest-auto-spies",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.0.2": {
+        "name": "jest-auto-spies",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.0.3": {
+        "name": "jest-auto-spies",
+        "version": "1.0.3",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.1.0": {
+        "name": "jest-auto-spies",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.1.1": {
+        "name": "jest-auto-spies",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.2.0": {
+        "name": "jest-auto-spies",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.2.1": {
+        "name": "jest-auto-spies",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.3.0": {
+        "name": "jest-auto-spies",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.4.0": {
+        "name": "jest-auto-spies",
+        "version": "1.4.0",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.5.0": {
+        "name": "jest-auto-spies",
+        "version": "1.5.0",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.0": {
+        "name": "jest-auto-spies",
+        "version": "1.6.0",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.1": {
+        "name": "jest-auto-spies",
+        "version": "1.6.1",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.2": {
+        "name": "jest-auto-spies",
+        "version": "1.6.2",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.3": {
+        "name": "jest-auto-spies",
+        "version": "1.6.3",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.4": {
+        "name": "jest-auto-spies",
+        "version": "1.6.4",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.5": {
+        "name": "jest-auto-spies",
+        "version": "1.6.5",
+        "peerDependencies": {
+          "jest": "< 27.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.6": {
+        "name": "jest-auto-spies",
+        "version": "1.6.6",
+        "peerDependencies": {
+          "jest": "< 28.x",
+          "rxjs": "^6.0.0",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.7": {
+        "name": "jest-auto-spies",
+        "version": "1.6.7",
+        "peerDependencies": {
+          "jest": "< 28.x",
+          "rxjs": ">=6.0.0 < 8",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.8": {
+        "name": "jest-auto-spies",
+        "version": "1.6.8",
+        "peerDependencies": {
+          "jest": "< 28.x",
+          "rxjs": ">=6.0.0 < 8",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.9": {
+        "name": "jest-auto-spies",
+        "version": "1.6.9",
+        "peerDependencies": {
+          "jest": "< 28.x",
+          "rxjs": ">=6.0.0 < 8",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "1.6.10": {
+        "name": "jest-auto-spies",
+        "version": "1.6.10",
+        "peerDependencies": {
+          "jest": "< 29.x",
+          "rxjs": ">=6.0.0 < 8",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "2.0.0": {
+        "name": "jest-auto-spies",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "jest": ">= 29.0.0 < 30.x",
+          "rxjs": ">=6.0.0 < 8",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "3.0.0": {
+        "name": "jest-auto-spies",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "jest": ">= 29.0.0 < 30.x",
+          "rxjs": ">=6.0.0 < 8",
+          "typescript": ">=2.8.1"
+        }
+      },
+      "3.0.1": {
+        "name": "jest-auto-spies",
+        "version": "3.0.1",
+        "peerDependencies": {
+          "jest": ">= 29.0.0 < 31.x",
+          "rxjs": ">=6.0.0 < 8",
+          "typescript": ">=2.8.1"
+        }
+      }
+    }
+  },
+  "jest-preset-angular": {
+    "name": "jest-preset-angular",
+    "dist-tags": {
+      "next": "15.0.0-next.0",
+      "latest": "16.1.5"
+    },
+    "versions": {
+      "0.0.1": {
+        "name": "jest-preset-angular",
+        "version": "0.0.1"
+      },
+      "0.0.2": {
+        "name": "jest-preset-angular",
+        "version": "0.0.2"
+      },
+      "0.0.3": {
+        "name": "jest-preset-angular",
+        "version": "0.0.3"
+      },
+      "0.0.4": {
+        "name": "jest-preset-angular",
+        "version": "0.0.4"
+      },
+      "0.0.5": {
+        "name": "jest-preset-angular",
+        "version": "0.0.5"
+      },
+      "0.0.6": {
+        "name": "jest-preset-angular",
+        "version": "0.0.6"
+      },
+      "0.0.7": {
+        "name": "jest-preset-angular",
+        "version": "0.0.7"
+      },
+      "0.0.8": {
+        "name": "jest-preset-angular",
+        "version": "0.0.8"
+      },
+      "0.0.9": {
+        "name": "jest-preset-angular",
+        "version": "0.0.9"
+      },
+      "0.0.10": {
+        "name": "jest-preset-angular",
+        "version": "0.0.10"
+      },
+      "0.0.11": {
+        "name": "jest-preset-angular",
+        "version": "0.0.11"
+      },
+      "0.0.12": {
+        "name": "jest-preset-angular",
+        "version": "0.0.12"
+      },
+      "0.0.13": {
+        "name": "jest-preset-angular",
+        "version": "0.0.13"
+      },
+      "0.0.14": {
+        "name": "jest-preset-angular",
+        "version": "0.0.14"
+      },
+      "0.1.0": {
+        "name": "jest-preset-angular",
+        "version": "0.1.0"
+      },
+      "1.0.0-alpha": {
+        "name": "jest-preset-angular",
+        "version": "1.0.0-alpha"
+      },
+      "1.0.0": {
+        "name": "jest-preset-angular",
+        "version": "1.0.0"
+      },
+      "1.1.0": {
+        "name": "jest-preset-angular",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "jest": "^19.0.2"
+        }
+      },
+      "1.1.1": {
+        "name": "jest-preset-angular",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "jest": "^19.0.2"
+        }
+      },
+      "1.1.2": {
+        "name": "jest-preset-angular",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "jest": "^19.0.2"
+        }
+      },
+      "1.1.3": {
+        "name": "jest-preset-angular",
+        "version": "1.1.3",
+        "peerDependencies": {
+          "jest": "^19.0.2"
+        }
+      },
+      "1.2.0": {
+        "name": "jest-preset-angular",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "jest": "^19.0.2"
+        }
+      },
+      "1.2.1": {
+        "name": "jest-preset-angular",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "jest": "^19.0.2"
+        }
+      },
+      "2.0.0": {
+        "name": "jest-preset-angular",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "jest": "^20.0.0"
+        }
+      },
+      "2.0.1": {
+        "name": "jest-preset-angular",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "jest": "^20.0.0"
+        }
+      },
+      "2.0.2": {
+        "name": "jest-preset-angular",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "jest": "^20.0.0"
+        }
+      },
+      "2.0.3": {
+        "name": "jest-preset-angular",
+        "version": "2.0.3",
+        "peerDependencies": {
+          "jest": "^20.0.0"
+        }
+      },
+      "2.0.4": {
+        "name": "jest-preset-angular",
+        "version": "2.0.4",
+        "peerDependencies": {
+          "jest": "^20.0.0"
+        }
+      },
+      "2.0.5": {
+        "name": "jest-preset-angular",
+        "version": "2.0.5",
+        "peerDependencies": {
+          "jest": "^20.0.0"
+        }
+      },
+      "3.0.0": {
+        "name": "jest-preset-angular",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "jest": "^20.0.0"
+        }
+      },
+      "3.0.1": {
+        "name": "jest-preset-angular",
+        "version": "3.0.1",
+        "peerDependencies": {
+          "jest": "^21.0.1"
+        }
+      },
+      "3.0.2": {
+        "name": "jest-preset-angular",
+        "version": "3.0.2",
+        "peerDependencies": {
+          "jest": "^21.0.1"
+        }
+      },
+      "4.0.0-alpha.1": {
+        "name": "jest-preset-angular",
+        "version": "4.0.0-alpha.1",
+        "peerDependencies": {
+          "jest": "^21.0.1"
+        }
+      },
+      "4.0.0": {
+        "name": "jest-preset-angular",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "jest": "^21.0.1"
+        }
+      },
+      "4.0.1": {
+        "name": "jest-preset-angular",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "jest": "^21.0.1"
+        }
+      },
+      "4.0.2": {
+        "name": "jest-preset-angular",
+        "version": "4.0.2",
+        "peerDependencies": {
+          "jest": "^21.0.1"
+        }
+      },
+      "5.0.0-beta.0": {
+        "name": "jest-preset-angular",
+        "version": "5.0.0-beta.0",
+        "peerDependencies": {
+          "jest": "^22.0.0"
+        }
+      },
+      "5.0.0": {
+        "name": "jest-preset-angular",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "jest": "^22.0.0"
+        }
+      },
+      "5.1.0": {
+        "name": "jest-preset-angular",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "jest": "^22.0.0"
+        }
+      },
+      "5.2.0": {
+        "name": "jest-preset-angular",
+        "version": "5.2.0",
+        "peerDependencies": {
+          "jest": "^22.0.0"
+        }
+      },
+      "5.2.1": {
+        "name": "jest-preset-angular",
+        "version": "5.2.1",
+        "peerDependencies": {
+          "jest": "^22.0.0"
+        }
+      },
+      "5.2.2": {
+        "name": "jest-preset-angular",
+        "version": "5.2.2",
+        "peerDependencies": {
+          "jest": "^22.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "5.2.3": {
+        "name": "jest-preset-angular",
+        "version": "5.2.3",
+        "peerDependencies": {
+          "jest": "^22.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "6.0.0-rc.0": {
+        "name": "jest-preset-angular",
+        "version": "6.0.0-rc.0",
+        "peerDependencies": {
+          "jest": "^23.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "6.0.0": {
+        "name": "jest-preset-angular",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "jest": "^23.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "6.0.1": {
+        "name": "jest-preset-angular",
+        "version": "6.0.1",
+        "peerDependencies": {
+          "jest": "^23.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "7.0.0-alpha.1": {
+        "name": "jest-preset-angular",
+        "version": "7.0.0-alpha.1",
+        "peerDependencies": {
+          "jest": "^23.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "6.0.2": {
+        "name": "jest-preset-angular",
+        "version": "6.0.2",
+        "peerDependencies": {
+          "jest": "^23.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "7.0.0-alpha.2": {
+        "name": "jest-preset-angular",
+        "version": "7.0.0-alpha.2",
+        "peerDependencies": {
+          "jest": "^23.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "7.0.0-alpha.4": {
+        "name": "jest-preset-angular",
+        "version": "7.0.0-alpha.4",
+        "peerDependencies": {
+          "jest": "^23.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "7.0.0-alpha.5": {
+        "name": "jest-preset-angular",
+        "version": "7.0.0-alpha.5",
+        "peerDependencies": {
+          "jest": "^24.1.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "7.0.0": {
+        "name": "jest-preset-angular",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "jest": "^24.1.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "7.0.1": {
+        "name": "jest-preset-angular",
+        "version": "7.0.1",
+        "peerDependencies": {
+          "jest": "^24.1.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "7.1.0": {
+        "name": "jest-preset-angular",
+        "version": "7.1.0",
+        "peerDependencies": {
+          "jest": "^24.1.0",
+          "core-js": ">=2.0.0 < 4.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "7.1.1": {
+        "name": "jest-preset-angular",
+        "version": "7.1.1",
+        "peerDependencies": {
+          "jest": "^24.1.0",
+          "core-js": ">=2.0.0 < 4.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "8.0.0": {
+        "name": "jest-preset-angular",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "jest": "^24.1.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "8.1.0": {
+        "name": "jest-preset-angular",
+        "version": "8.1.0",
+        "peerDependencies": {
+          "jest": "^25.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "8.1.1": {
+        "name": "jest-preset-angular",
+        "version": "8.1.1",
+        "peerDependencies": {
+          "jest": "^25.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "8.1.2": {
+        "name": "jest-preset-angular",
+        "version": "8.1.2",
+        "peerDependencies": {
+          "jest": "^25.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "8.1.3": {
+        "name": "jest-preset-angular",
+        "version": "8.1.3",
+        "peerDependencies": {
+          "jest": "^25.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "8.2.0": {
+        "name": "jest-preset-angular",
+        "version": "8.2.0",
+        "peerDependencies": {
+          "jest": "^25.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "8.2.1": {
+        "name": "jest-preset-angular",
+        "version": "8.2.1",
+        "peerDependencies": {
+          "jest": "^26.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "8.3.0": {
+        "name": "jest-preset-angular",
+        "version": "8.3.0",
+        "peerDependencies": {
+          "jest": "^26.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "8.3.1": {
+        "name": "jest-preset-angular",
+        "version": "8.3.1",
+        "peerDependencies": {
+          "jest": "^26.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "9.0.0-next.0": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.0",
+        "peerDependencies": {
+          "jest": "^26.0.0",
+          "@angular/core": ">=8.0.0",
+          "@angular/platform-browser-dynamic": ">=8.0.0"
+        }
+      },
+      "8.3.2": {
+        "name": "jest-preset-angular",
+        "version": "8.3.2",
+        "peerDependencies": {
+          "jest": "^26.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "9.0.0-next.1": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.1",
+        "peerDependencies": {
+          "jest": "^26.0.0",
+          "@angular/core": ">=8.0.0",
+          "@angular/platform-browser-dynamic": ">=8.0.0"
+        }
+      },
+      "9.0.0-next.2": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.2",
+        "peerDependencies": {
+          "jest": "^26.0.0",
+          "@angular/core": ">=8.0.0",
+          "@angular/platform-browser-dynamic": ">=8.0.0"
+        }
+      },
+      "9.0.0-next.3": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.3",
+        "peerDependencies": {
+          "jest": "^26.0.0",
+          "@angular/core": ">=8.0.0",
+          "@ngtools/webpack": ">=9.0.0",
+          "@angular/platform-browser-dynamic": ">=8.0.0"
+        }
+      },
+      "9.0.0-next.4": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.4",
+        "peerDependencies": {
+          "jest": "27.0.0-next.2",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12",
+          "@angular/platform-browser-dynamic": ">=9.0.0"
+        }
+      },
+      "9.0.0-next.5": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.5",
+        "peerDependencies": {
+          "jest": "27.0.0-next.2",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12",
+          "@angular/platform-browser-dynamic": ">=9.0.0"
+        }
+      },
+      "9.0.0-next.6": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.6",
+        "peerDependencies": {
+          "jest": "27.0.0-next.2",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.0-next.7": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.7",
+        "peerDependencies": {
+          "jest": "27.0.0-next.2",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.0-next.8": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.8",
+        "peerDependencies": {
+          "jest": "27.0.0-next.2",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.0-next.9": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.9",
+        "peerDependencies": {
+          "jest": "27.0.0-next.3",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "8.4.0": {
+        "name": "jest-preset-angular",
+        "version": "8.4.0",
+        "peerDependencies": {
+          "jest": "^26.0.0",
+          "@angular/core": ">=2.0.0",
+          "@angular/platform-browser-dynamic": ">=2.0.0"
+        }
+      },
+      "9.0.0-next.10": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.10",
+        "peerDependencies": {
+          "jest": "27.0.0-next.4",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.0-next.11": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.11",
+        "peerDependencies": {
+          "jest": "27.0.0-next.5",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.0-next.12": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.12",
+        "peerDependencies": {
+          "jest": "27.0.0-next.6",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.0-next.13": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.13",
+        "peerDependencies": {
+          "jest": "27.0.0-next.8",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.0-next.14": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0-next.14",
+        "peerDependencies": {
+          "jest": "27.0.0-next.9"
+        }
+      },
+      "9.0.0": {
+        "name": "jest-preset-angular",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "jest": "^27.0.0",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.1": {
+        "name": "jest-preset-angular",
+        "version": "9.0.1",
+        "peerDependencies": {
+          "jest": "^27.0.0",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.2": {
+        "name": "jest-preset-angular",
+        "version": "9.0.2",
+        "peerDependencies": {
+          "jest": "^27.0.0",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12"
+        }
+      },
+      "9.0.3": {
+        "name": "jest-preset-angular",
+        "version": "9.0.3",
+        "peerDependencies": {
+          "jest": "^27.0.0",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12",
+          "@angular/platform-browser-dynamic": ">=9.0.0"
+        }
+      },
+      "9.0.4": {
+        "name": "jest-preset-angular",
+        "version": "9.0.4",
+        "peerDependencies": {
+          "jest": "^27.0.0",
+          "@angular/core": ">=9.0.0",
+          "@angular-devkit/build-angular": ">=0.901.12",
+          "@angular/platform-browser-dynamic": ">=9.0.0"
+        }
+      },
+      "9.0.5": {
+        "name": "jest-preset-angular",
+        "version": "9.0.5",
+        "peerDependencies": {
+          "@angular/core": ">=9.0.0",
+          "@angular/platform-browser-dynamic": ">=9.0.0"
+        }
+      },
+      "9.0.6": {
+        "name": "jest-preset-angular",
+        "version": "9.0.6",
+        "peerDependencies": {
+          "@angular/core": ">=9.0.0",
+          "@angular/platform-browser-dynamic": ">=9.0.0"
+        }
+      },
+      "9.0.7": {
+        "name": "jest-preset-angular",
+        "version": "9.0.7",
+        "peerDependencies": {
+          "@angular/core": ">=9.0.0",
+          "@angular/platform-browser-dynamic": ">=9.0.0"
+        }
+      },
+      "10.0.0": {
+        "name": "jest-preset-angular",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "10.0.1": {
+        "name": "jest-preset-angular",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "10.1.0": {
+        "name": "jest-preset-angular",
+        "version": "10.1.0",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.0.0-rc.0": {
+        "name": "jest-preset-angular",
+        "version": "11.0.0-rc.0",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.0.0-rc.1": {
+        "name": "jest-preset-angular",
+        "version": "11.0.0-rc.1",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.0.0-rc.2": {
+        "name": "jest-preset-angular",
+        "version": "11.0.0-rc.2",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.0.0-rc.3": {
+        "name": "jest-preset-angular",
+        "version": "11.0.0-rc.3",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.0.0-rc.4": {
+        "name": "jest-preset-angular",
+        "version": "11.0.0-rc.4",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.0.0": {
+        "name": "jest-preset-angular",
+        "version": "11.0.0",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.0.1": {
+        "name": "jest-preset-angular",
+        "version": "11.0.1",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.1.0": {
+        "name": "jest-preset-angular",
+        "version": "11.1.0",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular-devkit/build-angular": ">=0.1002.4",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.1.1": {
+        "name": "jest-preset-angular",
+        "version": "11.1.1",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular-devkit/build-angular": ">=0.1002.4",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "11.1.2": {
+        "name": "jest-preset-angular",
+        "version": "11.1.2",
+        "peerDependencies": {
+          "@angular/core": ">=10.0.0",
+          "@angular/compiler-cli": ">=10.0.0",
+          "@angular-devkit/build-angular": ">=0.1002.4",
+          "@angular/platform-browser-dynamic": ">=10.0.0"
+        }
+      },
+      "12.0.0-next.0": {
+        "name": "jest-preset-angular",
+        "version": "12.0.0-next.0",
+        "peerDependencies": {
+          "@angular/core": ">=11.2.14",
+          "@angular/compiler-cli": ">=11.2.14",
+          "@angular-devkit/build-angular": ">=0.1102.19",
+          "@angular/platform-browser-dynamic": ">=11.2.14"
+        }
+      },
+      "12.0.0-next.1": {
+        "name": "jest-preset-angular",
+        "version": "12.0.0-next.1",
+        "peerDependencies": {
+          "@angular/core": ">=11.2.14",
+          "@angular/compiler-cli": ">=11.2.14",
+          "@angular-devkit/build-angular": ">=0.1102.19",
+          "@angular/platform-browser-dynamic": ">=11.2.14"
+        }
+      },
+      "12.0.0-next.2": {
+        "name": "jest-preset-angular",
+        "version": "12.0.0-next.2",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.3",
+          "@angular/core": ">=11.2.14 <14.0.0",
+          "@angular/compiler-cli": ">=11.2.14 <14.0.0",
+          "@angular-devkit/build-angular": ">=0.1102.19 <14.0.0",
+          "@angular/platform-browser-dynamic": ">=11.2.14 <14.0.0"
+        }
+      },
+      "12.0.0": {
+        "name": "jest-preset-angular",
+        "version": "12.0.0",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.3",
+          "@angular/core": ">=11.2.14 <14.0.0",
+          "@angular/compiler-cli": ">=11.2.14 <14.0.0",
+          "@angular-devkit/build-angular": ">=0.1102.19 <14.0.0",
+          "@angular/platform-browser-dynamic": ">=11.2.14 <14.0.0"
+        }
+      },
+      "12.0.1": {
+        "name": "jest-preset-angular",
+        "version": "12.0.1",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.3",
+          "@angular/core": ">=11.2.14 <14.0.0",
+          "@angular/compiler-cli": ">=11.2.14 <14.0.0",
+          "@angular-devkit/build-angular": ">=0.1102.19 <14.0.0",
+          "@angular/platform-browser-dynamic": ">=11.2.14 <14.0.0"
+        }
+      },
+      "12.1.0-next.0": {
+        "name": "jest-preset-angular",
+        "version": "12.1.0-next.0",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.3",
+          "@angular/core": ">=11.2.14 || 14.0.0-alpha - 14",
+          "@angular/compiler-cli": ">=11.2.14 || 14.0.0-alpha - 14",
+          "@angular-devkit/build-angular": ">=0.1102.19 || 14.0.0-alpha - 14",
+          "@angular/platform-browser-dynamic": ">=11.2.14 || 14.0.0-alpha - 14"
+        }
+      },
+      "12.1.0": {
+        "name": "jest-preset-angular",
+        "version": "12.1.0",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.3",
+          "@angular/core": ">=11.2.14 <15.0.0",
+          "@angular/compiler-cli": ">=11.2.14 <15.0.0",
+          "@angular-devkit/build-angular": ">=0.1102.19 <15.0.0",
+          "@angular/platform-browser-dynamic": ">=11.2.14 <15.0.0"
+        }
+      },
+      "12.2.0": {
+        "name": "jest-preset-angular",
+        "version": "12.2.0",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.3",
+          "@angular/core": ">=11.2.14 <15.0.0",
+          "@angular/compiler-cli": ">=11.2.14 <15.0.0",
+          "@angular-devkit/build-angular": ">=0.1102.19 <15.0.0",
+          "@angular/platform-browser-dynamic": ">=11.2.14 <15.0.0"
+        }
+      },
+      "12.2.1": {
+        "name": "jest-preset-angular",
+        "version": "12.2.1",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.3",
+          "@angular/core": ">=11.2.14 <15.0.0",
+          "@angular/compiler-cli": ">=11.2.14 <15.0.0",
+          "@angular-devkit/build-angular": ">=0.1102.19 <15.0.0",
+          "@angular/platform-browser-dynamic": ">=11.2.14 <15.0.0"
+        }
+      },
+      "12.2.2": {
+        "name": "jest-preset-angular",
+        "version": "12.2.2",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.3",
+          "@angular/core": ">=11.2.14 <15.0.0",
+          "@angular/compiler-cli": ">=11.2.14 <15.0.0",
+          "@angular-devkit/build-angular": ">=0.1102.19 <15.0.0",
+          "@angular/platform-browser-dynamic": ">=11.2.14 <15.0.0"
+        }
+      },
+      "12.2.3": {
+        "name": "jest-preset-angular",
+        "version": "12.2.3",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=12.2.16 <16.0.0",
+          "@angular/compiler-cli": ">=12.2.16 <16.0.0",
+          "@angular-devkit/build-angular": ">=12.2.18 <16.0.0",
+          "@angular/platform-browser-dynamic": ">=12.2.16 <16.0.0"
+        }
+      },
+      "12.2.4": {
+        "name": "jest-preset-angular",
+        "version": "12.2.4",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.2",
+          "@angular/core": ">=12.2.16 <16.0.0",
+          "@angular/compiler-cli": ">=12.2.16 <16.0.0",
+          "@angular-devkit/build-angular": ">=12.2.18 <16.0.0",
+          "@angular/platform-browser-dynamic": ">=12.2.16 <16.0.0"
+        }
+      },
+      "12.2.5": {
+        "name": "jest-preset-angular",
+        "version": "12.2.5",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.2",
+          "@angular/core": ">=12.2.16 <16.0.0",
+          "@angular/compiler-cli": ">=12.2.16 <16.0.0",
+          "@angular-devkit/build-angular": ">=12.2.18 <16.0.0",
+          "@angular/platform-browser-dynamic": ">=12.2.16 <16.0.0"
+        }
+      },
+      "12.2.6": {
+        "name": "jest-preset-angular",
+        "version": "12.2.6",
+        "peerDependencies": {
+          "jest": "^28.0.0",
+          "typescript": ">=4.2",
+          "@angular/core": ">=12.2.16 <16.0.0",
+          "@angular/compiler-cli": ">=12.2.16 <16.0.0",
+          "@angular-devkit/build-angular": ">=12.2.18 <16.0.0",
+          "@angular/platform-browser-dynamic": ">=12.2.16 <16.0.0"
+        }
+      },
+      "13.0.0-next.0": {
+        "name": "jest-preset-angular",
+        "version": "13.0.0-next.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <16.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <16.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <16.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <16.0.0"
+        }
+      },
+      "13.0.0-next.1": {
+        "name": "jest-preset-angular",
+        "version": "13.0.0-next.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <16.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <16.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <16.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <16.0.0"
+        }
+      },
+      "13.0.0": {
+        "name": "jest-preset-angular",
+        "version": "13.0.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <16.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <16.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <16.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <16.0.0"
+        }
+      },
+      "13.0.1": {
+        "name": "jest-preset-angular",
+        "version": "13.0.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <16.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <16.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <16.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <16.0.0"
+        }
+      },
+      "13.1.0": {
+        "name": "jest-preset-angular",
+        "version": "13.1.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <17.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <17.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <17.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <17.0.0"
+        }
+      },
+      "13.1.1": {
+        "name": "jest-preset-angular",
+        "version": "13.1.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <17.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <17.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <17.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <17.0.0"
+        }
+      },
+      "13.1.2": {
+        "name": "jest-preset-angular",
+        "version": "13.1.2",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <17.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <17.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <17.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <17.0.0"
+        }
+      },
+      "13.1.3": {
+        "name": "jest-preset-angular",
+        "version": "13.1.3",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <18.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <18.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <18.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <18.0.0"
+        }
+      },
+      "13.1.4": {
+        "name": "jest-preset-angular",
+        "version": "13.1.4",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <18.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <18.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <18.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <18.0.0"
+        }
+      },
+      "13.1.5": {
+        "name": "jest-preset-angular",
+        "version": "13.1.5",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=15.0.0 <18.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <18.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <18.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <18.0.0"
+        }
+      },
+      "13.1.6": {
+        "name": "jest-preset-angular",
+        "version": "13.1.6",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=13.0.0 <18.0.0",
+          "@angular/compiler-cli": ">=13.0.0 <18.0.0",
+          "@angular-devkit/build-angular": ">=13.0.0 <18.0.0",
+          "@angular/platform-browser-dynamic": ">=13.0.0 <18.0.0"
+        }
+      },
+      "14.0.0": {
+        "name": "jest-preset-angular",
+        "version": "14.0.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.4",
+          "@angular/core": ">=15.0.0 <18.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <18.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <18.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <18.0.0"
+        }
+      },
+      "14.0.1": {
+        "name": "jest-preset-angular",
+        "version": "14.0.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <18.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <18.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <18.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <18.0.0"
+        }
+      },
+      "14.0.2": {
+        "name": "jest-preset-angular",
+        "version": "14.0.2",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <18.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <18.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <18.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <18.0.0"
+        }
+      },
+      "14.0.3": {
+        "name": "jest-preset-angular",
+        "version": "14.0.3",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <18.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <18.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <18.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <18.0.0"
+        }
+      },
+      "14.0.4": {
+        "name": "jest-preset-angular",
+        "version": "14.0.4",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <18.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <18.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <18.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <18.0.0"
+        }
+      },
+      "14.1.0": {
+        "name": "jest-preset-angular",
+        "version": "14.1.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.1.1": {
+        "name": "jest-preset-angular",
+        "version": "14.1.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.2.0": {
+        "name": "jest-preset-angular",
+        "version": "14.2.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.2.1": {
+        "name": "jest-preset-angular",
+        "version": "14.2.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.2.2": {
+        "name": "jest-preset-angular",
+        "version": "14.2.2",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.2.3": {
+        "name": "jest-preset-angular",
+        "version": "14.2.3",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.2.4": {
+        "name": "jest-preset-angular",
+        "version": "14.2.4",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.3.0": {
+        "name": "jest-preset-angular",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.3.1": {
+        "name": "jest-preset-angular",
+        "version": "14.3.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.3.2": {
+        "name": "jest-preset-angular",
+        "version": "14.3.2",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.3.3": {
+        "name": "jest-preset-angular",
+        "version": "14.3.3",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <19.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <19.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <19.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <19.0.0"
+        }
+      },
+      "14.4.0-rc.0": {
+        "name": "jest-preset-angular",
+        "version": "14.4.0-rc.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "14.4.0": {
+        "name": "jest-preset-angular",
+        "version": "14.4.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular-devkit/build-angular": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "14.4.1": {
+        "name": "jest-preset-angular",
+        "version": "14.4.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "14.4.2": {
+        "name": "jest-preset-angular",
+        "version": "14.4.2",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "14.5.0": {
+        "name": "jest-preset-angular",
+        "version": "14.5.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=20.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "14.5.1": {
+        "name": "jest-preset-angular",
+        "version": "14.5.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=20.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "14.5.2": {
+        "name": "jest-preset-angular",
+        "version": "14.5.2",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=20.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "14.5.3": {
+        "name": "jest-preset-angular",
+        "version": "14.5.3",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=20.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "15.0.0-next.0": {
+        "name": "jest-preset-angular",
+        "version": "15.0.0-next.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=22.0.0",
+          "typescript": ">=5.4",
+          "@angular/core": ">=17.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=17.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=17.0.0 <20.0.0"
+        }
+      },
+      "14.5.4": {
+        "name": "jest-preset-angular",
+        "version": "14.5.4",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=20.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "14.5.5": {
+        "name": "jest-preset-angular",
+        "version": "14.5.5",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=20.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <20.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <20.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <20.0.0"
+        }
+      },
+      "14.6.0": {
+        "name": "jest-preset-angular",
+        "version": "14.6.0",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=20.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <21.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <21.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <21.0.0"
+        }
+      },
+      "14.6.1": {
+        "name": "jest-preset-angular",
+        "version": "14.6.1",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=20.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <21.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <21.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <21.0.0"
+        }
+      },
+      "15.0.0-rc.0": {
+        "name": "jest-preset-angular",
+        "version": "15.0.0-rc.0",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=18.0.0 <21.0.0",
+          "@angular/compiler-cli": ">=18.0.0 <21.0.0",
+          "jest-environment-jsdom": "^30.0.0",
+          "@angular/platform-browser-dynamic": ">=18.0.0 <21.0.0"
+        }
+      },
+      "15.0.0": {
+        "name": "jest-preset-angular",
+        "version": "15.0.0",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=18.0.0 <21.0.0",
+          "@angular/compiler-cli": ">=18.0.0 <21.0.0",
+          "jest-environment-jsdom": "^30.0.0",
+          "@angular/platform-browser-dynamic": ">=18.0.0 <21.0.0"
+        }
+      },
+      "15.0.1": {
+        "name": "jest-preset-angular",
+        "version": "15.0.1",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=18.0.0 <21.0.0",
+          "@angular/compiler-cli": ">=18.0.0 <21.0.0",
+          "@angular/platform-browser": ">=18.0.0 <21.0.0",
+          "@angular/platform-browser-dynamic": ">=18.0.0 <21.0.0"
+        }
+      },
+      "15.0.2": {
+        "name": "jest-preset-angular",
+        "version": "15.0.2",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=18.0.0 <21.0.0",
+          "@angular/compiler-cli": ">=18.0.0 <21.0.0",
+          "@angular/platform-browser": ">=18.0.0 <21.0.0",
+          "@angular/platform-browser-dynamic": ">=18.0.0 <21.0.0"
+        }
+      },
+      "14.6.2": {
+        "name": "jest-preset-angular",
+        "version": "14.6.2",
+        "peerDependencies": {
+          "jest": "^29.0.0",
+          "jsdom": ">=20.0.0",
+          "typescript": ">=4.8",
+          "@angular/core": ">=15.0.0 <21.0.0",
+          "@angular/compiler-cli": ">=15.0.0 <21.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0 <21.0.0"
+        }
+      },
+      "15.0.3": {
+        "name": "jest-preset-angular",
+        "version": "15.0.3",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=18.0.0 <21.0.0",
+          "@angular/compiler-cli": ">=18.0.0 <21.0.0",
+          "@angular/platform-browser": ">=18.0.0 <21.0.0",
+          "@angular/platform-browser-dynamic": ">=18.0.0 <21.0.0"
+        }
+      },
+      "16.0.0": {
+        "name": "jest-preset-angular",
+        "version": "16.0.0",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=19.0.0 <22.0.0",
+          "@angular/compiler-cli": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser-dynamic": ">=19.0.0 <22.0.0"
+        }
+      },
+      "16.1.0": {
+        "name": "jest-preset-angular",
+        "version": "16.1.0",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=19.0.0 <22.0.0",
+          "@angular/compiler-cli": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser-dynamic": ">=19.0.0 <22.0.0"
+        }
+      },
+      "16.1.1": {
+        "name": "jest-preset-angular",
+        "version": "16.1.1",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=19.0.0 <22.0.0",
+          "@angular/compiler-cli": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser-dynamic": ">=19.0.0 <22.0.0"
+        }
+      },
+      "16.1.2": {
+        "name": "jest-preset-angular",
+        "version": "16.1.2",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=19.0.0 <22.0.0",
+          "@angular/compiler-cli": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser-dynamic": ">=19.0.0 <22.0.0"
+        }
+      },
+      "16.1.3": {
+        "name": "jest-preset-angular",
+        "version": "16.1.3",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=19.0.0 <22.0.0",
+          "@angular/compiler-cli": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser-dynamic": ">=19.0.0 <22.0.0"
+        }
+      },
+      "16.1.4": {
+        "name": "jest-preset-angular",
+        "version": "16.1.4",
+        "peerDependencies": {
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5",
+          "@angular/core": ">=19.0.0 <22.0.0",
+          "@angular/compiler-cli": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser-dynamic": ">=19.0.0 <22.0.0"
+        }
+      },
+      "16.1.5": {
+        "name": "jest-preset-angular",
+        "version": "16.1.5",
+        "peerDependencies": {
+          "@angular/compiler-cli": ">=19.0.0 <22.0.0",
+          "@angular/core": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser": ">=19.0.0 <22.0.0",
+          "@angular/platform-browser-dynamic": ">=19.0.0 <22.0.0",
+          "jest": "^30.0.0",
+          "jsdom": ">=26.0.0",
+          "typescript": ">=5.5"
+        }
+      }
+    }
+  },
+  "json5-jest": {
+    "name": "json5-jest",
+    "dist-tags": {
+      "latest": "2.0.0"
+    },
+    "versions": {
+      "1.0.0": {
+        "name": "json5-jest",
+        "version": "1.0.0"
+      },
+      "1.0.1": {
+        "name": "json5-jest",
+        "version": "1.0.1"
+      },
+      "2.0.0": {
+        "name": "json5-jest",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "jest": ">= 28"
+        }
+      }
+    }
+  },
+  "@wordpress/jest-puppeteer-axe": {
+    "name": "@wordpress/jest-puppeteer-axe",
+    "dist-tags": {
+      "wp-5.7": "3.0.1",
+      "wp-5.8": "3.0.5",
+      "wp-5.9": "3.1.1",
+      "wp-6.0": "4.0.3",
+      "wp-6.1": "5.0.1",
+      "wp-6.2": "5.9.2",
+      "wp-6.3": "6.6.2",
+      "wp-6.4": "6.13.13",
+      "wp-6.5": "6.22.1",
+      "wp-6.6": "7.0.1",
+      "wp-6.7": "7.8.1",
+      "wp-6.8": "7.19.1",
+      "wp-6.9": "7.33.1",
+      "latest": "7.46.0",
+      "next": "7.45.1-next.v.202605131032.0"
+    },
+    "versions": {
+      "1.0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.6"
+        }
+      },
+      "1.1.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.6"
+        }
+      },
+      "1.2.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.6"
+        }
+      },
+      "1.3.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "1.4.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.4.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "1.5.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.5.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "1.6.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.6.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "1.7.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.7.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "1.8.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.8.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "1.8.1-rc.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.8.1-rc.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "1.9.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.9.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "1.10.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "1.10.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "2.0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "jest": ">=24",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.0-next.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.0-next.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.1",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.2-next.645224df70.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.2-next.645224df70.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.2-next.53e2173694.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.2-next.53e2173694.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.2-next.5c9849e156.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.2-next.5c9849e156.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.2": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.2",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.3-next.a2b36aa19d.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.3-next.a2b36aa19d.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.3": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.3",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.4": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.4",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.0.5": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.0.5",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.1.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.1.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.1.1-next.5df0cd52b7.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.1.1-next.5df0cd52b7.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.1.1-next.253d9b6e21.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.1.1-next.253d9b6e21.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "3.1.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "3.1.1",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=1.19.0"
+        }
+      },
+      "4.0.1-next.33ec3857e2.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "4.0.1-next.33ec3857e2.0",
+        "peerDependencies": {
+          "jest": ">=26",
+          "puppeteer": ">=11"
+        }
+      },
+      "4.0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "4.0.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "4.0.1-next.f435e9e01b.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "4.0.1-next.f435e9e01b.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "4.0.2-next.a55ed9455a.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "4.0.2-next.a55ed9455a.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "4.1.0-next.e230fbab09.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "4.1.0-next.e230fbab09.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "4.0.2": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "4.0.2",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "4.0.3": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "4.0.3",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "4.1.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "4.1.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.0.1-next.d6164808d3.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.0.1-next.d6164808d3.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.0.1-next.957ca95e4c.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.0.1-next.957ca95e4c.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.0.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.0.1",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.1.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.1.1-next.4d3b314fd5.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.1.1-next.4d3b314fd5.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.2.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.2.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.3.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.3.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.4.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.4.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.5.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.5.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.6.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.6.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.7.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.7.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.8.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.8.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.9.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.9.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.9.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.9.1",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.10.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.10.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.11.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.11.0",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.1.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.1.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.2.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.2.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.3.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.3.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.4.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.4.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.5.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.5.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.6.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.6.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.7.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.7.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.6.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.6.1",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.8.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.8.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.9.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.9.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.10.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.10.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.11.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.11.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.11.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.11.1",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.12.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.12.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.12.1-next.5a1d1283.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.12.1-next.5a1d1283.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.1",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.2": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.2",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.3": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.3",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.14.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.14.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.4": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.4",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.5": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.5",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.6": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.6",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "5.9.2": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "5.9.2",
+        "peerDependencies": {
+          "jest": ">=27",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.6.2": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.6.2",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.7": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.7",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.8": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.8",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.15.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.15.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.9": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.9",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.10": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.10",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.15.1-next.f8d8eceb.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.15.1-next.f8d8eceb.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.11": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.11",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.16.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.16.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.12": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.12",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.13.13": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.13.13",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.17.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.17.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.18.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.18.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.19.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.19.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.19.1-next.79a6196f.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.19.1-next.79a6196f.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.20.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.20.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.21.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.21.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.22.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.22.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.22.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.22.1",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.23.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.23.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.24.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.24.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.25.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.25.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.26.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.26.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.27.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.27.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.28.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.28.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "6.29.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "6.29.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.0.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.0.1",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.1.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.1.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.2.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.2.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.3.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.3.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.4.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.4.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.5.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.5.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.6.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.6.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.7.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.7.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.7.1-next.5368f64a9.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.7.1-next.5368f64a9.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.7.1-next.1f6eadc42.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.7.1-next.1f6eadc42.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.8.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.8.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.8.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.8.1",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.9.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.9.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.10.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.10.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.11.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.11.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.12.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.12.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.12.1-next.082ed6819.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.12.1-next.082ed6819.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.13.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.13.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.13.1-next.cd6172eb0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.13.1-next.cd6172eb0.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.13.1-next.a9f418477.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.13.1-next.a9f418477.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.14.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.14.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.15.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.15.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.16.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.16.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.17.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.17.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.18.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.18.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.19.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.19.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.19.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.19.1",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.20.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.20.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.21.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.21.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.22.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.22.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.23.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.23.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.24.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.24.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.25.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.25.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.26.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.26.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.26.1-next.719a03cbe.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.26.1-next.719a03cbe.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.27.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.27.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.27.1-next.46f643fa0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.27.1-next.46f643fa0.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.28.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.28.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.28.1-next.0f6f9d12c.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.28.1-next.0f6f9d12c.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.29.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.29.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.29.1-next.f34ab90e9.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.29.1-next.f34ab90e9.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.29.1-next.e256d081a.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.29.1-next.e256d081a.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.30.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.30.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.30.1-next.836ecdcae.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.30.1-next.836ecdcae.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.30.1-next.6870dfe5b.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.30.1-next.6870dfe5b.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.30.1-next.6f42e1382.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.30.1-next.6f42e1382.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.30.1-next.a730c9c8c.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.30.1-next.a730c9c8c.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.31.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.31.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.31.1-next.f56bd8138.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.31.1-next.f56bd8138.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.31.1-next.233ccab9b.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.31.1-next.233ccab9b.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.32.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.32.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.32.1-next.47f435fc9.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.32.1-next.47f435fc9.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.32.1-next.ff1cebbba.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.32.1-next.ff1cebbba.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.32.1-next.b8c8708f3.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.32.1-next.b8c8708f3.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.33.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.33.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.33.1-next.36001005c.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.33.1-next.36001005c.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.33.1": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.33.1",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.34.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.34.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.34.1-next.2f1c7c01b.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.34.1-next.2f1c7c01b.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.35.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.35.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.35.1-next.16d95556a.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.35.1-next.16d95556a.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.35.1-next.dc3f6d3c1.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.35.1-next.dc3f6d3c1.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.36.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.36.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.36.1-next.8b30e05b0.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.36.1-next.8b30e05b0.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.36.1-next.6deb34194.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.36.1-next.6deb34194.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.36.1-next.738bb1424.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.36.1-next.738bb1424.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.37.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.37.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.36.1-next.8fd3f8831.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.36.1-next.8fd3f8831.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.36.1-next.76cff8c98.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.36.1-next.76cff8c98.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.37.1-next.79a2f3cdd.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.37.1-next.79a2f3cdd.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.37.1-next.ba3aee3a2.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.37.1-next.ba3aee3a2.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.37.1-next.06ee73755.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.37.1-next.06ee73755.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.37.1-next.v.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.37.1-next.v.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.38.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.38.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.38.1-next.v.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.38.1-next.v.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.39.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.39.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.39.1-next.v.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.39.1-next.v.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.39.1-next.v.20260206T143.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.39.1-next.v.20260206T143.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.39.1-next.v.202602091733.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.39.1-next.v.202602091733.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.39.1-next.v.202602111440.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.39.1-next.v.202602111440.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.40.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.40.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.40.1-next.v.202602191100.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.40.1-next.v.202602191100.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.40.1-next.v.202602200903.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.40.1-next.v.202602200903.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.40.1-next.v.202602241322.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.40.1-next.v.202602241322.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.40.1-next.v.202602271551.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.40.1-next.v.202602271551.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.41.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.41.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.41.1-next.v.202603102151.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.41.1-next.v.202603102151.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.41.1-next.v.202603161435.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.41.1-next.v.202603161435.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.42.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.42.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.43.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.43.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.43.1-next.v.202604091042.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.43.1-next.v.202604091042.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.44.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.44.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.44.1-next.v.202604201441.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.44.1-next.v.202604201441.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.45.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.45.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.45.1-next.v.202605131006.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.45.1-next.v.202605131006.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.45.1-next.v.202605131032.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.45.1-next.v.202605131032.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      },
+      "7.46.0": {
+        "name": "@wordpress/jest-puppeteer-axe",
+        "version": "7.46.0",
+        "peerDependencies": {
+          "jest": ">=29",
+          "puppeteer": ">=11"
+        }
+      }
+    }
+  },
+  "jest-matchmedia-mock": {
+    "name": "jest-matchmedia-mock",
+    "dist-tags": {
+      "latest": "1.1.0"
+    },
+    "versions": {
+      "1.0.0": {
+        "name": "jest-matchmedia-mock",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "jest": ">=13"
+        }
+      },
+      "1.0.1": {
+        "name": "jest-matchmedia-mock",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "jest": ">=13"
+        }
+      },
+      "1.1.0": {
+        "name": "jest-matchmedia-mock",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "jest": ">=13"
+        }
+      }
+    }
+  },
+  "jest-sinon": {
+    "name": "jest-sinon",
+    "dist-tags": {
+      "latest": "1.1.0",
+      "beta": "1.0.4-beta.2"
+    },
+    "versions": {
+      "0.2.0": {
+        "name": "jest-sinon",
+        "version": "0.2.0",
+        "peerDependencies": {
+          "sinon": ">=7.0.0 <8.0.0"
+        }
+      },
+      "0.3.0": {
+        "name": "jest-sinon",
+        "version": "0.3.0",
+        "peerDependencies": {
+          "sinon": ">=7.0.0 <8.0.0"
+        }
+      },
+      "0.4.0": {
+        "name": "jest-sinon",
+        "version": "0.4.0",
+        "peerDependencies": {
+          "sinon": ">=7.0.0 <8.0.0"
+        }
+      },
+      "0.4.1": {
+        "name": "jest-sinon",
+        "version": "0.4.1",
+        "peerDependencies": {
+          "sinon": ">=7.0.0 <8.0.0"
+        }
+      },
+      "0.5.0": {
+        "name": "jest-sinon",
+        "version": "0.5.0",
+        "peerDependencies": {
+          "sinon": ">=7.0.0 <8.0.0"
+        }
+      },
+      "0.5.1": {
+        "name": "jest-sinon",
+        "version": "0.5.1",
+        "peerDependencies": {
+          "sinon": ">=7.0.0 <8.0.0"
+        }
+      },
+      "0.5.2": {
+        "name": "jest-sinon",
+        "version": "0.5.2",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.0.0": {
+        "name": "jest-sinon",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.0.1": {
+        "name": "jest-sinon",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.0.2": {
+        "name": "jest-sinon",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.0.3-beta.1": {
+        "name": "jest-sinon",
+        "version": "1.0.3-beta.1",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.0.3": {
+        "name": "jest-sinon",
+        "version": "1.0.3",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.0.3-beta.2": {
+        "name": "jest-sinon",
+        "version": "1.0.3-beta.2",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.0.4-beta.1": {
+        "name": "jest-sinon",
+        "version": "1.0.4-beta.1",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.0.4-beta.2": {
+        "name": "jest-sinon",
+        "version": "1.0.4-beta.2",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.0.4": {
+        "name": "jest-sinon",
+        "version": "1.0.4",
+        "peerDependencies": {
+          "jest": ">=22.0.0",
+          "sinon": ">=7.0.0"
+        }
+      },
+      "1.1.0": {
+        "name": "jest-sinon",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "jest": ">=24.0.0",
+          "sinon": ">=7.0.0"
+        }
+      }
+    }
+  },
+  "@fastcms/jest-preset": {
+    "name": "@fastcms/jest-preset",
+    "dist-tags": {
+      "latest": "4.1.0"
+    },
+    "versions": {
+      "2.0.0": {
+        "name": "@fastcms/jest-preset",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "@swc/jest": "^0.2.8",
+          "jest": "^27.3.1"
+        }
+      },
+      "2.1.0": {
+        "name": "@fastcms/jest-preset",
+        "version": "2.1.0",
+        "peerDependencies": {
+          "@swc/jest": "^0.2.8",
+          "jest": "^27.3.1"
+        }
+      },
+      "2.1.4": {
+        "name": "@fastcms/jest-preset",
+        "version": "2.1.4",
+        "peerDependencies": {
+          "@swc/jest": "^0.2.8",
+          "jest": "^27.3.1"
+        }
+      },
+      "3.0.0": {
+        "name": "@fastcms/jest-preset",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "@swc/jest": "^0.2.12",
+          "jest": "^27.4.3"
+        }
+      },
+      "3.1.0": {
+        "name": "@fastcms/jest-preset",
+        "version": "3.1.0",
+        "peerDependencies": {
+          "@swc/jest": "^0.2.12",
+          "jest": "^27.4.4"
+        }
+      },
+      "3.1.1": {
+        "name": "@fastcms/jest-preset",
+        "version": "3.1.1",
+        "peerDependencies": {
+          "@swc/jest": "^0.2.14",
+          "jest": "^27.4.4"
+        }
+      },
+      "3.2.0": {
+        "name": "@fastcms/jest-preset",
+        "version": "3.2.0",
+        "peerDependencies": {
+          "@swc/jest": "^0.2.15",
+          "jest": "^27.4.5"
+        }
+      },
+      "4.0.0": {
+        "name": "@fastcms/jest-preset",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "@swc/jest": "^0.2.17",
+          "jest": "^27.4.7"
+        }
+      },
+      "4.1.0": {
+        "name": "@fastcms/jest-preset",
+        "version": "4.1.0",
+        "peerDependencies": {
+          "@swc/jest": "^0.2.17",
+          "jest": "^27.5.0"
+        }
+      }
+    }
+  },
+  "jest-mock-server": {
+    "name": "jest-mock-server",
+    "dist-tags": {
+      "latest": "0.1.0"
+    },
+    "versions": {
+      "0.0.1": {
+        "name": "jest-mock-server",
+        "version": "0.0.1",
+        "peerDependencies": {
+          "jest": "*"
+        }
+      },
+      "0.0.2": {
+        "name": "jest-mock-server",
+        "version": "0.0.2",
+        "peerDependencies": {
+          "jest": "*"
+        }
+      },
+      "0.0.3": {
+        "name": "jest-mock-server",
+        "version": "0.0.3",
+        "peerDependencies": {
+          "jest": "*"
+        }
+      },
+      "0.0.4": {
+        "name": "jest-mock-server",
+        "version": "0.0.4",
+        "peerDependencies": {
+          "jest": "*"
+        }
+      },
+      "0.0.5": {
+        "name": "jest-mock-server",
+        "version": "0.0.5",
+        "peerDependencies": {
+          "jest": "*"
+        }
+      },
+      "0.1.0": {
+        "name": "jest-mock-server",
+        "version": "0.1.0",
+        "peerDependencies": {
+          "jest": "*"
+        }
+      }
+    }
+  },
+  "@lwc/jest-resolver": {
+    "name": "@lwc/jest-resolver",
+    "dist-tags": {
+      "spring-19": "0.34.7",
+      "summer-19": "0.37.4-220.2",
+      "winter-19": "0.40.1-222.1",
+      "summer20": "4.5.2-226.0",
+      "winter21": "9.0.0-228.0",
+      "spring21": "9.0.0-230.0",
+      "summer21": "10.0.2",
+      "winter22": "11.0.1",
+      "spring23": "11.5.4",
+      "spring24": "14.2.1",
+      "summer24": "14.3.1",
+      "next": "15.0.0-alpha.2",
+      "winter25": "19.0.0",
+      "summer25": "19.1.1",
+      "spring25": "19.2.1",
+      "spring26": "19.2.0",
+      "canary": "19.5.0-alpha.0",
+      "latest": "19.6.1"
+    },
+    "versions": {
+      "0.33.17-alpha04": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.17-alpha04"
+      },
+      "0.33.17": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.17"
+      },
+      "0.33.13": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.13"
+      },
+      "0.33.14": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.14"
+      },
+      "0.33.10": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.10"
+      },
+      "0.33.18": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.18"
+      },
+      "0.33.19": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.19"
+      },
+      "0.33.20": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.20"
+      },
+      "0.33.21": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.21"
+      },
+      "0.33.22": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.22"
+      },
+      "0.33.23": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.23"
+      },
+      "0.33.24": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.24"
+      },
+      "0.33.25": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.25"
+      },
+      "0.33.26": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.26"
+      },
+      "0.33.27-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.27-alpha1"
+      },
+      "0.33.27-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.27-alpha2"
+      },
+      "0.33.28-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha1"
+      },
+      "0.33.28-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha2"
+      },
+      "0.33.28-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha3"
+      },
+      "0.33.28-1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-1"
+      },
+      "0.33.28-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha4"
+      },
+      "0.33.28-alpha5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha5"
+      },
+      "0.34.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.0"
+      },
+      "0.35.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.0"
+      },
+      "0.34.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.0-alpha1"
+      },
+      "0.35.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.1"
+      },
+      "0.33.28-2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-2"
+      },
+      "0.33.28-3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-3"
+      },
+      "0.33.28-4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-4"
+      },
+      "0.33.28-5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-5"
+      },
+      "0.35.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.2"
+      },
+      "0.35.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.3"
+      },
+      "0.35.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.4"
+      },
+      "0.34.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.1"
+      },
+      "0.34.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.2"
+      },
+      "0.35.5-alpha-1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.5-alpha-1"
+      },
+      "0.35.5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.5"
+      },
+      "0.34.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.3"
+      },
+      "0.34.4-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.4-alpha1"
+      },
+      "0.35.6-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.6-alpha1"
+      },
+      "0.35.6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.6"
+      },
+      "0.34.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.4"
+      },
+      "0.35.7-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7-alpha2"
+      },
+      "0.34.5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.5"
+      },
+      "0.35.7-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7-alpha3"
+      },
+      "0.35.7-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7-alpha4"
+      },
+      "0.35.7": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7"
+      },
+      "0.34.6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.6"
+      },
+      "0.35.9": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.9"
+      },
+      "0.36.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha1"
+      },
+      "0.35.7-test1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7-test1"
+      },
+      "0.36.0-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha2"
+      },
+      "0.36.0-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha3"
+      },
+      "0.36.0-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha4"
+      },
+      "0.35.10": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.10"
+      },
+      "0.36.0-alpha5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha5"
+      },
+      "0.36.0-alpha6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha6"
+      },
+      "0.35.11": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.11"
+      },
+      "0.34.7": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.7"
+      },
+      "0.35.11-test1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.11-test1"
+      },
+      "0.36.0-beta1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-beta1"
+      },
+      "0.36.0-beta2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-beta2"
+      },
+      "0.36.0-beta3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-beta3"
+      },
+      "0.36.0-beta4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-beta4"
+      },
+      "0.35.12": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.12"
+      },
+      "0.36.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0"
+      },
+      "0.36.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.1"
+      },
+      "0.37.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.0"
+      },
+      "0.37.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.1"
+      },
+      "0.34.8": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.8"
+      },
+      "0.37.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.2"
+      },
+      "0.37.3-alpha": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha"
+      },
+      "0.37.3-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha2"
+      },
+      "0.37.3-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha3"
+      },
+      "0.37.3-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha4"
+      },
+      "0.37.3-alpha5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha5"
+      },
+      "0.37.3-alpha6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha6"
+      },
+      "0.37.3-alpha7": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha7"
+      },
+      "0.37.3-alpha8": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha8"
+      },
+      "0.37.3-alpha9": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha9"
+      },
+      "0.37.3-alpha10": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha10"
+      },
+      "0.38.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.0-alpha1"
+      },
+      "0.38.0-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.0-alpha2"
+      },
+      "0.38.0-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.0-alpha3"
+      },
+      "0.38.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.0"
+      },
+      "0.38.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.1"
+      },
+      "0.38.1-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.1-alpha1"
+      },
+      "0.39.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.0"
+      },
+      "0.38.2-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.2-alpha1"
+      },
+      "0.38.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.2"
+      },
+      "0.39.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1"
+      },
+      "0.37.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3"
+      },
+      "0.37.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4"
+      },
+      "0.37.4-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4-alpha1"
+      },
+      "0.37.4-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4-alpha2"
+      },
+      "0.39.2-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.2-alpha1"
+      },
+      "0.39.2-alpha5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.2-alpha5"
+      },
+      "0.39.2-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.2-alpha2"
+      },
+      "0.39.1-222.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1-222.1"
+      },
+      "0.39.1-222.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1-222.2"
+      },
+      "0.39.2-alpha6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.2-alpha6"
+      },
+      "0.37.4-220.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4-220.1"
+      },
+      "0.39.1-222.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1-222.3"
+      },
+      "0.37.4-220.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4-220.2"
+      },
+      "0.39.1-222.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1-222.4"
+      },
+      "0.40.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.0"
+      },
+      "0.40.1-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-alpha1"
+      },
+      "0.40.1-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-alpha2"
+      },
+      "0.40.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1"
+      },
+      "0.40.1-222.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.1"
+      },
+      "0.40.1-ekashida1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-ekashida1"
+      },
+      "0.40.2-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.2-alpha1"
+      },
+      "0.40.2-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.2-alpha.0"
+      },
+      "0.40.2-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.2-alpha.2"
+      },
+      "1.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.0.0-alpha.0"
+      },
+      "1.0.0-alpha.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.0.0-alpha.1"
+      },
+      "1.0.0-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.0.0-alpha.2"
+      },
+      "1.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.0.0"
+      },
+      "0.40.1-222.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.2"
+      },
+      "0.40.1-222.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.3"
+      },
+      "0.40.1-222.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.4"
+      },
+      "0.40.1-222.5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.5"
+      },
+      "0.40.1-222.6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.6"
+      },
+      "0.40.1-222.7": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.7"
+      },
+      "0.40.1-222.8": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.8"
+      },
+      "1.1.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.1.0-alpha1",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.1.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.1.1-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.1.1-alpha.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.2.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.3.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.3.0-alpha1",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.1",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.2",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.4",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.5": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.5",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.6": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.6",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.7": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.7",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.8": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.8",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.9": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.9",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.10": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.10",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.11": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.11",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.12": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.12",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.0.0-alpha.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0-224.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0-224.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.2.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.2.0-alpha.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.2.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0-224.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0-224.1",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.3.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.3.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0-224.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0-224.2",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0-224.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0-224.3"
+      },
+      "4.3.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.3.1"
+      },
+      "4.4.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.4.0"
+      },
+      "4.4.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.4.1"
+      },
+      "4.4.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.4.2"
+      },
+      "4.5.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.5.0"
+      },
+      "4.5.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.5.1"
+      },
+      "4.5.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.5.2"
+      },
+      "5.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "5.0.0"
+      },
+      "5.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "5.0.1"
+      },
+      "6.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "6.0.0"
+      },
+      "7.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "7.0.0"
+      },
+      "4.5.2-226.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.5.2-226.0"
+      },
+      "8.0.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0-alpha1",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "8.0.0-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0-alpha2",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "8.0.0-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0-alpha3",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "8.0.0-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0-alpha4",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "8.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "9.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "jest": ">=25.5.4"
+        }
+      },
+      "9.0.0-228.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "9.0.0-228.0",
+        "peerDependencies": {
+          "jest": ">=25.5.4"
+        }
+      },
+      "9.0.0-230.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "9.0.0-230.0",
+        "peerDependencies": {
+          "jest": ">=25.5.4"
+        }
+      },
+      "10.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "jest": "^26"
+        }
+      },
+      "10.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "jest": "^26"
+        }
+      },
+      "10.0.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "10.0.2",
+        "peerDependencies": {
+          "jest": "^26"
+        }
+      },
+      "11.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.0.1",
+        "peerDependencies": {
+          "jest": "^26"
+        }
+      },
+      "11.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.1.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.2.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.2.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.2.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.2.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.2.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.3.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.3.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.4.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.4.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28"
+        }
+      },
+      "11.5.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.5.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.5.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.5.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.3",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.5.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.4",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.6.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.6.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.7.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.7.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.7.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.7.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.8.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.8.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "12.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "12.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "12.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "12.0.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "12.0.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "12.0.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "12.0.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "12.0.3",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "13.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "13.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0-alpha.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0-alpha.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0-alpha.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0-alpha.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0-alpha.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0-alpha.3",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.1.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.1.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.1.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.2.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.2.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.2.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.3.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.3.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.3.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.4.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.4.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "15.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "15.0.0-alpha.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "15.0.0-alpha.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "15.0.0-alpha.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "15.0.0-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "15.0.0-alpha.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "15.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "15.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.0.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.0.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.0.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.0.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.0.3",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.1.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "17.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "17.0.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "17.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "17.0.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.0.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.0.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.0.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.0.3",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.1.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.1.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.1.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.1.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.1.2",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.0.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.1.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.1.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.1.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.1.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.1.2",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.2.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.2.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.2.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.4.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.4.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.5.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.5.0-alpha.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29 || ^30"
+        }
+      },
+      "19.5.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.5.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29 || ^30"
+        }
+      },
+      "19.6.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.6.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29 || ^30"
+        }
+      },
+      "19.6.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.6.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29 || ^30"
+        }
+      }
+    }
+  }
+}

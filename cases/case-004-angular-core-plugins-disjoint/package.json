@@ -1,0 +1,19 @@
+{
+  "name": "case-004-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "20.0.0",
+    "@angular/upgrade": "2.0.0",
+    "@angular-material-components/moment-adapter": "1.0.1",
+    "@progress/kendo-angular-gauges": "13.2.1",
+    "@progress/kendo-angular-buttons": "5.1.1",
+    "@progress/kendo-angular-l10n": "11.0.0",
+    "@fortawesome/angular-fontawesome": "0.8.2",
+    "@clr/angular": "13.18.1",
+    "@angular/cdk": "20.1.2",
+    "@jsonforms/angular": "3.4.1"
+  }
+}
