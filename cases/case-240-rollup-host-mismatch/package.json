@@ -1,0 +1,12 @@
+{
+  "name": "case-240-rollup-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.0.0",
+    "rollup-plugin-bundle-analyzer": "1.6.0",
+    "@ovh-ux/rollup-plugin-less-inject": "1.0.2"
+  }
+}

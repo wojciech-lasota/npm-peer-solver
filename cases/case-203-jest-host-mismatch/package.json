@@ -1,0 +1,12 @@
+{
+  "name": "case-203-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "@side/jest-runtime": "1.0.0",
+    "@lwc/jest-serializer": "0.33.13"
+  }
+}

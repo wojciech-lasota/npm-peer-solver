@@ -1,0 +1,12 @@
+{
+  "name": "case-091-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "6.3.5",
+    "@94ai/vite-plugin-vue2": "1.0.0",
+    "@meituan-nocode/vite-plugin-nocode-compiler": "0.2.0"
+  }
+}

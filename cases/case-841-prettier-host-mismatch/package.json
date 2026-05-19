@@ -1,0 +1,12 @@
+{
+  "name": "case-841-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@1adybug/prettier-plugin-block-padding": "0.0.10",
+    "@briankosw/prettier-plugin-sort-imports": "0.0.2"
+  }
+}

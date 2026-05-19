@@ -1,0 +1,12 @@
+{
+  "name": "case-282-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@jpp-toolkit/prettier-plugin-packagejson": "0.0.11",
+    "@sylphlab/prettier-config": "0.2.3"
+  }
+}

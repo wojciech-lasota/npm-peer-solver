@@ -1,0 +1,12 @@
+{
+  "name": "case-866-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.41.0",
+    "@commercetools-frontend/eslint-config-mc-app": "6.0.0",
+    "@containerbase/eslint-plugin": "1.0.1"
+  }
+}

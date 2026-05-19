@@ -1,0 +1,12 @@
+{
+  "name": "case-076-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@yet3/tailwindcss-bg-patterns": "1.0.0",
+    "@jcamp/tailwindcss-plugin-icons": "0.6.2"
+  }
+}

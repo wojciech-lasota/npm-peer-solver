@@ -1,0 +1,4260 @@
+{
+  "fastify": {
+    "name": "fastify",
+    "dist-tags": {
+      "three": "3.29.5",
+      "four": "4.29.1",
+      "latest": "5.8.5"
+    },
+    "versions": {
+      "0.0.1": {
+        "name": "fastify",
+        "version": "0.0.1"
+      },
+      "0.1.0": {
+        "name": "fastify",
+        "version": "0.1.0"
+      },
+      "0.2.0": {
+        "name": "fastify",
+        "version": "0.2.0"
+      },
+      "0.3.0": {
+        "name": "fastify",
+        "version": "0.3.0"
+      },
+      "0.4.0": {
+        "name": "fastify",
+        "version": "0.4.0"
+      },
+      "0.5.0": {
+        "name": "fastify",
+        "version": "0.5.0"
+      },
+      "0.6.0": {
+        "name": "fastify",
+        "version": "0.6.0"
+      },
+      "0.7.0": {
+        "name": "fastify",
+        "version": "0.7.0"
+      },
+      "0.7.1": {
+        "name": "fastify",
+        "version": "0.7.1"
+      },
+      "0.8.0": {
+        "name": "fastify",
+        "version": "0.8.0"
+      },
+      "0.9.0": {
+        "name": "fastify",
+        "version": "0.9.0"
+      },
+      "0.10.0": {
+        "name": "fastify",
+        "version": "0.10.0"
+      },
+      "0.11.0": {
+        "name": "fastify",
+        "version": "0.11.0"
+      },
+      "0.11.1": {
+        "name": "fastify",
+        "version": "0.11.1"
+      },
+      "0.12.0": {
+        "name": "fastify",
+        "version": "0.12.0"
+      },
+      "0.13.0": {
+        "name": "fastify",
+        "version": "0.13.0"
+      },
+      "0.13.1": {
+        "name": "fastify",
+        "version": "0.13.1"
+      },
+      "0.14.0": {
+        "name": "fastify",
+        "version": "0.14.0"
+      },
+      "0.14.1": {
+        "name": "fastify",
+        "version": "0.14.1"
+      },
+      "0.15.0": {
+        "name": "fastify",
+        "version": "0.15.0"
+      },
+      "0.15.1": {
+        "name": "fastify",
+        "version": "0.15.1"
+      },
+      "0.15.2": {
+        "name": "fastify",
+        "version": "0.15.2"
+      },
+      "0.15.3": {
+        "name": "fastify",
+        "version": "0.15.3"
+      },
+      "0.16.0": {
+        "name": "fastify",
+        "version": "0.16.0"
+      },
+      "0.17.0": {
+        "name": "fastify",
+        "version": "0.17.0"
+      },
+      "0.18.0": {
+        "name": "fastify",
+        "version": "0.18.0"
+      },
+      "0.19.0": {
+        "name": "fastify",
+        "version": "0.19.0"
+      },
+      "0.19.1": {
+        "name": "fastify",
+        "version": "0.19.1"
+      },
+      "0.20.0": {
+        "name": "fastify",
+        "version": "0.20.0"
+      },
+      "0.20.1": {
+        "name": "fastify",
+        "version": "0.20.1"
+      },
+      "0.21.0": {
+        "name": "fastify",
+        "version": "0.21.0"
+      },
+      "0.22.0": {
+        "name": "fastify",
+        "version": "0.22.0"
+      },
+      "0.23.0": {
+        "name": "fastify",
+        "version": "0.23.0"
+      },
+      "0.24.0": {
+        "name": "fastify",
+        "version": "0.24.0"
+      },
+      "0.25.0": {
+        "name": "fastify",
+        "version": "0.25.0"
+      },
+      "0.25.1": {
+        "name": "fastify",
+        "version": "0.25.1"
+      },
+      "0.25.2": {
+        "name": "fastify",
+        "version": "0.25.2"
+      },
+      "0.25.3": {
+        "name": "fastify",
+        "version": "0.25.3"
+      },
+      "0.26.0": {
+        "name": "fastify",
+        "version": "0.26.0"
+      },
+      "0.26.1": {
+        "name": "fastify",
+        "version": "0.26.1"
+      },
+      "0.26.2": {
+        "name": "fastify",
+        "version": "0.26.2"
+      },
+      "0.27.0": {
+        "name": "fastify",
+        "version": "0.27.0"
+      },
+      "0.28.0": {
+        "name": "fastify",
+        "version": "0.28.0"
+      },
+      "0.28.1": {
+        "name": "fastify",
+        "version": "0.28.1"
+      },
+      "0.28.2": {
+        "name": "fastify",
+        "version": "0.28.2"
+      },
+      "0.29.0": {
+        "name": "fastify",
+        "version": "0.29.0"
+      },
+      "0.29.1": {
+        "name": "fastify",
+        "version": "0.29.1"
+      },
+      "0.29.2": {
+        "name": "fastify",
+        "version": "0.29.2"
+      },
+      "0.30.0": {
+        "name": "fastify",
+        "version": "0.30.0"
+      },
+      "0.30.1": {
+        "name": "fastify",
+        "version": "0.30.1"
+      },
+      "0.30.2": {
+        "name": "fastify",
+        "version": "0.30.2"
+      },
+      "0.30.3": {
+        "name": "fastify",
+        "version": "0.30.3"
+      },
+      "0.31.0": {
+        "name": "fastify",
+        "version": "0.31.0"
+      },
+      "0.32.0": {
+        "name": "fastify",
+        "version": "0.32.0"
+      },
+      "0.33.0": {
+        "name": "fastify",
+        "version": "0.33.0"
+      },
+      "0.34.0": {
+        "name": "fastify",
+        "version": "0.34.0"
+      },
+      "0.35.0": {
+        "name": "fastify",
+        "version": "0.35.0"
+      },
+      "0.35.1": {
+        "name": "fastify",
+        "version": "0.35.1"
+      },
+      "0.35.2": {
+        "name": "fastify",
+        "version": "0.35.2"
+      },
+      "0.35.3": {
+        "name": "fastify",
+        "version": "0.35.3"
+      },
+      "0.35.4": {
+        "name": "fastify",
+        "version": "0.35.4"
+      },
+      "0.35.5": {
+        "name": "fastify",
+        "version": "0.35.5"
+      },
+      "0.35.6": {
+        "name": "fastify",
+        "version": "0.35.6"
+      },
+      "0.35.7": {
+        "name": "fastify",
+        "version": "0.35.7"
+      },
+      "0.36.0": {
+        "name": "fastify",
+        "version": "0.36.0"
+      },
+      "0.37.0": {
+        "name": "fastify",
+        "version": "0.37.0"
+      },
+      "0.38.0": {
+        "name": "fastify",
+        "version": "0.38.0"
+      },
+      "0.39.0": {
+        "name": "fastify",
+        "version": "0.39.0"
+      },
+      "0.39.1": {
+        "name": "fastify",
+        "version": "0.39.1"
+      },
+      "0.40.0": {
+        "name": "fastify",
+        "version": "0.40.0"
+      },
+      "0.41.0": {
+        "name": "fastify",
+        "version": "0.41.0"
+      },
+      "0.42.0": {
+        "name": "fastify",
+        "version": "0.42.0"
+      },
+      "0.43.0": {
+        "name": "fastify",
+        "version": "0.43.0"
+      },
+      "1.0.0-rc.1": {
+        "name": "fastify",
+        "version": "1.0.0-rc.1"
+      },
+      "1.0.0-rc.2": {
+        "name": "fastify",
+        "version": "1.0.0-rc.2"
+      },
+      "1.0.0-rc.3": {
+        "name": "fastify",
+        "version": "1.0.0-rc.3"
+      },
+      "1.0.0": {
+        "name": "fastify",
+        "version": "1.0.0"
+      },
+      "1.1.0": {
+        "name": "fastify",
+        "version": "1.1.0"
+      },
+      "1.1.1": {
+        "name": "fastify",
+        "version": "1.1.1"
+      },
+      "1.2.0": {
+        "name": "fastify",
+        "version": "1.2.0"
+      },
+      "1.2.1": {
+        "name": "fastify",
+        "version": "1.2.1"
+      },
+      "1.3.0": {
+        "name": "fastify",
+        "version": "1.3.0"
+      },
+      "1.3.1": {
+        "name": "fastify",
+        "version": "1.3.1"
+      },
+      "1.4.0": {
+        "name": "fastify",
+        "version": "1.4.0"
+      },
+      "1.5.0": {
+        "name": "fastify",
+        "version": "1.5.0"
+      },
+      "1.6.0": {
+        "name": "fastify",
+        "version": "1.6.0"
+      },
+      "1.7.0": {
+        "name": "fastify",
+        "version": "1.7.0"
+      },
+      "1.8.0": {
+        "name": "fastify",
+        "version": "1.8.0"
+      },
+      "1.9.0": {
+        "name": "fastify",
+        "version": "1.9.0"
+      },
+      "1.10.0": {
+        "name": "fastify",
+        "version": "1.10.0"
+      },
+      "1.11.0": {
+        "name": "fastify",
+        "version": "1.11.0"
+      },
+      "1.11.1": {
+        "name": "fastify",
+        "version": "1.11.1"
+      },
+      "1.11.2": {
+        "name": "fastify",
+        "version": "1.11.2"
+      },
+      "1.12.0": {
+        "name": "fastify",
+        "version": "1.12.0"
+      },
+      "1.12.1": {
+        "name": "fastify",
+        "version": "1.12.1"
+      },
+      "1.13.0": {
+        "name": "fastify",
+        "version": "1.13.0"
+      },
+      "2.0.0-rc.0": {
+        "name": "fastify",
+        "version": "2.0.0-rc.0"
+      },
+      "2.0.0-rc.1": {
+        "name": "fastify",
+        "version": "2.0.0-rc.1"
+      },
+      "1.13.1": {
+        "name": "fastify",
+        "version": "1.13.1"
+      },
+      "1.13.2": {
+        "name": "fastify",
+        "version": "1.13.2"
+      },
+      "2.0.0-rc.2": {
+        "name": "fastify",
+        "version": "2.0.0-rc.2"
+      },
+      "1.13.3": {
+        "name": "fastify",
+        "version": "1.13.3"
+      },
+      "2.0.0-rc.3": {
+        "name": "fastify",
+        "version": "2.0.0-rc.3"
+      },
+      "2.0.0-rc.4": {
+        "name": "fastify",
+        "version": "2.0.0-rc.4"
+      },
+      "1.13.4": {
+        "name": "fastify",
+        "version": "1.13.4"
+      },
+      "1.14.0": {
+        "name": "fastify",
+        "version": "1.14.0"
+      },
+      "2.0.0-rc.5": {
+        "name": "fastify",
+        "version": "2.0.0-rc.5"
+      },
+      "2.0.0-rc.6": {
+        "name": "fastify",
+        "version": "2.0.0-rc.6"
+      },
+      "1.14.1": {
+        "name": "fastify",
+        "version": "1.14.1"
+      },
+      "1.14.2": {
+        "name": "fastify",
+        "version": "1.14.2"
+      },
+      "2.0.0": {
+        "name": "fastify",
+        "version": "2.0.0"
+      },
+      "1.14.3": {
+        "name": "fastify",
+        "version": "1.14.3"
+      },
+      "2.0.1": {
+        "name": "fastify",
+        "version": "2.0.1"
+      },
+      "1.14.4": {
+        "name": "fastify",
+        "version": "1.14.4"
+      },
+      "2.1.0": {
+        "name": "fastify",
+        "version": "2.1.0"
+      },
+      "1.14.5": {
+        "name": "fastify",
+        "version": "1.14.5"
+      },
+      "2.2.0": {
+        "name": "fastify",
+        "version": "2.2.0"
+      },
+      "1.14.6": {
+        "name": "fastify",
+        "version": "1.14.6"
+      },
+      "2.3.0": {
+        "name": "fastify",
+        "version": "2.3.0"
+      },
+      "2.4.0": {
+        "name": "fastify",
+        "version": "2.4.0"
+      },
+      "2.4.1": {
+        "name": "fastify",
+        "version": "2.4.1"
+      },
+      "2.5.0": {
+        "name": "fastify",
+        "version": "2.5.0"
+      },
+      "2.6.0": {
+        "name": "fastify",
+        "version": "2.6.0"
+      },
+      "2.7.0": {
+        "name": "fastify",
+        "version": "2.7.0"
+      },
+      "2.7.1": {
+        "name": "fastify",
+        "version": "2.7.1"
+      },
+      "2.8.0": {
+        "name": "fastify",
+        "version": "2.8.0"
+      },
+      "2.9.0": {
+        "name": "fastify",
+        "version": "2.9.0"
+      },
+      "2.10.0": {
+        "name": "fastify",
+        "version": "2.10.0"
+      },
+      "2.11.0": {
+        "name": "fastify",
+        "version": "2.11.0"
+      },
+      "2.12.0": {
+        "name": "fastify",
+        "version": "2.12.0"
+      },
+      "2.12.1": {
+        "name": "fastify",
+        "version": "2.12.1"
+      },
+      "2.13.0": {
+        "name": "fastify",
+        "version": "2.13.0"
+      },
+      "2.13.1": {
+        "name": "fastify",
+        "version": "2.13.1"
+      },
+      "3.0.0-alpha.1": {
+        "name": "fastify",
+        "version": "3.0.0-alpha.1"
+      },
+      "3.0.0-rc.1": {
+        "name": "fastify",
+        "version": "3.0.0-rc.1"
+      },
+      "2.14.0": {
+        "name": "fastify",
+        "version": "2.14.0"
+      },
+      "2.14.1": {
+        "name": "fastify",
+        "version": "2.14.1"
+      },
+      "3.0.0-rc.2": {
+        "name": "fastify",
+        "version": "3.0.0-rc.2"
+      },
+      "3.0.0-rc.3": {
+        "name": "fastify",
+        "version": "3.0.0-rc.3"
+      },
+      "3.0.0-rc.4": {
+        "name": "fastify",
+        "version": "3.0.0-rc.4"
+      },
+      "2.15.0": {
+        "name": "fastify",
+        "version": "2.15.0"
+      },
+      "2.15.1": {
+        "name": "fastify",
+        "version": "2.15.1"
+      },
+      "3.0.0-rc.5": {
+        "name": "fastify",
+        "version": "3.0.0-rc.5"
+      },
+      "3.0.0": {
+        "name": "fastify",
+        "version": "3.0.0"
+      },
+      "3.0.1": {
+        "name": "fastify",
+        "version": "3.0.1"
+      },
+      "3.0.2": {
+        "name": "fastify",
+        "version": "3.0.2"
+      },
+      "2.15.2": {
+        "name": "fastify",
+        "version": "2.15.2"
+      },
+      "3.0.3": {
+        "name": "fastify",
+        "version": "3.0.3"
+      },
+      "3.1.0": {
+        "name": "fastify",
+        "version": "3.1.0"
+      },
+      "3.1.1": {
+        "name": "fastify",
+        "version": "3.1.1"
+      },
+      "2.15.3": {
+        "name": "fastify",
+        "version": "2.15.3"
+      },
+      "3.2.0": {
+        "name": "fastify",
+        "version": "3.2.0"
+      },
+      "3.2.1": {
+        "name": "fastify",
+        "version": "3.2.1"
+      },
+      "3.3.0": {
+        "name": "fastify",
+        "version": "3.3.0"
+      },
+      "3.4.0": {
+        "name": "fastify",
+        "version": "3.4.0"
+      },
+      "3.4.1": {
+        "name": "fastify",
+        "version": "3.4.1"
+      },
+      "3.5.0": {
+        "name": "fastify",
+        "version": "3.5.0"
+      },
+      "3.5.1": {
+        "name": "fastify",
+        "version": "3.5.1"
+      },
+      "3.6.0": {
+        "name": "fastify",
+        "version": "3.6.0"
+      },
+      "3.7.0": {
+        "name": "fastify",
+        "version": "3.7.0"
+      },
+      "3.8.0": {
+        "name": "fastify",
+        "version": "3.8.0"
+      },
+      "3.9.0": {
+        "name": "fastify",
+        "version": "3.9.0"
+      },
+      "3.9.1": {
+        "name": "fastify",
+        "version": "3.9.1"
+      },
+      "3.9.2": {
+        "name": "fastify",
+        "version": "3.9.2"
+      },
+      "3.10.0": {
+        "name": "fastify",
+        "version": "3.10.0"
+      },
+      "3.10.1": {
+        "name": "fastify",
+        "version": "3.10.1"
+      },
+      "3.11.0": {
+        "name": "fastify",
+        "version": "3.11.0"
+      },
+      "3.12.0": {
+        "name": "fastify",
+        "version": "3.12.0"
+      },
+      "3.13.0": {
+        "name": "fastify",
+        "version": "3.13.0"
+      },
+      "3.14.0": {
+        "name": "fastify",
+        "version": "3.14.0"
+      },
+      "3.14.1": {
+        "name": "fastify",
+        "version": "3.14.1"
+      },
+      "3.14.2": {
+        "name": "fastify",
+        "version": "3.14.2"
+      },
+      "3.15.0": {
+        "name": "fastify",
+        "version": "3.15.0"
+      },
+      "3.15.1": {
+        "name": "fastify",
+        "version": "3.15.1"
+      },
+      "3.16.0": {
+        "name": "fastify",
+        "version": "3.16.0"
+      },
+      "3.16.1": {
+        "name": "fastify",
+        "version": "3.16.1"
+      },
+      "3.16.2": {
+        "name": "fastify",
+        "version": "3.16.2"
+      },
+      "3.17.0": {
+        "name": "fastify",
+        "version": "3.17.0"
+      },
+      "3.18.0": {
+        "name": "fastify",
+        "version": "3.18.0"
+      },
+      "3.18.1": {
+        "name": "fastify",
+        "version": "3.18.1"
+      },
+      "3.19.0": {
+        "name": "fastify",
+        "version": "3.19.0"
+      },
+      "3.19.1": {
+        "name": "fastify",
+        "version": "3.19.1"
+      },
+      "3.19.2": {
+        "name": "fastify",
+        "version": "3.19.2"
+      },
+      "3.20.0": {
+        "name": "fastify",
+        "version": "3.20.0"
+      },
+      "3.20.1": {
+        "name": "fastify",
+        "version": "3.20.1"
+      },
+      "3.20.2": {
+        "name": "fastify",
+        "version": "3.20.2"
+      },
+      "3.21.0": {
+        "name": "fastify",
+        "version": "3.21.0"
+      },
+      "3.21.1": {
+        "name": "fastify",
+        "version": "3.21.1"
+      },
+      "3.21.2": {
+        "name": "fastify",
+        "version": "3.21.2"
+      },
+      "3.21.3": {
+        "name": "fastify",
+        "version": "3.21.3"
+      },
+      "3.21.4": {
+        "name": "fastify",
+        "version": "3.21.4"
+      },
+      "3.21.5": {
+        "name": "fastify",
+        "version": "3.21.5"
+      },
+      "3.21.6": {
+        "name": "fastify",
+        "version": "3.21.6"
+      },
+      "3.22.0": {
+        "name": "fastify",
+        "version": "3.22.0"
+      },
+      "3.22.1": {
+        "name": "fastify",
+        "version": "3.22.1"
+      },
+      "3.23.0": {
+        "name": "fastify",
+        "version": "3.23.0"
+      },
+      "3.23.1": {
+        "name": "fastify",
+        "version": "3.23.1"
+      },
+      "3.24.0": {
+        "name": "fastify",
+        "version": "3.24.0"
+      },
+      "3.24.1": {
+        "name": "fastify",
+        "version": "3.24.1"
+      },
+      "3.25.0": {
+        "name": "fastify",
+        "version": "3.25.0"
+      },
+      "3.25.1": {
+        "name": "fastify",
+        "version": "3.25.1"
+      },
+      "3.25.2": {
+        "name": "fastify",
+        "version": "3.25.2"
+      },
+      "3.25.3": {
+        "name": "fastify",
+        "version": "3.25.3"
+      },
+      "3.26.0": {
+        "name": "fastify",
+        "version": "3.26.0"
+      },
+      "3.27.0": {
+        "name": "fastify",
+        "version": "3.27.0"
+      },
+      "3.27.1": {
+        "name": "fastify",
+        "version": "3.27.1"
+      },
+      "3.27.2": {
+        "name": "fastify",
+        "version": "3.27.2"
+      },
+      "4.0.0-alpha.1": {
+        "name": "fastify",
+        "version": "4.0.0-alpha.1"
+      },
+      "3.27.3": {
+        "name": "fastify",
+        "version": "3.27.3"
+      },
+      "3.27.4": {
+        "name": "fastify",
+        "version": "3.27.4"
+      },
+      "4.0.0-alpha.2": {
+        "name": "fastify",
+        "version": "4.0.0-alpha.2"
+      },
+      "4.0.0-alpha.3": {
+        "name": "fastify",
+        "version": "4.0.0-alpha.3"
+      },
+      "3.28.0": {
+        "name": "fastify",
+        "version": "3.28.0"
+      },
+      "4.0.0-rc.1": {
+        "name": "fastify",
+        "version": "4.0.0-rc.1"
+      },
+      "3.29.0": {
+        "name": "fastify",
+        "version": "3.29.0"
+      },
+      "4.0.0-rc.2": {
+        "name": "fastify",
+        "version": "4.0.0-rc.2"
+      },
+      "4.0.0-rc.3": {
+        "name": "fastify",
+        "version": "4.0.0-rc.3"
+      },
+      "4.0.0-rc.4": {
+        "name": "fastify",
+        "version": "4.0.0-rc.4"
+      },
+      "4.0.0-rc.5": {
+        "name": "fastify",
+        "version": "4.0.0-rc.5"
+      },
+      "4.0.0": {
+        "name": "fastify",
+        "version": "4.0.0"
+      },
+      "4.0.1": {
+        "name": "fastify",
+        "version": "4.0.1"
+      },
+      "4.0.2": {
+        "name": "fastify",
+        "version": "4.0.2"
+      },
+      "4.0.3": {
+        "name": "fastify",
+        "version": "4.0.3"
+      },
+      "4.1.0": {
+        "name": "fastify",
+        "version": "4.1.0"
+      },
+      "4.2.0": {
+        "name": "fastify",
+        "version": "4.2.0"
+      },
+      "3.29.1": {
+        "name": "fastify",
+        "version": "3.29.1"
+      },
+      "4.2.1": {
+        "name": "fastify",
+        "version": "4.2.1"
+      },
+      "4.3.0": {
+        "name": "fastify",
+        "version": "4.3.0"
+      },
+      "4.4.0": {
+        "name": "fastify",
+        "version": "4.4.0"
+      },
+      "4.5.0": {
+        "name": "fastify",
+        "version": "4.5.0"
+      },
+      "4.5.1": {
+        "name": "fastify",
+        "version": "4.5.1"
+      },
+      "4.5.2": {
+        "name": "fastify",
+        "version": "4.5.2"
+      },
+      "4.5.3": {
+        "name": "fastify",
+        "version": "4.5.3"
+      },
+      "3.29.2": {
+        "name": "fastify",
+        "version": "3.29.2"
+      },
+      "4.6.0": {
+        "name": "fastify",
+        "version": "4.6.0"
+      },
+      "4.7.0": {
+        "name": "fastify",
+        "version": "4.7.0"
+      },
+      "4.8.0": {
+        "name": "fastify",
+        "version": "4.8.0"
+      },
+      "4.8.1": {
+        "name": "fastify",
+        "version": "4.8.1"
+      },
+      "3.29.3": {
+        "name": "fastify",
+        "version": "3.29.3"
+      },
+      "4.9.0": {
+        "name": "fastify",
+        "version": "4.9.0"
+      },
+      "4.9.1": {
+        "name": "fastify",
+        "version": "4.9.1"
+      },
+      "4.9.2": {
+        "name": "fastify",
+        "version": "4.9.2"
+      },
+      "4.10.0": {
+        "name": "fastify",
+        "version": "4.10.0"
+      },
+      "4.10.1": {
+        "name": "fastify",
+        "version": "4.10.1"
+      },
+      "4.10.2": {
+        "name": "fastify",
+        "version": "4.10.2"
+      },
+      "3.29.4": {
+        "name": "fastify",
+        "version": "3.29.4"
+      },
+      "4.11.0": {
+        "name": "fastify",
+        "version": "4.11.0"
+      },
+      "3.29.5": {
+        "name": "fastify",
+        "version": "3.29.5"
+      },
+      "4.12.0": {
+        "name": "fastify",
+        "version": "4.12.0"
+      },
+      "4.13.0": {
+        "name": "fastify",
+        "version": "4.13.0"
+      },
+      "4.14.0": {
+        "name": "fastify",
+        "version": "4.14.0"
+      },
+      "4.14.1": {
+        "name": "fastify",
+        "version": "4.14.1"
+      },
+      "4.15.0": {
+        "name": "fastify",
+        "version": "4.15.0"
+      },
+      "4.16.0": {
+        "name": "fastify",
+        "version": "4.16.0"
+      },
+      "4.16.1": {
+        "name": "fastify",
+        "version": "4.16.1"
+      },
+      "4.16.2": {
+        "name": "fastify",
+        "version": "4.16.2"
+      },
+      "4.16.3": {
+        "name": "fastify",
+        "version": "4.16.3"
+      },
+      "4.17.0": {
+        "name": "fastify",
+        "version": "4.17.0"
+      },
+      "4.18.0": {
+        "name": "fastify",
+        "version": "4.18.0"
+      },
+      "4.19.0": {
+        "name": "fastify",
+        "version": "4.19.0"
+      },
+      "4.19.1": {
+        "name": "fastify",
+        "version": "4.19.1"
+      },
+      "4.19.2": {
+        "name": "fastify",
+        "version": "4.19.2"
+      },
+      "4.20.0": {
+        "name": "fastify",
+        "version": "4.20.0"
+      },
+      "4.21.0": {
+        "name": "fastify",
+        "version": "4.21.0"
+      },
+      "4.22.0": {
+        "name": "fastify",
+        "version": "4.22.0"
+      },
+      "4.22.1": {
+        "name": "fastify",
+        "version": "4.22.1"
+      },
+      "4.22.2": {
+        "name": "fastify",
+        "version": "4.22.2"
+      },
+      "4.23.0": {
+        "name": "fastify",
+        "version": "4.23.0"
+      },
+      "4.23.1": {
+        "name": "fastify",
+        "version": "4.23.1"
+      },
+      "4.23.2": {
+        "name": "fastify",
+        "version": "4.23.2"
+      },
+      "4.24.0": {
+        "name": "fastify",
+        "version": "4.24.0"
+      },
+      "4.24.1": {
+        "name": "fastify",
+        "version": "4.24.1"
+      },
+      "4.24.2": {
+        "name": "fastify",
+        "version": "4.24.2"
+      },
+      "4.24.3": {
+        "name": "fastify",
+        "version": "4.24.3"
+      },
+      "4.25.0": {
+        "name": "fastify",
+        "version": "4.25.0"
+      },
+      "4.25.1": {
+        "name": "fastify",
+        "version": "4.25.1"
+      },
+      "4.25.2": {
+        "name": "fastify",
+        "version": "4.25.2"
+      },
+      "4.26.0": {
+        "name": "fastify",
+        "version": "4.26.0"
+      },
+      "4.26.1": {
+        "name": "fastify",
+        "version": "4.26.1"
+      },
+      "4.26.2": {
+        "name": "fastify",
+        "version": "4.26.2"
+      },
+      "4.27.0": {
+        "name": "fastify",
+        "version": "4.27.0"
+      },
+      "5.0.0-aplha.1": {
+        "name": "fastify",
+        "version": "5.0.0-aplha.1"
+      },
+      "4.28.0": {
+        "name": "fastify",
+        "version": "4.28.0"
+      },
+      "5.0.0-alpha.2": {
+        "name": "fastify",
+        "version": "5.0.0-alpha.2"
+      },
+      "5.0.0-alpha.3": {
+        "name": "fastify",
+        "version": "5.0.0-alpha.3"
+      },
+      "4.28.1": {
+        "name": "fastify",
+        "version": "4.28.1"
+      },
+      "5.0.0-alpha.4": {
+        "name": "fastify",
+        "version": "5.0.0-alpha.4"
+      },
+      "5.0.0": {
+        "name": "fastify",
+        "version": "5.0.0"
+      },
+      "5.1.0": {
+        "name": "fastify",
+        "version": "5.1.0"
+      },
+      "4.29.0": {
+        "name": "fastify",
+        "version": "4.29.0"
+      },
+      "5.2.0": {
+        "name": "fastify",
+        "version": "5.2.0"
+      },
+      "5.2.1": {
+        "name": "fastify",
+        "version": "5.2.1"
+      },
+      "5.2.2": {
+        "name": "fastify",
+        "version": "5.2.2"
+      },
+      "5.3.0": {
+        "name": "fastify",
+        "version": "5.3.0"
+      },
+      "5.3.1": {
+        "name": "fastify",
+        "version": "5.3.1"
+      },
+      "5.3.2": {
+        "name": "fastify",
+        "version": "5.3.2"
+      },
+      "4.29.1": {
+        "name": "fastify",
+        "version": "4.29.1"
+      },
+      "5.3.3": {
+        "name": "fastify",
+        "version": "5.3.3"
+      },
+      "5.4.0": {
+        "name": "fastify",
+        "version": "5.4.0"
+      },
+      "5.5.0": {
+        "name": "fastify",
+        "version": "5.5.0"
+      },
+      "5.6.0": {
+        "name": "fastify",
+        "version": "5.6.0"
+      },
+      "5.6.1": {
+        "name": "fastify",
+        "version": "5.6.1"
+      },
+      "5.6.2": {
+        "name": "fastify",
+        "version": "5.6.2"
+      },
+      "5.7.0": {
+        "name": "fastify",
+        "version": "5.7.0"
+      },
+      "5.7.1": {
+        "name": "fastify",
+        "version": "5.7.1"
+      },
+      "5.7.2": {
+        "name": "fastify",
+        "version": "5.7.2"
+      },
+      "5.7.3": {
+        "name": "fastify",
+        "version": "5.7.3"
+      },
+      "5.7.4": {
+        "name": "fastify",
+        "version": "5.7.4"
+      },
+      "5.8.0": {
+        "name": "fastify",
+        "version": "5.8.0"
+      },
+      "5.8.1": {
+        "name": "fastify",
+        "version": "5.8.1"
+      },
+      "5.8.2": {
+        "name": "fastify",
+        "version": "5.8.2"
+      },
+      "5.8.3": {
+        "name": "fastify",
+        "version": "5.8.3"
+      },
+      "5.8.4": {
+        "name": "fastify",
+        "version": "5.8.4"
+      },
+      "5.8.5": {
+        "name": "fastify",
+        "version": "5.8.5"
+      }
+    }
+  },
+  "@aeolun/fastify-zod-openapi": {
+    "name": "@aeolun/fastify-zod-openapi",
+    "dist-tags": {
+      "latest": "4.1.4"
+    },
+    "versions": {
+      "4.1.2": {
+        "name": "@aeolun/fastify-zod-openapi",
+        "version": "4.1.2",
+        "peerDependencies": {
+          "zod": "^3.21.4",
+          "fastify": "5",
+          "zod-openapi": "^4.2.0",
+          "@fastify/swagger": "^9.0.0",
+          "@fastify/swagger-ui": "^5.0.1"
+        }
+      },
+      "4.1.3": {
+        "name": "@aeolun/fastify-zod-openapi",
+        "version": "4.1.3",
+        "peerDependencies": {
+          "zod": "^3.21.4",
+          "fastify": "5",
+          "zod-openapi": "^4.2.0",
+          "@fastify/swagger": "^9.0.0",
+          "@fastify/swagger-ui": "^5.0.1"
+        }
+      },
+      "4.1.4": {
+        "name": "@aeolun/fastify-zod-openapi",
+        "version": "4.1.4",
+        "peerDependencies": {
+          "@fastify/swagger": "^9.0.0",
+          "@fastify/swagger-ui": "^5.0.1",
+          "fastify": "5",
+          "zod": "^3.21.4",
+          "zod-openapi": "^4.2.0"
+        }
+      }
+    }
+  },
+  "@scalar/fastify-api-reference": {
+    "name": "@scalar/fastify-api-reference",
+    "dist-tags": {
+      "latest": "1.57.2"
+    },
+    "versions": {
+      "0.2.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.2.0"
+      },
+      "0.3.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.3.0"
+      },
+      "0.3.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.3.1"
+      },
+      "0.3.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.3.2"
+      },
+      "0.4.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.4.0"
+      },
+      "0.4.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.4.1"
+      },
+      "0.4.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.4.2"
+      },
+      "0.5.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.5.0"
+      },
+      "0.6.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.0",
+        "peerDependencies": {
+          "fastify": "4.23.2",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.1",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.2",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.3",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.4",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.5",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.6",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.7",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.8",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.11": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.11",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.12": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.12",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.13": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.13",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.14": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.14",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.15": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.15",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.16": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.16",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.17": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.17",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.18": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.18",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.19": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.19",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.20": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.20",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.21": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.21",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.22": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.22",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.23": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.23",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.24": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.24",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.25": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.25",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.26": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.26",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.27": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.27",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.28": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.28",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.29": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.29",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.30": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.30",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.31": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.31",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.32": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.32",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.33": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.33",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.34": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.34",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.35": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.35",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.36": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.36",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.37": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.37",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.38": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.38",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.39": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.39",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.40": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.40",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.41": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.41",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.42": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.42",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.43": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.43",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.44": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.44",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.45": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.45",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.46": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.46",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.48": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.48",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.49": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.49",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.50": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.50",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.51": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.51",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.52": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.52",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.53": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.53",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.54": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.54",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.55": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.55",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.56": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.56",
+        "peerDependencies": {
+          "vue": "3.3.4",
+          "fastify": "4.23.2",
+          "@types/ejs": "3.1.3",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.57": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.57",
+        "peerDependencies": {
+          "vue": "^3.3.4",
+          "fastify": "^4.23.2",
+          "@types/ejs": "^3.1.3",
+          "fastify-plugin": "^4.5.1"
+        }
+      },
+      "0.6.58": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.58",
+        "peerDependencies": {
+          "vue": "^3.3.4",
+          "fastify": "^4.23.2",
+          "@types/ejs": "^3.1.3",
+          "fastify-plugin": "^4.5.1"
+        }
+      },
+      "0.6.59": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.59",
+        "peerDependencies": {
+          "vue": "^3.3.4",
+          "fastify": "^4.23.2",
+          "@types/ejs": "^3.1.3",
+          "fastify-plugin": "^4.5.1"
+        }
+      },
+      "0.6.60": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.60",
+        "peerDependencies": {
+          "vue": "^3.3.4",
+          "fastify": "^4.23.2",
+          "@types/ejs": "^3.1.3",
+          "fastify-plugin": "^4.5.1"
+        }
+      },
+      "0.6.61": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.61",
+        "peerDependencies": {
+          "vue": "^3.3.4",
+          "fastify": "^4.23.2",
+          "@types/ejs": "^3.1.3",
+          "fastify-plugin": "^4.5.1"
+        }
+      },
+      "0.6.62": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.62",
+        "peerDependencies": {
+          "vue": "^3.3.4",
+          "fastify": "^4.23.2",
+          "@types/ejs": "^3.1.3",
+          "fastify-plugin": "^4.5.1"
+        }
+      },
+      "0.6.63": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.63",
+        "peerDependencies": {
+          "vue": "^3.3.4",
+          "fastify": "^4.23.2",
+          "@types/ejs": "^3.1.3",
+          "fastify-plugin": "^4.5.1"
+        }
+      },
+      "0.6.64": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.64",
+        "peerDependencies": {
+          "vue": "^3.3.4",
+          "fastify": "^4.23.2",
+          "@types/ejs": "^3.1.3",
+          "fastify-plugin": "^4.5.1"
+        }
+      },
+      "0.6.65": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.65",
+        "peerDependencies": {
+          "vue": "^3.3.4",
+          "fastify": "^4.23.2",
+          "@types/ejs": "^3.1.3",
+          "fastify-plugin": "^4.5.1"
+        }
+      },
+      "0.6.66": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.66",
+        "peerDependencies": {
+          "fastify": "4.23.2",
+          "fastify-plugin": "4.5.1"
+        }
+      },
+      "0.6.67": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.67",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.6.68": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.6.68",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.7.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.7.0",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.7.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.7.1",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.7.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.7.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.7.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.7.3",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.7.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.7.4",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.8.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.8.0",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.8.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.8.1",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.8.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.8.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.8.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.8.3",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.8.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.8.4",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.8.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.8.5",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.8.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.8.6",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.8.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.8.7",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "0.8.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "0.8.8",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.9.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.9.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.10.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.10.1",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.10.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.10.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.11.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.11.0",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.11.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.11.1",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.12.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.12.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.12.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.12.3",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.12.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.12.4",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.12.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.12.5",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.12.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.12.6",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.12.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.12.7",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.12.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.12.8",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.12.9": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.12.9",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.13.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.13.0",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.13.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.13.1",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.13.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.13.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.13.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.13.5",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.2.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.13.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.13.6",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.13.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.13.8",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.13.10": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.13.10",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.13.13": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.13.13",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.13.18": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.13.18",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.14.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.14.8",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.15.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.15.5",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.16.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.16.0",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.17.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.17.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.17.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.17.3",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.17.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.17.5",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.17.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.17.6",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.17.12": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.17.12",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.17.13": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.17.13",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.17.14": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.17.14",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.17.15": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.17.15",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.18.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.18.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.18.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.18.5",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.18.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.18.7",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.19.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.19.1",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.19.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.19.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.19.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.19.3",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.19.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.19.4",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.19.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.19.5",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.5",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.9": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.9",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.10": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.10",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.19": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.19",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.20": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.20",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.22": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.22",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.25": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.25",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.26": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.26",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.20.27": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.20.27",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "fastify-html": "^0.3.0",
+          "fastify-plugin": "^4.0.0"
+        }
+      },
+      "1.21.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.21.0"
+      },
+      "1.22.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.0"
+      },
+      "1.22.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.2"
+      },
+      "1.22.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.3"
+      },
+      "1.22.20": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.20"
+      },
+      "1.22.24": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.24"
+      },
+      "1.22.25": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.25"
+      },
+      "1.22.26": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.26"
+      },
+      "1.22.27": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.27"
+      },
+      "1.22.28": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.28"
+      },
+      "1.22.29": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.29"
+      },
+      "1.22.30": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.30"
+      },
+      "1.22.31": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.31"
+      },
+      "1.22.32": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.32"
+      },
+      "1.22.33": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.33"
+      },
+      "1.22.34": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.34"
+      },
+      "1.22.35": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.35"
+      },
+      "1.22.36": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.36"
+      },
+      "1.22.37": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.37"
+      },
+      "1.22.38": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.38"
+      },
+      "1.22.39": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.39"
+      },
+      "1.22.40": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.40"
+      },
+      "1.22.41": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.41"
+      },
+      "1.22.42": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.42"
+      },
+      "1.22.43": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.43"
+      },
+      "1.22.44": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.44"
+      },
+      "1.22.45": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.45"
+      },
+      "1.22.46": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.46"
+      },
+      "1.22.47": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.47"
+      },
+      "1.22.48": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.48"
+      },
+      "1.22.49": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.49"
+      },
+      "1.22.50": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.50"
+      },
+      "1.22.51": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.51"
+      },
+      "1.22.52": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.52"
+      },
+      "1.22.53": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.53"
+      },
+      "1.22.54": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.54"
+      },
+      "1.22.55": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.55"
+      },
+      "1.22.56": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.22.56"
+      },
+      "1.23.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.23.0"
+      },
+      "1.23.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.23.1"
+      },
+      "1.23.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.23.2"
+      },
+      "1.23.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.23.3"
+      },
+      "1.23.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.23.4"
+      },
+      "1.23.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.23.5"
+      },
+      "1.24.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.0"
+      },
+      "1.24.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.3"
+      },
+      "1.24.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.4"
+      },
+      "1.24.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.5"
+      },
+      "1.24.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.6"
+      },
+      "1.24.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.7"
+      },
+      "1.24.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.8"
+      },
+      "1.24.10": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.10"
+      },
+      "1.24.11": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.11"
+      },
+      "1.24.12": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.12"
+      },
+      "1.24.13": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.13"
+      },
+      "1.24.15": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.15"
+      },
+      "1.24.16": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.16"
+      },
+      "1.24.17": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.17"
+      },
+      "1.24.19": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.19"
+      },
+      "1.24.20": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.20"
+      },
+      "1.24.21": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.21"
+      },
+      "1.24.23": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.23"
+      },
+      "1.24.24": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.24"
+      },
+      "1.24.25": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.25"
+      },
+      "1.24.26": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.26"
+      },
+      "1.24.27": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.27"
+      },
+      "1.24.28": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.28"
+      },
+      "1.24.29": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.29"
+      },
+      "1.24.30": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.30"
+      },
+      "1.24.31": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.31"
+      },
+      "1.24.33": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.33"
+      },
+      "1.24.34": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.34"
+      },
+      "1.24.35": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.35"
+      },
+      "1.24.36": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.36"
+      },
+      "1.24.37": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.37"
+      },
+      "1.24.38": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.38"
+      },
+      "1.24.39": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.39"
+      },
+      "1.24.40": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.40"
+      },
+      "1.24.41": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.41"
+      },
+      "1.24.42": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.42"
+      },
+      "1.24.43": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.43"
+      },
+      "1.24.44": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.44"
+      },
+      "1.24.45": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.45"
+      },
+      "1.24.46": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.46"
+      },
+      "1.24.48": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.48"
+      },
+      "1.24.49": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.49"
+      },
+      "1.24.50": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.50"
+      },
+      "1.24.51": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.51"
+      },
+      "1.24.52": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.52"
+      },
+      "1.24.53": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.53"
+      },
+      "1.24.54": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.54"
+      },
+      "1.24.55": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.55"
+      },
+      "1.24.56": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.56"
+      },
+      "1.24.57": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.57"
+      },
+      "1.24.58": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.58"
+      },
+      "1.24.59": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.59"
+      },
+      "1.24.60": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.60"
+      },
+      "1.24.61": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.61"
+      },
+      "1.24.62": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.62"
+      },
+      "1.24.63": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.63"
+      },
+      "1.24.64": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.64"
+      },
+      "1.24.65": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.65"
+      },
+      "1.24.66": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.66"
+      },
+      "1.24.67": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.67"
+      },
+      "1.24.68": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.68"
+      },
+      "1.24.69": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.69"
+      },
+      "1.24.70": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.70"
+      },
+      "1.24.71": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.71"
+      },
+      "1.24.72": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.72"
+      },
+      "1.24.73": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.73"
+      },
+      "1.24.74": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.74"
+      },
+      "1.24.75": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.75"
+      },
+      "1.24.76": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.76"
+      },
+      "1.24.77": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.24.77"
+      },
+      "1.25.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.0"
+      },
+      "1.25.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.1"
+      },
+      "1.25.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.2"
+      },
+      "1.25.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.3"
+      },
+      "1.25.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.4"
+      },
+      "1.25.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.5"
+      },
+      "1.25.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.6"
+      },
+      "1.25.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.7"
+      },
+      "1.25.9": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.9"
+      },
+      "1.25.10": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.10"
+      },
+      "1.25.11": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.11"
+      },
+      "1.25.12": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.12"
+      },
+      "1.25.13": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.13"
+      },
+      "1.25.14": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.14"
+      },
+      "1.25.16": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.16"
+      },
+      "1.25.17": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.17"
+      },
+      "1.25.18": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.18"
+      },
+      "1.25.19": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.19"
+      },
+      "1.25.20": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.20"
+      },
+      "1.25.21": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.21"
+      },
+      "1.25.22": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.22"
+      },
+      "1.25.23": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.23"
+      },
+      "1.25.24": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.24"
+      },
+      "1.25.25": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.25"
+      },
+      "1.25.26": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.26"
+      },
+      "1.25.27": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.27"
+      },
+      "1.25.28": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.28"
+      },
+      "1.25.29": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.29"
+      },
+      "1.25.30": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.30"
+      },
+      "1.25.31": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.31"
+      },
+      "1.25.32": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.32"
+      },
+      "1.25.33": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.33"
+      },
+      "1.25.34": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.34"
+      },
+      "1.25.35": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.35"
+      },
+      "1.25.36": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.36"
+      },
+      "1.25.37": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.37"
+      },
+      "1.25.38": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.38"
+      },
+      "1.25.39": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.39"
+      },
+      "1.25.40": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.40"
+      },
+      "1.25.41": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.41"
+      },
+      "1.25.42": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.42"
+      },
+      "1.25.43": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.43"
+      },
+      "1.25.44": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.44"
+      },
+      "1.25.45": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.45"
+      },
+      "1.25.46": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.46"
+      },
+      "1.25.47": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.47"
+      },
+      "1.25.48": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.48"
+      },
+      "1.25.49": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.49"
+      },
+      "1.25.50": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.50"
+      },
+      "1.25.51": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.51"
+      },
+      "1.25.52": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.52"
+      },
+      "1.25.53": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.53"
+      },
+      "1.25.54": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.54"
+      },
+      "1.25.55": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.55"
+      },
+      "1.25.56": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.56"
+      },
+      "1.25.57": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.57"
+      },
+      "1.25.58": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.58"
+      },
+      "1.25.59": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.59"
+      },
+      "1.25.60": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.60"
+      },
+      "1.25.61": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.61"
+      },
+      "1.25.62": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.62"
+      },
+      "1.25.63": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.63"
+      },
+      "1.25.64": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.64"
+      },
+      "1.25.65": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.65"
+      },
+      "1.25.66": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.66"
+      },
+      "1.25.67": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.67"
+      },
+      "1.25.68": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.68"
+      },
+      "1.25.69": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.69"
+      },
+      "1.25.70": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.70"
+      },
+      "1.25.71": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.71"
+      },
+      "1.25.72": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.72"
+      },
+      "1.25.74": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.74"
+      },
+      "1.25.75": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.75"
+      },
+      "1.25.76": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.76"
+      },
+      "1.25.77": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.77"
+      },
+      "1.25.78": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.78"
+      },
+      "1.25.79": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.79"
+      },
+      "1.25.80": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.80"
+      },
+      "1.25.81": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.81"
+      },
+      "1.25.82": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.82"
+      },
+      "1.25.83": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.83"
+      },
+      "1.25.86": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.86"
+      },
+      "1.25.87": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.87"
+      },
+      "1.25.88": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.88"
+      },
+      "1.25.89": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.89"
+      },
+      "1.25.90": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.90"
+      },
+      "1.25.91": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.91"
+      },
+      "1.25.92": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.92"
+      },
+      "1.25.93": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.93"
+      },
+      "1.25.94": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.94"
+      },
+      "1.25.95": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.95"
+      },
+      "1.25.96": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.96"
+      },
+      "1.25.98": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.98"
+      },
+      "1.25.99": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.99"
+      },
+      "1.25.100": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.100"
+      },
+      "1.25.101": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.101"
+      },
+      "1.25.102": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.102"
+      },
+      "1.25.103": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.103"
+      },
+      "1.25.104": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.104"
+      },
+      "1.25.105": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.105"
+      },
+      "1.25.106": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.106"
+      },
+      "1.25.108": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.108"
+      },
+      "1.25.109": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.109"
+      },
+      "1.25.110": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.110"
+      },
+      "1.25.111": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.111"
+      },
+      "1.25.112": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.112"
+      },
+      "1.25.113": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.113"
+      },
+      "1.25.114": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.114"
+      },
+      "1.25.115": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.115"
+      },
+      "1.25.116": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.116"
+      },
+      "1.25.118": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.118"
+      },
+      "1.25.119": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.119"
+      },
+      "1.25.120": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.120"
+      },
+      "1.25.121": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.121"
+      },
+      "1.25.122": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.122"
+      },
+      "1.25.123": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.123"
+      },
+      "1.25.124": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.124"
+      },
+      "1.25.125": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.125"
+      },
+      "1.25.126": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.126"
+      },
+      "1.25.127": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.127"
+      },
+      "1.25.128": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.128"
+      },
+      "1.25.130": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.25.130"
+      },
+      "1.26.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.26.0"
+      },
+      "1.26.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.26.1"
+      },
+      "1.26.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.26.2"
+      },
+      "1.28.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.1"
+      },
+      "1.28.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.2"
+      },
+      "1.28.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.3"
+      },
+      "1.28.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.4"
+      },
+      "1.28.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.5"
+      },
+      "1.28.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.6"
+      },
+      "1.28.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.7"
+      },
+      "1.28.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.8"
+      },
+      "1.28.9": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.9"
+      },
+      "1.28.10": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.10"
+      },
+      "1.28.11": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.11"
+      },
+      "1.28.12": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.12"
+      },
+      "1.28.13": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.13"
+      },
+      "1.28.14": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.14"
+      },
+      "1.28.15": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.15"
+      },
+      "1.28.16": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.16"
+      },
+      "1.28.17": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.17"
+      },
+      "1.28.18": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.18"
+      },
+      "1.28.19": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.19"
+      },
+      "1.28.20": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.20"
+      },
+      "1.28.21": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.21"
+      },
+      "1.28.22": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.22"
+      },
+      "1.28.23": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.23"
+      },
+      "1.28.24": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.24"
+      },
+      "1.28.25": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.25"
+      },
+      "1.28.26": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.26"
+      },
+      "1.28.27": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.27"
+      },
+      "1.28.28": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.28"
+      },
+      "1.28.29": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.29"
+      },
+      "1.28.30": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.30"
+      },
+      "1.28.31": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.31"
+      },
+      "1.28.32": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.32"
+      },
+      "1.28.33": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.33"
+      },
+      "1.28.34": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.28.34"
+      },
+      "1.29.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.29.1"
+      },
+      "1.29.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.29.2"
+      },
+      "1.29.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.29.3"
+      },
+      "1.30.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.30.0"
+      },
+      "1.31.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.0"
+      },
+      "1.31.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.1"
+      },
+      "1.31.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.2"
+      },
+      "1.31.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.3"
+      },
+      "1.31.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.4"
+      },
+      "1.31.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.6"
+      },
+      "1.31.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.7"
+      },
+      "1.31.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.8"
+      },
+      "1.31.9": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.9"
+      },
+      "1.31.10": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.10"
+      },
+      "1.31.11": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.11"
+      },
+      "1.31.12": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.12"
+      },
+      "1.31.14": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.14"
+      },
+      "1.31.15": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.15"
+      },
+      "1.31.17": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.17"
+      },
+      "1.31.18": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.31.18"
+      },
+      "1.32.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.32.0"
+      },
+      "1.32.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.32.1"
+      },
+      "1.32.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.32.4"
+      },
+      "1.32.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.32.5"
+      },
+      "1.32.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.32.6"
+      },
+      "1.32.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.32.7"
+      },
+      "1.32.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.32.8"
+      },
+      "1.32.9": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.32.9"
+      },
+      "1.32.10": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.32.10"
+      },
+      "1.33.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.33.0"
+      },
+      "1.34.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.34.0"
+      },
+      "1.34.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.34.1"
+      },
+      "1.34.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.34.2"
+      },
+      "1.34.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.34.4"
+      },
+      "1.34.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.34.5"
+      },
+      "1.34.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.34.6"
+      },
+      "1.35.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.35.0"
+      },
+      "1.35.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.35.1"
+      },
+      "1.35.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.35.2"
+      },
+      "1.35.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.35.3"
+      },
+      "1.35.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.35.4"
+      },
+      "1.35.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.35.5"
+      },
+      "1.35.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.35.6"
+      },
+      "1.35.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.35.7"
+      },
+      "1.36.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.36.0"
+      },
+      "1.36.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.36.1"
+      },
+      "1.36.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.36.2"
+      },
+      "1.37.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.37.0"
+      },
+      "1.38.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.38.0"
+      },
+      "1.38.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.38.1"
+      },
+      "1.39.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.39.0"
+      },
+      "1.39.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.39.1"
+      },
+      "1.39.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.39.2"
+      },
+      "1.39.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.39.3"
+      },
+      "1.40.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.40.0"
+      },
+      "1.40.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.40.1"
+      },
+      "1.40.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.40.2"
+      },
+      "1.40.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.40.3"
+      },
+      "1.40.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.40.4"
+      },
+      "1.40.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.40.5"
+      },
+      "1.40.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.40.8"
+      },
+      "1.40.9": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.40.9"
+      },
+      "1.41.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.41.0"
+      },
+      "1.41.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.41.1"
+      },
+      "1.42.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.42.0"
+      },
+      "1.43.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.0"
+      },
+      "1.43.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.1"
+      },
+      "1.43.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.2"
+      },
+      "1.43.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.3"
+      },
+      "1.43.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.4"
+      },
+      "1.43.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.5"
+      },
+      "1.43.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.7"
+      },
+      "1.43.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.8"
+      },
+      "1.43.9": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.9"
+      },
+      "1.43.10": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.10"
+      },
+      "1.43.11": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.11"
+      },
+      "1.43.12": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.12"
+      },
+      "1.43.13": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.13"
+      },
+      "1.43.14": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.14"
+      },
+      "1.43.15": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.15"
+      },
+      "1.43.16": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.16"
+      },
+      "1.43.17": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.43.17"
+      },
+      "1.44.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.0"
+      },
+      "1.44.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.1"
+      },
+      "1.44.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.2"
+      },
+      "1.44.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.3"
+      },
+      "1.44.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.4"
+      },
+      "1.44.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.6"
+      },
+      "1.44.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.7"
+      },
+      "1.44.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.8"
+      },
+      "1.44.9": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.9"
+      },
+      "1.44.11": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.11"
+      },
+      "1.44.12": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.12"
+      },
+      "1.44.13": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.13"
+      },
+      "1.44.14": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.14"
+      },
+      "1.44.15": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.15"
+      },
+      "1.44.16": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.16"
+      },
+      "1.44.17": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.17"
+      },
+      "1.44.18": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.18"
+      },
+      "1.44.20": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.20"
+      },
+      "1.44.23": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.23"
+      },
+      "1.44.24": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.24"
+      },
+      "1.44.25": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.25"
+      },
+      "1.44.26": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.26"
+      },
+      "1.44.27": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.44.27"
+      },
+      "1.46.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.46.0"
+      },
+      "1.46.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.46.1"
+      },
+      "1.46.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.46.2"
+      },
+      "1.46.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.46.3"
+      },
+      "1.46.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.46.4"
+      },
+      "1.47.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.47.0"
+      },
+      "1.48.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.48.0"
+      },
+      "1.48.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.48.1"
+      },
+      "1.48.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.48.2"
+      },
+      "1.48.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.48.4"
+      },
+      "1.48.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.48.5"
+      },
+      "1.48.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.48.6"
+      },
+      "1.48.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.48.7"
+      },
+      "1.48.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.48.8"
+      },
+      "1.49.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.49.0"
+      },
+      "1.49.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.49.1"
+      },
+      "1.49.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.49.2"
+      },
+      "1.49.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.49.3"
+      },
+      "1.49.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.49.4"
+      },
+      "1.49.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.49.5"
+      },
+      "1.49.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.49.6"
+      },
+      "1.49.7": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.49.7"
+      },
+      "1.49.8": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.49.8"
+      },
+      "1.50.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.50.0"
+      },
+      "1.51.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.51.0"
+      },
+      "1.52.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.52.0"
+      },
+      "1.52.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.52.1"
+      },
+      "1.52.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.52.2"
+      },
+      "1.52.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.52.3"
+      },
+      "1.52.4": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.52.4"
+      },
+      "1.52.5": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.52.5"
+      },
+      "1.52.6": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.52.6"
+      },
+      "1.53.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.53.0"
+      },
+      "1.53.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.53.1"
+      },
+      "1.54.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.54.0"
+      },
+      "1.55.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.55.0"
+      },
+      "1.55.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.55.1"
+      },
+      "1.55.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.55.2"
+      },
+      "1.55.3": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.55.3"
+      },
+      "1.57.0": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.57.0"
+      },
+      "1.57.1": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.57.1"
+      },
+      "1.57.2": {
+        "name": "@scalar/fastify-api-reference",
+        "version": "1.57.2"
+      }
+    }
+  }
+}

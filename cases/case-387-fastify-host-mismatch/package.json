@@ -1,0 +1,12 @@
+{
+  "name": "case-387-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@marcalexiei/fastify-type-provider-zod": "0.0.1",
+    "@jackdbd/fastify-token-endpoint": "1.1.6"
+  }
+}

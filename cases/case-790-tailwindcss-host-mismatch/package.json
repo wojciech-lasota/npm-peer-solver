@@ -1,0 +1,12 @@
+{
+  "name": "case-790-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@studiometa/webpack-config-preset-tailwindcss-4": "6.3.1",
+    "@nextui-org/theme": "2.1.3"
+  }
+}

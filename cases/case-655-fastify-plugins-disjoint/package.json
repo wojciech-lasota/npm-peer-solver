@@ -1,0 +1,12 @@
+{
+  "name": "case-655-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "5.2.2",
+    "@fastify/schedule": "2.0.0",
+    "@prefabs.tech/fastify-graphql": "0.88.0"
+  }
+}

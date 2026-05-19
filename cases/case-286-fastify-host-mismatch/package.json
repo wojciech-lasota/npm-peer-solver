@@ -1,0 +1,12 @@
+{
+  "name": "case-286-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@h4ad/serverless-adapter": "1.0.1",
+    "@prefabs.tech/fastify-s3": "0.94.0"
+  }
+}

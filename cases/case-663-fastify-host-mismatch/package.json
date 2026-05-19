@@ -1,0 +1,12 @@
+{
+  "name": "case-663-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@giogaspa/fastify-multitenant": "1.0.0",
+    "@payweave/fastify": "0.0.2"
+  }
+}

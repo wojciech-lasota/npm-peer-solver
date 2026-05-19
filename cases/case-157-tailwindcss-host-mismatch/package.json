@@ -1,0 +1,12 @@
+{
+  "name": "case-157-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@payfit/unity-themes": "1.0.0",
+    "@fylgja/tailwindcss-plugin-cssprops": "1.0.0"
+  }
+}

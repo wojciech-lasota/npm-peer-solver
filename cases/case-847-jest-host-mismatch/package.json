@@ -1,0 +1,12 @@
+{
+  "name": "case-847-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "@tdd-buffet/jest-config": "1.0.0",
+    "@oriflame/jest-preset": "5.15.10"
+  }
+}

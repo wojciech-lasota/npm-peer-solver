@@ -1,0 +1,12 @@
+{
+  "name": "case-547-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.1.8",
+    "@salesforce/vite-plugin-webapp-experimental": "0.2.0",
+    "@flareapp/vite": "1.0.0"
+  }
+}

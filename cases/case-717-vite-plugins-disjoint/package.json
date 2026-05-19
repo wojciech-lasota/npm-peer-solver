@@ -1,0 +1,12 @@
+{
+  "name": "case-717-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "8.0.6",
+    "@netlify/vite-plugin-tanstack-start": "0.0.0",
+    "@defstudio/vite-livewire-plugin": "0.0.1"
+  }
+}

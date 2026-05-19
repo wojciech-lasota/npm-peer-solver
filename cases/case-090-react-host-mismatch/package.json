@@ -6,14 +6,7 @@
   "type": "module",
   "dependencies": {
     "react": "0.0.1",
-    "@react-stately/color": "3.0.0",
-    "@react-aria/tabs": "3.1.5",
-    "@react-navigation/elements": "2.1.4",
-    "@react-navigation/native": "5.0.8",
-    "@react-spring/native": "9.2.0",
-    "@react-stately/datepicker": "3.9.1",
-    "@react-aria/selection": "3.8.1",
-    "@react-leaflet/core": "1.0.1",
-    "@react-stately/overlays": "3.1.4"
+    "@react-navigation/native": "7.0.0",
+    "@react-aria/tabs": "3.9.3"
   }
 }

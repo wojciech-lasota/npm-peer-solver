@@ -1,0 +1,12 @@
+{
+  "name": "case-656-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@trymarket/fastify": "0.1.0",
+    "@jackdbd/fastify-introspection-endpoint": "1.1.6"
+  }
+}

@@ -1,0 +1,323 @@
+[
+  {
+    "packageName": "fastify",
+    "requestedRange": "1.10.0",
+    "candidates": [
+      {
+        "packageName": "fastify",
+        "version": "5.8.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.6.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.6.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.6.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.5.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.4.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.3.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.3.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.3.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.3.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.2.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.2.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.2.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "4.29.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "4.29.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "3.29.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "2.15.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "1.14.6",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@lokalise/opentelemetry-fastify-bootstrap",
+    "requestedRange": "1.1.0",
+    "candidates": [
+      {
+        "packageName": "@lokalise/opentelemetry-fastify-bootstrap",
+        "version": "2.2.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@fastify/otel": "0.17.1",
+          "@opentelemetry/sdk-node": "^0.210.0",
+          "@opentelemetry/sdk-trace-base": "^2.4.0",
+          "@opentelemetry/exporter-trace-otlp-grpc": "^0.210.0",
+          "@opentelemetry/auto-instrumentations-node": "^0.68.0"
+        }
+      },
+      {
+        "packageName": "@lokalise/opentelemetry-fastify-bootstrap",
+        "version": "2.1.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@fastify/otel": "^0.16.0",
+          "@opentelemetry/sdk-node": "^0.210.0",
+          "@opentelemetry/sdk-trace-base": "^2.4.0",
+          "@opentelemetry/exporter-trace-otlp-grpc": "^0.210.0",
+          "@opentelemetry/auto-instrumentations-node": "^0.68.0"
+        }
+      },
+      {
+        "packageName": "@lokalise/opentelemetry-fastify-bootstrap",
+        "version": "2.1.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@fastify/otel": "^0.16.0",
+          "@opentelemetry/sdk-node": "^0.210.0",
+          "@opentelemetry/sdk-trace-base": "^2.4.0",
+          "@opentelemetry/exporter-trace-otlp-grpc": "^0.210.0",
+          "@opentelemetry/auto-instrumentations-node": "^0.68.0"
+        }
+      },
+      {
+        "packageName": "@lokalise/opentelemetry-fastify-bootstrap",
+        "version": "2.1.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@fastify/otel": "^0.16.0",
+          "@opentelemetry/sdk-node": "^0.210.0",
+          "@opentelemetry/sdk-trace-base": "^2.4.0",
+          "@opentelemetry/exporter-trace-otlp-grpc": "^0.210.0",
+          "@opentelemetry/auto-instrumentations-node": "^0.68.0"
+        }
+      },
+      {
+        "packageName": "@lokalise/opentelemetry-fastify-bootstrap",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@fastify/otel": "^0.16.0",
+          "@opentelemetry/sdk-node": "^0.210.0",
+          "@opentelemetry/sdk-trace-base": "^2.4.0",
+          "@opentelemetry/exporter-trace-otlp-grpc": "^0.210.0",
+          "@opentelemetry/auto-instrumentations-node": "^0.68.0"
+        }
+      },
+      {
+        "packageName": "@lokalise/opentelemetry-fastify-bootstrap",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@fastify/otel": "^0.16.0",
+          "@opentelemetry/sdk-node": "^0.210.0",
+          "@opentelemetry/sdk-trace-base": "^2.4.0",
+          "@opentelemetry/exporter-trace-otlp-grpc": "^0.210.0",
+          "@opentelemetry/auto-instrumentations-node": "^0.68.0"
+        }
+      },
+      {
+        "packageName": "@lokalise/opentelemetry-fastify-bootstrap",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "fastify": ">=5.0.0",
+          "@fastify/otel": ">=0.16.0",
+          "@opentelemetry/sdk-node": ">=0.208.0",
+          "@opentelemetry/sdk-trace-base": ">=0.208.0",
+          "@opentelemetry/exporter-trace-otlp-grpc": ">=0.208.0",
+          "@opentelemetry/auto-instrumentations-node": ">=0.67.3"
+        }
+      },
+      {
+        "packageName": "@lokalise/opentelemetry-fastify-bootstrap",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "fastify": ">=5.0.0",
+          "@fastify/otel": ">=0.16.0",
+          "@opentelemetry/sdk-node": ">=0.208.0",
+          "@opentelemetry/exporter-trace-otlp-grpc": ">=0.208.0",
+          "@opentelemetry/auto-instrumentations-node": ">=0.67.3"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@ogcio/fastify-o11y",
+    "requestedRange": "1.0.0",
+    "candidates": [
+      {
+        "packageName": "@ogcio/fastify-o11y",
+        "version": "5.2.1",
+        "peerDependencies": {
+          "@ogcio/o11y-sdk-node": ">=0.9.0",
+          "@opentelemetry/api": "1.9.1",
+          "fastify": "^5.7.4"
+        }
+      },
+      {
+        "packageName": "@ogcio/fastify-o11y",
+        "version": "5.2.0",
+        "peerDependencies": {
+          "fastify": "^5.7.4",
+          "@opentelemetry/api": "1.9.1",
+          "@ogcio/o11y-sdk-node": ">=0.9.0"
+        }
+      },
+      {
+        "packageName": "@ogcio/fastify-o11y",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "fastify": "^5.7.4",
+          "@ogcio/o11y-sdk-node": ">=0.9.0"
+        }
+      },
+      {
+        "packageName": "@ogcio/fastify-o11y",
+        "version": "5.0.1",
+        "peerDependencies": {
+          "fastify": ">=5.0.0",
+          "@ogcio/o11y-sdk-node": ">=0.3.0"
+        }
+      },
+      {
+        "packageName": "@ogcio/fastify-o11y",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "fastify": "^4.29.1",
+          "@ogcio/o11y-sdk-node": ">=0.3.0"
+        }
+      },
+      {
+        "packageName": "@ogcio/fastify-o11y",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "fastify": ">=5.0.0",
+          "@ogcio/o11y-sdk-node": ">=0.3.0"
+        }
+      },
+      {
+        "packageName": "@ogcio/fastify-o11y",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "fastify": ">=5.0.0",
+          "@ogcio/o11y-sdk-node": ">=0.2.0"
+        }
+      }
+    ]
+  }
+]

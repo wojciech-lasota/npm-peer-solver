@@ -1,0 +1,12 @@
+{
+  "name": "case-223-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@joggr/fastify-prisma": "4.0.0",
+    "@12degrees/stateful-fastify": "0.3.2"
+  }
+}

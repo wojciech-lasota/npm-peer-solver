@@ -1,0 +1,12 @@
+{
+  "name": "case-779-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-spring/three": "9.0.0",
+    "@react-stately/checkbox": "3.0.0"
+  }
+}

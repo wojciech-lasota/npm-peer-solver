@@ -1,0 +1,12 @@
+{
+  "name": "case-999-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@open-xchange/vite-plugin-ox-manifests": "1.0.0",
+    "@livestore/devtools-vite": "0.3.1"
+  }
+}

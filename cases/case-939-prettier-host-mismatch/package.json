@@ -1,0 +1,12 @@
+{
+  "name": "case-939-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "prettier-md-fenced-txt-wrap": "1.0.0",
+    "@sylphlab/prettier-config": "0.2.4"
+  }
+}

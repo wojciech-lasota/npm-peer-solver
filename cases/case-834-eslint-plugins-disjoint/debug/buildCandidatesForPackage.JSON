@@ -1,0 +1,728 @@
+[
+  {
+    "packageName": "eslint",
+    "requestedRange": "9.39.3",
+    "candidates": [
+      {
+        "packageName": "eslint",
+        "version": "10.4.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.3.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.1.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.4",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.38.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.37.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.36.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.35.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.34.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.33.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.32.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.31.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "8.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "7.32.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "6.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "5.16.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "4.19.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "3.19.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "2.13.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "1.10.3",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@equisoft/eslint-config-react",
+    "requestedRange": "0.0.2",
+    "candidates": [
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "6.0.2",
+        "peerDependencies": {
+          "yargs": "^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "@stylistic/eslint-plugin": "^5",
+          "eslint-plugin-react-hooks": "^5.0.0 || ^6.0.0 || ^7.0.0",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "6.0.1",
+        "peerDependencies": {
+          "yargs": "^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "@stylistic/eslint-plugin": "^5",
+          "eslint-plugin-react-hooks": "^5.0.0 || ^6.0.0",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "yargs": "^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "@stylistic/eslint-plugin": "^5",
+          "eslint-plugin-react-hooks": "^5.0.0",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "yargs": "^17 || ^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "@stylistic/eslint-plugin": "^5",
+          "eslint-plugin-react-hooks": "^4 || ^5.0.0",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "4.0.2",
+        "peerDependencies": {
+          "yargs": "^17 || ^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4 || ^5.0.0",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4 || ^5.0.0",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4 || ^5.0.0",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.9",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4 || ^5.0.0",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.8",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4 || ^5.0.0",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.7",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.6",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.5",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.4",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.3",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.2",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.1",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-react": "^7",
+          "eslint-plugin-import": "^2",
+          "eslint-plugin-jsx-a11y": "^6",
+          "eslint-plugin-react-hooks": "^4",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "eslint": "^7.9.0",
+          "eslint-plugin-react": "^7.20.6",
+          "eslint-plugin-import": "^2.22.0",
+          "eslint-plugin-jsx-a11y": "^6.3.1",
+          "eslint-plugin-react-hooks": "^4.1.2",
+          "eslint-import-resolver-node": "^0.3.4"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "eslint": "^7.9.0",
+          "eslint-plugin-react": "^7.20.6",
+          "eslint-plugin-import": "^2.22.0",
+          "eslint-plugin-jsx-a11y": "^6.3.1",
+          "eslint-plugin-react-hooks": "^4.1.2",
+          "eslint-import-resolver-node": "^0.3.4"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "eslint": "^7.9.0",
+          "eslint-plugin-react": "^7.20.6",
+          "eslint-plugin-import": "^2.22.0",
+          "eslint-plugin-jsx-a11y": "^6.3.1",
+          "eslint-plugin-react-hooks": "^4.1.2",
+          "eslint-import-resolver-node": "^0.3.4"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "eslint": "^5.3.0",
+          "eslint-plugin-react": "^7.11.0",
+          "eslint-plugin-import": "^2.14.0"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config-react",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "eslint": "^5.3.0",
+          "eslint-plugin-react": "^7.11.0",
+          "eslint-plugin-import": "^2.14.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@equisoft/eslint-config",
+    "requestedRange": "2.0.0",
+    "candidates": [
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "6.0.2",
+        "peerDependencies": {
+          "yargs": "^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "@stylistic/eslint-plugin": "^5",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "6.0.1",
+        "peerDependencies": {
+          "yargs": "^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "@stylistic/eslint-plugin": "^5",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "yargs": "^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "@stylistic/eslint-plugin": "^5",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "yargs": "^17 || ^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "@stylistic/eslint-plugin": "^5",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "4.0.2",
+        "peerDependencies": {
+          "yargs": "^17 || ^18.0.0",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.9",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.8",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.7",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.6",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.5",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.4",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.3",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.2",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.1",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "yargs": "^17",
+          "eslint": "^8",
+          "eslint-plugin-import": "^2",
+          "eslint-import-resolver-node": "^0.3",
+          "@microsoft/eslint-formatter-sarif": "^3"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "eslint": "^7.9.0",
+          "eslint-plugin-import": "^2.22.0",
+          "eslint-import-resolver-node": "^0.3.4"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "eslint": "^7.9.0",
+          "eslint-plugin-import": "^2.22.0",
+          "eslint-import-resolver-node": "^0.3.4"
+        }
+      },
+      {
+        "packageName": "@equisoft/eslint-config",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "eslint": "^7.9.0",
+          "eslint-plugin-import": "^2.22.0",
+          "eslint-import-resolver-node": "^0.3.4"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "case-662-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.6.1",
+    "@voltiso/prettier-plugin-toml": "0.3.2",
+    "@briankosw/prettier-plugin-sort-imports": "0.0.4"
+  }
+}

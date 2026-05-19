@@ -1,0 +1,12 @@
+{
+  "name": "case-228-babel-core-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@babel/core": "7.0.0",
+    "@autoguru/babel-preset": "1.0.14",
+    "@babel/plugin-syntax-export-default-from": "7.25.9"
+  }
+}

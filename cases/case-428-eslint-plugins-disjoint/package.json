@@ -1,0 +1,12 @@
+{
+  "name": "case-428-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "5.0.0",
+    "@cksource-cs/eslint-config-cs-module": "3.0.0",
+    "@domenic/eslint-config": "1.0.0"
+  }
+}

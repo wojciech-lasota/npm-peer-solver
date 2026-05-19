@@ -1,0 +1,12 @@
+{
+  "name": "case-769-eslint-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "4.18.1",
+    "@finsit/eslint-plugin-cypress": "3.0.1",
+    "@atomic-tools/eslint-config-atomic": "1.5.16"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-064-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "2.9.16",
+    "@lingui-solid/vite-plugin": "5.1.2",
+    "@prefresh/vite": "1.2.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-191-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@payweave/fastify": "0.0.2",
+    "@trymarket/fastify": "0.1.0"
+  }
+}

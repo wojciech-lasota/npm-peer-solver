@@ -1,0 +1,12 @@
+{
+  "name": "case-038-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.4.15",
+    "@djangocfg/layouts": "1.0.1",
+    "@neupauer/tailwindcss-plugin-colors": "1.0.0"
+  }
+}

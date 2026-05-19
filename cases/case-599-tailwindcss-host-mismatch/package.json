@@ -1,0 +1,12 @@
+{
+  "name": "case-599-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@opengraphplus/tailwind": "0.1.0",
+    "@havaem/tailwindcss-havaem": "0.0.1"
+  }
+}

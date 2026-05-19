@@ -1,0 +1,12 @@
+{
+  "name": "case-900-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "9.8.0",
+    "@adobe/eslint-config-helix": "0.0.1",
+    "@amedia/eslint-config-jest": "3.5.1"
+  }
+}

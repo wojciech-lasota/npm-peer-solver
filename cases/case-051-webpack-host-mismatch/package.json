@@ -6,14 +6,7 @@
   "type": "module",
   "dependencies": {
     "webpack": "4.45.0",
-    "coffee-loader": "2.0.0",
-    "@barretter/remove-unused-files-webpack-plugin": "4.0.1",
-    "cordova-plugin-webpack": "0.4.0",
-    "@insin/npm-install-webpack-plugin": "5.0.0",
-    "@feugene/webpack-plugin-server-push": "0.0.6",
-    "assets-webpack-plugin": "6.1.0",
-    "@ngtools/webpack": "15.2.5",
-    "compression-webpack-plugin": "6.0.5",
-    "@dyad-sh/nextjs-webpack-component-tagger": "0.8.0"
+    "assets-webpack-plugin": "7.0.0",
+    "@soda/friendly-errors-webpack-plugin": "1.7.1"
   }
 }

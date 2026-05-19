@@ -1,0 +1,12 @@
+{
+  "name": "case-450-rollup-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.0.0",
+    "@pixi/rollup-plugin-rename-node-modules": "2.0.0",
+    "@rollup/plugin-beep": "1.0.2"
+  }
+}

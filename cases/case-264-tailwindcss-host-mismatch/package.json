@@ -1,0 +1,12 @@
+{
+  "name": "case-264-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@acdh-oeaw/tailwindcss-preset": "0.0.1",
+    "@savvywombat/tailwindcss-grid-areas": "3.1.0"
+  }
+}

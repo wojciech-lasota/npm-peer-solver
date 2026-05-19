@@ -1,0 +1,12 @@
+{
+  "name": "case-623-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.3.4",
+    "@renseiai/agentfactory-dashboard": "0.8.0",
+    "@themosaad/tailwindcss-capsize": "0.1.2"
+  }
+}

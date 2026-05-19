@@ -1,0 +1,12 @@
+{
+  "name": "case-873-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "@glen/jest-raw-loader": "0.0.1",
+    "@oriflame/jest-preset": "5.15.11"
+  }
+}

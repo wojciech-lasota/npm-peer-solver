@@ -1,0 +1,12 @@
+{
+  "name": "case-484-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/meter": "3.0.0",
+    "@react-aria/utils": "3.2.0"
+  }
+}

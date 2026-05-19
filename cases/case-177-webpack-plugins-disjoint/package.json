@@ -1,0 +1,12 @@
+{
+  "name": "case-177-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.105.4",
+    "babel-minify-webpack-plugin": "0.2.0",
+    "@dyad-sh/nextjs-webpack-component-tagger": "0.8.0"
+  }
+}

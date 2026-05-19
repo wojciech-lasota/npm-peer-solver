@@ -1,0 +1,12 @@
+{
+  "name": "case-735-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "6.1.6",
+    "@hitachivantara/app-shell-vite-plugin": "0.18.2",
+    "@erbelion/vite-plugin-laravel-purgecss": "0.1.0"
+  }
+}

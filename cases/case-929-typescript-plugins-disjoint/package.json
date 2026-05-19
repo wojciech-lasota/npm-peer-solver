@@ -1,0 +1,12 @@
+{
+  "name": "case-929-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "4.5.3",
+    "@zerollup/ts-helpers": "1.6.5",
+    "ts-jest": "0.1.11"
+  }
+}

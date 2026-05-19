@@ -1,0 +1,12 @@
+{
+  "name": "case-597-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "13.1.2",
+    "@quramy/jest-prisma-core": "1.1.1",
+    "jest-preset-ns": "0.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-354-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "3.11.0",
+    "@osskit/fastify-error-handler": "0.0.1",
+    "@classytic/arc": "1.0.0"
+  }
+}

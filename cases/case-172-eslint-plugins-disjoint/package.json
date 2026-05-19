@@ -1,0 +1,12 @@
+{
+  "name": "case-172-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.22.0",
+    "@graphql-eslint/eslint-plugin": "0.0.1",
+    "@equisoft/eslint-config-typescript-react": "3.0.1"
+  }
+}

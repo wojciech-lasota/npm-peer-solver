@@ -1,0 +1,12 @@
+{
+  "name": "case-756-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@fedify/fastify": "1.9.0",
+    "@universal-rate-limit/fastify": "2.0.1"
+  }
+}

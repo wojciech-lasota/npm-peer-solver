@@ -1,0 +1,12 @@
+{
+  "name": "case-122-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "2.9.16",
+    "@froxz/vite-plugin-s3": "1.2.0",
+    "@griffel/vite-plugin": "0.1.2"
+  }
+}

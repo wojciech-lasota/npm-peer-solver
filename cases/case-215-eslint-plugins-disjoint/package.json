@@ -1,0 +1,12 @@
+{
+  "name": "case-215-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "10.0.2",
+    "@1password/eslint-config": "6.0.0",
+    "@angular-eslint/eslint-plugin": "13.0.0"
+  }
+}

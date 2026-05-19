@@ -1,0 +1,532 @@
+[
+  {
+    "packageName": "eslint",
+    "requestedRange": "4.18.1",
+    "candidates": [
+      {
+        "packageName": "eslint",
+        "version": "10.4.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.3.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.1.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.4",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.38.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.37.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.36.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.35.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.34.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.33.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.32.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.31.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "8.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "7.32.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "6.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "5.16.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "4.19.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "3.19.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "2.13.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "1.10.3",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@getaround-eu/eslint-config",
+    "requestedRange": "1.7.0",
+    "candidates": [
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "5.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "4.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "3.1.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "3.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "eslint": ">= 8.48.0",
+          "prettier": ">= 3.0.3"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "2.0.5",
+        "peerDependencies": {
+          "eslint": ">= 8.46.0",
+          "prettier": ">= 2.8.8"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "2.0.4",
+        "peerDependencies": {
+          "eslint": ">= 8.40.0",
+          "prettier": ">= 2.8.8"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "2.0.3",
+        "peerDependencies": {
+          "eslint": ">= 8.40.0",
+          "prettier": ">= 2.8.8"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "eslint": ">= 8.38.0",
+          "prettier": ">= 2.8.7"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "eslint": ">= 8.27.0",
+          "prettier": ">= 2.7.1"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "eslint": ">= 8.25.0",
+          "prettier": ">= 2.7.1"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "1.7.3",
+        "peerDependencies": {
+          "eslint": ">= 8.23.1",
+          "prettier": ">= 2.7.1"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "1.7.2",
+        "peerDependencies": {
+          "eslint": ">= 8.20.0",
+          "prettier": ">= 2.7.1"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "1.7.1",
+        "peerDependencies": {
+          "eslint": ">= 8.16.0",
+          "prettier": ">= 2.6.2"
+        }
+      },
+      {
+        "packageName": "@getaround-eu/eslint-config",
+        "version": "1.7.0",
+        "peerDependencies": {
+          "eslint": ">= 8.14.0",
+          "prettier": ">= 2.6.2"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@1024pix/eslint-config",
+    "requestedRange": "1.3.6",
+    "candidates": [
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.3.8",
+        "peerDependencies": {
+          "eslint": ">=8.57.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.3.7",
+        "peerDependencies": {
+          "eslint": ">=8.57.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.3.6",
+        "peerDependencies": {
+          "eslint": ">=8.57.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.3.5",
+        "peerDependencies": {
+          "eslint": ">=8.57.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.3.4",
+        "peerDependencies": {
+          "eslint": ">=8.57.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.3.3",
+        "peerDependencies": {
+          "eslint": ">=8.57.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.3.2",
+        "peerDependencies": {
+          "eslint": ">=8.57.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.3.1",
+        "peerDependencies": {
+          "eslint": ">=8.57.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "eslint": ">=8.57.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.13",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.12",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.11",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.10",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.9",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.8",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.7",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.6",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.5",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.4",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.3",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.2",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.1.3",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.0.3",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      },
+      {
+        "packageName": "@1024pix/eslint-config",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "eslint": ">=8.0.0"
+        }
+      }
+    ]
+  }
+]

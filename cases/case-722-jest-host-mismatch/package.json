@@ -1,0 +1,12 @@
+{
+  "name": "case-722-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "@lwc/jest-serializer": "8.0.0",
+    "svelte-jester": "1.0.4"
+  }
+}

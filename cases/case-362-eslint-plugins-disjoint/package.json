@@ -1,0 +1,12 @@
+{
+  "name": "case-362-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.1.0",
+    "@fido.id/eslint-config-fido": "2.1.0",
+    "@aws-appsync/eslint-plugin": "1.0.0"
+  }
+}

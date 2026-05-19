@@ -1,0 +1,12 @@
+{
+  "name": "case-312-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@rozenite/vite-plugin": "1.0.0",
+    "@ryoppippi/vite-plugin-cloudflare-redirect": "1.1.3"
+  }
+}

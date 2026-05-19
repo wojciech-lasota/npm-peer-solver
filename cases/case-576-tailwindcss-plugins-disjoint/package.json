@@ -1,0 +1,12 @@
+{
+  "name": "case-576-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.2.5",
+    "@rvxlab/tailwind-plugin-ios-full-height": "1.0.0",
+    "@savaryna/tailwindcss-material-symbols": "1.0.0"
+  }
+}

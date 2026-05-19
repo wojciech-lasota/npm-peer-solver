@@ -1,0 +1,12 @@
+{
+  "name": "case-725-eslint-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "4.18.1",
+    "@2digits/eslint-config": "0.0.1",
+    "@1password/eslint-config": "7.2.0"
+  }
+}

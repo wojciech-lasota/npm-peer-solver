@@ -1,0 +1,12 @@
+{
+  "name": "case-289-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "3.3.2",
+    "@awmottaz/prettier-plugin-void-html": "1.0.0",
+    "@ilyamatsuev/prettier-plugin-apex": "2.0.0"
+  }
+}

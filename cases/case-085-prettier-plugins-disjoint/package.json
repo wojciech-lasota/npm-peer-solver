@@ -1,0 +1,12 @@
+{
+  "name": "case-085-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "2.6.1",
+    "@crisvp/prettier-plugin-void-html": "1.5.0",
+    "@homer0/prettier-plugin-jsdoc": "10.0.0"
+  }
+}

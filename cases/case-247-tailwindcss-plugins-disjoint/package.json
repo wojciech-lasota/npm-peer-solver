@@ -1,0 +1,12 @@
+{
+  "name": "case-247-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.4.8",
+    "@designbycode/tailwindcss-text-shadow": "1.1.6",
+    "@tailwindcss/custom-forms": "0.1.0"
+  }
+}

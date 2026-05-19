@@ -1,0 +1,271 @@
+[
+  {
+    "packageName": "rollup",
+    "requestedRange": "3.20.2",
+    "candidates": [
+      {
+        "packageName": "rollup",
+        "version": "4.60.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.58.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.56.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.54.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "3.30.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "2.80.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "1.32.1",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@atomico/rollup-plugin-sizes",
+    "requestedRange": "1.0.2",
+    "candidates": [
+      {
+        "packageName": "@atomico/rollup-plugin-sizes",
+        "version": "1.1.4",
+        "peerDependencies": {
+          "rollup": "1.x || 2.x"
+        }
+      },
+      {
+        "packageName": "@atomico/rollup-plugin-sizes",
+        "version": "1.1.3",
+        "peerDependencies": {
+          "rollup": "^1.x"
+        }
+      },
+      {
+        "packageName": "@atomico/rollup-plugin-sizes",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "rollup": "^1.x"
+        }
+      },
+      {
+        "packageName": "@atomico/rollup-plugin-sizes",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "rollup": "^1.x"
+        }
+      },
+      {
+        "packageName": "@atomico/rollup-plugin-sizes",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "rollup": "^1.x"
+        }
+      },
+      {
+        "packageName": "@atomico/rollup-plugin-sizes",
+        "version": "1.0.3",
+        "peerDependencies": {
+          "rollup": "^1.x"
+        }
+      },
+      {
+        "packageName": "@atomico/rollup-plugin-sizes",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "rollup": "^1.x"
+        }
+      },
+      {
+        "packageName": "@atomico/rollup-plugin-sizes",
+        "version": "1.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@atomico/rollup-plugin-sizes",
+        "version": "1.0.0",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@sidvind/rollup-plugin-worker",
+    "requestedRange": "1.0.2",
+    "candidates": [
+      {
+        "packageName": "@sidvind/rollup-plugin-worker",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "rollup": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@sidvind/rollup-plugin-worker",
+        "version": "1.0.4",
+        "peerDependencies": {
+          "rollup": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@sidvind/rollup-plugin-worker",
+        "version": "1.0.3",
+        "peerDependencies": {
+          "rollup": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@sidvind/rollup-plugin-worker",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "rollup": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@sidvind/rollup-plugin-worker",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "rollup": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@sidvind/rollup-plugin-worker",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "rollup": "^4.0.0"
+        }
+      }
+    ]
+  }
+]

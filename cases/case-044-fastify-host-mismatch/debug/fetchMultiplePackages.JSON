@@ -1,0 +1,3587 @@
+{
+  "fastify": {
+    "name": "fastify",
+    "dist-tags": {
+      "three": "3.29.5",
+      "four": "4.29.1",
+      "latest": "5.8.5"
+    },
+    "versions": {
+      "0.0.1": {
+        "name": "fastify",
+        "version": "0.0.1"
+      },
+      "0.1.0": {
+        "name": "fastify",
+        "version": "0.1.0"
+      },
+      "0.2.0": {
+        "name": "fastify",
+        "version": "0.2.0"
+      },
+      "0.3.0": {
+        "name": "fastify",
+        "version": "0.3.0"
+      },
+      "0.4.0": {
+        "name": "fastify",
+        "version": "0.4.0"
+      },
+      "0.5.0": {
+        "name": "fastify",
+        "version": "0.5.0"
+      },
+      "0.6.0": {
+        "name": "fastify",
+        "version": "0.6.0"
+      },
+      "0.7.0": {
+        "name": "fastify",
+        "version": "0.7.0"
+      },
+      "0.7.1": {
+        "name": "fastify",
+        "version": "0.7.1"
+      },
+      "0.8.0": {
+        "name": "fastify",
+        "version": "0.8.0"
+      },
+      "0.9.0": {
+        "name": "fastify",
+        "version": "0.9.0"
+      },
+      "0.10.0": {
+        "name": "fastify",
+        "version": "0.10.0"
+      },
+      "0.11.0": {
+        "name": "fastify",
+        "version": "0.11.0"
+      },
+      "0.11.1": {
+        "name": "fastify",
+        "version": "0.11.1"
+      },
+      "0.12.0": {
+        "name": "fastify",
+        "version": "0.12.0"
+      },
+      "0.13.0": {
+        "name": "fastify",
+        "version": "0.13.0"
+      },
+      "0.13.1": {
+        "name": "fastify",
+        "version": "0.13.1"
+      },
+      "0.14.0": {
+        "name": "fastify",
+        "version": "0.14.0"
+      },
+      "0.14.1": {
+        "name": "fastify",
+        "version": "0.14.1"
+      },
+      "0.15.0": {
+        "name": "fastify",
+        "version": "0.15.0"
+      },
+      "0.15.1": {
+        "name": "fastify",
+        "version": "0.15.1"
+      },
+      "0.15.2": {
+        "name": "fastify",
+        "version": "0.15.2"
+      },
+      "0.15.3": {
+        "name": "fastify",
+        "version": "0.15.3"
+      },
+      "0.16.0": {
+        "name": "fastify",
+        "version": "0.16.0"
+      },
+      "0.17.0": {
+        "name": "fastify",
+        "version": "0.17.0"
+      },
+      "0.18.0": {
+        "name": "fastify",
+        "version": "0.18.0"
+      },
+      "0.19.0": {
+        "name": "fastify",
+        "version": "0.19.0"
+      },
+      "0.19.1": {
+        "name": "fastify",
+        "version": "0.19.1"
+      },
+      "0.20.0": {
+        "name": "fastify",
+        "version": "0.20.0"
+      },
+      "0.20.1": {
+        "name": "fastify",
+        "version": "0.20.1"
+      },
+      "0.21.0": {
+        "name": "fastify",
+        "version": "0.21.0"
+      },
+      "0.22.0": {
+        "name": "fastify",
+        "version": "0.22.0"
+      },
+      "0.23.0": {
+        "name": "fastify",
+        "version": "0.23.0"
+      },
+      "0.24.0": {
+        "name": "fastify",
+        "version": "0.24.0"
+      },
+      "0.25.0": {
+        "name": "fastify",
+        "version": "0.25.0"
+      },
+      "0.25.1": {
+        "name": "fastify",
+        "version": "0.25.1"
+      },
+      "0.25.2": {
+        "name": "fastify",
+        "version": "0.25.2"
+      },
+      "0.25.3": {
+        "name": "fastify",
+        "version": "0.25.3"
+      },
+      "0.26.0": {
+        "name": "fastify",
+        "version": "0.26.0"
+      },
+      "0.26.1": {
+        "name": "fastify",
+        "version": "0.26.1"
+      },
+      "0.26.2": {
+        "name": "fastify",
+        "version": "0.26.2"
+      },
+      "0.27.0": {
+        "name": "fastify",
+        "version": "0.27.0"
+      },
+      "0.28.0": {
+        "name": "fastify",
+        "version": "0.28.0"
+      },
+      "0.28.1": {
+        "name": "fastify",
+        "version": "0.28.1"
+      },
+      "0.28.2": {
+        "name": "fastify",
+        "version": "0.28.2"
+      },
+      "0.29.0": {
+        "name": "fastify",
+        "version": "0.29.0"
+      },
+      "0.29.1": {
+        "name": "fastify",
+        "version": "0.29.1"
+      },
+      "0.29.2": {
+        "name": "fastify",
+        "version": "0.29.2"
+      },
+      "0.30.0": {
+        "name": "fastify",
+        "version": "0.30.0"
+      },
+      "0.30.1": {
+        "name": "fastify",
+        "version": "0.30.1"
+      },
+      "0.30.2": {
+        "name": "fastify",
+        "version": "0.30.2"
+      },
+      "0.30.3": {
+        "name": "fastify",
+        "version": "0.30.3"
+      },
+      "0.31.0": {
+        "name": "fastify",
+        "version": "0.31.0"
+      },
+      "0.32.0": {
+        "name": "fastify",
+        "version": "0.32.0"
+      },
+      "0.33.0": {
+        "name": "fastify",
+        "version": "0.33.0"
+      },
+      "0.34.0": {
+        "name": "fastify",
+        "version": "0.34.0"
+      },
+      "0.35.0": {
+        "name": "fastify",
+        "version": "0.35.0"
+      },
+      "0.35.1": {
+        "name": "fastify",
+        "version": "0.35.1"
+      },
+      "0.35.2": {
+        "name": "fastify",
+        "version": "0.35.2"
+      },
+      "0.35.3": {
+        "name": "fastify",
+        "version": "0.35.3"
+      },
+      "0.35.4": {
+        "name": "fastify",
+        "version": "0.35.4"
+      },
+      "0.35.5": {
+        "name": "fastify",
+        "version": "0.35.5"
+      },
+      "0.35.6": {
+        "name": "fastify",
+        "version": "0.35.6"
+      },
+      "0.35.7": {
+        "name": "fastify",
+        "version": "0.35.7"
+      },
+      "0.36.0": {
+        "name": "fastify",
+        "version": "0.36.0"
+      },
+      "0.37.0": {
+        "name": "fastify",
+        "version": "0.37.0"
+      },
+      "0.38.0": {
+        "name": "fastify",
+        "version": "0.38.0"
+      },
+      "0.39.0": {
+        "name": "fastify",
+        "version": "0.39.0"
+      },
+      "0.39.1": {
+        "name": "fastify",
+        "version": "0.39.1"
+      },
+      "0.40.0": {
+        "name": "fastify",
+        "version": "0.40.0"
+      },
+      "0.41.0": {
+        "name": "fastify",
+        "version": "0.41.0"
+      },
+      "0.42.0": {
+        "name": "fastify",
+        "version": "0.42.0"
+      },
+      "0.43.0": {
+        "name": "fastify",
+        "version": "0.43.0"
+      },
+      "1.0.0-rc.1": {
+        "name": "fastify",
+        "version": "1.0.0-rc.1"
+      },
+      "1.0.0-rc.2": {
+        "name": "fastify",
+        "version": "1.0.0-rc.2"
+      },
+      "1.0.0-rc.3": {
+        "name": "fastify",
+        "version": "1.0.0-rc.3"
+      },
+      "1.0.0": {
+        "name": "fastify",
+        "version": "1.0.0"
+      },
+      "1.1.0": {
+        "name": "fastify",
+        "version": "1.1.0"
+      },
+      "1.1.1": {
+        "name": "fastify",
+        "version": "1.1.1"
+      },
+      "1.2.0": {
+        "name": "fastify",
+        "version": "1.2.0"
+      },
+      "1.2.1": {
+        "name": "fastify",
+        "version": "1.2.1"
+      },
+      "1.3.0": {
+        "name": "fastify",
+        "version": "1.3.0"
+      },
+      "1.3.1": {
+        "name": "fastify",
+        "version": "1.3.1"
+      },
+      "1.4.0": {
+        "name": "fastify",
+        "version": "1.4.0"
+      },
+      "1.5.0": {
+        "name": "fastify",
+        "version": "1.5.0"
+      },
+      "1.6.0": {
+        "name": "fastify",
+        "version": "1.6.0"
+      },
+      "1.7.0": {
+        "name": "fastify",
+        "version": "1.7.0"
+      },
+      "1.8.0": {
+        "name": "fastify",
+        "version": "1.8.0"
+      },
+      "1.9.0": {
+        "name": "fastify",
+        "version": "1.9.0"
+      },
+      "1.10.0": {
+        "name": "fastify",
+        "version": "1.10.0"
+      },
+      "1.11.0": {
+        "name": "fastify",
+        "version": "1.11.0"
+      },
+      "1.11.1": {
+        "name": "fastify",
+        "version": "1.11.1"
+      },
+      "1.11.2": {
+        "name": "fastify",
+        "version": "1.11.2"
+      },
+      "1.12.0": {
+        "name": "fastify",
+        "version": "1.12.0"
+      },
+      "1.12.1": {
+        "name": "fastify",
+        "version": "1.12.1"
+      },
+      "1.13.0": {
+        "name": "fastify",
+        "version": "1.13.0"
+      },
+      "2.0.0-rc.0": {
+        "name": "fastify",
+        "version": "2.0.0-rc.0"
+      },
+      "2.0.0-rc.1": {
+        "name": "fastify",
+        "version": "2.0.0-rc.1"
+      },
+      "1.13.1": {
+        "name": "fastify",
+        "version": "1.13.1"
+      },
+      "1.13.2": {
+        "name": "fastify",
+        "version": "1.13.2"
+      },
+      "2.0.0-rc.2": {
+        "name": "fastify",
+        "version": "2.0.0-rc.2"
+      },
+      "1.13.3": {
+        "name": "fastify",
+        "version": "1.13.3"
+      },
+      "2.0.0-rc.3": {
+        "name": "fastify",
+        "version": "2.0.0-rc.3"
+      },
+      "2.0.0-rc.4": {
+        "name": "fastify",
+        "version": "2.0.0-rc.4"
+      },
+      "1.13.4": {
+        "name": "fastify",
+        "version": "1.13.4"
+      },
+      "1.14.0": {
+        "name": "fastify",
+        "version": "1.14.0"
+      },
+      "2.0.0-rc.5": {
+        "name": "fastify",
+        "version": "2.0.0-rc.5"
+      },
+      "2.0.0-rc.6": {
+        "name": "fastify",
+        "version": "2.0.0-rc.6"
+      },
+      "1.14.1": {
+        "name": "fastify",
+        "version": "1.14.1"
+      },
+      "1.14.2": {
+        "name": "fastify",
+        "version": "1.14.2"
+      },
+      "2.0.0": {
+        "name": "fastify",
+        "version": "2.0.0"
+      },
+      "1.14.3": {
+        "name": "fastify",
+        "version": "1.14.3"
+      },
+      "2.0.1": {
+        "name": "fastify",
+        "version": "2.0.1"
+      },
+      "1.14.4": {
+        "name": "fastify",
+        "version": "1.14.4"
+      },
+      "2.1.0": {
+        "name": "fastify",
+        "version": "2.1.0"
+      },
+      "1.14.5": {
+        "name": "fastify",
+        "version": "1.14.5"
+      },
+      "2.2.0": {
+        "name": "fastify",
+        "version": "2.2.0"
+      },
+      "1.14.6": {
+        "name": "fastify",
+        "version": "1.14.6"
+      },
+      "2.3.0": {
+        "name": "fastify",
+        "version": "2.3.0"
+      },
+      "2.4.0": {
+        "name": "fastify",
+        "version": "2.4.0"
+      },
+      "2.4.1": {
+        "name": "fastify",
+        "version": "2.4.1"
+      },
+      "2.5.0": {
+        "name": "fastify",
+        "version": "2.5.0"
+      },
+      "2.6.0": {
+        "name": "fastify",
+        "version": "2.6.0"
+      },
+      "2.7.0": {
+        "name": "fastify",
+        "version": "2.7.0"
+      },
+      "2.7.1": {
+        "name": "fastify",
+        "version": "2.7.1"
+      },
+      "2.8.0": {
+        "name": "fastify",
+        "version": "2.8.0"
+      },
+      "2.9.0": {
+        "name": "fastify",
+        "version": "2.9.0"
+      },
+      "2.10.0": {
+        "name": "fastify",
+        "version": "2.10.0"
+      },
+      "2.11.0": {
+        "name": "fastify",
+        "version": "2.11.0"
+      },
+      "2.12.0": {
+        "name": "fastify",
+        "version": "2.12.0"
+      },
+      "2.12.1": {
+        "name": "fastify",
+        "version": "2.12.1"
+      },
+      "2.13.0": {
+        "name": "fastify",
+        "version": "2.13.0"
+      },
+      "2.13.1": {
+        "name": "fastify",
+        "version": "2.13.1"
+      },
+      "3.0.0-alpha.1": {
+        "name": "fastify",
+        "version": "3.0.0-alpha.1"
+      },
+      "3.0.0-rc.1": {
+        "name": "fastify",
+        "version": "3.0.0-rc.1"
+      },
+      "2.14.0": {
+        "name": "fastify",
+        "version": "2.14.0"
+      },
+      "2.14.1": {
+        "name": "fastify",
+        "version": "2.14.1"
+      },
+      "3.0.0-rc.2": {
+        "name": "fastify",
+        "version": "3.0.0-rc.2"
+      },
+      "3.0.0-rc.3": {
+        "name": "fastify",
+        "version": "3.0.0-rc.3"
+      },
+      "3.0.0-rc.4": {
+        "name": "fastify",
+        "version": "3.0.0-rc.4"
+      },
+      "2.15.0": {
+        "name": "fastify",
+        "version": "2.15.0"
+      },
+      "2.15.1": {
+        "name": "fastify",
+        "version": "2.15.1"
+      },
+      "3.0.0-rc.5": {
+        "name": "fastify",
+        "version": "3.0.0-rc.5"
+      },
+      "3.0.0": {
+        "name": "fastify",
+        "version": "3.0.0"
+      },
+      "3.0.1": {
+        "name": "fastify",
+        "version": "3.0.1"
+      },
+      "3.0.2": {
+        "name": "fastify",
+        "version": "3.0.2"
+      },
+      "2.15.2": {
+        "name": "fastify",
+        "version": "2.15.2"
+      },
+      "3.0.3": {
+        "name": "fastify",
+        "version": "3.0.3"
+      },
+      "3.1.0": {
+        "name": "fastify",
+        "version": "3.1.0"
+      },
+      "3.1.1": {
+        "name": "fastify",
+        "version": "3.1.1"
+      },
+      "2.15.3": {
+        "name": "fastify",
+        "version": "2.15.3"
+      },
+      "3.2.0": {
+        "name": "fastify",
+        "version": "3.2.0"
+      },
+      "3.2.1": {
+        "name": "fastify",
+        "version": "3.2.1"
+      },
+      "3.3.0": {
+        "name": "fastify",
+        "version": "3.3.0"
+      },
+      "3.4.0": {
+        "name": "fastify",
+        "version": "3.4.0"
+      },
+      "3.4.1": {
+        "name": "fastify",
+        "version": "3.4.1"
+      },
+      "3.5.0": {
+        "name": "fastify",
+        "version": "3.5.0"
+      },
+      "3.5.1": {
+        "name": "fastify",
+        "version": "3.5.1"
+      },
+      "3.6.0": {
+        "name": "fastify",
+        "version": "3.6.0"
+      },
+      "3.7.0": {
+        "name": "fastify",
+        "version": "3.7.0"
+      },
+      "3.8.0": {
+        "name": "fastify",
+        "version": "3.8.0"
+      },
+      "3.9.0": {
+        "name": "fastify",
+        "version": "3.9.0"
+      },
+      "3.9.1": {
+        "name": "fastify",
+        "version": "3.9.1"
+      },
+      "3.9.2": {
+        "name": "fastify",
+        "version": "3.9.2"
+      },
+      "3.10.0": {
+        "name": "fastify",
+        "version": "3.10.0"
+      },
+      "3.10.1": {
+        "name": "fastify",
+        "version": "3.10.1"
+      },
+      "3.11.0": {
+        "name": "fastify",
+        "version": "3.11.0"
+      },
+      "3.12.0": {
+        "name": "fastify",
+        "version": "3.12.0"
+      },
+      "3.13.0": {
+        "name": "fastify",
+        "version": "3.13.0"
+      },
+      "3.14.0": {
+        "name": "fastify",
+        "version": "3.14.0"
+      },
+      "3.14.1": {
+        "name": "fastify",
+        "version": "3.14.1"
+      },
+      "3.14.2": {
+        "name": "fastify",
+        "version": "3.14.2"
+      },
+      "3.15.0": {
+        "name": "fastify",
+        "version": "3.15.0"
+      },
+      "3.15.1": {
+        "name": "fastify",
+        "version": "3.15.1"
+      },
+      "3.16.0": {
+        "name": "fastify",
+        "version": "3.16.0"
+      },
+      "3.16.1": {
+        "name": "fastify",
+        "version": "3.16.1"
+      },
+      "3.16.2": {
+        "name": "fastify",
+        "version": "3.16.2"
+      },
+      "3.17.0": {
+        "name": "fastify",
+        "version": "3.17.0"
+      },
+      "3.18.0": {
+        "name": "fastify",
+        "version": "3.18.0"
+      },
+      "3.18.1": {
+        "name": "fastify",
+        "version": "3.18.1"
+      },
+      "3.19.0": {
+        "name": "fastify",
+        "version": "3.19.0"
+      },
+      "3.19.1": {
+        "name": "fastify",
+        "version": "3.19.1"
+      },
+      "3.19.2": {
+        "name": "fastify",
+        "version": "3.19.2"
+      },
+      "3.20.0": {
+        "name": "fastify",
+        "version": "3.20.0"
+      },
+      "3.20.1": {
+        "name": "fastify",
+        "version": "3.20.1"
+      },
+      "3.20.2": {
+        "name": "fastify",
+        "version": "3.20.2"
+      },
+      "3.21.0": {
+        "name": "fastify",
+        "version": "3.21.0"
+      },
+      "3.21.1": {
+        "name": "fastify",
+        "version": "3.21.1"
+      },
+      "3.21.2": {
+        "name": "fastify",
+        "version": "3.21.2"
+      },
+      "3.21.3": {
+        "name": "fastify",
+        "version": "3.21.3"
+      },
+      "3.21.4": {
+        "name": "fastify",
+        "version": "3.21.4"
+      },
+      "3.21.5": {
+        "name": "fastify",
+        "version": "3.21.5"
+      },
+      "3.21.6": {
+        "name": "fastify",
+        "version": "3.21.6"
+      },
+      "3.22.0": {
+        "name": "fastify",
+        "version": "3.22.0"
+      },
+      "3.22.1": {
+        "name": "fastify",
+        "version": "3.22.1"
+      },
+      "3.23.0": {
+        "name": "fastify",
+        "version": "3.23.0"
+      },
+      "3.23.1": {
+        "name": "fastify",
+        "version": "3.23.1"
+      },
+      "3.24.0": {
+        "name": "fastify",
+        "version": "3.24.0"
+      },
+      "3.24.1": {
+        "name": "fastify",
+        "version": "3.24.1"
+      },
+      "3.25.0": {
+        "name": "fastify",
+        "version": "3.25.0"
+      },
+      "3.25.1": {
+        "name": "fastify",
+        "version": "3.25.1"
+      },
+      "3.25.2": {
+        "name": "fastify",
+        "version": "3.25.2"
+      },
+      "3.25.3": {
+        "name": "fastify",
+        "version": "3.25.3"
+      },
+      "3.26.0": {
+        "name": "fastify",
+        "version": "3.26.0"
+      },
+      "3.27.0": {
+        "name": "fastify",
+        "version": "3.27.0"
+      },
+      "3.27.1": {
+        "name": "fastify",
+        "version": "3.27.1"
+      },
+      "3.27.2": {
+        "name": "fastify",
+        "version": "3.27.2"
+      },
+      "4.0.0-alpha.1": {
+        "name": "fastify",
+        "version": "4.0.0-alpha.1"
+      },
+      "3.27.3": {
+        "name": "fastify",
+        "version": "3.27.3"
+      },
+      "3.27.4": {
+        "name": "fastify",
+        "version": "3.27.4"
+      },
+      "4.0.0-alpha.2": {
+        "name": "fastify",
+        "version": "4.0.0-alpha.2"
+      },
+      "4.0.0-alpha.3": {
+        "name": "fastify",
+        "version": "4.0.0-alpha.3"
+      },
+      "3.28.0": {
+        "name": "fastify",
+        "version": "3.28.0"
+      },
+      "4.0.0-rc.1": {
+        "name": "fastify",
+        "version": "4.0.0-rc.1"
+      },
+      "3.29.0": {
+        "name": "fastify",
+        "version": "3.29.0"
+      },
+      "4.0.0-rc.2": {
+        "name": "fastify",
+        "version": "4.0.0-rc.2"
+      },
+      "4.0.0-rc.3": {
+        "name": "fastify",
+        "version": "4.0.0-rc.3"
+      },
+      "4.0.0-rc.4": {
+        "name": "fastify",
+        "version": "4.0.0-rc.4"
+      },
+      "4.0.0-rc.5": {
+        "name": "fastify",
+        "version": "4.0.0-rc.5"
+      },
+      "4.0.0": {
+        "name": "fastify",
+        "version": "4.0.0"
+      },
+      "4.0.1": {
+        "name": "fastify",
+        "version": "4.0.1"
+      },
+      "4.0.2": {
+        "name": "fastify",
+        "version": "4.0.2"
+      },
+      "4.0.3": {
+        "name": "fastify",
+        "version": "4.0.3"
+      },
+      "4.1.0": {
+        "name": "fastify",
+        "version": "4.1.0"
+      },
+      "4.2.0": {
+        "name": "fastify",
+        "version": "4.2.0"
+      },
+      "3.29.1": {
+        "name": "fastify",
+        "version": "3.29.1"
+      },
+      "4.2.1": {
+        "name": "fastify",
+        "version": "4.2.1"
+      },
+      "4.3.0": {
+        "name": "fastify",
+        "version": "4.3.0"
+      },
+      "4.4.0": {
+        "name": "fastify",
+        "version": "4.4.0"
+      },
+      "4.5.0": {
+        "name": "fastify",
+        "version": "4.5.0"
+      },
+      "4.5.1": {
+        "name": "fastify",
+        "version": "4.5.1"
+      },
+      "4.5.2": {
+        "name": "fastify",
+        "version": "4.5.2"
+      },
+      "4.5.3": {
+        "name": "fastify",
+        "version": "4.5.3"
+      },
+      "3.29.2": {
+        "name": "fastify",
+        "version": "3.29.2"
+      },
+      "4.6.0": {
+        "name": "fastify",
+        "version": "4.6.0"
+      },
+      "4.7.0": {
+        "name": "fastify",
+        "version": "4.7.0"
+      },
+      "4.8.0": {
+        "name": "fastify",
+        "version": "4.8.0"
+      },
+      "4.8.1": {
+        "name": "fastify",
+        "version": "4.8.1"
+      },
+      "3.29.3": {
+        "name": "fastify",
+        "version": "3.29.3"
+      },
+      "4.9.0": {
+        "name": "fastify",
+        "version": "4.9.0"
+      },
+      "4.9.1": {
+        "name": "fastify",
+        "version": "4.9.1"
+      },
+      "4.9.2": {
+        "name": "fastify",
+        "version": "4.9.2"
+      },
+      "4.10.0": {
+        "name": "fastify",
+        "version": "4.10.0"
+      },
+      "4.10.1": {
+        "name": "fastify",
+        "version": "4.10.1"
+      },
+      "4.10.2": {
+        "name": "fastify",
+        "version": "4.10.2"
+      },
+      "3.29.4": {
+        "name": "fastify",
+        "version": "3.29.4"
+      },
+      "4.11.0": {
+        "name": "fastify",
+        "version": "4.11.0"
+      },
+      "3.29.5": {
+        "name": "fastify",
+        "version": "3.29.5"
+      },
+      "4.12.0": {
+        "name": "fastify",
+        "version": "4.12.0"
+      },
+      "4.13.0": {
+        "name": "fastify",
+        "version": "4.13.0"
+      },
+      "4.14.0": {
+        "name": "fastify",
+        "version": "4.14.0"
+      },
+      "4.14.1": {
+        "name": "fastify",
+        "version": "4.14.1"
+      },
+      "4.15.0": {
+        "name": "fastify",
+        "version": "4.15.0"
+      },
+      "4.16.0": {
+        "name": "fastify",
+        "version": "4.16.0"
+      },
+      "4.16.1": {
+        "name": "fastify",
+        "version": "4.16.1"
+      },
+      "4.16.2": {
+        "name": "fastify",
+        "version": "4.16.2"
+      },
+      "4.16.3": {
+        "name": "fastify",
+        "version": "4.16.3"
+      },
+      "4.17.0": {
+        "name": "fastify",
+        "version": "4.17.0"
+      },
+      "4.18.0": {
+        "name": "fastify",
+        "version": "4.18.0"
+      },
+      "4.19.0": {
+        "name": "fastify",
+        "version": "4.19.0"
+      },
+      "4.19.1": {
+        "name": "fastify",
+        "version": "4.19.1"
+      },
+      "4.19.2": {
+        "name": "fastify",
+        "version": "4.19.2"
+      },
+      "4.20.0": {
+        "name": "fastify",
+        "version": "4.20.0"
+      },
+      "4.21.0": {
+        "name": "fastify",
+        "version": "4.21.0"
+      },
+      "4.22.0": {
+        "name": "fastify",
+        "version": "4.22.0"
+      },
+      "4.22.1": {
+        "name": "fastify",
+        "version": "4.22.1"
+      },
+      "4.22.2": {
+        "name": "fastify",
+        "version": "4.22.2"
+      },
+      "4.23.0": {
+        "name": "fastify",
+        "version": "4.23.0"
+      },
+      "4.23.1": {
+        "name": "fastify",
+        "version": "4.23.1"
+      },
+      "4.23.2": {
+        "name": "fastify",
+        "version": "4.23.2"
+      },
+      "4.24.0": {
+        "name": "fastify",
+        "version": "4.24.0"
+      },
+      "4.24.1": {
+        "name": "fastify",
+        "version": "4.24.1"
+      },
+      "4.24.2": {
+        "name": "fastify",
+        "version": "4.24.2"
+      },
+      "4.24.3": {
+        "name": "fastify",
+        "version": "4.24.3"
+      },
+      "4.25.0": {
+        "name": "fastify",
+        "version": "4.25.0"
+      },
+      "4.25.1": {
+        "name": "fastify",
+        "version": "4.25.1"
+      },
+      "4.25.2": {
+        "name": "fastify",
+        "version": "4.25.2"
+      },
+      "4.26.0": {
+        "name": "fastify",
+        "version": "4.26.0"
+      },
+      "4.26.1": {
+        "name": "fastify",
+        "version": "4.26.1"
+      },
+      "4.26.2": {
+        "name": "fastify",
+        "version": "4.26.2"
+      },
+      "4.27.0": {
+        "name": "fastify",
+        "version": "4.27.0"
+      },
+      "5.0.0-aplha.1": {
+        "name": "fastify",
+        "version": "5.0.0-aplha.1"
+      },
+      "4.28.0": {
+        "name": "fastify",
+        "version": "4.28.0"
+      },
+      "5.0.0-alpha.2": {
+        "name": "fastify",
+        "version": "5.0.0-alpha.2"
+      },
+      "5.0.0-alpha.3": {
+        "name": "fastify",
+        "version": "5.0.0-alpha.3"
+      },
+      "4.28.1": {
+        "name": "fastify",
+        "version": "4.28.1"
+      },
+      "5.0.0-alpha.4": {
+        "name": "fastify",
+        "version": "5.0.0-alpha.4"
+      },
+      "5.0.0": {
+        "name": "fastify",
+        "version": "5.0.0"
+      },
+      "5.1.0": {
+        "name": "fastify",
+        "version": "5.1.0"
+      },
+      "4.29.0": {
+        "name": "fastify",
+        "version": "4.29.0"
+      },
+      "5.2.0": {
+        "name": "fastify",
+        "version": "5.2.0"
+      },
+      "5.2.1": {
+        "name": "fastify",
+        "version": "5.2.1"
+      },
+      "5.2.2": {
+        "name": "fastify",
+        "version": "5.2.2"
+      },
+      "5.3.0": {
+        "name": "fastify",
+        "version": "5.3.0"
+      },
+      "5.3.1": {
+        "name": "fastify",
+        "version": "5.3.1"
+      },
+      "5.3.2": {
+        "name": "fastify",
+        "version": "5.3.2"
+      },
+      "4.29.1": {
+        "name": "fastify",
+        "version": "4.29.1"
+      },
+      "5.3.3": {
+        "name": "fastify",
+        "version": "5.3.3"
+      },
+      "5.4.0": {
+        "name": "fastify",
+        "version": "5.4.0"
+      },
+      "5.5.0": {
+        "name": "fastify",
+        "version": "5.5.0"
+      },
+      "5.6.0": {
+        "name": "fastify",
+        "version": "5.6.0"
+      },
+      "5.6.1": {
+        "name": "fastify",
+        "version": "5.6.1"
+      },
+      "5.6.2": {
+        "name": "fastify",
+        "version": "5.6.2"
+      },
+      "5.7.0": {
+        "name": "fastify",
+        "version": "5.7.0"
+      },
+      "5.7.1": {
+        "name": "fastify",
+        "version": "5.7.1"
+      },
+      "5.7.2": {
+        "name": "fastify",
+        "version": "5.7.2"
+      },
+      "5.7.3": {
+        "name": "fastify",
+        "version": "5.7.3"
+      },
+      "5.7.4": {
+        "name": "fastify",
+        "version": "5.7.4"
+      },
+      "5.8.0": {
+        "name": "fastify",
+        "version": "5.8.0"
+      },
+      "5.8.1": {
+        "name": "fastify",
+        "version": "5.8.1"
+      },
+      "5.8.2": {
+        "name": "fastify",
+        "version": "5.8.2"
+      },
+      "5.8.3": {
+        "name": "fastify",
+        "version": "5.8.3"
+      },
+      "5.8.4": {
+        "name": "fastify",
+        "version": "5.8.4"
+      },
+      "5.8.5": {
+        "name": "fastify",
+        "version": "5.8.5"
+      }
+    }
+  },
+  "@fedify/fastify": {
+    "name": "@fedify/fastify",
+    "dist-tags": {
+      "pr-474": "2.0.0-pr.474.1879",
+      "pr-478": "2.0.0-pr.478.1918",
+      "pr-479": "2.0.0-pr.479.1922",
+      "pr-490": "2.0.0-pr.490.2",
+      "pr-559": "2.0.0-pr.559.6",
+      "pr-633": "2.0.6-pr.633.9",
+      "pr-639": "2.0.7-pr.639.14",
+      "pr-697": "2.2.0-pr.697.18",
+      "pr-708": "2.2.0-pr.708.19",
+      "pr-709": "2.2.0-pr.709.20",
+      "pr-695": "2.2.0-pr.695.23",
+      "pr-710": "2.2.0-pr.710.26",
+      "pr-715": "2.2.0-pr.715.28",
+      "pr-731.0": "2.2.0-pr.731.0.33",
+      "pr-731": "2.2.0-pr.731.34",
+      "pr-732": "2.2.0-pr.732.35",
+      "latest": "2.2.2",
+      "dev": "2.3.0-dev.1119"
+    },
+    "versions": {
+      "1.9.0": {
+        "name": "@fedify/fastify",
+        "version": "1.9.0",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.0"
+        }
+      },
+      "1.9.1-dev.1868": {
+        "name": "@fedify/fastify",
+        "version": "1.9.1-dev.1868",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.1-dev.1868+cc3b7977"
+        }
+      },
+      "1.9.1-dev.1869": {
+        "name": "@fedify/fastify",
+        "version": "1.9.1-dev.1869",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.1-dev.1869+03a100d3"
+        }
+      },
+      "1.9.1": {
+        "name": "@fedify/fastify",
+        "version": "1.9.1",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.1"
+        }
+      },
+      "1.10.0-dev.1871": {
+        "name": "@fedify/fastify",
+        "version": "1.10.0-dev.1871",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.0-dev.1871+4397a496"
+        }
+      },
+      "2.0.0-dev.1872": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.1872",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.1872+8a718c73"
+        }
+      },
+      "2.0.0-pr.467.1876": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.467.1876",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.467.1876+1fd56163"
+        }
+      },
+      "2.0.0-pr.467.1877": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.467.1877",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.467.1877+dc12636d"
+        }
+      },
+      "2.0.0-dev.1875": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.1875",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.1875+d712d60c"
+        }
+      },
+      "2.0.0-pr.469.1873": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.469.1873",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.469.1873+ebbd8642"
+        }
+      },
+      "2.0.0-pr.474.1879": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.474.1879",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.474.1879+be9e2989"
+        }
+      },
+      "1.9.2-dev.1890": {
+        "name": "@fedify/fastify",
+        "version": "1.9.2-dev.1890",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.2-dev.1890+4be74434"
+        }
+      },
+      "2.0.0-pr.479.1900": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.479.1900",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.479.1900+0b40bf02"
+        }
+      },
+      "2.0.0-pr.479.1902": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.479.1902",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.479.1902+5ac1b5d2"
+        }
+      },
+      "2.0.0-pr.479.1903": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.479.1903",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.479.1903+05f65629"
+        }
+      },
+      "2.0.0-dev.1908": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.1908",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.1908+c31cc639"
+        }
+      },
+      "2.0.0-pr.471.1909": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.471.1909",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.471.1909+976b008d"
+        }
+      },
+      "2.0.0-pr.478.1911": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.478.1911",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.478.1911+274b5e71"
+        }
+      },
+      "2.0.0-pr.479.1913": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.479.1913",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.479.1913+736246ec"
+        }
+      },
+      "2.0.0-pr.478.1916": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.478.1916",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.478.1916+5db44d85"
+        }
+      },
+      "2.0.0-pr.478.1917": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.478.1917",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.478.1917+9bce4622"
+        }
+      },
+      "2.0.0-pr.478.1918": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.478.1918",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.478.1918+b54c0fbd"
+        }
+      },
+      "2.0.0-pr.479.1919": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.479.1919",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.479.1919+bc910fb5"
+        }
+      },
+      "2.0.0-pr.471.1920": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.471.1920",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.471.1920+38258210"
+        }
+      },
+      "2.0.0-pr.471.1921": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.471.1921",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.471.1921+0a8b8dcb"
+        }
+      },
+      "2.0.0-pr.479.1922": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.479.1922",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.479.1922+564a1890"
+        }
+      },
+      "2.0.0-pr.471.1923": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.471.1923",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.471.1923+a3999270"
+        }
+      },
+      "2.0.0-pr.471.1924": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.471.1924",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.471.1924+020b6605"
+        }
+      },
+      "2.0.0-dev.1961": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.1961",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.1961+c3dff60a"
+        }
+      },
+      "1.10.0-dev.2": {
+        "name": "@fedify/fastify",
+        "version": "1.10.0-dev.2",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.0-dev.2+13db1686"
+        }
+      },
+      "1.10.0-dev.5": {
+        "name": "@fedify/fastify",
+        "version": "1.10.0-dev.5",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.0-dev.5+4ac6d43b"
+        }
+      },
+      "2.0.0-dev.7": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.7",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.7+a392e496"
+        }
+      },
+      "2.0.0-pr.490.2": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.490.2",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-pr.490.2+99a396d5"
+        }
+      },
+      "1.9.2": {
+        "name": "@fedify/fastify",
+        "version": "1.9.2",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.2"
+        }
+      },
+      "1.10.0-dev.11": {
+        "name": "@fedify/fastify",
+        "version": "1.10.0-dev.11",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.0-dev.11+d74bbbd7"
+        }
+      },
+      "2.0.0-dev.12": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.12",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.12+0e4c2ede"
+        }
+      },
+      "1.10.0-dev.13": {
+        "name": "@fedify/fastify",
+        "version": "1.10.0-dev.13",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.0-dev.13+a24b5ebc"
+        }
+      },
+      "1.10.0-dev.14": {
+        "name": "@fedify/fastify",
+        "version": "1.10.0-dev.14",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.0-dev.14+037e57bb"
+        }
+      },
+      "1.10.0-dev.56": {
+        "name": "@fedify/fastify",
+        "version": "1.10.0-dev.56",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.0-dev.56+6625e910"
+        }
+      },
+      "1.10.0-dev.57": {
+        "name": "@fedify/fastify",
+        "version": "1.10.0-dev.57",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.0-dev.57+d16ce92a"
+        }
+      },
+      "1.10.0": {
+        "name": "@fedify/fastify",
+        "version": "1.10.0",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.0"
+        }
+      },
+      "1.11.0-dev.86": {
+        "name": "@fedify/fastify",
+        "version": "1.11.0-dev.86",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.11.0-dev.86+2269ec9e"
+        }
+      },
+      "2.0.0-dev.85": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.85",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.85+a55c8362"
+        }
+      },
+      "2.0.0-dev.100": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.100",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.100+a9d733cc"
+        }
+      },
+      "1.11.0-dev.92": {
+        "name": "@fedify/fastify",
+        "version": "1.11.0-dev.92",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.11.0-dev.92+001a241e"
+        }
+      },
+      "2.0.0-dev.109": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.109",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.109+ecc823d2"
+        }
+      },
+      "2.0.0-dev.138": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.138",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.138+b557f137"
+        }
+      },
+      "2.0.0-dev.148": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.148",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.148+9725d152"
+        }
+      },
+      "2.0.0-dev.149": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.149",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.149+56d8c96c"
+        }
+      },
+      "2.0.0-dev.150": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.150",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.150+7daa59dd"
+        }
+      },
+      "2.0.0-dev.158": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.158",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.158+628cd89e"
+        }
+      },
+      "2.0.0-dev.159": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.159",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.159+6c07cd44"
+        }
+      },
+      "2.0.0-dev.160": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.160",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.160+d1f3be74"
+        }
+      },
+      "2.0.0-dev.161": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.161",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.161+b505ad7a"
+        }
+      },
+      "2.0.0-dev.166": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.166",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.166+15dea3c0"
+        }
+      },
+      "2.0.0-dev.167": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.167",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.167+2bfe41d4"
+        }
+      },
+      "2.0.0-dev.170": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.170",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.170+a03fedcd"
+        }
+      },
+      "2.0.0-dev.196": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.196",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.196+c3cfc0a9"
+        }
+      },
+      "2.0.0-dev.206": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.206",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.206+fa815928"
+        }
+      },
+      "1.9.3": {
+        "name": "@fedify/fastify",
+        "version": "1.9.3",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.3"
+        }
+      },
+      "1.10.1": {
+        "name": "@fedify/fastify",
+        "version": "1.10.1",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.1"
+        }
+      },
+      "2.0.0-dev.211": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.211",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.211+ec32aaad"
+        }
+      },
+      "2.0.0-dev.215": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.215",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.215+84aa16bb"
+        }
+      },
+      "2.0.0-dev.221": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.221",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.221+f54af224"
+        }
+      },
+      "2.0.0-dev.226": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.226",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.226+c28b813d"
+        }
+      },
+      "1.9.4": {
+        "name": "@fedify/fastify",
+        "version": "1.9.4",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.4"
+        }
+      },
+      "1.10.2": {
+        "name": "@fedify/fastify",
+        "version": "1.10.2",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.2"
+        }
+      },
+      "2.0.0-dev.228": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.228",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.228+5c4cd765"
+        }
+      },
+      "2.0.0-dev.236": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.236",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.236+9f9235d1"
+        }
+      },
+      "2.0.0-dev.237": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.237",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.237+7f2bb1de"
+        }
+      },
+      "2.0.0-dev.241": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.241",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.241+58c8126c"
+        }
+      },
+      "2.0.0-dev.279": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.279",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "2.0.0-dev.279+ce1bdc22"
+        }
+      },
+      "1.9.5": {
+        "name": "@fedify/fastify",
+        "version": "1.9.5",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.5"
+        }
+      },
+      "1.10.3": {
+        "name": "@fedify/fastify",
+        "version": "1.10.3",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.3"
+        }
+      },
+      "2.0.0-pr.559.4": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.559.4",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-pr.559.4+6357309b"
+        }
+      },
+      "2.0.0-dev.323": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.323",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.323+1d796545"
+        }
+      },
+      "2.0.0-pr.559.5": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.559.5",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-pr.559.5+39b87b25"
+        }
+      },
+      "2.0.0-pr.559.6": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-pr.559.6",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-pr.559.6+b50404e9"
+        }
+      },
+      "2.0.0-dev.335": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.335",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.335+6fe86704"
+        }
+      },
+      "2.0.0-dev.372": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.372",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.372+33936bb9"
+        }
+      },
+      "2.0.0-dev.377": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.377",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.377+a4107cbe"
+        }
+      },
+      "2.0.0-dev.379": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.379",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.379+5acc5fe4"
+        }
+      },
+      "2.0.0-dev.380": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.380",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.380+cb8f5a53"
+        }
+      },
+      "2.0.0-dev.382": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.382",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.382+d539ef4a"
+        }
+      },
+      "2.0.0-dev.383": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.383",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.383+b69835d0"
+        }
+      },
+      "2.0.0-dev.384": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.384",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.384+dae4bd3b"
+        }
+      },
+      "2.0.0-dev.385": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.385",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.385+de25d9e9"
+        }
+      },
+      "2.0.0-dev.387": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.387",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.387+62e27c88"
+        }
+      },
+      "2.0.0-dev.389": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.389",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.389+ca230a81"
+        }
+      },
+      "2.0.0-dev.393": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.393",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.393+c8838c69"
+        }
+      },
+      "2.0.0-dev.395": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.395",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.395+0d27c2dd"
+        }
+      },
+      "2.0.0-dev.396": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.396",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.396+e21a5cbe"
+        }
+      },
+      "2.0.0-dev.397": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0-dev.397",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0-dev.397+f1a105da"
+        }
+      },
+      "2.0.0": {
+        "name": "@fedify/fastify",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.0"
+        }
+      },
+      "2.0.1-dev.400": {
+        "name": "@fedify/fastify",
+        "version": "2.0.1-dev.400",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.1-dev.400+51b2d013"
+        }
+      },
+      "2.0.1-dev.401": {
+        "name": "@fedify/fastify",
+        "version": "2.0.1-dev.401",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.1-dev.401+c96ee625"
+        }
+      },
+      "2.1.0-dev.403": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.403",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.403+0ce42c7c"
+        }
+      },
+      "2.0.1": {
+        "name": "@fedify/fastify",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.1"
+        }
+      },
+      "2.1.0-dev.405": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.405",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.405+f4e278ae"
+        }
+      },
+      "2.0.2-dev.407": {
+        "name": "@fedify/fastify",
+        "version": "2.0.2-dev.407",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.2-dev.407+6f4b2e28"
+        }
+      },
+      "2.1.0-dev.406": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.406",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.406+61a21e4e"
+        }
+      },
+      "2.1.0-dev.408": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.408",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.408+5c3c9d78"
+        }
+      },
+      "2.1.0-dev.411": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.411",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.411+13731841"
+        }
+      },
+      "2.0.2-dev.415": {
+        "name": "@fedify/fastify",
+        "version": "2.0.2-dev.415",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.2-dev.415+8eb61d52"
+        }
+      },
+      "2.0.2": {
+        "name": "@fedify/fastify",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.2"
+        }
+      },
+      "2.1.0-dev.418": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.418",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.418+6c060f4a"
+        }
+      },
+      "2.1.0-dev.421": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.421",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.421+8225ebc2"
+        }
+      },
+      "2.0.3": {
+        "name": "@fedify/fastify",
+        "version": "2.0.3",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.3"
+        }
+      },
+      "2.1.0-dev.438": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.438",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.438+de6972c1"
+        }
+      },
+      "2.1.0-dev.444": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.444",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.444+571559d0"
+        }
+      },
+      "2.1.0-dev.449": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.449",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.449+8b21c622"
+        }
+      },
+      "2.1.0-dev.493": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.493",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.493+36e41f96"
+        }
+      },
+      "2.1.0-dev.503": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.503",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.503+1172d43b"
+        }
+      },
+      "2.1.0-dev.513": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.513",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.513+f5543fca"
+        }
+      },
+      "2.0.4-dev.521": {
+        "name": "@fedify/fastify",
+        "version": "2.0.4-dev.521",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.4-dev.521+4b1c5b0a"
+        }
+      },
+      "2.0.4": {
+        "name": "@fedify/fastify",
+        "version": "2.0.4",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.4"
+        }
+      },
+      "2.1.0-dev.523": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.523",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.523+150998a5"
+        }
+      },
+      "2.0.5": {
+        "name": "@fedify/fastify",
+        "version": "2.0.5",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.5"
+        }
+      },
+      "2.1.0-dev.530": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.530",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.530+3f7f470a"
+        }
+      },
+      "1.10.4": {
+        "name": "@fedify/fastify",
+        "version": "1.10.4",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.4"
+        }
+      },
+      "2.1.0-dev.536": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.536",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.536+e79f8887"
+        }
+      },
+      "2.1.0-dev.543": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.543",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.543+e09fd1b4"
+        }
+      },
+      "2.0.6-dev.548": {
+        "name": "@fedify/fastify",
+        "version": "2.0.6-dev.548",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.6-dev.548+136de698"
+        }
+      },
+      "2.0.6-dev.559": {
+        "name": "@fedify/fastify",
+        "version": "2.0.6-dev.559",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.6-dev.559+50ac1c17"
+        }
+      },
+      "2.0.6-pr.633.9": {
+        "name": "@fedify/fastify",
+        "version": "2.0.6-pr.633.9",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.6-pr.633.9+12093e72"
+        }
+      },
+      "2.0.6-dev.561": {
+        "name": "@fedify/fastify",
+        "version": "2.0.6-dev.561",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.6-dev.561+ae0a7bc0"
+        }
+      },
+      "2.0.6-dev.564": {
+        "name": "@fedify/fastify",
+        "version": "2.0.6-dev.564",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.6-dev.564+8b229de3"
+        }
+      },
+      "2.0.6": {
+        "name": "@fedify/fastify",
+        "version": "2.0.6",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.6"
+        }
+      },
+      "2.1.0-dev.565": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.565",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.565+b4d238a9"
+        }
+      },
+      "2.0.7-dev.573": {
+        "name": "@fedify/fastify",
+        "version": "2.0.7-dev.573",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.7-dev.573+8bbfb513"
+        }
+      },
+      "2.0.7-pr.639.14": {
+        "name": "@fedify/fastify",
+        "version": "2.0.7-pr.639.14",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.7-pr.639.14+40546420"
+        }
+      },
+      "2.0.7-dev.586": {
+        "name": "@fedify/fastify",
+        "version": "2.0.7-dev.586",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.7-dev.586+b3928d60"
+        }
+      },
+      "2.0.7": {
+        "name": "@fedify/fastify",
+        "version": "2.0.7",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.7"
+        }
+      },
+      "2.1.0-dev.592": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.592",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.592+6c1f6e6f"
+        }
+      },
+      "2.1.0-dev.599": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.599",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.599+1ff26884"
+        }
+      },
+      "2.1.0-dev.600": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0-dev.600",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0-dev.600+bfa25994"
+        }
+      },
+      "2.1.0": {
+        "name": "@fedify/fastify",
+        "version": "2.1.0",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.0"
+        }
+      },
+      "2.2.0-dev.606": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.606",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.606+3a976326"
+        }
+      },
+      "1.9.6-dev.2118": {
+        "name": "@fedify/fastify",
+        "version": "1.9.6-dev.2118",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.6-dev.2118+03dce37f"
+        }
+      },
+      "1.9.6": {
+        "name": "@fedify/fastify",
+        "version": "1.9.6",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.6"
+        }
+      },
+      "1.10.5": {
+        "name": "@fedify/fastify",
+        "version": "1.10.5",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.5"
+        }
+      },
+      "2.0.8": {
+        "name": "@fedify/fastify",
+        "version": "2.0.8",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.8"
+        }
+      },
+      "2.1.1": {
+        "name": "@fedify/fastify",
+        "version": "2.1.1",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.1"
+        }
+      },
+      "2.2.0-dev.610": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.610",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.610+2d418352"
+        }
+      },
+      "2.2.0-dev.613": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.613",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.613+cf8cd122"
+        }
+      },
+      "1.9.7": {
+        "name": "@fedify/fastify",
+        "version": "1.9.7",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.7"
+        }
+      },
+      "1.10.6": {
+        "name": "@fedify/fastify",
+        "version": "1.10.6",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.6"
+        }
+      },
+      "2.0.9": {
+        "name": "@fedify/fastify",
+        "version": "2.0.9",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.9"
+        }
+      },
+      "2.1.2": {
+        "name": "@fedify/fastify",
+        "version": "2.1.2",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.2"
+        }
+      },
+      "2.2.0-dev.622": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.622",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.622+e54cb037"
+        }
+      },
+      "2.2.0-dev.628": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.628",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.628+7f7a1e9b"
+        }
+      },
+      "2.0.10": {
+        "name": "@fedify/fastify",
+        "version": "2.0.10",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.10"
+        }
+      },
+      "2.1.3": {
+        "name": "@fedify/fastify",
+        "version": "2.1.3",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.3"
+        }
+      },
+      "2.2.0-dev.635": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.635",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.635+ece5910c"
+        }
+      },
+      "2.2.0-dev.638": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.638",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.638+bd60323a"
+        }
+      },
+      "2.2.0-dev.652": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.652",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.652+68880cdf"
+        }
+      },
+      "2.2.0-dev.655": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.655",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.655+bb22a55d"
+        }
+      },
+      "1.9.8": {
+        "name": "@fedify/fastify",
+        "version": "1.9.8",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.8"
+        }
+      },
+      "1.10.7": {
+        "name": "@fedify/fastify",
+        "version": "1.10.7",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.7"
+        }
+      },
+      "2.0.11": {
+        "name": "@fedify/fastify",
+        "version": "2.0.11",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.11"
+        }
+      },
+      "2.1.4": {
+        "name": "@fedify/fastify",
+        "version": "2.1.4",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.4"
+        }
+      },
+      "2.2.0-dev.664": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.664",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.664+53d88408"
+        }
+      },
+      "2.2.0-dev.671": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.671",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.671+61141c60"
+        }
+      },
+      "1.9.9": {
+        "name": "@fedify/fastify",
+        "version": "1.9.9",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.9"
+        }
+      },
+      "2.0.12": {
+        "name": "@fedify/fastify",
+        "version": "2.0.12",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.12"
+        }
+      },
+      "1.10.8": {
+        "name": "@fedify/fastify",
+        "version": "1.10.8",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.8"
+        }
+      },
+      "2.1.5": {
+        "name": "@fedify/fastify",
+        "version": "2.1.5",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.5"
+        }
+      },
+      "2.2.0-dev.677": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.677",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.677+41046619"
+        }
+      },
+      "2.2.0-dev.681": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.681",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.681+db2766de"
+        }
+      },
+      "2.2.0-dev.692": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.692",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.692+12c62883"
+        }
+      },
+      "2.2.0-dev.695": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.695",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.695+568b08cc"
+        }
+      },
+      "2.2.0-dev.700": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.700",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.700+5323388d"
+        }
+      },
+      "2.2.0-dev.731": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.731",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.731+3d1ca85e"
+        }
+      },
+      "2.2.0-dev.735": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.735",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.735+4c2bace2"
+        }
+      },
+      "2.2.0-dev.742": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.742",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.742+290cbf4e"
+        }
+      },
+      "2.2.0-dev.748": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.748",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.748+977bbf1d"
+        }
+      },
+      "2.2.0-dev.750": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.750",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.750+f00a94e3"
+        }
+      },
+      "2.2.0-dev.752": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.752",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.752+d89091e9"
+        }
+      },
+      "2.2.0-dev.759": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.759",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.759+06d31be6"
+        }
+      },
+      "2.2.0-dev.766": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.766",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.766+e04e54aa"
+        }
+      },
+      "2.2.0-dev.768": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.768",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.768+3b4b0e52"
+        }
+      },
+      "2.2.0-dev.774": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.774",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.774+5c58f197"
+        }
+      },
+      "2.2.0-dev.785": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.785",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.785+8060fc6d"
+        }
+      },
+      "2.2.0-dev.787": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.787",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.787+e5c3f1fd"
+        }
+      },
+      "2.2.0-dev.802": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.802",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.802+b6b09961"
+        }
+      },
+      "2.2.0-pr.695.16": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.695.16",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.695.16+7a782334"
+        }
+      },
+      "2.2.0-pr.697.17": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.697.17",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.697.17+8d06dbd9"
+        }
+      },
+      "2.2.0-pr.697.18": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.697.18",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.697.18+b776632f"
+        }
+      },
+      "2.1.6-dev.827": {
+        "name": "@fedify/fastify",
+        "version": "2.1.6-dev.827",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.6-dev.827+6c034f92"
+        }
+      },
+      "2.1.6": {
+        "name": "@fedify/fastify",
+        "version": "2.1.6",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.6"
+        }
+      },
+      "2.2.0-dev.829": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.829",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.829+6e8eff1b"
+        }
+      },
+      "2.2.0-dev.833": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.833",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.833+9d7bf7f3"
+        }
+      },
+      "2.1.7-dev.841": {
+        "name": "@fedify/fastify",
+        "version": "2.1.7-dev.841",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.7-dev.841+5e5265da"
+        }
+      },
+      "2.1.7": {
+        "name": "@fedify/fastify",
+        "version": "2.1.7",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.7"
+        }
+      },
+      "2.2.0-dev.844": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.844",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.844+6cc39f0b"
+        }
+      },
+      "2.2.0-pr.708.19": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.708.19",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.708.19+4267edbb"
+        }
+      },
+      "2.2.0-dev.850": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.850",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.850+321811d5"
+        }
+      },
+      "2.2.0-dev.851": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.851",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.851+223698da"
+        }
+      },
+      "2.2.0-pr.709.20": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.709.20",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.709.20+17eb3fa5"
+        }
+      },
+      "2.2.0-pr.710.22": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.710.22",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.710.22+527afb16"
+        }
+      },
+      "2.0.13": {
+        "name": "@fedify/fastify",
+        "version": "2.0.13",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.13"
+        }
+      },
+      "2.1.8": {
+        "name": "@fedify/fastify",
+        "version": "2.1.8",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.8"
+        }
+      },
+      "2.2.0-dev.869": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.869",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.869+97ccad7a"
+        }
+      },
+      "2.1.9": {
+        "name": "@fedify/fastify",
+        "version": "2.1.9",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.9"
+        }
+      },
+      "2.2.0-pr.695.23": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.695.23",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.695.23+d0b31ca2"
+        }
+      },
+      "2.2.0-dev.877": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.877",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.877+2692052d"
+        }
+      },
+      "2.2.0-pr.710.24": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.710.24",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.710.24+7ce4f97e"
+        }
+      },
+      "2.2.0-dev.881": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.881",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.881+ee345c72"
+        }
+      },
+      "2.0.14": {
+        "name": "@fedify/fastify",
+        "version": "2.0.14",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.14"
+        }
+      },
+      "2.1.10": {
+        "name": "@fedify/fastify",
+        "version": "2.1.10",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.10"
+        }
+      },
+      "2.2.0-dev.885": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.885",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.885+cf6bb048"
+        }
+      },
+      "2.2.0-pr.710.26": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.710.26",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.710.26+a95be522"
+        }
+      },
+      "2.2.0-pr.715.27": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.715.27",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.715.27+c922f396"
+        }
+      },
+      "2.2.0-pr.715.28": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.715.28",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.715.28+06979f5f"
+        }
+      },
+      "2.2.0-dev.898": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.898",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.898+44ea8f2f"
+        }
+      },
+      "2.2.0-dev.918": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.918",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.918+35e41ca2"
+        }
+      },
+      "2.2.0-dev.924": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.924",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.924+c82ee90a"
+        }
+      },
+      "2.2.0-dev.933": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.933",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.933+2ba4d27a"
+        }
+      },
+      "2.2.0-dev.938": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.938",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.938+94d98c0c"
+        }
+      },
+      "2.2.0-dev.945": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.945",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.945+31b67787"
+        }
+      },
+      "2.2.0-dev.946": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.946",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.946+1764300f"
+        }
+      },
+      "2.2.0-dev.949": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.949",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.949+bd260a9f"
+        }
+      },
+      "2.2.0-dev.967": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.967",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.967+d2a1ce2e"
+        }
+      },
+      "2.0.15-dev.968": {
+        "name": "@fedify/fastify",
+        "version": "2.0.15-dev.968",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.15-dev.968+1cb9a6b2"
+        }
+      },
+      "2.1.11-dev.969": {
+        "name": "@fedify/fastify",
+        "version": "2.1.11-dev.969",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.11-dev.969+9f47c275"
+        }
+      },
+      "2.2.0-dev.971": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.971",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.971+6e28e6e1"
+        }
+      },
+      "2.2.0-dev.976": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.976",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.976+9b1a1c03"
+        }
+      },
+      "2.1.11-dev.977": {
+        "name": "@fedify/fastify",
+        "version": "2.1.11-dev.977",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.11-dev.977+2b6efe5d"
+        }
+      },
+      "2.2.0-dev.978": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.978",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.978+cb3394b9"
+        }
+      },
+      "2.0.15": {
+        "name": "@fedify/fastify",
+        "version": "2.0.15",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.15"
+        }
+      },
+      "2.1.11": {
+        "name": "@fedify/fastify",
+        "version": "2.1.11",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.11"
+        }
+      },
+      "2.2.0-dev.985": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.985",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.985+7002f732"
+        }
+      },
+      "2.2.0-pr.731.0.33": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.731.0.33",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.731.0.33+a54d18e7"
+        }
+      },
+      "2.2.0-pr.731.34": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.731.34",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.731.34+1e1bb860"
+        }
+      },
+      "2.2.0-pr.732.35": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-pr.732.35",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-pr.732.35+ffa09c82"
+        }
+      },
+      "2.2.0-dev.989": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.989",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.989+e289acbc"
+        }
+      },
+      "2.2.0-dev.990": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0-dev.990",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0-dev.990+bb37b9ea"
+        }
+      },
+      "2.2.0": {
+        "name": "@fedify/fastify",
+        "version": "2.2.0",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.0"
+        }
+      },
+      "2.3.0-dev.994": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.994",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.994+9071ca0a"
+        }
+      },
+      "2.3.0-dev.1005": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1005",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1005+16f9539d"
+        }
+      },
+      "2.3.0-dev.1013": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1013",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1013+4aa6a88c"
+        }
+      },
+      "2.3.0-dev.1021": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1021",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1021+ab2fa4a9"
+        }
+      },
+      "2.3.0-dev.1034": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1034",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1034+b85b5daa"
+        }
+      },
+      "2.3.0-dev.1048": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1048",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1048+2da74497"
+        }
+      },
+      "2.3.0-dev.1050": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1050",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1050+74157106"
+        }
+      },
+      "1.9.10": {
+        "name": "@fedify/fastify",
+        "version": "1.9.10",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.9.10"
+        }
+      },
+      "1.10.9": {
+        "name": "@fedify/fastify",
+        "version": "1.10.9",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "1.10.9"
+        }
+      },
+      "2.0.16": {
+        "name": "@fedify/fastify",
+        "version": "2.0.16",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.16"
+        }
+      },
+      "2.1.12": {
+        "name": "@fedify/fastify",
+        "version": "2.1.12",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.12"
+        }
+      },
+      "2.2.1": {
+        "name": "@fedify/fastify",
+        "version": "2.2.1",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.1"
+        }
+      },
+      "2.3.0-dev.1069": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1069",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1069+81e910ce"
+        }
+      },
+      "2.3.0-dev.1079": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1079",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1079+36ac23d1"
+        }
+      },
+      "2.0.17-dev.1080": {
+        "name": "@fedify/fastify",
+        "version": "2.0.17-dev.1080",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.17-dev.1080+6cfb9a34"
+        }
+      },
+      "2.0.17-dev.1093": {
+        "name": "@fedify/fastify",
+        "version": "2.0.17-dev.1093",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.17-dev.1093+5ccc4865"
+        }
+      },
+      "2.0.17": {
+        "name": "@fedify/fastify",
+        "version": "2.0.17",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.0.17"
+        }
+      },
+      "2.1.13": {
+        "name": "@fedify/fastify",
+        "version": "2.1.13",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.1.13"
+        }
+      },
+      "2.2.2": {
+        "name": "@fedify/fastify",
+        "version": "2.2.2",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.2"
+        }
+      },
+      "2.2.3-dev.1098": {
+        "name": "@fedify/fastify",
+        "version": "2.2.3-dev.1098",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.2.3-dev.1098+aaf52a7f"
+        }
+      },
+      "2.3.0-dev.1099": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1099",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1099+fafcfa78"
+        }
+      },
+      "2.3.0-dev.1110": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1110",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1110+3ba84466"
+        }
+      },
+      "2.3.0-dev.1114": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1114",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1114+15a3316d"
+        }
+      },
+      "2.3.0-dev.1119": {
+        "name": "@fedify/fastify",
+        "version": "2.3.0-dev.1119",
+        "peerDependencies": {
+          "fastify": "^5.2.0",
+          "@fedify/fedify": "^2.3.0-dev.1119+6cc02662"
+        }
+      }
+    }
+  },
+  "@jackdbd/fastify-token-endpoint": {
+    "name": "@jackdbd/fastify-token-endpoint",
+    "dist-tags": {
+      "latest": "1.2.0",
+      "canary": "1.3.0-canary.21"
+    },
+    "versions": {
+      "1.0.0-canary.3": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.0.0-canary.3",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.1.6": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.1.6",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.1.7-canary.0": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.1.7-canary.0",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.1.8-canary.0": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.1.8-canary.0",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.1.8-canary.1": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.1.8-canary.1",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.2.0": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.2.1-canary.0": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.2.1-canary.0",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.2.1-canary.1": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.2.1-canary.1",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.2.1-canary.2": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.2.1-canary.2",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.2.1-canary.3": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.2.1-canary.3",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.2.1-canary.4": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.2.1-canary.4",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.6": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.6",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.7": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.7",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.8": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.8",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.9": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.9",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.10": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.10",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.11": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.11",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.12": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.12",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.13": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.13",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.14": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.14",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.15": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.15",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.16": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.16",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.17": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.17",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.18": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.18",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.19": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.19",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.20": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.20",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      },
+      "1.3.0-canary.21": {
+        "name": "@jackdbd/fastify-token-endpoint",
+        "version": "1.3.0-canary.21",
+        "peerDependencies": {
+          "fastify": ">=5.0.0"
+        }
+      }
+    }
+  }
+}

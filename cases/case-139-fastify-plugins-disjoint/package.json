@@ -1,0 +1,12 @@
+{
+  "name": "case-139-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "3.29.1",
+    "@tsed/platform-fastify": "8.8.0",
+    "@fastify/type-provider-json-schema-to-ts": "1.0.0"
+  }
+}

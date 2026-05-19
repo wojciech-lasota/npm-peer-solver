@@ -1,0 +1,12 @@
+{
+  "name": "case-808-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "6.0.4",
+    "@hitachivantara/app-shell-vite-plugin": "0.18.2",
+    "@formatjs/vite-plugin": "1.0.1"
+  }
+}

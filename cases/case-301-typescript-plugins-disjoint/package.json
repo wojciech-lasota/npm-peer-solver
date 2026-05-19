@@ -1,0 +1,12 @@
+{
+  "name": "case-301-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "4.0.5",
+    "@typescript-eslint/parser": "8.18.0",
+    "awesome-typescript-loader": "3.5.0"
+  }
+}

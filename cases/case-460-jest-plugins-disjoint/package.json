@@ -1,0 +1,12 @@
+{
+  "name": "case-460-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "22.1.0",
+    "jest-preset-stylelint": "2.0.0",
+    "@lwc/jest-transformer": "0.37.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-110-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "30.3.0",
+    "jest-specific-snapshot": "0.1.0",
+    "jest-extended": "2.0.0"
+  }
+}

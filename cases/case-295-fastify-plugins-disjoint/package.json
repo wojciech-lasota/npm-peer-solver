@@ -1,0 +1,12 @@
+{
+  "name": "case-295-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "5.8.2",
+    "@sp-uvb/fastify": "0.1.0",
+    "@orpc/standard-server-fastify": "0.0.0"
+  }
+}

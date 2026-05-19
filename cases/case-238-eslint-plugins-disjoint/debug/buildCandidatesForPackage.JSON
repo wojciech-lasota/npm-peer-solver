@@ -1,0 +1,529 @@
+[
+  {
+    "packageName": "eslint",
+    "requestedRange": "6.7.1",
+    "candidates": [
+      {
+        "packageName": "eslint",
+        "version": "10.4.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.3.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.1.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.4",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.38.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.37.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.36.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.35.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.34.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.33.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.32.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.31.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "8.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "7.32.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "6.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "5.16.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "4.19.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "3.19.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "2.13.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "1.10.3",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@domenic/eslint-config",
+    "requestedRange": "1.0.0",
+    "candidates": [
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "@stylistic/eslint-plugin": "^5.10.0",
+          "eslint": "^10.0.3"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "5.0.1",
+        "peerDependencies": {
+          "eslint": "^10.0.3",
+          "@stylistic/eslint-plugin": "^5.10.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "eslint": "^10.0.3",
+          "@stylistic/eslint-plugin": "^5.10.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "4.1.0",
+        "peerDependencies": {
+          "eslint": "^9.7.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "eslint": "^9.7.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "eslint": "^9.7.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "eslint": "^8.28.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "eslint": "^8.7.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "1.4.0",
+        "peerDependencies": {
+          "eslint": "^7.32.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "eslint": "^7.32.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "eslint": "^7.23.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "eslint": "^7.20.0"
+        }
+      },
+      {
+        "packageName": "@domenic/eslint-config",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "eslint": "^7.20.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@amedia/eslint-config-base",
+    "requestedRange": "4.0.13",
+    "candidates": [
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "eslint": "9.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "eslint": "8.x",
+          "eslint-plugin-import": "2.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "7.2.4",
+        "peerDependencies": {
+          "eslint": "8.x",
+          "eslint-plugin-import": "2.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "7.2.3",
+        "peerDependencies": {
+          "eslint": "8.x",
+          "eslint-plugin-import": "2.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "7.2.2",
+        "peerDependencies": {
+          "eslint": "8.x",
+          "eslint-plugin-import": "2.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "7.2.1",
+        "peerDependencies": {
+          "eslint": "8.x",
+          "eslint-plugin-import": "2.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "7.2.0",
+        "peerDependencies": {
+          "eslint": "8.x",
+          "eslint-plugin-import": "2.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "7.1.0",
+        "peerDependencies": {
+          "eslint": "8.x",
+          "eslint-plugin-import": "2.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "eslint": "8.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "eslint": "*",
+          "prettier": "*",
+          "eslint-plugin-import": "*",
+          "eslint-config-prettier": "*",
+          "eslint-config-airbnb-base": "*"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "5.2.1",
+        "peerDependencies": {
+          "eslint": "^8.8.0",
+          "prettier": "^2.5.1",
+          "eslint-plugin-import": "^2.25.4",
+          "eslint-config-prettier": "^8.3.0",
+          "eslint-config-airbnb-base": "^15.0.0"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "5.1.3",
+        "peerDependencies": {
+          "eslint": "8.6.0",
+          "prettier": "2.5.1",
+          "eslint-plugin-import": "2.25.4",
+          "eslint-config-prettier": "8.3.0",
+          "eslint-config-airbnb-base": "15.0.0"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "eslint": "8.6.0",
+          "prettier": "2.5.1",
+          "eslint-plugin-import": "2.25.4",
+          "eslint-config-prettier": "8.3.0",
+          "eslint-config-airbnb-base": "15.0.0"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "eslint": "8.6.0",
+          "prettier": "2.5.1",
+          "eslint-plugin-import": "2.25.4",
+          "eslint-config-prettier": "8.3.0",
+          "eslint-config-airbnb-base": "15.0.0"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "4.0.13",
+        "peerDependencies": {
+          "eslint": "8.6.0",
+          "prettier": "2.5.1",
+          "@babel/eslint-parser": "7.16.5",
+          "eslint-plugin-import": "2.25.4",
+          "eslint-config-prettier": "8.3.0",
+          "eslint-config-airbnb-base": "15.0.0"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "4.0.11",
+        "peerDependencies": {
+          "eslint": "7.21.0",
+          "prettier": "2.2.1",
+          "babel-eslint": "10.1.0",
+          "eslint-plugin-import": "2.22.1",
+          "eslint-config-prettier": "8.1.0",
+          "eslint-config-airbnb-base": "14.2.1"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "4.0.7",
+        "peerDependencies": {
+          "eslint": "7.21.0",
+          "prettier": "2.2.1",
+          "babel-eslint": "10.1.0",
+          "eslint-plugin-import": "2.22.1",
+          "eslint-config-prettier": "8.1.0",
+          "eslint-config-airbnb-base": "14.2.1"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "4.0.4",
+        "peerDependencies": {
+          "eslint": "^7.10.0",
+          "prettier": "^2.1.2",
+          "babel-eslint": "^10.1.0",
+          "eslint-plugin-import": "^2.22.1",
+          "eslint-config-prettier": "^6.12.0",
+          "eslint-config-airbnb-base": "^14.2.1"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "4.0.2",
+        "peerDependencies": {
+          "eslint": "^7.10.0",
+          "prettier": "^2.1.2",
+          "babel-eslint": "^10.1.0",
+          "eslint-plugin-import": "^2.22.1",
+          "eslint-config-prettier": "^6.12.0",
+          "eslint-config-airbnb-base": "^14.2.1"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "eslint": "^7.10.0",
+          "prettier": "^2.1.2",
+          "babel-eslint": "^10.1.0",
+          "eslint-plugin-import": "^2.22.1",
+          "eslint-config-prettier": "^6.12.0",
+          "eslint-config-airbnb-base": "^14.2.1"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "3.5.2",
+        "peerDependencies": {
+          "eslint": "^7.10.0",
+          "prettier": "^2.1.2",
+          "babel-eslint": "^10.1.0",
+          "eslint-plugin-import": "^2.22.1",
+          "eslint-config-prettier": "^6.12.0",
+          "eslint-config-airbnb-base": "^14.2.1"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-base",
+        "version": "3.5.1",
+        "peerDependencies": {
+          "eslint": "^7.10.0",
+          "prettier": "^2.1.2",
+          "babel-eslint": "^10.1.0",
+          "eslint-plugin-import": "^2.22.1",
+          "eslint-config-prettier": "^6.12.0",
+          "eslint-config-airbnb-base": "^14.2.1"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "case-787-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@tailwindcss/line-clamp": "0.2.1",
+    "@designbycode/tailwindcss-mask-image": "2.0.0"
+  }
+}

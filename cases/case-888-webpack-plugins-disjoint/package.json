@@ -1,0 +1,12 @@
+{
+  "name": "case-888-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.93.0",
+    "cordova-plugin-webpack": "1.0.0",
+    "add-asset-webpack-plugin": "2.0.0"
+  }
+}

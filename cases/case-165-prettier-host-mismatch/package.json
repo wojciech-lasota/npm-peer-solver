@@ -1,0 +1,12 @@
+{
+  "name": "case-165-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@ttskch/prettier-plugin-tailwindcss-anywhere": "0.0.0",
+    "@awmottaz/prettier-plugin-void-html": "1.5.0"
+  }
+}

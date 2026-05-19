@@ -1,0 +1,12 @@
+{
+  "name": "case-242-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@stzhu/prettier-plugin-tsconfig": "0.4.4",
+    "@134dd3v/prettier-plugin-solidity": "1.1.1"
+  }
+}

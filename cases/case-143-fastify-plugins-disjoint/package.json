@@ -1,0 +1,12 @@
+{
+  "name": "case-143-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "5.2.1",
+    "@ogcio/fastify-o11y": "4.0.1",
+    "@mastra/fastify": "1.0.0"
+  }
+}

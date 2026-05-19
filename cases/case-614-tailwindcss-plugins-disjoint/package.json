@@ -1,0 +1,12 @@
+{
+  "name": "case-614-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "4.2.3",
+    "@djangocfg/layouts": "1.0.1",
+    "@formkit/tailwindcss": "0.16.0"
+  }
+}

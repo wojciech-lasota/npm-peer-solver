@@ -1,0 +1,12 @@
+{
+  "name": "case-187-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/separator": "3.0.0",
+    "@react-aria/interactions": "3.8.4"
+  }
+}

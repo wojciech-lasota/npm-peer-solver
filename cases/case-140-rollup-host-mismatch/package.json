@@ -1,0 +1,12 @@
+{
+  "name": "case-140-rollup-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "3.20.2",
+    "@miyaneee/rollup-plugin-json5": "1.0.0",
+    "rollup-plugin-circular-dependencies": "1.1.1"
+  }
+}

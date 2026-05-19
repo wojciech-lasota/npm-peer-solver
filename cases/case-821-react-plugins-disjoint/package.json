@@ -1,0 +1,12 @@
+{
+  "name": "case-821-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "15.2.1",
+    "@clerk/clerk-react": "1.1.0",
+    "@fortawesome/react-fontawesome": "0.0.5"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-194-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@datadog/vite-plugin": "2.2.1",
+    "@lingui/vite-plugin": "4.12.0"
+  }
+}

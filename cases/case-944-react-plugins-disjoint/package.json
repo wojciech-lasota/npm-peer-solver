@@ -1,0 +1,12 @@
+{
+  "name": "case-944-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.2.0",
+    "@fortawesome/react-fontawesome": "0.0.5",
+    "@react-stately/overlays": "3.0.0"
+  }
+}

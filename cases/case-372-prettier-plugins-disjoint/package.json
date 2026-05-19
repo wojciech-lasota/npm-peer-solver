@@ -1,0 +1,12 @@
+{
+  "name": "case-372-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.13.1",
+    "prettier-plugin-autocorrect": "0.4.0",
+    "@onerepo/plugin-prettier": "0.0.0"
+  }
+}

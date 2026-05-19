@@ -1,0 +1,12 @@
+{
+  "name": "case-570-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.32.0",
+    "@haraka/eslint-config": "1.1.0",
+    "@amedia/eslint-config": "4.0.0"
+  }
+}

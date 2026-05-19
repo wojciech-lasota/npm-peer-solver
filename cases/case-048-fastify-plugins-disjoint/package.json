@@ -1,0 +1,12 @@
+{
+  "name": "case-048-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.13.1",
+    "@prefabs.tech/fastify-firebase": "0.88.0",
+    "@fastify/passport": "1.0.0"
+  }
+}

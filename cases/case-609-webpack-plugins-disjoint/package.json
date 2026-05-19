@@ -1,0 +1,12 @@
+{
+  "name": "case-609-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.43.0",
+    "babel-minify-webpack-plugin": "0.2.0",
+    "cordova-plugin-webpack": "1.0.0"
+  }
+}

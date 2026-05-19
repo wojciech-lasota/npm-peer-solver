@@ -1,0 +1,12 @@
+{
+  "name": "case-915-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "16.2.7",
+    "@progress/kendo-angular-common": "0.1.0",
+    "@angular/material-date-fns-adapter": "0.0.0"
+  }
+}

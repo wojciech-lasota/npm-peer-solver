@@ -1,0 +1,12 @@
+{
+  "name": "case-069-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-spring/animated": "9.0.0",
+    "@floating-ui/react-dom": "2.0.5"
+  }
+}

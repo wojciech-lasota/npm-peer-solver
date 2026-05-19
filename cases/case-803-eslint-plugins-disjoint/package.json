@@ -1,0 +1,12 @@
+{
+  "name": "case-803-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "9.19.0",
+    "@amedia/eslint-config-react": "7.0.0",
+    "@domenic/eslint-config": "1.0.0"
+  }
+}

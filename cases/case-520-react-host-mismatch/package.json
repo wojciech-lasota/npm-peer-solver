@@ -1,0 +1,12 @@
+{
+  "name": "case-520-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/checkbox": "3.0.0",
+    "@react-aria/focus": "3.20.5"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-621-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "@ta-interaktiv/jest-preset": "0.1.0",
+    "@tailify/jest-preset": "0.1.1"
+  }
+}

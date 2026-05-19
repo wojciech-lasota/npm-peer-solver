@@ -1,0 +1,12 @@
+{
+  "name": "case-503-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "3.27.0",
+    "@fastify/passport": "1.0.0",
+    "@as-integrations/fastify": "0.10.0"
+  }
+}

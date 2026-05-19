@@ -1,0 +1,12 @@
+{
+  "name": "case-966-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.11.0",
+    "@prettier/plugin-pug": "1.0.0",
+    "@elegantech/prettier-multi-config": "1.0.1"
+  }
+}

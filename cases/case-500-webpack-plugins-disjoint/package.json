@@ -1,0 +1,12 @@
+{
+  "name": "case-500-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.99.5",
+    "@cypress/webpack-preprocessor": "4.0.0",
+    "@clayne/string-replace-loader": "1.0.5"
+  }
+}

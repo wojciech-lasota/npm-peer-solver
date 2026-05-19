@@ -1,0 +1,12 @@
+{
+  "name": "case-762-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "19.2.4",
+    "@react-aria/i18n": "3.0.0",
+    "@react-email/render": "0.0.16"
+  }
+}

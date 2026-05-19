@@ -1,0 +1,12 @@
+{
+  "name": "case-070-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@prettier/plugin-pug": "1.0.0",
+    "@chazuk/prettier-plugin-angular-sort-attributes": "1.2.0"
+  }
+}

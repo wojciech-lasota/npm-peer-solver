@@ -1,0 +1,12 @@
+{
+  "name": "case-904-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "@mpjs/mp-plugin-webpack": "1.0.0",
+    "@svgv/webpack": "0.1.0"
+  }
+}

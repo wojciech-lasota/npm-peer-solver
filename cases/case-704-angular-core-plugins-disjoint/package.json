@@ -1,0 +1,12 @@
+{
+  "name": "case-704-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "17.3.11",
+    "@auth0/auth0-angular": "0.2.0",
+    "@casl/angular": "0.1.1"
+  }
+}

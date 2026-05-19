@@ -1,0 +1,12 @@
+{
+  "name": "case-695-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "5.6.0",
+    "@toolplex/app-server": "0.1.0",
+    "@aegisx/fastify-multipart": "1.0.0"
+  }
+}

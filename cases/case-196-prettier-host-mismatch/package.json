@@ -1,0 +1,12 @@
+{
+  "name": "case-196-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@yoy20/prettier-plugin-css-order": "1.0.0",
+    "@voltiso/prettier-plugin-toml": "0.3.2"
+  }
+}

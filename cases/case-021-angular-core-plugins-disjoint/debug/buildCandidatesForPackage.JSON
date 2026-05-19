@@ -1,0 +1,835 @@
+[
+  {
+    "packageName": "@angular/core",
+    "requestedRange": "19.2.4",
+    "candidates": [
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.13"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.9"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.8"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.7"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.6"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.2"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "20.3.21",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0",
+          "@angular/compiler": "20.3.21"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "19.2.22",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "17.3.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "16.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "15.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0 || ~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "13.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "12.2.17",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "11.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "^0.10.2 || ^0.11.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "10.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "9.1.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "tslib": "^1.10.0",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "8.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.4.0",
+          "zone.js": "~0.9.1"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "7.2.16",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "6.1.10",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "5.2.11",
+        "peerDependencies": {
+          "rxjs": "^5.5.0",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "4.4.7",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "2.4.10",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.7.2"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular/platform-browser-dynamic",
+    "requestedRange": "2.0.0",
+    "candidates": [
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.13",
+        "peerDependencies": {
+          "@angular/core": "21.2.13",
+          "@angular/common": "21.2.13",
+          "@angular/compiler": "21.2.13",
+          "@angular/platform-browser": "21.2.13"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.12",
+        "peerDependencies": {
+          "@angular/core": "21.2.12",
+          "@angular/common": "21.2.12",
+          "@angular/compiler": "21.2.12",
+          "@angular/platform-browser": "21.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "@angular/core": "21.2.11",
+          "@angular/common": "21.2.11",
+          "@angular/compiler": "21.2.11",
+          "@angular/platform-browser": "21.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "@angular/core": "21.2.10",
+          "@angular/common": "21.2.10",
+          "@angular/compiler": "21.2.10",
+          "@angular/platform-browser": "21.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "@angular/core": "21.2.9",
+          "@angular/common": "21.2.9",
+          "@angular/compiler": "21.2.9",
+          "@angular/platform-browser": "21.2.9"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "@angular/core": "21.2.8",
+          "@angular/common": "21.2.8",
+          "@angular/compiler": "21.2.8",
+          "@angular/platform-browser": "21.2.8"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "@angular/core": "21.2.7",
+          "@angular/common": "21.2.7",
+          "@angular/compiler": "21.2.7",
+          "@angular/platform-browser": "21.2.7"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "@angular/core": "21.2.6",
+          "@angular/common": "21.2.6",
+          "@angular/compiler": "21.2.6",
+          "@angular/platform-browser": "21.2.6"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "@angular/core": "21.2.5",
+          "@angular/common": "21.2.5",
+          "@angular/compiler": "21.2.5",
+          "@angular/platform-browser": "21.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "@angular/core": "21.2.4",
+          "@angular/common": "21.2.4",
+          "@angular/compiler": "21.2.4",
+          "@angular/platform-browser": "21.2.4"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "@angular/core": "21.2.3",
+          "@angular/common": "21.2.3",
+          "@angular/compiler": "21.2.3",
+          "@angular/platform-browser": "21.2.3"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "@angular/core": "21.2.2",
+          "@angular/common": "21.2.2",
+          "@angular/compiler": "21.2.2",
+          "@angular/platform-browser": "21.2.2"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "20.3.21",
+        "peerDependencies": {
+          "@angular/core": "20.3.21",
+          "@angular/common": "20.3.21",
+          "@angular/compiler": "20.3.21",
+          "@angular/platform-browser": "20.3.21"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "19.2.22",
+        "peerDependencies": {
+          "@angular/core": "19.2.22",
+          "@angular/common": "19.2.22",
+          "@angular/compiler": "19.2.22",
+          "@angular/platform-browser": "19.2.22"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "@angular/core": "18.2.14",
+          "@angular/common": "18.2.14",
+          "@angular/compiler": "18.2.14",
+          "@angular/platform-browser": "18.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "17.3.12",
+        "peerDependencies": {
+          "@angular/core": "17.3.12",
+          "@angular/common": "17.3.12",
+          "@angular/compiler": "17.3.12",
+          "@angular/platform-browser": "17.3.12"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "16.2.12",
+        "peerDependencies": {
+          "@angular/core": "16.2.12",
+          "@angular/common": "16.2.12",
+          "@angular/compiler": "16.2.12",
+          "@angular/platform-browser": "16.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "15.2.10",
+        "peerDependencies": {
+          "@angular/core": "15.2.10",
+          "@angular/common": "15.2.10",
+          "@angular/compiler": "15.2.10",
+          "@angular/platform-browser": "15.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "@angular/core": "14.3.0",
+          "@angular/common": "14.3.0",
+          "@angular/compiler": "14.3.0",
+          "@angular/platform-browser": "14.3.0"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "13.4.0",
+        "peerDependencies": {
+          "@angular/core": "13.4.0",
+          "@angular/common": "13.4.0",
+          "@angular/compiler": "13.4.0",
+          "@angular/platform-browser": "13.4.0"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "12.2.17",
+        "peerDependencies": {
+          "@angular/core": "12.2.17",
+          "@angular/common": "12.2.17",
+          "@angular/compiler": "12.2.17",
+          "@angular/platform-browser": "12.2.17"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "11.2.14",
+        "peerDependencies": {
+          "@angular/core": "11.2.14",
+          "@angular/common": "11.2.14",
+          "@angular/compiler": "11.2.14",
+          "@angular/platform-browser": "11.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "10.2.5",
+        "peerDependencies": {
+          "@angular/core": "10.2.5",
+          "@angular/common": "10.2.5",
+          "@angular/compiler": "10.2.5",
+          "@angular/platform-browser": "10.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "9.1.13",
+        "peerDependencies": {
+          "tslib": "^1.10.0",
+          "@angular/core": "9.1.13",
+          "@angular/common": "9.1.13",
+          "@angular/compiler": "9.1.13",
+          "@angular/platform-browser": "9.1.13"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "8.2.14",
+        "peerDependencies": {
+          "@angular/core": "8.2.14",
+          "@angular/common": "8.2.14",
+          "@angular/compiler": "8.2.14",
+          "@angular/platform-browser": "8.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "7.2.16",
+        "peerDependencies": {
+          "@angular/core": "7.2.16",
+          "@angular/common": "7.2.16",
+          "@angular/compiler": "7.2.16",
+          "@angular/platform-browser": "7.2.16"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "6.1.10",
+        "peerDependencies": {
+          "@angular/core": "6.1.10",
+          "@angular/common": "6.1.10",
+          "@angular/compiler": "6.1.10",
+          "@angular/platform-browser": "6.1.10"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "5.2.11",
+        "peerDependencies": {
+          "@angular/core": "5.2.11",
+          "@angular/common": "5.2.11",
+          "@angular/compiler": "5.2.11",
+          "@angular/platform-browser": "5.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "4.4.7",
+        "peerDependencies": {
+          "@angular/core": "4.4.7",
+          "@angular/common": "4.4.7",
+          "@angular/compiler": "4.4.7",
+          "@angular/platform-browser": "4.4.7"
+        }
+      },
+      {
+        "packageName": "@angular/platform-browser-dynamic",
+        "version": "2.4.10",
+        "peerDependencies": {
+          "@angular/core": "2.4.10",
+          "@angular/common": "2.4.10",
+          "@angular/compiler": "2.4.10",
+          "@angular/platform-browser": "2.4.10"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular-architects/module-federation-runtime",
+    "requestedRange": "12.0.0",
+    "candidates": [
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "@angular/common": "^21.2.0",
+          "@angular/core": "^21.2.0",
+          "@module-federation/enhanced": "^2.2.2",
+          "@module-federation/runtime-core": "^2.2.2"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "21.2.1",
+        "peerDependencies": {
+          "@angular/core": "^21.2.0",
+          "@angular/common": "^21.2.0",
+          "@module-federation/enhanced": "^0.21.4",
+          "@module-federation/runtime-core": "^0.21.4"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "21.2.0",
+        "peerDependencies": {
+          "@angular/core": "^21.2.0",
+          "@angular/common": "^21.2.0",
+          "@module-federation/enhanced": "^0.21.4",
+          "@module-federation/runtime-core": "^0.21.4"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "20.0.0",
+        "peerDependencies": {
+          "@angular/core": ">=20.0.0",
+          "@angular/common": ">=20.0.0",
+          "@module-federation/enhanced": "^0.9.0",
+          "@module-federation/runtime-core": "^0.6.21"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "19.0.3",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0",
+          "@module-federation/enhanced": "^0.9.0",
+          "@module-federation/runtime-core": "^0.6.21"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "19.0.2",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0",
+          "@module-federation/enhanced": "^0.9.0",
+          "@module-federation/runtime-core": "^0.6.21"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "19.0.1",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0",
+          "@module-federation/enhanced": "^0.8.7",
+          "@module-federation/runtime-core": "^0.6.15"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "19.0.0",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0",
+          "@module-federation/enhanced": "^0.8.7",
+          "@module-federation/runtime-core": "^0.6.15"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "18.0.6",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "18.0.5",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "18.0.4",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "18.0.3",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "18.0.2",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "18.0.1",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "18.0.0",
+        "peerDependencies": {
+          "@angular/core": ">=18.0.0",
+          "@angular/common": ">=18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "17.0.8",
+        "peerDependencies": {
+          "@angular/core": ">=17.0.0",
+          "@angular/common": ">=17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "17.0.7",
+        "peerDependencies": {
+          "@angular/core": ">=17.0.0",
+          "@angular/common": ">=17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "17.0.6",
+        "peerDependencies": {
+          "@angular/core": ">=17.0.0",
+          "@angular/common": ">=17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "17.0.5",
+        "peerDependencies": {
+          "@angular/core": ">=17.0.0",
+          "@angular/common": ">=17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "17.0.4",
+        "peerDependencies": {
+          "@angular/core": ">=17.0.0",
+          "@angular/common": ">=17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "17.0.3",
+        "peerDependencies": {
+          "@angular/core": ">=17.0.0",
+          "@angular/common": ">=17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "17.0.2",
+        "peerDependencies": {
+          "@angular/core": ">=17.0.0",
+          "@angular/common": ">=17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "17.0.1",
+        "peerDependencies": {
+          "@angular/core": ">=17.0.0",
+          "@angular/common": ">=17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "17.0.0",
+        "peerDependencies": {
+          "@angular/core": ">=17.0.0",
+          "@angular/common": ">=17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "16.0.4",
+        "peerDependencies": {
+          "@angular/core": ">=16.0.0",
+          "@angular/common": ">=16.0.0",
+          "@angular/platform-browser-dynamic": ">=16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "16.0.3",
+        "peerDependencies": {
+          "@angular/core": ">=16.0.0",
+          "@angular/common": ">=16.0.0",
+          "@angular/platform-browser-dynamic": "^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "15.0.3",
+        "peerDependencies": {
+          "@angular/core": ">=15.0.0",
+          "@angular/common": ">=15.0.0",
+          "@angular/platform-browser-dynamic": ">=15.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "14.3.14",
+        "peerDependencies": {
+          "@angular/core": ">=14.0.0",
+          "@angular/common": ">=14.0.0",
+          "@angular/platform-browser-dynamic": ">=14.1.1"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "13.0.1",
+        "peerDependencies": {
+          "@angular/core": ">=12.0.0",
+          "@angular/common": ">=12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular-architects/module-federation-runtime",
+        "version": "12.5.3",
+        "peerDependencies": {
+          "@angular/core": ">=12.0.0",
+          "@angular/common": ">=12.0.0"
+        }
+      }
+    ]
+  }
+]

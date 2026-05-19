@@ -1,0 +1,4749 @@
+{
+  "fastify": {
+    "name": "fastify",
+    "dist-tags": {
+      "three": "3.29.5",
+      "four": "4.29.1",
+      "latest": "5.8.5"
+    },
+    "versions": {
+      "0.0.1": {
+        "name": "fastify",
+        "version": "0.0.1"
+      },
+      "0.1.0": {
+        "name": "fastify",
+        "version": "0.1.0"
+      },
+      "0.2.0": {
+        "name": "fastify",
+        "version": "0.2.0"
+      },
+      "0.3.0": {
+        "name": "fastify",
+        "version": "0.3.0"
+      },
+      "0.4.0": {
+        "name": "fastify",
+        "version": "0.4.0"
+      },
+      "0.5.0": {
+        "name": "fastify",
+        "version": "0.5.0"
+      },
+      "0.6.0": {
+        "name": "fastify",
+        "version": "0.6.0"
+      },
+      "0.7.0": {
+        "name": "fastify",
+        "version": "0.7.0"
+      },
+      "0.7.1": {
+        "name": "fastify",
+        "version": "0.7.1"
+      },
+      "0.8.0": {
+        "name": "fastify",
+        "version": "0.8.0"
+      },
+      "0.9.0": {
+        "name": "fastify",
+        "version": "0.9.0"
+      },
+      "0.10.0": {
+        "name": "fastify",
+        "version": "0.10.0"
+      },
+      "0.11.0": {
+        "name": "fastify",
+        "version": "0.11.0"
+      },
+      "0.11.1": {
+        "name": "fastify",
+        "version": "0.11.1"
+      },
+      "0.12.0": {
+        "name": "fastify",
+        "version": "0.12.0"
+      },
+      "0.13.0": {
+        "name": "fastify",
+        "version": "0.13.0"
+      },
+      "0.13.1": {
+        "name": "fastify",
+        "version": "0.13.1"
+      },
+      "0.14.0": {
+        "name": "fastify",
+        "version": "0.14.0"
+      },
+      "0.14.1": {
+        "name": "fastify",
+        "version": "0.14.1"
+      },
+      "0.15.0": {
+        "name": "fastify",
+        "version": "0.15.0"
+      },
+      "0.15.1": {
+        "name": "fastify",
+        "version": "0.15.1"
+      },
+      "0.15.2": {
+        "name": "fastify",
+        "version": "0.15.2"
+      },
+      "0.15.3": {
+        "name": "fastify",
+        "version": "0.15.3"
+      },
+      "0.16.0": {
+        "name": "fastify",
+        "version": "0.16.0"
+      },
+      "0.17.0": {
+        "name": "fastify",
+        "version": "0.17.0"
+      },
+      "0.18.0": {
+        "name": "fastify",
+        "version": "0.18.0"
+      },
+      "0.19.0": {
+        "name": "fastify",
+        "version": "0.19.0"
+      },
+      "0.19.1": {
+        "name": "fastify",
+        "version": "0.19.1"
+      },
+      "0.20.0": {
+        "name": "fastify",
+        "version": "0.20.0"
+      },
+      "0.20.1": {
+        "name": "fastify",
+        "version": "0.20.1"
+      },
+      "0.21.0": {
+        "name": "fastify",
+        "version": "0.21.0"
+      },
+      "0.22.0": {
+        "name": "fastify",
+        "version": "0.22.0"
+      },
+      "0.23.0": {
+        "name": "fastify",
+        "version": "0.23.0"
+      },
+      "0.24.0": {
+        "name": "fastify",
+        "version": "0.24.0"
+      },
+      "0.25.0": {
+        "name": "fastify",
+        "version": "0.25.0"
+      },
+      "0.25.1": {
+        "name": "fastify",
+        "version": "0.25.1"
+      },
+      "0.25.2": {
+        "name": "fastify",
+        "version": "0.25.2"
+      },
+      "0.25.3": {
+        "name": "fastify",
+        "version": "0.25.3"
+      },
+      "0.26.0": {
+        "name": "fastify",
+        "version": "0.26.0"
+      },
+      "0.26.1": {
+        "name": "fastify",
+        "version": "0.26.1"
+      },
+      "0.26.2": {
+        "name": "fastify",
+        "version": "0.26.2"
+      },
+      "0.27.0": {
+        "name": "fastify",
+        "version": "0.27.0"
+      },
+      "0.28.0": {
+        "name": "fastify",
+        "version": "0.28.0"
+      },
+      "0.28.1": {
+        "name": "fastify",
+        "version": "0.28.1"
+      },
+      "0.28.2": {
+        "name": "fastify",
+        "version": "0.28.2"
+      },
+      "0.29.0": {
+        "name": "fastify",
+        "version": "0.29.0"
+      },
+      "0.29.1": {
+        "name": "fastify",
+        "version": "0.29.1"
+      },
+      "0.29.2": {
+        "name": "fastify",
+        "version": "0.29.2"
+      },
+      "0.30.0": {
+        "name": "fastify",
+        "version": "0.30.0"
+      },
+      "0.30.1": {
+        "name": "fastify",
+        "version": "0.30.1"
+      },
+      "0.30.2": {
+        "name": "fastify",
+        "version": "0.30.2"
+      },
+      "0.30.3": {
+        "name": "fastify",
+        "version": "0.30.3"
+      },
+      "0.31.0": {
+        "name": "fastify",
+        "version": "0.31.0"
+      },
+      "0.32.0": {
+        "name": "fastify",
+        "version": "0.32.0"
+      },
+      "0.33.0": {
+        "name": "fastify",
+        "version": "0.33.0"
+      },
+      "0.34.0": {
+        "name": "fastify",
+        "version": "0.34.0"
+      },
+      "0.35.0": {
+        "name": "fastify",
+        "version": "0.35.0"
+      },
+      "0.35.1": {
+        "name": "fastify",
+        "version": "0.35.1"
+      },
+      "0.35.2": {
+        "name": "fastify",
+        "version": "0.35.2"
+      },
+      "0.35.3": {
+        "name": "fastify",
+        "version": "0.35.3"
+      },
+      "0.35.4": {
+        "name": "fastify",
+        "version": "0.35.4"
+      },
+      "0.35.5": {
+        "name": "fastify",
+        "version": "0.35.5"
+      },
+      "0.35.6": {
+        "name": "fastify",
+        "version": "0.35.6"
+      },
+      "0.35.7": {
+        "name": "fastify",
+        "version": "0.35.7"
+      },
+      "0.36.0": {
+        "name": "fastify",
+        "version": "0.36.0"
+      },
+      "0.37.0": {
+        "name": "fastify",
+        "version": "0.37.0"
+      },
+      "0.38.0": {
+        "name": "fastify",
+        "version": "0.38.0"
+      },
+      "0.39.0": {
+        "name": "fastify",
+        "version": "0.39.0"
+      },
+      "0.39.1": {
+        "name": "fastify",
+        "version": "0.39.1"
+      },
+      "0.40.0": {
+        "name": "fastify",
+        "version": "0.40.0"
+      },
+      "0.41.0": {
+        "name": "fastify",
+        "version": "0.41.0"
+      },
+      "0.42.0": {
+        "name": "fastify",
+        "version": "0.42.0"
+      },
+      "0.43.0": {
+        "name": "fastify",
+        "version": "0.43.0"
+      },
+      "1.0.0-rc.1": {
+        "name": "fastify",
+        "version": "1.0.0-rc.1"
+      },
+      "1.0.0-rc.2": {
+        "name": "fastify",
+        "version": "1.0.0-rc.2"
+      },
+      "1.0.0-rc.3": {
+        "name": "fastify",
+        "version": "1.0.0-rc.3"
+      },
+      "1.0.0": {
+        "name": "fastify",
+        "version": "1.0.0"
+      },
+      "1.1.0": {
+        "name": "fastify",
+        "version": "1.1.0"
+      },
+      "1.1.1": {
+        "name": "fastify",
+        "version": "1.1.1"
+      },
+      "1.2.0": {
+        "name": "fastify",
+        "version": "1.2.0"
+      },
+      "1.2.1": {
+        "name": "fastify",
+        "version": "1.2.1"
+      },
+      "1.3.0": {
+        "name": "fastify",
+        "version": "1.3.0"
+      },
+      "1.3.1": {
+        "name": "fastify",
+        "version": "1.3.1"
+      },
+      "1.4.0": {
+        "name": "fastify",
+        "version": "1.4.0"
+      },
+      "1.5.0": {
+        "name": "fastify",
+        "version": "1.5.0"
+      },
+      "1.6.0": {
+        "name": "fastify",
+        "version": "1.6.0"
+      },
+      "1.7.0": {
+        "name": "fastify",
+        "version": "1.7.0"
+      },
+      "1.8.0": {
+        "name": "fastify",
+        "version": "1.8.0"
+      },
+      "1.9.0": {
+        "name": "fastify",
+        "version": "1.9.0"
+      },
+      "1.10.0": {
+        "name": "fastify",
+        "version": "1.10.0"
+      },
+      "1.11.0": {
+        "name": "fastify",
+        "version": "1.11.0"
+      },
+      "1.11.1": {
+        "name": "fastify",
+        "version": "1.11.1"
+      },
+      "1.11.2": {
+        "name": "fastify",
+        "version": "1.11.2"
+      },
+      "1.12.0": {
+        "name": "fastify",
+        "version": "1.12.0"
+      },
+      "1.12.1": {
+        "name": "fastify",
+        "version": "1.12.1"
+      },
+      "1.13.0": {
+        "name": "fastify",
+        "version": "1.13.0"
+      },
+      "2.0.0-rc.0": {
+        "name": "fastify",
+        "version": "2.0.0-rc.0"
+      },
+      "2.0.0-rc.1": {
+        "name": "fastify",
+        "version": "2.0.0-rc.1"
+      },
+      "1.13.1": {
+        "name": "fastify",
+        "version": "1.13.1"
+      },
+      "1.13.2": {
+        "name": "fastify",
+        "version": "1.13.2"
+      },
+      "2.0.0-rc.2": {
+        "name": "fastify",
+        "version": "2.0.0-rc.2"
+      },
+      "1.13.3": {
+        "name": "fastify",
+        "version": "1.13.3"
+      },
+      "2.0.0-rc.3": {
+        "name": "fastify",
+        "version": "2.0.0-rc.3"
+      },
+      "2.0.0-rc.4": {
+        "name": "fastify",
+        "version": "2.0.0-rc.4"
+      },
+      "1.13.4": {
+        "name": "fastify",
+        "version": "1.13.4"
+      },
+      "1.14.0": {
+        "name": "fastify",
+        "version": "1.14.0"
+      },
+      "2.0.0-rc.5": {
+        "name": "fastify",
+        "version": "2.0.0-rc.5"
+      },
+      "2.0.0-rc.6": {
+        "name": "fastify",
+        "version": "2.0.0-rc.6"
+      },
+      "1.14.1": {
+        "name": "fastify",
+        "version": "1.14.1"
+      },
+      "1.14.2": {
+        "name": "fastify",
+        "version": "1.14.2"
+      },
+      "2.0.0": {
+        "name": "fastify",
+        "version": "2.0.0"
+      },
+      "1.14.3": {
+        "name": "fastify",
+        "version": "1.14.3"
+      },
+      "2.0.1": {
+        "name": "fastify",
+        "version": "2.0.1"
+      },
+      "1.14.4": {
+        "name": "fastify",
+        "version": "1.14.4"
+      },
+      "2.1.0": {
+        "name": "fastify",
+        "version": "2.1.0"
+      },
+      "1.14.5": {
+        "name": "fastify",
+        "version": "1.14.5"
+      },
+      "2.2.0": {
+        "name": "fastify",
+        "version": "2.2.0"
+      },
+      "1.14.6": {
+        "name": "fastify",
+        "version": "1.14.6"
+      },
+      "2.3.0": {
+        "name": "fastify",
+        "version": "2.3.0"
+      },
+      "2.4.0": {
+        "name": "fastify",
+        "version": "2.4.0"
+      },
+      "2.4.1": {
+        "name": "fastify",
+        "version": "2.4.1"
+      },
+      "2.5.0": {
+        "name": "fastify",
+        "version": "2.5.0"
+      },
+      "2.6.0": {
+        "name": "fastify",
+        "version": "2.6.0"
+      },
+      "2.7.0": {
+        "name": "fastify",
+        "version": "2.7.0"
+      },
+      "2.7.1": {
+        "name": "fastify",
+        "version": "2.7.1"
+      },
+      "2.8.0": {
+        "name": "fastify",
+        "version": "2.8.0"
+      },
+      "2.9.0": {
+        "name": "fastify",
+        "version": "2.9.0"
+      },
+      "2.10.0": {
+        "name": "fastify",
+        "version": "2.10.0"
+      },
+      "2.11.0": {
+        "name": "fastify",
+        "version": "2.11.0"
+      },
+      "2.12.0": {
+        "name": "fastify",
+        "version": "2.12.0"
+      },
+      "2.12.1": {
+        "name": "fastify",
+        "version": "2.12.1"
+      },
+      "2.13.0": {
+        "name": "fastify",
+        "version": "2.13.0"
+      },
+      "2.13.1": {
+        "name": "fastify",
+        "version": "2.13.1"
+      },
+      "3.0.0-alpha.1": {
+        "name": "fastify",
+        "version": "3.0.0-alpha.1"
+      },
+      "3.0.0-rc.1": {
+        "name": "fastify",
+        "version": "3.0.0-rc.1"
+      },
+      "2.14.0": {
+        "name": "fastify",
+        "version": "2.14.0"
+      },
+      "2.14.1": {
+        "name": "fastify",
+        "version": "2.14.1"
+      },
+      "3.0.0-rc.2": {
+        "name": "fastify",
+        "version": "3.0.0-rc.2"
+      },
+      "3.0.0-rc.3": {
+        "name": "fastify",
+        "version": "3.0.0-rc.3"
+      },
+      "3.0.0-rc.4": {
+        "name": "fastify",
+        "version": "3.0.0-rc.4"
+      },
+      "2.15.0": {
+        "name": "fastify",
+        "version": "2.15.0"
+      },
+      "2.15.1": {
+        "name": "fastify",
+        "version": "2.15.1"
+      },
+      "3.0.0-rc.5": {
+        "name": "fastify",
+        "version": "3.0.0-rc.5"
+      },
+      "3.0.0": {
+        "name": "fastify",
+        "version": "3.0.0"
+      },
+      "3.0.1": {
+        "name": "fastify",
+        "version": "3.0.1"
+      },
+      "3.0.2": {
+        "name": "fastify",
+        "version": "3.0.2"
+      },
+      "2.15.2": {
+        "name": "fastify",
+        "version": "2.15.2"
+      },
+      "3.0.3": {
+        "name": "fastify",
+        "version": "3.0.3"
+      },
+      "3.1.0": {
+        "name": "fastify",
+        "version": "3.1.0"
+      },
+      "3.1.1": {
+        "name": "fastify",
+        "version": "3.1.1"
+      },
+      "2.15.3": {
+        "name": "fastify",
+        "version": "2.15.3"
+      },
+      "3.2.0": {
+        "name": "fastify",
+        "version": "3.2.0"
+      },
+      "3.2.1": {
+        "name": "fastify",
+        "version": "3.2.1"
+      },
+      "3.3.0": {
+        "name": "fastify",
+        "version": "3.3.0"
+      },
+      "3.4.0": {
+        "name": "fastify",
+        "version": "3.4.0"
+      },
+      "3.4.1": {
+        "name": "fastify",
+        "version": "3.4.1"
+      },
+      "3.5.0": {
+        "name": "fastify",
+        "version": "3.5.0"
+      },
+      "3.5.1": {
+        "name": "fastify",
+        "version": "3.5.1"
+      },
+      "3.6.0": {
+        "name": "fastify",
+        "version": "3.6.0"
+      },
+      "3.7.0": {
+        "name": "fastify",
+        "version": "3.7.0"
+      },
+      "3.8.0": {
+        "name": "fastify",
+        "version": "3.8.0"
+      },
+      "3.9.0": {
+        "name": "fastify",
+        "version": "3.9.0"
+      },
+      "3.9.1": {
+        "name": "fastify",
+        "version": "3.9.1"
+      },
+      "3.9.2": {
+        "name": "fastify",
+        "version": "3.9.2"
+      },
+      "3.10.0": {
+        "name": "fastify",
+        "version": "3.10.0"
+      },
+      "3.10.1": {
+        "name": "fastify",
+        "version": "3.10.1"
+      },
+      "3.11.0": {
+        "name": "fastify",
+        "version": "3.11.0"
+      },
+      "3.12.0": {
+        "name": "fastify",
+        "version": "3.12.0"
+      },
+      "3.13.0": {
+        "name": "fastify",
+        "version": "3.13.0"
+      },
+      "3.14.0": {
+        "name": "fastify",
+        "version": "3.14.0"
+      },
+      "3.14.1": {
+        "name": "fastify",
+        "version": "3.14.1"
+      },
+      "3.14.2": {
+        "name": "fastify",
+        "version": "3.14.2"
+      },
+      "3.15.0": {
+        "name": "fastify",
+        "version": "3.15.0"
+      },
+      "3.15.1": {
+        "name": "fastify",
+        "version": "3.15.1"
+      },
+      "3.16.0": {
+        "name": "fastify",
+        "version": "3.16.0"
+      },
+      "3.16.1": {
+        "name": "fastify",
+        "version": "3.16.1"
+      },
+      "3.16.2": {
+        "name": "fastify",
+        "version": "3.16.2"
+      },
+      "3.17.0": {
+        "name": "fastify",
+        "version": "3.17.0"
+      },
+      "3.18.0": {
+        "name": "fastify",
+        "version": "3.18.0"
+      },
+      "3.18.1": {
+        "name": "fastify",
+        "version": "3.18.1"
+      },
+      "3.19.0": {
+        "name": "fastify",
+        "version": "3.19.0"
+      },
+      "3.19.1": {
+        "name": "fastify",
+        "version": "3.19.1"
+      },
+      "3.19.2": {
+        "name": "fastify",
+        "version": "3.19.2"
+      },
+      "3.20.0": {
+        "name": "fastify",
+        "version": "3.20.0"
+      },
+      "3.20.1": {
+        "name": "fastify",
+        "version": "3.20.1"
+      },
+      "3.20.2": {
+        "name": "fastify",
+        "version": "3.20.2"
+      },
+      "3.21.0": {
+        "name": "fastify",
+        "version": "3.21.0"
+      },
+      "3.21.1": {
+        "name": "fastify",
+        "version": "3.21.1"
+      },
+      "3.21.2": {
+        "name": "fastify",
+        "version": "3.21.2"
+      },
+      "3.21.3": {
+        "name": "fastify",
+        "version": "3.21.3"
+      },
+      "3.21.4": {
+        "name": "fastify",
+        "version": "3.21.4"
+      },
+      "3.21.5": {
+        "name": "fastify",
+        "version": "3.21.5"
+      },
+      "3.21.6": {
+        "name": "fastify",
+        "version": "3.21.6"
+      },
+      "3.22.0": {
+        "name": "fastify",
+        "version": "3.22.0"
+      },
+      "3.22.1": {
+        "name": "fastify",
+        "version": "3.22.1"
+      },
+      "3.23.0": {
+        "name": "fastify",
+        "version": "3.23.0"
+      },
+      "3.23.1": {
+        "name": "fastify",
+        "version": "3.23.1"
+      },
+      "3.24.0": {
+        "name": "fastify",
+        "version": "3.24.0"
+      },
+      "3.24.1": {
+        "name": "fastify",
+        "version": "3.24.1"
+      },
+      "3.25.0": {
+        "name": "fastify",
+        "version": "3.25.0"
+      },
+      "3.25.1": {
+        "name": "fastify",
+        "version": "3.25.1"
+      },
+      "3.25.2": {
+        "name": "fastify",
+        "version": "3.25.2"
+      },
+      "3.25.3": {
+        "name": "fastify",
+        "version": "3.25.3"
+      },
+      "3.26.0": {
+        "name": "fastify",
+        "version": "3.26.0"
+      },
+      "3.27.0": {
+        "name": "fastify",
+        "version": "3.27.0"
+      },
+      "3.27.1": {
+        "name": "fastify",
+        "version": "3.27.1"
+      },
+      "3.27.2": {
+        "name": "fastify",
+        "version": "3.27.2"
+      },
+      "4.0.0-alpha.1": {
+        "name": "fastify",
+        "version": "4.0.0-alpha.1"
+      },
+      "3.27.3": {
+        "name": "fastify",
+        "version": "3.27.3"
+      },
+      "3.27.4": {
+        "name": "fastify",
+        "version": "3.27.4"
+      },
+      "4.0.0-alpha.2": {
+        "name": "fastify",
+        "version": "4.0.0-alpha.2"
+      },
+      "4.0.0-alpha.3": {
+        "name": "fastify",
+        "version": "4.0.0-alpha.3"
+      },
+      "3.28.0": {
+        "name": "fastify",
+        "version": "3.28.0"
+      },
+      "4.0.0-rc.1": {
+        "name": "fastify",
+        "version": "4.0.0-rc.1"
+      },
+      "3.29.0": {
+        "name": "fastify",
+        "version": "3.29.0"
+      },
+      "4.0.0-rc.2": {
+        "name": "fastify",
+        "version": "4.0.0-rc.2"
+      },
+      "4.0.0-rc.3": {
+        "name": "fastify",
+        "version": "4.0.0-rc.3"
+      },
+      "4.0.0-rc.4": {
+        "name": "fastify",
+        "version": "4.0.0-rc.4"
+      },
+      "4.0.0-rc.5": {
+        "name": "fastify",
+        "version": "4.0.0-rc.5"
+      },
+      "4.0.0": {
+        "name": "fastify",
+        "version": "4.0.0"
+      },
+      "4.0.1": {
+        "name": "fastify",
+        "version": "4.0.1"
+      },
+      "4.0.2": {
+        "name": "fastify",
+        "version": "4.0.2"
+      },
+      "4.0.3": {
+        "name": "fastify",
+        "version": "4.0.3"
+      },
+      "4.1.0": {
+        "name": "fastify",
+        "version": "4.1.0"
+      },
+      "4.2.0": {
+        "name": "fastify",
+        "version": "4.2.0"
+      },
+      "3.29.1": {
+        "name": "fastify",
+        "version": "3.29.1"
+      },
+      "4.2.1": {
+        "name": "fastify",
+        "version": "4.2.1"
+      },
+      "4.3.0": {
+        "name": "fastify",
+        "version": "4.3.0"
+      },
+      "4.4.0": {
+        "name": "fastify",
+        "version": "4.4.0"
+      },
+      "4.5.0": {
+        "name": "fastify",
+        "version": "4.5.0"
+      },
+      "4.5.1": {
+        "name": "fastify",
+        "version": "4.5.1"
+      },
+      "4.5.2": {
+        "name": "fastify",
+        "version": "4.5.2"
+      },
+      "4.5.3": {
+        "name": "fastify",
+        "version": "4.5.3"
+      },
+      "3.29.2": {
+        "name": "fastify",
+        "version": "3.29.2"
+      },
+      "4.6.0": {
+        "name": "fastify",
+        "version": "4.6.0"
+      },
+      "4.7.0": {
+        "name": "fastify",
+        "version": "4.7.0"
+      },
+      "4.8.0": {
+        "name": "fastify",
+        "version": "4.8.0"
+      },
+      "4.8.1": {
+        "name": "fastify",
+        "version": "4.8.1"
+      },
+      "3.29.3": {
+        "name": "fastify",
+        "version": "3.29.3"
+      },
+      "4.9.0": {
+        "name": "fastify",
+        "version": "4.9.0"
+      },
+      "4.9.1": {
+        "name": "fastify",
+        "version": "4.9.1"
+      },
+      "4.9.2": {
+        "name": "fastify",
+        "version": "4.9.2"
+      },
+      "4.10.0": {
+        "name": "fastify",
+        "version": "4.10.0"
+      },
+      "4.10.1": {
+        "name": "fastify",
+        "version": "4.10.1"
+      },
+      "4.10.2": {
+        "name": "fastify",
+        "version": "4.10.2"
+      },
+      "3.29.4": {
+        "name": "fastify",
+        "version": "3.29.4"
+      },
+      "4.11.0": {
+        "name": "fastify",
+        "version": "4.11.0"
+      },
+      "3.29.5": {
+        "name": "fastify",
+        "version": "3.29.5"
+      },
+      "4.12.0": {
+        "name": "fastify",
+        "version": "4.12.0"
+      },
+      "4.13.0": {
+        "name": "fastify",
+        "version": "4.13.0"
+      },
+      "4.14.0": {
+        "name": "fastify",
+        "version": "4.14.0"
+      },
+      "4.14.1": {
+        "name": "fastify",
+        "version": "4.14.1"
+      },
+      "4.15.0": {
+        "name": "fastify",
+        "version": "4.15.0"
+      },
+      "4.16.0": {
+        "name": "fastify",
+        "version": "4.16.0"
+      },
+      "4.16.1": {
+        "name": "fastify",
+        "version": "4.16.1"
+      },
+      "4.16.2": {
+        "name": "fastify",
+        "version": "4.16.2"
+      },
+      "4.16.3": {
+        "name": "fastify",
+        "version": "4.16.3"
+      },
+      "4.17.0": {
+        "name": "fastify",
+        "version": "4.17.0"
+      },
+      "4.18.0": {
+        "name": "fastify",
+        "version": "4.18.0"
+      },
+      "4.19.0": {
+        "name": "fastify",
+        "version": "4.19.0"
+      },
+      "4.19.1": {
+        "name": "fastify",
+        "version": "4.19.1"
+      },
+      "4.19.2": {
+        "name": "fastify",
+        "version": "4.19.2"
+      },
+      "4.20.0": {
+        "name": "fastify",
+        "version": "4.20.0"
+      },
+      "4.21.0": {
+        "name": "fastify",
+        "version": "4.21.0"
+      },
+      "4.22.0": {
+        "name": "fastify",
+        "version": "4.22.0"
+      },
+      "4.22.1": {
+        "name": "fastify",
+        "version": "4.22.1"
+      },
+      "4.22.2": {
+        "name": "fastify",
+        "version": "4.22.2"
+      },
+      "4.23.0": {
+        "name": "fastify",
+        "version": "4.23.0"
+      },
+      "4.23.1": {
+        "name": "fastify",
+        "version": "4.23.1"
+      },
+      "4.23.2": {
+        "name": "fastify",
+        "version": "4.23.2"
+      },
+      "4.24.0": {
+        "name": "fastify",
+        "version": "4.24.0"
+      },
+      "4.24.1": {
+        "name": "fastify",
+        "version": "4.24.1"
+      },
+      "4.24.2": {
+        "name": "fastify",
+        "version": "4.24.2"
+      },
+      "4.24.3": {
+        "name": "fastify",
+        "version": "4.24.3"
+      },
+      "4.25.0": {
+        "name": "fastify",
+        "version": "4.25.0"
+      },
+      "4.25.1": {
+        "name": "fastify",
+        "version": "4.25.1"
+      },
+      "4.25.2": {
+        "name": "fastify",
+        "version": "4.25.2"
+      },
+      "4.26.0": {
+        "name": "fastify",
+        "version": "4.26.0"
+      },
+      "4.26.1": {
+        "name": "fastify",
+        "version": "4.26.1"
+      },
+      "4.26.2": {
+        "name": "fastify",
+        "version": "4.26.2"
+      },
+      "4.27.0": {
+        "name": "fastify",
+        "version": "4.27.0"
+      },
+      "5.0.0-aplha.1": {
+        "name": "fastify",
+        "version": "5.0.0-aplha.1"
+      },
+      "4.28.0": {
+        "name": "fastify",
+        "version": "4.28.0"
+      },
+      "5.0.0-alpha.2": {
+        "name": "fastify",
+        "version": "5.0.0-alpha.2"
+      },
+      "5.0.0-alpha.3": {
+        "name": "fastify",
+        "version": "5.0.0-alpha.3"
+      },
+      "4.28.1": {
+        "name": "fastify",
+        "version": "4.28.1"
+      },
+      "5.0.0-alpha.4": {
+        "name": "fastify",
+        "version": "5.0.0-alpha.4"
+      },
+      "5.0.0": {
+        "name": "fastify",
+        "version": "5.0.0"
+      },
+      "5.1.0": {
+        "name": "fastify",
+        "version": "5.1.0"
+      },
+      "4.29.0": {
+        "name": "fastify",
+        "version": "4.29.0"
+      },
+      "5.2.0": {
+        "name": "fastify",
+        "version": "5.2.0"
+      },
+      "5.2.1": {
+        "name": "fastify",
+        "version": "5.2.1"
+      },
+      "5.2.2": {
+        "name": "fastify",
+        "version": "5.2.2"
+      },
+      "5.3.0": {
+        "name": "fastify",
+        "version": "5.3.0"
+      },
+      "5.3.1": {
+        "name": "fastify",
+        "version": "5.3.1"
+      },
+      "5.3.2": {
+        "name": "fastify",
+        "version": "5.3.2"
+      },
+      "4.29.1": {
+        "name": "fastify",
+        "version": "4.29.1"
+      },
+      "5.3.3": {
+        "name": "fastify",
+        "version": "5.3.3"
+      },
+      "5.4.0": {
+        "name": "fastify",
+        "version": "5.4.0"
+      },
+      "5.5.0": {
+        "name": "fastify",
+        "version": "5.5.0"
+      },
+      "5.6.0": {
+        "name": "fastify",
+        "version": "5.6.0"
+      },
+      "5.6.1": {
+        "name": "fastify",
+        "version": "5.6.1"
+      },
+      "5.6.2": {
+        "name": "fastify",
+        "version": "5.6.2"
+      },
+      "5.7.0": {
+        "name": "fastify",
+        "version": "5.7.0"
+      },
+      "5.7.1": {
+        "name": "fastify",
+        "version": "5.7.1"
+      },
+      "5.7.2": {
+        "name": "fastify",
+        "version": "5.7.2"
+      },
+      "5.7.3": {
+        "name": "fastify",
+        "version": "5.7.3"
+      },
+      "5.7.4": {
+        "name": "fastify",
+        "version": "5.7.4"
+      },
+      "5.8.0": {
+        "name": "fastify",
+        "version": "5.8.0"
+      },
+      "5.8.1": {
+        "name": "fastify",
+        "version": "5.8.1"
+      },
+      "5.8.2": {
+        "name": "fastify",
+        "version": "5.8.2"
+      },
+      "5.8.3": {
+        "name": "fastify",
+        "version": "5.8.3"
+      },
+      "5.8.4": {
+        "name": "fastify",
+        "version": "5.8.4"
+      },
+      "5.8.5": {
+        "name": "fastify",
+        "version": "5.8.5"
+      }
+    }
+  },
+  "@ogcio/fastify-o11y": {
+    "name": "@ogcio/fastify-o11y",
+    "dist-tags": {
+      "latest": "5.2.1"
+    },
+    "versions": {
+      "0.0.1": {
+        "name": "@ogcio/fastify-o11y",
+        "version": "0.0.1",
+        "peerDependencies": {
+          "fastify": ">=5.0.0",
+          "@ogcio/o11y-sdk-node": ">=0.1.0-beta.8"
+        }
+      },
+      "1.0.0": {
+        "name": "@ogcio/fastify-o11y",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "fastify": ">=5.0.0",
+          "@ogcio/o11y-sdk-node": ">=0.2.0"
+        }
+      },
+      "1.0.1": {
+        "name": "@ogcio/fastify-o11y",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "fastify": ">=5.0.0",
+          "@ogcio/o11y-sdk-node": ">=0.3.0"
+        }
+      },
+      "5.0.1": {
+        "name": "@ogcio/fastify-o11y",
+        "version": "5.0.1",
+        "peerDependencies": {
+          "fastify": ">=5.0.0",
+          "@ogcio/o11y-sdk-node": ">=0.3.0"
+        }
+      },
+      "4.0.1": {
+        "name": "@ogcio/fastify-o11y",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "fastify": "^4.29.1",
+          "@ogcio/o11y-sdk-node": ">=0.3.0"
+        }
+      },
+      "5.1.0": {
+        "name": "@ogcio/fastify-o11y",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "fastify": "^5.7.4",
+          "@ogcio/o11y-sdk-node": ">=0.9.0"
+        }
+      },
+      "5.2.0": {
+        "name": "@ogcio/fastify-o11y",
+        "version": "5.2.0",
+        "peerDependencies": {
+          "fastify": "^5.7.4",
+          "@opentelemetry/api": "1.9.1",
+          "@ogcio/o11y-sdk-node": ">=0.9.0"
+        }
+      },
+      "5.2.1": {
+        "name": "@ogcio/fastify-o11y",
+        "version": "5.2.1",
+        "peerDependencies": {
+          "@ogcio/o11y-sdk-node": ">=0.9.0",
+          "@opentelemetry/api": "1.9.1",
+          "fastify": "^5.7.4"
+        }
+      }
+    }
+  },
+  "@mastra/fastify": {
+    "name": "@mastra/fastify",
+    "dist-tags": {
+      "feat-mcp-embedded-docs-tools-clean": "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108143611",
+      "mastra-auto-detect-server": "0.0.0-mastra-auto-detect-server-20260108233416",
+      "testing-cloud-studios": "0.0.0-testing-cloud-studios-20260114234039",
+      "alternative-angelfish-f7665c": "0.0.0-alternative-angelfish-f7665c-20260119184917",
+      "fix-agent-network-schema-test-2": "0.0.0-fix-agent-network-schema-test-2-20260119190919",
+      "fix-agent-network-coderabbit": "0.0.0-fix-agent-network-coderabbit-20260119210110",
+      "fix-agent-network-schema": "0.0.0-fix-agent-network-schema-20260119213029",
+      "type-testing": "0.0.0-type-testing-20260120105120",
+      "ci-trigger-cloud-tests-on-stable-release": "0.0.0-ci-trigger-cloud-tests-on-stable-release-20260120235652",
+      "bundle-version": "0.0.0-bundle-version-20260121132824",
+      "salesman": "0.0.0-salesman-20260127182805",
+      "unified-workspace-snapshot": "0.0.0-unified-workspace-snapshot-20260128233410",
+      "beta": "1.1.0-alpha.2",
+      "fix-12500-lance-search": "0.0.0-fix-12500-lance-search-20260130204823",
+      "cloudflare-file-url-lazy": "0.0.0-cloudflare-file-url-lazy-20260130204903",
+      "feat-cli-skills-installation": "0.0.0-feat-cli-skills-installation-20260202141803",
+      "om-core": "0.0.0-om-core-20260203034332",
+      "auth-and-authz": "0.0.0-auth-and-authz-20260203062537",
+      "om-ui": "0.0.0-om-ui-20260203185649",
+      "om": "0.0.0-om-20260204032032",
+      "oma": "0.0.0-oma-20260208093055",
+      "om-pg-fix": "0.0.0-om-pg-fix-20260211231820",
+      "fix-improve-processor-error-messages": "0.0.0-fix-improve-processor-error-messages-20260212003648",
+      "om-pg-fix-2": "0.0.0-om-pg-fix-2-20260212005300",
+      "feat-change-lifecycle": "0.0.0-feat-change-lifecycle-20260212014650",
+      "working-memory-undefined": "0.0.0-working-memory-undefined-20260212204651",
+      "parallel-workflow": "0.0.0-parallel-workflow-20260212235652",
+      "auth-rbac-cms": "0.0.0-auth-rbac-cms-20260213083418",
+      "test-oc-plugin": "0.0.0-test-oc-plugin-20260214000218",
+      "local-fs-allowedpaths": "0.0.0-local-fs-allowedpaths-20260214000244",
+      "om-tracking": "0.0.0-om-tracking-20260214064228",
+      "to-model-output": "0.0.0-to-model-output-20260217220843",
+      "provider-metadata-cache": "0.0.0-provider-metadata-cache-20260218172243",
+      "workflow-timeout-issue": "0.0.0-workflow-timeout-issue-20260220185702",
+      "om-oom": "0.0.0-om-oom-20260223222312",
+      "sandbox-process-manager": "0.0.0-sandbox-process-manager-20260223224846",
+      "om-locking": "0.0.0-om-locking-20260223230740",
+      "core-setters": "0.0.0-core-setters-20260226001619",
+      "openai-reasoning": "0.0.0-openai-reasoning-20260226184314",
+      "codex-om": "0.0.0-codex-om-20260226233706",
+      "key-fix": "0.0.0-key-fix-20260227010020",
+      "open-ai-websocket-in-responses": "0.0.0-open-ai-websocket-in-responses-20260227094419",
+      "vercel-studio": "0.0.0-vercel-studio-20260227110350",
+      "mcp-tool-output": "0.0.0-mcp-tool-output-20260227175751",
+      "fix-cloudflare-rest-api": "0.0.0-fix-cloudflare-rest-api-20260227192337",
+      "harness-token-count": "0.0.0-harness-token-count-20260228173428",
+      "mc-workspace-lsp": "0.0.0-mc-workspace-lsp-20260302174254",
+      "structured-output-issue": "0.0.0-structured-output-issue-20260302184919",
+      "standalone-studio-base-path": "0.0.0-standalone-studio-base-path-20260302212555",
+      "auth-combined-test-all": "0.0.0-auth-combined-test-all-20260303004752",
+      "execa-dynamic-import": "0.0.0-execa-dynamic-import-20260304221256",
+      "dataset-demo": "0.0.0-dataset-demo-20260305035339",
+      "om-gateway-api": "0.0.0-om-gateway-api-20260305133211",
+      "agent-chat-ui": "0.0.0-agent-chat-ui-20260305212602",
+      "fix-windows-shell": "0.0.0-fix-windows-shell-20260306014721",
+      "standard-schema2": "0.0.0-standard-schema2-20260306110923",
+      "fix-crp-combined": "0.0.0-fix-crp-combined-20260306234242",
+      "standard-schema": "0.0.0-standard-schema-20260309155201",
+      "fix-get-public-origin": "0.0.0-fix-get-public-origin-20260309162301",
+      "om-tokenx": "0.0.0-om-tokenx-20260311200257",
+      "ten-fragrance": "0.0.0-ten-fragrance-20260317150728",
+      "obs-server": "0.0.0-obs-server-20260317161348",
+      "mastra-ai-sdk-v6": "0.0.0-mastra-ai-sdk-v6-20260318060129",
+      "tracing-hotfix": "0.0.0-tracing-hotfix-20260319165043",
+      "server-deploy": "0.0.0-server-deploy-20260320203954",
+      "standalone-om": "0.0.0-standalone-om-20260323052404",
+      "refactor-om": "0.0.0-refactor-om-20260324202715",
+      "satisfying-prince": "0.0.0-satisfying-prince-20260325135444",
+      "diligent-sun": "0.0.0-diligent-sun-20260326101831",
+      "impossible-find": "0.0.0-impossible-find-20260326145947",
+      "register-exporter-remote-read-obs": "0.0.0-register-exporter-remote-read-obs-20260326165517",
+      "test-gw": "0.0.0-test-gw-20260326233404",
+      "apricot-manager": "0.0.0-apricot-manager-20260327095430",
+      "satin-jumpsuit": "0.0.0-satin-jumpsuit-20260327151201",
+      "circular-json-tool-results": "0.0.0-circular-json-tool-results-20260330235654",
+      "everlasting-joggers": "0.0.0-everlasting-joggers-20260331153923",
+      "nettle-television": "0.0.0-nettle-television-20260403073140",
+      "checker-apparel": "0.0.0-checker-apparel-20260403114233",
+      "om-race-fix": "0.0.0-om-race-fix-20260403160819",
+      "equatorial-gazelle": "0.0.0-equatorial-gazelle-20260403171544",
+      "studio-deploy": "0.0.0-studio-deploy-20260404184540",
+      "mysterious-auroraceratops": "0.0.0-mysterious-auroraceratops-20260404195627",
+      "om-token-usage": "0.0.0-om-token-usage-20260405051405",
+      "async-hooks-fix": "0.0.0-async-hooks-fix-20260405155845",
+      "routes-manifest": "0.0.0-routes-manifest-20260407220745",
+      "fix-openai-reasoning-summaries": "0.0.0-fix-openai-reasoning-summaries-20260409175618",
+      "structured-output-errors": "0.0.0-structured-output-errors-20260409185629",
+      "structured-output-custom-gateway": "0.0.0-structured-output-custom-gateway-20260409211226",
+      "data-structured-output": "0.0.0-data-structured-output-20260409231045",
+      "fix-deploy-cmd": "0.0.0-fix-deploy-cmd-20260410180830",
+      "datadog-bridge-alpha-1": "0.0.0-datadog-bridge-alpha-1-20260413203917",
+      "structured-output-agent": "0.0.0-structured-output-agent-20260413221909",
+      "datadog-bridge-alpha-2": "0.0.0-datadog-bridge-alpha-2-20260414145159",
+      "tool-strict-mode": "0.0.0-tool-strict-mode-20260414145952",
+      "strict-tools-indeed-2": "0.0.0-strict-tools-indeed-2-20260415164635",
+      "structured-output-agent-2": "0.0.0-structured-output-agent-2-20260415234442",
+      "graysonhicks-oom-stream-debug": "0.0.0-graysonhicks-oom-stream-debug-20260416124609",
+      "refactor-playground-ui-ds-polish": "0.0.0-refactor-playground-ui-ds-polish-20260416135902",
+      "graysonhicks-tool-strict-passthrough": "0.0.0-graysonhicks-tool-strict-passthrough-20260416194824",
+      "structured-output-agent-3": "0.0.0-structured-output-agent-3-20260416235704",
+      "use-agent-structured-output-3": "0.0.0-use-agent-structured-output-3-20260420191925",
+      "use-agent-structured-output-4": "0.0.0-use-agent-structured-output-4-20260420203516",
+      "use-agent-structured-output-5": "0.0.0-use-agent-structured-output-5-20260420235457",
+      "clickhouse-init-failure": "0.0.0-clickhouse-init-failure-20260421173907",
+      "playground-ui-domains-logs": "0.0.0-playground-ui-domains-logs-20260423114902",
+      "datadog-bridge-alpha-3": "0.0.0-datadog-bridge-alpha-3-20260424112321",
+      "a2a-vnext": "0.0.0-a2a-vnext-20260424123427",
+      "logs-to-playground-ui": "0.0.0-logs-to-playground-ui-20260424140321",
+      "toolcall-hooks-channels": "0.0.0-toolcall-hooks-channels-20260424195815",
+      "temporal": "0.0.0-temporal-20260427105254",
+      "transparent-server-side-refresh": "0.0.0-transparent-server-side-refresh-20260427210959",
+      "feat-fga": "0.0.0-feat-fga-20260429175809",
+      "tsgo": "0.0.0-tsgo-20260430191301",
+      "studio-cli": "0.0.0-studio-cli-20260504022012",
+      "explore-new-metrics-update": "0.0.0-explore-new-metrics-update-20260507090602",
+      "fix-buildmessagesfromchunks-message-part-ordering": "0.0.0-fix-buildmessagesfromchunks-message-part-ordering-20260507134311",
+      "feat-a2a-agent-class": "0.0.0-feat-a2a-agent-class-20260511141748",
+      "observe": "0.0.0-observe-20260511170229",
+      "observability-branches": "0.0.0-observability-branches-20260512165357",
+      "branches-as-default": "0.0.0-branches-as-default-20260512170712",
+      "wardpeet-acp": "0.0.0-wardpeet-acp-20260513090758",
+      "switch-to-traces-mode-as-default": "0.0.0-switch-to-traces-mode-as-default-20260514090630",
+      "builder-demo": "0.0.0-builder-demo-20260515002221",
+      "traces-subtraces": "0.0.0-traces-subtraces-20260515133158",
+      "latest": "1.3.22",
+      "ag-example": "0.0.0-ag-example-20260516005230",
+      "level-icon-moved": "0.0.0-level-icon-moved-20260518094006",
+      "alpha": "1.3.23-alpha.2"
+    },
+    "versions": {
+      "0.1.0-beta.15": {
+        "name": "@mastra/fastify",
+        "version": "0.1.0-beta.15",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108110334": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108110334",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108110334"
+        }
+      },
+      "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108124346": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108124346",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108124346"
+        }
+      },
+      "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108143611": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108143611",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-mcp-embedded-docs-tools-clean-20260108143611"
+        }
+      },
+      "0.0.0-mastra-auto-detect-server-20260108233416": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-mastra-auto-detect-server-20260108233416",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-mastra-auto-detect-server-20260108233416"
+        }
+      },
+      "0.1.0-beta.16": {
+        "name": "@mastra/fastify",
+        "version": "0.1.0-beta.16",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-testing-cloud-studios-20260114234039": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-testing-cloud-studios-20260114234039",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-testing-cloud-studios-20260114234039"
+        }
+      },
+      "0.1.0-beta.17": {
+        "name": "@mastra/fastify",
+        "version": "0.1.0-beta.17",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.1.0-beta.18": {
+        "name": "@mastra/fastify",
+        "version": "0.1.0-beta.18",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.1.0-beta.19": {
+        "name": "@mastra/fastify",
+        "version": "0.1.0-beta.19",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-fix-agent-network-schema-20260119184437": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-agent-network-schema-20260119184437",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-agent-network-schema-20260119184437"
+        }
+      },
+      "0.0.0-alternative-angelfish-f7665c-20260119184917": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-alternative-angelfish-f7665c-20260119184917",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-alternative-angelfish-f7665c-20260119184917"
+        }
+      },
+      "0.0.0-fix-agent-network-schema-test-2-20260119190919": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-agent-network-schema-test-2-20260119190919",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-agent-network-schema-test-2-20260119190919"
+        }
+      },
+      "0.0.0-fix-agent-network-schema-20260119194130": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-agent-network-schema-20260119194130",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-agent-network-schema-20260119194130"
+        }
+      },
+      "0.0.0-fix-agent-network-coderabbit-20260119210110": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-agent-network-coderabbit-20260119210110",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-agent-network-coderabbit-20260119210110"
+        }
+      },
+      "0.0.0-fix-agent-network-schema-20260119213029": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-agent-network-schema-20260119213029",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-agent-network-schema-20260119213029"
+        }
+      },
+      "0.1.0-beta.20": {
+        "name": "@mastra/fastify",
+        "version": "0.1.0-beta.20",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-type-testing-20260120105120": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-type-testing-20260120105120",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-type-testing-20260120105120"
+        }
+      },
+      "1.0.0-beta.21": {
+        "name": "@mastra/fastify",
+        "version": "1.0.0-beta.21",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.0.0-beta.22": {
+        "name": "@mastra/fastify",
+        "version": "1.0.0-beta.22",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.0.0": {
+        "name": "@mastra/fastify",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.0.1": {
+        "name": "@mastra/fastify",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-ci-trigger-cloud-tests-on-stable-release-20260120235652": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-ci-trigger-cloud-tests-on-stable-release-20260120235652",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-ci-trigger-cloud-tests-on-stable-release-20260120235652"
+        }
+      },
+      "0.0.0-bundle-version-20260121091645": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-bundle-version-20260121091645",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-bundle-version-20260121091645"
+        }
+      },
+      "0.0.0-bundle-version-20260121132824": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-bundle-version-20260121132824",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-bundle-version-20260121132824"
+        }
+      },
+      "0.0.0-standard-schema-20260123120255": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standard-schema-20260123120255",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standard-schema-20260123120255"
+        }
+      },
+      "0.0.0-standard-schema-20260126101119": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standard-schema-20260126101119",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standard-schema-20260126101119"
+        }
+      },
+      "0.0.0-standard-schema-20260126130907": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standard-schema-20260126130907",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standard-schema-20260126130907"
+        }
+      },
+      "0.0.0-salesman-20260127182805": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-salesman-20260127182805",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-salesman-20260127182805"
+        }
+      },
+      "0.0.0-unified-workspace-snapshot-20260128233410": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-unified-workspace-snapshot-20260128233410",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-unified-workspace-snapshot-20260128233410"
+        }
+      },
+      "0.0.0-om-20260129001517": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-20260129001517",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-20260129001517"
+        }
+      },
+      "0.0.0-om-20260129012647": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-20260129012647",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-20260129012647"
+        }
+      },
+      "0.0.0-om-20260129020341": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-20260129020341",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-20260129020341"
+        }
+      },
+      "1.1.0-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.0-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.0-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.1.0-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.0-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.1.0-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-om-20260130151455": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-20260130151455",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-20260130151455"
+        }
+      },
+      "0.0.0-auth-and-authz-20260130180831": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-and-authz-20260130180831",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-and-authz-20260130180831"
+        }
+      },
+      "0.0.0-fix-12500-lance-search-20260130204823": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-12500-lance-search-20260130204823",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-12500-lance-search-20260130204823"
+        }
+      },
+      "0.0.0-cloudflare-file-url-lazy-20260130204903": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-cloudflare-file-url-lazy-20260130204903",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-cloudflare-file-url-lazy-20260130204903"
+        }
+      },
+      "0.0.0-om-20260130230833": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-20260130230833",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-20260130230833"
+        }
+      },
+      "0.0.0-auth-and-authz-20260131004229": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-and-authz-20260131004229",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-and-authz-20260131004229"
+        }
+      },
+      "0.0.0-feat-cli-skills-installation-20260202141803": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-cli-skills-installation-20260202141803",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-cli-skills-installation-20260202141803"
+        }
+      },
+      "0.0.0-auth-and-authz-20260202232929": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-and-authz-20260202232929",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-and-authz-20260202232929"
+        }
+      },
+      "0.0.0-om-core-20260202234142": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-core-20260202234142",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-core-20260202234142"
+        }
+      },
+      "0.0.0-auth-and-authz-20260203004642": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-and-authz-20260203004642",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-and-authz-20260203004642"
+        }
+      },
+      "0.0.0-om-core-20260203023514": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-core-20260203023514",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-core-20260203023514"
+        }
+      },
+      "0.0.0-om-ui-20260203023557": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-ui-20260203023557",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-ui-20260203023557"
+        }
+      },
+      "0.0.0-om-core-20260203034332": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-core-20260203034332",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-core-20260203034332"
+        }
+      },
+      "0.0.0-om-ui-20260203034334": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-ui-20260203034334",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-ui-20260203034334"
+        }
+      },
+      "0.0.0-om-ui-20260203041754": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-ui-20260203041754",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-ui-20260203041754"
+        }
+      },
+      "0.0.0-auth-and-authz-20260203044703": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-and-authz-20260203044703",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-and-authz-20260203044703"
+        }
+      },
+      "0.0.0-auth-and-authz-20260203062537": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-and-authz-20260203062537",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-and-authz-20260203062537"
+        }
+      },
+      "1.1.1-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.1-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-om-ui-20260203185649": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-ui-20260203185649",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-ui-20260203185649"
+        }
+      },
+      "0.0.0-om-20260204032032": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-20260204032032",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-20260204032032"
+        }
+      },
+      "1.1.1-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.1.1-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.1": {
+        "name": "@mastra/fastify",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.2-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.2-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-oma-20260206045143": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260206045143",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260206045143"
+        }
+      },
+      "0.0.0-oma-20260206062413": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260206062413",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260206062413"
+        }
+      },
+      "0.0.0-oma-20260206070410": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260206070410",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260206070410"
+        }
+      },
+      "0.0.0-oma-20260206215551": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260206215551",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260206215551"
+        }
+      },
+      "0.0.0-oma-20260206231205": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260206231205",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260206231205"
+        }
+      },
+      "0.0.0-oma-20260207021818": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260207021818",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260207021818"
+        }
+      },
+      "0.0.0-oma-20260207034908": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260207034908",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260207034908"
+        }
+      },
+      "0.0.0-oma-20260207055037": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260207055037",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260207055037"
+        }
+      },
+      "0.0.0-oma-20260207085023": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260207085023",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260207085023"
+        }
+      },
+      "0.0.0-oma-20260208093055": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-oma-20260208093055",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-oma-20260208093055"
+        }
+      },
+      "0.0.0-fix-cloudflare-rest-api-20260210035116": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-cloudflare-rest-api-20260210035116",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-cloudflare-rest-api-20260210035116"
+        }
+      },
+      "1.1.2-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.1.2-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.2-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.1.2-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.2": {
+        "name": "@mastra/fastify",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-auth-rbac-cms-20260211172515": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-rbac-cms-20260211172515",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-rbac-cms-20260211172515"
+        }
+      },
+      "0.0.0-auth-rbac-cms-20260211213450": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-rbac-cms-20260211213450",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-rbac-cms-20260211213450"
+        }
+      },
+      "0.0.0-om-pg-fix-20260211231820": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-pg-fix-20260211231820",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-pg-fix-20260211231820"
+        }
+      },
+      "0.0.0-fix-improve-processor-error-messages-20260212003648": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-improve-processor-error-messages-20260212003648",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-improve-processor-error-messages-20260212003648"
+        }
+      },
+      "0.0.0-om-pg-fix-2-20260212005300": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-pg-fix-2-20260212005300",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-pg-fix-2-20260212005300"
+        }
+      },
+      "0.0.0-feat-change-lifecycle-20260212011237": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-change-lifecycle-20260212011237",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-change-lifecycle-20260212011237"
+        }
+      },
+      "0.0.0-feat-change-lifecycle-20260212014650": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-change-lifecycle-20260212014650",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-change-lifecycle-20260212014650"
+        }
+      },
+      "0.0.0-auth-rbac-cms-20260212191323": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-rbac-cms-20260212191323",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-rbac-cms-20260212191323"
+        }
+      },
+      "0.0.0-working-memory-undefined-20260212204651": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-working-memory-undefined-20260212204651",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-working-memory-undefined-20260212204651"
+        }
+      },
+      "0.0.0-auth-rbac-cms-20260212211007": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-rbac-cms-20260212211007",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-rbac-cms-20260212211007"
+        }
+      },
+      "0.0.0-auth-rbac-cms-20260212220305": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-rbac-cms-20260212220305",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-rbac-cms-20260212220305"
+        }
+      },
+      "0.0.0-parallel-workflow-20260212235652": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-parallel-workflow-20260212235652",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-parallel-workflow-20260212235652"
+        }
+      },
+      "1.1.3-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.3-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.3": {
+        "name": "@mastra/fastify",
+        "version": "1.1.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-auth-rbac-cms-20260213052432": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-rbac-cms-20260213052432",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-rbac-cms-20260213052432"
+        }
+      },
+      "0.0.0-auth-rbac-cms-20260213070613": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-rbac-cms-20260213070613",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-rbac-cms-20260213070613"
+        }
+      },
+      "0.0.0-auth-rbac-cms-20260213083418": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-rbac-cms-20260213083418",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-rbac-cms-20260213083418"
+        }
+      },
+      "0.0.0-workflow-timeout-issue-20260213181535": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-workflow-timeout-issue-20260213181535",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-workflow-timeout-issue-20260213181535"
+        }
+      },
+      "0.0.0-test-oc-plugin-20260214000218": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-test-oc-plugin-20260214000218",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-test-oc-plugin-20260214000218"
+        }
+      },
+      "0.0.0-local-fs-allowedpaths-20260214000244": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-local-fs-allowedpaths-20260214000244",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-local-fs-allowedpaths-20260214000244"
+        }
+      },
+      "0.0.0-om-tracking-20260214064228": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-tracking-20260214064228",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-tracking-20260214064228"
+        }
+      },
+      "0.0.0-to-model-output-20260217220843": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-to-model-output-20260217220843",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-to-model-output-20260217220843"
+        }
+      },
+      "0.0.0-provider-metadata-cache-20260218172243": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-provider-metadata-cache-20260218172243",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-provider-metadata-cache-20260218172243"
+        }
+      },
+      "0.0.0-auth-combined-test-all-20260219034615": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-combined-test-all-20260219034615",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-combined-test-all-20260219034615"
+        }
+      },
+      "0.0.0-auth-combined-test-all-20260219052220": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-combined-test-all-20260219052220",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-combined-test-all-20260219052220"
+        }
+      },
+      "1.1.4-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.4-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.4-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.1.4-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.4": {
+        "name": "@mastra/fastify",
+        "version": "1.1.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-workflow-timeout-issue-20260219210834": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-workflow-timeout-issue-20260219210834",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-workflow-timeout-issue-20260219210834"
+        }
+      },
+      "0.0.0-auth-combined-test-all-20260220172728": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-combined-test-all-20260220172728",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-combined-test-all-20260220172728"
+        }
+      },
+      "0.0.0-workflow-timeout-issue-20260220185702": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-workflow-timeout-issue-20260220185702",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-workflow-timeout-issue-20260220185702"
+        }
+      },
+      "1.1.5-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.5-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.5": {
+        "name": "@mastra/fastify",
+        "version": "1.1.5",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-om-oom-20260223222312": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-oom-20260223222312",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-oom-20260223222312"
+        }
+      },
+      "0.0.0-sandbox-process-manager-20260223224846": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-sandbox-process-manager-20260223224846",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-sandbox-process-manager-20260223224846"
+        }
+      },
+      "0.0.0-om-locking-20260223230740": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-locking-20260223230740",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-locking-20260223230740"
+        }
+      },
+      "1.1.6-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.6-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.6": {
+        "name": "@mastra/fastify",
+        "version": "1.1.6",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.7-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.7-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.7": {
+        "name": "@mastra/fastify",
+        "version": "1.1.7",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-core-setters-20260226001619": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-core-setters-20260226001619",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-core-setters-20260226001619"
+        }
+      },
+      "0.0.0-auth-combined-test-all-20260226002240": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-combined-test-all-20260226002240",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-combined-test-all-20260226002240"
+        }
+      },
+      "0.0.0-standard-schema-20260226170309": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standard-schema-20260226170309",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standard-schema-20260226170309"
+        }
+      },
+      "0.0.0-openai-reasoning-20260226184314": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-openai-reasoning-20260226184314",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-openai-reasoning-20260226184314"
+        }
+      },
+      "0.0.0-codex-om-20260226233706": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-codex-om-20260226233706",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-codex-om-20260226233706"
+        }
+      },
+      "0.0.0-key-fix-20260227010020": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-key-fix-20260227010020",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-key-fix-20260227010020"
+        }
+      },
+      "0.0.0-open-ai-websocket-in-responses-20260227094419": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-open-ai-websocket-in-responses-20260227094419",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-open-ai-websocket-in-responses-20260227094419"
+        }
+      },
+      "0.0.0-vercel-studio-20260227110350": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-vercel-studio-20260227110350",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-vercel-studio-20260227110350"
+        }
+      },
+      "0.0.0-mcp-tool-output-20260227175751": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-mcp-tool-output-20260227175751",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-mcp-tool-output-20260227175751"
+        }
+      },
+      "0.0.0-fix-cloudflare-rest-api-20260227192337": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-cloudflare-rest-api-20260227192337",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-cloudflare-rest-api-20260227192337"
+        }
+      },
+      "0.0.0-structured-output-issue-20260227214155": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-structured-output-issue-20260227214155",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-structured-output-issue-20260227214155"
+        }
+      },
+      "0.0.0-mc-workspace-lsp-20260227233335": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-mc-workspace-lsp-20260227233335",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-mc-workspace-lsp-20260227233335"
+        }
+      },
+      "0.0.0-harness-token-count-20260228173428": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-harness-token-count-20260228173428",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-harness-token-count-20260228173428"
+        }
+      },
+      "0.0.0-mc-workspace-lsp-20260302174254": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-mc-workspace-lsp-20260302174254",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-mc-workspace-lsp-20260302174254"
+        }
+      },
+      "0.0.0-structured-output-issue-20260302184919": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-structured-output-issue-20260302184919",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-structured-output-issue-20260302184919"
+        }
+      },
+      "0.0.0-standalone-studio-base-path-20260302212555": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standalone-studio-base-path-20260302212555",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standalone-studio-base-path-20260302212555"
+        }
+      },
+      "0.0.0-auth-combined-test-all-20260302225441": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-combined-test-all-20260302225441",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-combined-test-all-20260302225441"
+        }
+      },
+      "0.0.0-auth-combined-test-all-20260302232006": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-combined-test-all-20260302232006",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-combined-test-all-20260302232006"
+        }
+      },
+      "0.0.0-auth-combined-test-all-20260302235336": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-combined-test-all-20260302235336",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-combined-test-all-20260302235336"
+        }
+      },
+      "0.0.0-auth-combined-test-all-20260303004752": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-auth-combined-test-all-20260303004752",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-auth-combined-test-all-20260303004752"
+        }
+      },
+      "1.1.8-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.8-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.1.8": {
+        "name": "@mastra/fastify",
+        "version": "1.1.8",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-standard-schema-20260304115057": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standard-schema-20260304115057",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standard-schema-20260304115057"
+        }
+      },
+      "0.0.0-execa-dynamic-import-20260304221256": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-execa-dynamic-import-20260304221256",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-execa-dynamic-import-20260304221256"
+        }
+      },
+      "0.0.0-dataset-demo-20260305035339": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-dataset-demo-20260305035339",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-dataset-demo-20260305035339"
+        }
+      },
+      "0.0.0-om-gateway-api-20260305133211": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-gateway-api-20260305133211",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-gateway-api-20260305133211"
+        }
+      },
+      "1.1.9-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.1.9-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-agent-chat-ui-20260305212602": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-agent-chat-ui-20260305212602",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-agent-chat-ui-20260305212602"
+        }
+      },
+      "1.1.9": {
+        "name": "@mastra/fastify",
+        "version": "1.1.9",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-fix-windows-shell-20260306004111": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-windows-shell-20260306004111",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-windows-shell-20260306004111"
+        }
+      },
+      "0.0.0-fix-windows-shell-20260306011650": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-windows-shell-20260306011650",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-windows-shell-20260306011650"
+        }
+      },
+      "0.0.0-fix-windows-shell-20260306014721": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-windows-shell-20260306014721",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-windows-shell-20260306014721"
+        }
+      },
+      "0.0.0-standard-schema2-20260306110923": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standard-schema2-20260306110923",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standard-schema2-20260306110923"
+        }
+      },
+      "0.0.0-fix-crp-combined-20260306234242": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-crp-combined-20260306234242",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-crp-combined-20260306234242"
+        }
+      },
+      "0.0.0-standard-schema-20260309151241": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standard-schema-20260309151241",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standard-schema-20260309151241"
+        }
+      },
+      "0.0.0-standard-schema-20260309155201": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standard-schema-20260309155201",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standard-schema-20260309155201"
+        }
+      },
+      "0.0.0-fix-get-public-origin-20260309162301": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-get-public-origin-20260309162301",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-get-public-origin-20260309162301"
+        }
+      },
+      "1.2.0-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.2.0-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.0-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.2.0-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.0-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.2.0-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.0": {
+        "name": "@mastra/fastify",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.1-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.2.1-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-om-tokenx-20260311200257": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-tokenx-20260311200257",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-tokenx-20260311200257"
+        }
+      },
+      "1.2.1-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.2.1-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.1": {
+        "name": "@mastra/fastify",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.2-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.2.2-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.2": {
+        "name": "@mastra/fastify",
+        "version": "1.2.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.3": {
+        "name": "@mastra/fastify",
+        "version": "1.2.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.4-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.2.4-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.4": {
+        "name": "@mastra/fastify",
+        "version": "1.2.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.5-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.2.5-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.5-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.2.5-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-obs-server-20260317085623": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-obs-server-20260317085623",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-obs-server-20260317085623"
+        }
+      },
+      "0.0.0-ten-fragrance-20260317150728": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-ten-fragrance-20260317150728",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-ten-fragrance-20260317150728"
+        }
+      },
+      "0.0.0-obs-server-20260317161348": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-obs-server-20260317161348",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-obs-server-20260317161348"
+        }
+      },
+      "1.2.5-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.2.5-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.5-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.2.5-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.5": {
+        "name": "@mastra/fastify",
+        "version": "1.2.5",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-mastra-ai-sdk-v6-20260318060129": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-mastra-ai-sdk-v6-20260318060129",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-mastra-ai-sdk-v6-20260318060129"
+        }
+      },
+      "1.2.6-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.2.6-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.6-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.2.6-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.6-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.2.6-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-tracing-hotfix-20260319165043": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-tracing-hotfix-20260319165043",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-tracing-hotfix-20260319165043"
+        }
+      },
+      "1.2.6-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.2.6-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.2.6-alpha.4": {
+        "name": "@mastra/fastify",
+        "version": "1.2.6-alpha.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-server-deploy-20260320063228": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-server-deploy-20260320063228",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-server-deploy-20260320063228"
+        }
+      },
+      "0.0.0-server-deploy-20260320071420": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-server-deploy-20260320071420",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-server-deploy-20260320071420"
+        }
+      },
+      "1.2.6": {
+        "name": "@mastra/fastify",
+        "version": "1.2.6",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-server-deploy-20260320203954": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-server-deploy-20260320203954",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-server-deploy-20260320203954"
+        }
+      },
+      "1.2.7-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.2.7-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-standalone-om-20260323052404": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-standalone-om-20260323052404",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-standalone-om-20260323052404"
+        }
+      },
+      "1.3.0-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.0-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.0-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.0-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-refactor-om-20260324151947": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-refactor-om-20260324151947",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-refactor-om-20260324151947"
+        }
+      },
+      "1.3.0-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.0-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-refactor-om-20260324202715": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-refactor-om-20260324202715",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-refactor-om-20260324202715"
+        }
+      },
+      "1.3.0-alpha.4": {
+        "name": "@mastra/fastify",
+        "version": "1.3.0-alpha.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.0-alpha.5": {
+        "name": "@mastra/fastify",
+        "version": "1.3.0-alpha.5",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.1-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-satisfying-prince-20260325135444": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-satisfying-prince-20260325135444",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-satisfying-prince-20260325135444"
+        }
+      },
+      "1.3.1-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.1-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-diligent-sun-20260326085941": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-diligent-sun-20260326085941",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-diligent-sun-20260326085941"
+        }
+      },
+      "0.0.0-diligent-sun-20260326092840": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-diligent-sun-20260326092840",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-diligent-sun-20260326092840"
+        }
+      },
+      "0.0.0-diligent-sun-20260326095303": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-diligent-sun-20260326095303",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-diligent-sun-20260326095303"
+        }
+      },
+      "0.0.0-diligent-sun-20260326101831": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-diligent-sun-20260326101831",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-diligent-sun-20260326101831"
+        }
+      },
+      "0.0.0-impossible-find-20260326145947": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-impossible-find-20260326145947",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-impossible-find-20260326145947"
+        }
+      },
+      "1.3.1-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-register-exporter-remote-read-obs-20260326165517": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-register-exporter-remote-read-obs-20260326165517",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-register-exporter-remote-read-obs-20260326165517"
+        }
+      },
+      "0.0.0-test-gw-20260326233404": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-test-gw-20260326233404",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-test-gw-20260326233404"
+        }
+      },
+      "1.3.1-alpha.4": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1-alpha.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-apricot-manager-20260327083545": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-apricot-manager-20260327083545",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-apricot-manager-20260327083545"
+        }
+      },
+      "0.0.0-apricot-manager-20260327095430": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-apricot-manager-20260327095430",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-apricot-manager-20260327095430"
+        }
+      },
+      "0.0.0-satin-jumpsuit-20260327151201": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-satin-jumpsuit-20260327151201",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-satin-jumpsuit-20260327151201"
+        }
+      },
+      "1.3.1-alpha.5": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1-alpha.5",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.1-alpha.6": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1-alpha.6",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.1-alpha.7": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1-alpha.7",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.1-alpha.8": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1-alpha.8",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-circular-json-tool-results-20260330235654": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-circular-json-tool-results-20260330235654",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-circular-json-tool-results-20260330235654"
+        }
+      },
+      "1.3.2-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.2-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-everlasting-joggers-20260331153923": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-everlasting-joggers-20260331153923",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-everlasting-joggers-20260331153923"
+        }
+      },
+      "1.3.2-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.2-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-studio-deploy-20260331213013": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260331213013",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260331213013"
+        }
+      },
+      "1.3.3-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.3-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-studio-deploy-20260331230654": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260331230654",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260331230654"
+        }
+      },
+      "0.0.0-studio-deploy-20260331233456": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260331233456",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260331233456"
+        }
+      },
+      "1.3.4-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.4-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.4-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.4-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.4-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.4-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.4": {
+        "name": "@mastra/fastify",
+        "version": "1.3.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.5-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.5-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.5-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.5-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-studio-deploy-20260402234400": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260402234400",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260402234400"
+        }
+      },
+      "1.3.5-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.5-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-nettle-television-20260403073140": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-nettle-television-20260403073140",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-nettle-television-20260403073140"
+        }
+      },
+      "0.0.0-checker-apparel-20260403112631": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-checker-apparel-20260403112631",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-checker-apparel-20260403112631"
+        }
+      },
+      "0.0.0-checker-apparel-20260403114233": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-checker-apparel-20260403114233",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-checker-apparel-20260403114233"
+        }
+      },
+      "0.0.0-om-race-fix-20260403160819": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-race-fix-20260403160819",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-race-fix-20260403160819"
+        }
+      },
+      "0.0.0-equatorial-gazelle-20260403171544": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-equatorial-gazelle-20260403171544",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-equatorial-gazelle-20260403171544"
+        }
+      },
+      "1.3.5-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.5-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-studio-deploy-20260403180827": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260403180827",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260403180827"
+        }
+      },
+      "0.0.0-studio-deploy-20260403185613": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260403185613",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260403185613"
+        }
+      },
+      "1.3.5": {
+        "name": "@mastra/fastify",
+        "version": "1.3.5",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-studio-deploy-20260403231316": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260403231316",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260403231316"
+        }
+      },
+      "0.0.0-studio-deploy-20260403235642": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260403235642",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260403235642"
+        }
+      },
+      "1.3.6-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-studio-deploy-20260404012143": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260404012143",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260404012143"
+        }
+      },
+      "1.3.6-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-studio-deploy-20260404054238": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260404054238",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260404054238"
+        }
+      },
+      "0.0.0-studio-deploy-20260404182525": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260404182525",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260404182525"
+        }
+      },
+      "0.0.0-studio-deploy-20260404184540": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-deploy-20260404184540",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-deploy-20260404184540"
+        }
+      },
+      "1.3.6-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-mysterious-auroraceratops-20260404195627": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-mysterious-auroraceratops-20260404195627",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-mysterious-auroraceratops-20260404195627"
+        }
+      },
+      "0.0.0-om-token-usage-20260405044127": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-token-usage-20260405044127",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-token-usage-20260405044127"
+        }
+      },
+      "1.3.6-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-om-token-usage-20260405051405": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-om-token-usage-20260405051405",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-om-token-usage-20260405051405"
+        }
+      },
+      "0.0.0-async-hooks-fix-20260405144639": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-async-hooks-fix-20260405144639",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-async-hooks-fix-20260405144639"
+        }
+      },
+      "0.0.0-async-hooks-fix-20260405155845": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-async-hooks-fix-20260405155845",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-async-hooks-fix-20260405155845"
+        }
+      },
+      "1.3.6-alpha.4": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.6-alpha.5": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.5",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.6-alpha.6": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.6",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.6-alpha.7": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.7",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.6-alpha.8": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.8",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.6-alpha.9": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6-alpha.9",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.6": {
+        "name": "@mastra/fastify",
+        "version": "1.3.6",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.7-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.7-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-routes-manifest-20260407220745": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-routes-manifest-20260407220745",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-routes-manifest-20260407220745"
+        }
+      },
+      "1.3.7-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.7-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.7": {
+        "name": "@mastra/fastify",
+        "version": "1.3.7",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.8-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.8-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.8-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.8-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.8": {
+        "name": "@mastra/fastify",
+        "version": "1.3.8",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.9-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.9-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-fix-openai-reasoning-summaries-20260409175618": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-openai-reasoning-summaries-20260409175618",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-openai-reasoning-summaries-20260409175618"
+        }
+      },
+      "0.0.0-structured-output-errors-20260409185629": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-structured-output-errors-20260409185629",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-structured-output-errors-20260409185629"
+        }
+      },
+      "0.0.0-structured-output-custom-gateway-20260409211226": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-structured-output-custom-gateway-20260409211226",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-structured-output-custom-gateway-20260409211226"
+        }
+      },
+      "0.0.0-data-structured-output-20260409231045": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-data-structured-output-20260409231045",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-data-structured-output-20260409231045"
+        }
+      },
+      "1.3.9-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.9-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-fix-deploy-cmd-20260410174122": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-deploy-cmd-20260410174122",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-deploy-cmd-20260410174122"
+        }
+      },
+      "0.0.0-fix-deploy-cmd-20260410180830": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-deploy-cmd-20260410180830",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-deploy-cmd-20260410180830"
+        }
+      },
+      "1.3.9-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.9-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-datadog-bridge-alpha-1-20260413203917": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-datadog-bridge-alpha-1-20260413203917",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-datadog-bridge-alpha-1-20260413203917"
+        }
+      },
+      "0.0.0-structured-output-agent-20260413221909": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-structured-output-agent-20260413221909",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-structured-output-agent-20260413221909"
+        }
+      },
+      "0.0.0-datadog-bridge-alpha-2-20260414145159": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-datadog-bridge-alpha-2-20260414145159",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-datadog-bridge-alpha-2-20260414145159"
+        }
+      },
+      "0.0.0-tool-strict-mode-20260414145952": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-tool-strict-mode-20260414145952",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-tool-strict-mode-20260414145952"
+        }
+      },
+      "1.3.9-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.9-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.9": {
+        "name": "@mastra/fastify",
+        "version": "1.3.9",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.10-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-strict-tools-indeed-2-20260415164635": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-strict-tools-indeed-2-20260415164635",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-strict-tools-indeed-2-20260415164635"
+        }
+      },
+      "1.3.10-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-structured-output-agent-2-20260415234442": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-structured-output-agent-2-20260415234442",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-structured-output-agent-2-20260415234442"
+        }
+      },
+      "1.3.10-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-feat-fga-20260416124435": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-fga-20260416124435",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-fga-20260416124435"
+        }
+      },
+      "0.0.0-graysonhicks-oom-stream-debug-20260416124609": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-graysonhicks-oom-stream-debug-20260416124609",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-graysonhicks-oom-stream-debug-20260416124609"
+        }
+      },
+      "0.0.0-refactor-playground-ui-ds-polish-20260416135902": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-refactor-playground-ui-ds-polish-20260416135902",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-refactor-playground-ui-ds-polish-20260416135902"
+        }
+      },
+      "1.3.10-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-graysonhicks-tool-strict-passthrough-20260416194824": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-graysonhicks-tool-strict-passthrough-20260416194824",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-graysonhicks-tool-strict-passthrough-20260416194824"
+        }
+      },
+      "0.0.0-structured-output-agent-3-20260416235704": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-structured-output-agent-3-20260416235704",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-structured-output-agent-3-20260416235704"
+        }
+      },
+      "1.3.10-alpha.8": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.8",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.10-alpha.9": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.9",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-use-agent-structured-output-3-20260420191925": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-use-agent-structured-output-3-20260420191925",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-use-agent-structured-output-3-20260420191925"
+        }
+      },
+      "0.0.0-use-agent-structured-output-4-20260420203516": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-use-agent-structured-output-4-20260420203516",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-use-agent-structured-output-4-20260420203516"
+        }
+      },
+      "0.0.0-use-agent-structured-output-5-20260420213533": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-use-agent-structured-output-5-20260420213533",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-use-agent-structured-output-5-20260420213533"
+        }
+      },
+      "0.0.0-use-agent-structured-output-5-20260420235457": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-use-agent-structured-output-5-20260420235457",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-use-agent-structured-output-5-20260420235457"
+        }
+      },
+      "1.3.10-alpha.10": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.10",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.10-alpha.11": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.11",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-clickhouse-init-failure-20260421173907": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-clickhouse-init-failure-20260421173907",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-clickhouse-init-failure-20260421173907"
+        }
+      },
+      "1.3.10-alpha.12": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.12",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.10-alpha.13": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10-alpha.13",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.10": {
+        "name": "@mastra/fastify",
+        "version": "1.3.10",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.11-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.11-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-feat-fga-20260422190831": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-fga-20260422190831",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-fga-20260422190831"
+        }
+      },
+      "1.3.11-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.11-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.11-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.11-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.11": {
+        "name": "@mastra/fastify",
+        "version": "1.3.11",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-playground-ui-domains-logs-20260423114902": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-playground-ui-domains-logs-20260423114902",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-playground-ui-domains-logs-20260423114902"
+        }
+      },
+      "1.3.12-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.12-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.12-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.12-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.12-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.12-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.12": {
+        "name": "@mastra/fastify",
+        "version": "1.3.12",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-datadog-bridge-alpha-3-20260424112321": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-datadog-bridge-alpha-3-20260424112321",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-datadog-bridge-alpha-3-20260424112321"
+        }
+      },
+      "0.0.0-a2a-vnext-20260424123427": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-a2a-vnext-20260424123427",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-a2a-vnext-20260424123427"
+        }
+      },
+      "0.0.0-logs-to-playground-ui-20260424140321": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-logs-to-playground-ui-20260424140321",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-logs-to-playground-ui-20260424140321"
+        }
+      },
+      "1.3.13-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.13-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-toolcall-hooks-channels-20260424182314": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-toolcall-hooks-channels-20260424182314",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-toolcall-hooks-channels-20260424182314"
+        }
+      },
+      "0.0.0-toolcall-hooks-channels-20260424195815": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-toolcall-hooks-channels-20260424195815",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-toolcall-hooks-channels-20260424195815"
+        }
+      },
+      "1.3.13-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.13-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-temporal-20260427105254": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-temporal-20260427105254",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-temporal-20260427105254"
+        }
+      },
+      "1.3.13-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.13-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-feat-fga-20260427190431": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-fga-20260427190431",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-fga-20260427190431"
+        }
+      },
+      "0.0.0-transparent-server-side-refresh-20260427195855": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-transparent-server-side-refresh-20260427195855",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-transparent-server-side-refresh-20260427195855"
+        }
+      },
+      "0.0.0-transparent-server-side-refresh-20260427210959": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-transparent-server-side-refresh-20260427210959",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-transparent-server-side-refresh-20260427210959"
+        }
+      },
+      "1.3.13-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.13-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.13-alpha.4": {
+        "name": "@mastra/fastify",
+        "version": "1.3.13-alpha.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.13-alpha.5": {
+        "name": "@mastra/fastify",
+        "version": "1.3.13-alpha.5",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.13-alpha.6": {
+        "name": "@mastra/fastify",
+        "version": "1.3.13-alpha.6",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.13": {
+        "name": "@mastra/fastify",
+        "version": "1.3.13",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.14-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.14-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-feat-fga-20260429175809": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-fga-20260429175809",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-fga-20260429175809"
+        }
+      },
+      "1.3.14-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.14-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.14": {
+        "name": "@mastra/fastify",
+        "version": "1.3.14",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.15-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.15-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.15-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.15-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.15": {
+        "name": "@mastra/fastify",
+        "version": "1.3.15",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-tsgo-20260430191301": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-tsgo-20260430191301",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-tsgo-20260430191301"
+        }
+      },
+      "1.3.16-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.16-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.16-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.16-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.16-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.16-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.16-alpha.4": {
+        "name": "@mastra/fastify",
+        "version": "1.3.16-alpha.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.16-alpha.5": {
+        "name": "@mastra/fastify",
+        "version": "1.3.16-alpha.5",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.16": {
+        "name": "@mastra/fastify",
+        "version": "1.3.16",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.17-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.17-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.17-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.17-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-studio-cli-20260504022012": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-studio-cli-20260504022012",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-studio-cli-20260504022012"
+        }
+      },
+      "1.3.17-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.17-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.17-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.17-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-observe-20260504181920": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-observe-20260504181920",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-observe-20260504181920"
+        }
+      },
+      "0.0.0-observe-20260504184641": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-observe-20260504184641",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-observe-20260504184641"
+        }
+      },
+      "1.3.17-alpha.4": {
+        "name": "@mastra/fastify",
+        "version": "1.3.17-alpha.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.17": {
+        "name": "@mastra/fastify",
+        "version": "1.3.17",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.18-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.18-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.18": {
+        "name": "@mastra/fastify",
+        "version": "1.3.18",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.0.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-observe-20260506145823": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-observe-20260506145823",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-observe-20260506145823"
+        }
+      },
+      "1.3.19-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-observe-20260506175912": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-observe-20260506175912",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-observe-20260506175912"
+        }
+      },
+      "1.3.19-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-explore-new-metrics-update-20260507081418": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-explore-new-metrics-update-20260507081418",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-explore-new-metrics-update-20260507081418"
+        }
+      },
+      "0.0.0-explore-new-metrics-update-20260507090602": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-explore-new-metrics-update-20260507090602",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-explore-new-metrics-update-20260507090602"
+        }
+      },
+      "0.0.0-fix-buildmessagesfromchunks-message-part-ordering-20260507134311": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-fix-buildmessagesfromchunks-message-part-ordering-20260507134311",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-fix-buildmessagesfromchunks-message-part-ordering-20260507134311"
+        }
+      },
+      "1.3.19-alpha.4": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.4",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.5": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.5",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.6": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.6",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.7": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.7",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.8": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.8",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.9": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.9",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-feat-a2a-agent-class-20260511141748": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-feat-a2a-agent-class-20260511141748",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-feat-a2a-agent-class-20260511141748"
+        }
+      },
+      "0.0.0-observe-20260511163755": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-observe-20260511163755",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-observe-20260511163755"
+        }
+      },
+      "1.3.19-alpha.10": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.10",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-observe-20260511170229": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-observe-20260511170229",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-observe-20260511170229"
+        }
+      },
+      "1.3.19-alpha.13": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.13",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-observability-branches-20260512165357": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-observability-branches-20260512165357",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-observability-branches-20260512165357"
+        }
+      },
+      "0.0.0-branches-as-default-20260512170712": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-branches-as-default-20260512170712",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-branches-as-default-20260512170712"
+        }
+      },
+      "1.3.19-alpha.14": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.14",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.15": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.15",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.16": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.16",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19-alpha.17": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19-alpha.17",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.19": {
+        "name": "@mastra/fastify",
+        "version": "1.3.19",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.20-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.20-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-wardpeet-acp-20260513090758": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-wardpeet-acp-20260513090758",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-wardpeet-acp-20260513090758"
+        }
+      },
+      "1.3.20-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.20-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.20": {
+        "name": "@mastra/fastify",
+        "version": "1.3.20",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.21-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.21-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-switch-to-traces-mode-as-default-20260514090630": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-switch-to-traces-mode-as-default-20260514090630",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-switch-to-traces-mode-as-default-20260514090630"
+        }
+      },
+      "1.3.21-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.21-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.21-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.21-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.21": {
+        "name": "@mastra/fastify",
+        "version": "1.3.21",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-builder-demo-20260515002221": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-builder-demo-20260515002221",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-builder-demo-20260515002221"
+        }
+      },
+      "1.3.22-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.22-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-traces-subtraces-20260515133158": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-traces-subtraces-20260515133158",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-traces-subtraces-20260515133158"
+        }
+      },
+      "1.3.22-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.22-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.22-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.22-alpha.2",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.22-alpha.3": {
+        "name": "@mastra/fastify",
+        "version": "1.3.22-alpha.3",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.22": {
+        "name": "@mastra/fastify",
+        "version": "1.3.22",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-ag-example-20260516005230": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-ag-example-20260516005230",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-ag-example-20260516005230"
+        }
+      },
+      "1.3.23-alpha.0": {
+        "name": "@mastra/fastify",
+        "version": "1.3.23-alpha.0",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "0.0.0-level-icon-moved-20260518085424": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-level-icon-moved-20260518085424",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-level-icon-moved-20260518085424"
+        }
+      },
+      "0.0.0-level-icon-moved-20260518094006": {
+        "name": "@mastra/fastify",
+        "version": "0.0.0-level-icon-moved-20260518094006",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": "0.0.0-level-icon-moved-20260518094006"
+        }
+      },
+      "1.3.23-alpha.1": {
+        "name": "@mastra/fastify",
+        "version": "1.3.23-alpha.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "@mastra/core": ">=1.32.0-0 <2.0.0-0"
+        }
+      },
+      "1.3.23-alpha.2": {
+        "name": "@mastra/fastify",
+        "version": "1.3.23-alpha.2",
+        "peerDependencies": {
+          "@mastra/core": ">=1.34.0-0 <2.0.0-0",
+          "fastify": "^5.0.0"
+        }
+      }
+    }
+  }
+}

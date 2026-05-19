@@ -1,0 +1,12 @@
+{
+  "name": "case-726-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "4.45.0",
+    "@wordpress/dependency-extraction-webpack-plugin": "5.0.0",
+    "css-url-loader": "1.0.0"
+  }
+}

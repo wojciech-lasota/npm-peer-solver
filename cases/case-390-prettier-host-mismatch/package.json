@@ -1,0 +1,12 @@
+{
+  "name": "case-390-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@yutengjing/prettier-config": "0.0.1",
+    "@elegantech/prettier-multi-config": "1.0.2"
+  }
+}

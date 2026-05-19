@@ -1,0 +1,12 @@
+{
+  "name": "case-542-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.37",
+    "jest-preset-preact": "1.0.0",
+    "@quramy/jest-prisma-node": "1.1.1"
+  }
+}

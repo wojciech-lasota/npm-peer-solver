@@ -1,0 +1,12 @@
+{
+  "name": "case-669-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "21.1.6",
+    "@angular/material": "5.0.0",
+    "@progress/kendo-angular-editor": "0.6.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-992-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "5.12.1",
+    "@amedia/eslint-config-jest": "3.5.1",
+    "@commercetools-frontend/eslint-config-mc-app": "6.0.0"
+  }
+}

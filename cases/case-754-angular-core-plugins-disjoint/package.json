@@ -1,0 +1,12 @@
+{
+  "name": "case-754-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "20.2.1",
+    "@progress/kendo-angular-filter": "0.1.0",
+    "@knapsack/renderer-angular": "4.67.6"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-964-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "typescript-eslint": "8.18.0",
+    "@typescript-eslint/project-service": "8.46.2"
+  }
+}

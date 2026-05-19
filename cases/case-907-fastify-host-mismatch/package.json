@@ -1,0 +1,12 @@
+{
+  "name": "case-907-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@tracehound/fastify": "1.2.0",
+    "@fastify/schedule": "3.0.2"
+  }
+}

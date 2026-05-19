@@ -1,0 +1,12 @@
+{
+  "name": "case-256-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.8.2",
+    "@sanity-labs/prettier-plugin-groq": "0.1.0",
+    "prettier-plugin-apex": "1.0.0"
+  }
+}

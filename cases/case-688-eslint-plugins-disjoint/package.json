@@ -1,0 +1,12 @@
+{
+  "name": "case-688-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.12.1",
+    "@amedia/eslint-config-base": "3.5.1",
+    "@eslint-react/eslint-plugin": "0.3.0"
+  }
+}

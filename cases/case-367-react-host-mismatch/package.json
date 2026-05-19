@@ -1,0 +1,12 @@
+{
+  "name": "case-367-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-navigation/native": "7.0.0",
+    "@react-aria/label": "3.7.6"
+  }
+}

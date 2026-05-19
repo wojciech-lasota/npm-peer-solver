@@ -1,0 +1,12 @@
+{
+  "name": "case-050-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@so1ve/prettier-plugin-toml": "0.118.0",
+    "@belt/prettier-plugin": "0.0.89"
+  }
+}

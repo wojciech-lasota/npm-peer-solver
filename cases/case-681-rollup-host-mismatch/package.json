@@ -1,0 +1,12 @@
+{
+  "name": "case-681-rollup-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "3.20.2",
+    "@rollup/plugin-inject": "4.0.0",
+    "@rollup/plugin-babel": "5.2.2"
+  }
+}

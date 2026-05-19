@@ -1,0 +1,12 @@
+{
+  "name": "case-493-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.4.0",
+    "@eslint-community/eslint-plugin-eslint-comments": "4.0.0",
+    "@grafana/eslint-config": "8.0.0"
+  }
+}

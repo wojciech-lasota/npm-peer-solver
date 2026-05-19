@@ -1,0 +1,12 @@
+{
+  "name": "case-113-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.1.10",
+    "@netlify/vite-plugin": "0.2.0",
+    "@bistroo/vite-plugin-capacitor": "3.0.0"
+  }
+}

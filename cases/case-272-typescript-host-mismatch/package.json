@@ -1,0 +1,12 @@
+{
+  "name": "case-272-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "ts-essentials": "3.0.0",
+    "@formatjs/ts-transformer": "3.4.5"
+  }
+}

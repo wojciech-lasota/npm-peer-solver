@@ -1,0 +1,12 @@
+{
+  "name": "case-028-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.20",
+    "@angular/common": "2.0.0",
+    "@angular/router": "4.0.0"
+  }
+}

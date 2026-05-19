@@ -1,0 +1,12 @@
+{
+  "name": "case-689-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "21.1.5",
+    "@progress/kendo-angular-dropdowns": "0.10.2",
+    "@angular/compiler-cli": "0.3.0"
+  }
+}

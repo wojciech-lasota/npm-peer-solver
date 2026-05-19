@@ -1,0 +1,12 @@
+{
+  "name": "case-380-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@joggr/fastify-prisma": "4.0.0",
+    "@jerome1337/fastify-enforce-routes-pattern": "1.0.3"
+  }
+}

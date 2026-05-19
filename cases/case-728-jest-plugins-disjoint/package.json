@@ -1,0 +1,12 @@
+{
+  "name": "case-728-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "19.0.2",
+    "jest-preset-moon": "0.0.1",
+    "jest-pact": "0.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-883-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "17.2.0",
+    "@angular/ssr": "17.0.0",
+    "@progress/kendo-angular-dateinputs": "0.1.0"
+  }
+}

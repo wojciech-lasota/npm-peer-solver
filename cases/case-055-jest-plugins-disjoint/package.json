@@ -1,0 +1,12 @@
+{
+  "name": "case-055-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "29.6.1",
+    "jest-preset-split": "1.0.0",
+    "@lwc/jest-jsdom-test-env": "17.0.1"
+  }
+}

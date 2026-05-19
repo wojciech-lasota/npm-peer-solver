@@ -1,0 +1,12 @@
+{
+  "name": "case-095-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "ts-unused-exports": "7.0.0",
+    "@storybook/react-docgen-typescript-plugin": "1.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-183-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "20.0.1",
+    "@progress/kendo-angular-label": "0.1.0",
+    "@progress/kendo-angular-excel-export": "3.0.0"
+  }
+}

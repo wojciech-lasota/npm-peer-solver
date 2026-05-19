@@ -1,0 +1,12 @@
+{
+  "name": "case-164-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.5.0",
+    "@quasar/vite-plugin": "1.0.0",
+    "@spiriit/vite-plugin-svg-spritemap": "1.0.0"
+  }
+}

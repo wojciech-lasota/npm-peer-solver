@@ -1,0 +1,12 @@
+{
+  "name": "case-066-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.3",
+    "@procore/hammer-format-prettier": "0.1.0",
+    "@mattinton/prettier-plugin-tidy-imports": "1.0.0"
+  }
+}

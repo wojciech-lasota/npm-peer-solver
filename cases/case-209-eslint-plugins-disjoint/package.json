@@ -1,0 +1,12 @@
+{
+  "name": "case-209-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "9.20.0",
+    "@hideoo/eslint-config": "0.0.1",
+    "@amedia/eslint-config-typescript": "4.0.1"
+  }
+}

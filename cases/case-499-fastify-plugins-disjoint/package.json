@@ -1,0 +1,12 @@
+{
+  "name": "case-499-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "3.9.0",
+    "@aegisx/fastify-multipart": "1.0.0",
+    "@inversifyjs/http-fastify": "2.0.0"
+  }
+}

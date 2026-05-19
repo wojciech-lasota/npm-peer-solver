@@ -1,0 +1,12 @@
+{
+  "name": "case-682-rollup-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.0.0",
+    "@ironkinoko/rollup-plugin-styles": "4.0.0",
+    "@rollup/plugin-json": "4.0.2"
+  }
+}

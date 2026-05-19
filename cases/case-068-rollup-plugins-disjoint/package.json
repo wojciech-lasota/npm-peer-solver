@@ -1,0 +1,12 @@
+{
+  "name": "case-068-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "3.21.7",
+    "rollup-plugin-corejs": "0.1.0",
+    "@rollup/plugin-node-resolve": "6.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-009-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "30.0.3",
+    "@haojian-app/jest-preset": "1.1.0",
+    "jest-xml-matcher": "1.0.0"
+  }
+}

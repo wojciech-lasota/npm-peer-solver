@@ -1,0 +1,12 @@
+{
+  "name": "case-529-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-preset-saya": "1.1.2",
+    "@ta-interaktiv/jest-preset": "1.4.1"
+  }
+}

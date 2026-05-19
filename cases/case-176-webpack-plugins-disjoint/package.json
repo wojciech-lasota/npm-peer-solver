@@ -1,0 +1,12 @@
+{
+  "name": "case-176-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.27.2",
+    "@friends-of-js/yaml-loader": "1.0.3",
+    "@sentry/webpack-plugin": "5.0.0"
+  }
+}

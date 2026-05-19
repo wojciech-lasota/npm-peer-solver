@@ -1,0 +1,12 @@
+{
+  "name": "case-879-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "2.1.1",
+    "@shopify/prettier-plugin-liquid": "0.1.2",
+    "@unfunco/prettier-plugin-yaml": "0.0.0"
+  }
+}

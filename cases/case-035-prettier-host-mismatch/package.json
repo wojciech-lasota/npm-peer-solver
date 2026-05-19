@@ -6,14 +6,7 @@
   "type": "module",
   "dependencies": {
     "prettier": "0.0.1",
-    "@crisvp/prettier-plugin-void-html": "1.5.0",
-    "@potygen/prettier-plugin-pgsql": "0.6.2",
-    "@ilyamatsuev/prettier-plugin-apex": "2.0.3",
-    "@pebrianz/prettier-plugin-void-html": "2.0.0",
-    "prettier-md-fenced-txt-wrap": "1.0.6",
-    "@nice-move/prettier-plugin-package-json": "0.6.0",
-    "prettier-plugin-align-comments": "2.0.0",
-    "@azabraao/prettier-plugin-css-order": "1.3.0",
-    "@prettier/plugin-xml": "0.10.0"
+    "@yutengjing/prettier-config": "0.0.1",
+    "@134dd3v/prettier-plugin-solidity": "1.1.1"
   }
 }

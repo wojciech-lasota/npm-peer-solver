@@ -1,0 +1,12 @@
+{
+  "name": "case-342-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@fgiova/fastify-sqs-consumer": "2.0.0",
+    "@12degrees/stateful-fastify": "0.3.2"
+  }
+}

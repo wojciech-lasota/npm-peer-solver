@@ -1,0 +1,12 @@
+{
+  "name": "case-927-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@erbelion/vite-plugin-laravel-purgecss": "0.1.0",
+    "@dhiwise/component-tagger": "1.0.8"
+  }
+}

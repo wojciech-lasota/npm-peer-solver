@@ -1,0 +1,12 @@
+{
+  "name": "case-571-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-watch-typeahead": "0.6.0",
+    "jest-puppeteer": "8.0.3"
+  }
+}

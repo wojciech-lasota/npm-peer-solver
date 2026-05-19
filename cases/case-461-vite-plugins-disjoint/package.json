@@ -1,0 +1,12 @@
+{
+  "name": "case-461-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "6.0.0",
+    "@react-scan/vite-plugin-react-scan": "0.1.0",
+    "@defstudio/vite-livewire-plugin": "3.0.0"
+  }
+}

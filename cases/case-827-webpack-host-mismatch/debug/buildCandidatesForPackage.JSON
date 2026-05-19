@@ -1,0 +1,374 @@
+[
+  {
+    "packageName": "webpack",
+    "requestedRange": "5.2.1",
+    "candidates": [
+      {
+        "packageName": "webpack",
+        "version": "5.106.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.103.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.9",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.8",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.7",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.6",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "4.47.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "3.12.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "2.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "1.15.0",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@automattic/i18n-loader-webpack-plugin",
+    "requestedRange": "1.0.0",
+    "candidates": [
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.100",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.99",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.98",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.97",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.96",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.95",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.94",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.93",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.92",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.91",
+        "peerDependencies": {
+          "webpack": "^5.104.1"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.90",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.89",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.88",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.87",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.86",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.85",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.84",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.83",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.82",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.81",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.80",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.79",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.78",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.77",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.76",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.75",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.74",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.73",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "2.0.72",
+        "peerDependencies": {
+          "webpack": "^5.94.0"
+        }
+      },
+      {
+        "packageName": "@automattic/i18n-loader-webpack-plugin",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "webpack": "^5.29.0"
+        }
+      }
+    ]
+  }
+]

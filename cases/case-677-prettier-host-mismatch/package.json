@@ -1,0 +1,12 @@
+{
+  "name": "case-677-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@serverless-guru/prettier-plugin-import-order": "0.1.0",
+    "@castlabs/prettier-tsdoc-plugin": "0.5.6"
+  }
+}

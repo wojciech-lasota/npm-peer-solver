@@ -1,0 +1,12 @@
+{
+  "name": "case-015-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@gradin/tailwindcss-skeleton-screen": "1.0.1",
+    "@tailwind-plugin/expose-colors": "1.1.8"
+  }
+}

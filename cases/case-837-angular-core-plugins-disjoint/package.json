@@ -1,0 +1,12 @@
+{
+  "name": "case-837-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "17.0.3",
+    "@progress/kendo-angular-dropdowns": "0.10.2",
+    "@progress/kendo-angular-popup": "0.16.0"
+  }
+}

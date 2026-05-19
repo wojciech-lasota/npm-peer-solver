@@ -1,0 +1,12 @@
+{
+  "name": "case-541-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-preset-stylelint": "1.0.0",
+    "jest-preset-ns": "2.1.1"
+  }
+}

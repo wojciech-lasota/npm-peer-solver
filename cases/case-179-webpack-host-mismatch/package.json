@@ -1,0 +1,12 @@
+{
+  "name": "case-179-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "4.45.0",
+    "css-minimizer-webpack-plugin": "2.0.0",
+    "@cyclonedx/webpack-plugin": "5.1.1"
+  }
+}

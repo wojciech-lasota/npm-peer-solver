@@ -1,0 +1,12 @@
+{
+  "name": "case-552-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.4.4",
+    "@open-xchange/vite-plugin-po2json": "1.0.0",
+    "@lingui-solid/vite-plugin": "5.1.2"
+  }
+}

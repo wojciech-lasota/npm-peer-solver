@@ -1,0 +1,12 @@
+{
+  "name": "case-528-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "3.3.1",
+    "cosmiconfig-typescript-loader": "0.0.2",
+    "awesome-typescript-loader": "3.5.0"
+  }
+}

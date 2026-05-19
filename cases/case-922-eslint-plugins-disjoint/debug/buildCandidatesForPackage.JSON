@@ -1,0 +1,734 @@
+[
+  {
+    "packageName": "eslint",
+    "requestedRange": "9.5.0",
+    "candidates": [
+      {
+        "packageName": "eslint",
+        "version": "10.4.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.3.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.1.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.4",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.38.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.37.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.36.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.35.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.34.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.33.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.32.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.31.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "8.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "7.32.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "6.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "5.16.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "4.19.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "3.19.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "2.13.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "1.10.3",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@eslint-recommended/eslint-config",
+    "requestedRange": "0.1.0",
+    "candidates": [
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "28.0.0",
+        "peerDependencies": {
+          "@eslint-community/eslint-plugin-eslint-comments": "^4.0.0",
+          "eslint": "^8.23.1",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-jsdoc": "^50.0.0",
+          "eslint-plugin-regexp": "^2.6.0",
+          "eslint-plugin-sonarjs": "^0.25.0",
+          "eslint-plugin-unicorn": "^55.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "27.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^49.0.0",
+          "eslint-plugin-regexp": "^2.6.0",
+          "eslint-plugin-sonarjs": "^0.25.0",
+          "eslint-plugin-unicorn": "^54.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "@eslint-community/eslint-plugin-eslint-comments": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "26.1.2",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-regexp": "^2.6.0",
+          "eslint-plugin-sonarjs": "^0.25.0",
+          "eslint-plugin-unicorn": "^53.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "@eslint-community/eslint-plugin-eslint-comments": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "26.1.1",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-regexp": "^2.6.0",
+          "eslint-plugin-sonarjs": "^0.25.0",
+          "eslint-plugin-unicorn": "^53.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "@eslint-community/eslint-plugin-eslint-comments": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "26.1.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-regexp": "^2.6.0",
+          "eslint-plugin-sonarjs": "^0.25.0",
+          "eslint-plugin-unicorn": "^53.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "@eslint-community/eslint-plugin-eslint-comments": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "25.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-sonarjs": "^0.25.0",
+          "eslint-plugin-unicorn": "^53.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "@eslint-community/eslint-plugin-eslint-comments": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "24.1.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-sonarjs": "^0.23.0 || ^0.25.0",
+          "eslint-plugin-unicorn": "^52.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "@eslint-community/eslint-plugin-eslint-comments": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "23.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-sonarjs": "^0.23.0 || ^0.25.0",
+          "eslint-plugin-unicorn": "^52.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "22.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-sonarjs": "^0.23.0",
+          "eslint-plugin-unicorn": "^51.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "21.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-sonarjs": "^0.23.0",
+          "eslint-plugin-unicorn": "^50.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "20.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-sonarjs": "^0.23.0",
+          "eslint-plugin-unicorn": "^49.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "19.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-sonarjs": "^0.21.0",
+          "eslint-plugin-unicorn": "^49.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "18.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^48.0.0",
+          "eslint-plugin-sonarjs": "^0.21.0",
+          "eslint-plugin-unicorn": "^48.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "17.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^47.0.0",
+          "eslint-plugin-sonarjs": "^0.21.0",
+          "eslint-plugin-unicorn": "^48.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "16.0.3",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^46.0.0",
+          "eslint-plugin-sonarjs": "^0.21.0",
+          "eslint-plugin-unicorn": "^48.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "15.0.1",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^46.0.0",
+          "eslint-plugin-sonarjs": "^0.21.0",
+          "eslint-plugin-unicorn": "^48.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "14.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^46.0.0",
+          "eslint-plugin-sonarjs": "^0.19.0",
+          "eslint-plugin-unicorn": "^47.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "13.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^45.0.0",
+          "eslint-plugin-sonarjs": "^0.19.0",
+          "eslint-plugin-unicorn": "^47.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "12.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^44.0.0",
+          "eslint-plugin-sonarjs": "^0.19.0",
+          "eslint-plugin-unicorn": "^47.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "11.0.1",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^43.0.0",
+          "eslint-plugin-sonarjs": "^0.19.0",
+          "eslint-plugin-unicorn": "^47.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^43.0.0",
+          "eslint-plugin-sonarjs": "^0.19.0",
+          "eslint-plugin-unicorn": "^46.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^42.0.0",
+          "eslint-plugin-sonarjs": "^0.19.0",
+          "eslint-plugin-unicorn": "^46.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^41.0.0",
+          "eslint-plugin-sonarjs": "^0.19.0",
+          "eslint-plugin-unicorn": "^46.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "7.0.2",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^40.0.0",
+          "eslint-plugin-sonarjs": "^0.19.0",
+          "eslint-plugin-unicorn": "^46.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "6.0.1",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^40.0.0",
+          "eslint-plugin-sonarjs": "^0.18.0",
+          "eslint-plugin-unicorn": "^45.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "5.0.1",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^39.3.6",
+          "eslint-plugin-sonarjs": "^0.18.0",
+          "eslint-plugin-unicorn": "^45.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-jsdoc": "^39.3.6",
+          "eslint-plugin-unicorn": "^45.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-n": "^15.0.0",
+          "eslint-plugin-jsdoc": "^39.3.6",
+          "eslint-plugin-import": "^2.25.2",
+          "eslint-plugin-promise": "^6.0.0",
+          "eslint-plugin-unicorn": "^45.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-n": "^15.0.0",
+          "eslint-plugin-jsdoc": "^39.3.6",
+          "eslint-plugin-import": "^2.25.2",
+          "eslint-plugin-promise": "^6.0.0",
+          "eslint-plugin-unicorn": "^45.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@eslint-recommended/eslint-config",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "eslint": "^8.23.1",
+          "eslint-plugin-n": "^15.0.0",
+          "eslint-plugin-jsdoc": "^39.3.6",
+          "eslint-plugin-import": "^2.25.2",
+          "eslint-plugin-promise": "^6.0.0",
+          "eslint-plugin-unicorn": "^44.0.0",
+          "eslint-config-standard": "^17.0.0",
+          "eslint-plugin-eslint-comments": "^3.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@alexlit/config-eslint",
+    "requestedRange": "0.19.2",
+    "candidates": [
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "138.9.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "137.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "136.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "135.2.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "134.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "133.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "132.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "131.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "130.2.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "129.3.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "128.2.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "127.3.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "126.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "125.2.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "124.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "121.11.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "120.1.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "119.5.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "118.1.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "117.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "116.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "115.2.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "114.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "113.10.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "112.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "111.7.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "110.2.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "109.13.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "108.9.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@alexlit/config-eslint",
+        "version": "107.2.0",
+        "peerDependencies": {}
+      }
+    ]
+  }
+]

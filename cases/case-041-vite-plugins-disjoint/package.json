@@ -1,0 +1,12 @@
+{
+  "name": "case-041-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.3.5",
+    "@sveltejs/vite-plugin-svelte": "7.0.0",
+    "@dyad-sh/react-vite-component-tagger": "0.8.0"
+  }
+}

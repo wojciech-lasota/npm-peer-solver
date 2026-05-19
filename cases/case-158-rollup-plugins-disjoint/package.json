@@ -1,0 +1,12 @@
+{
+  "name": "case-158-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "3.28.0",
+    "@rollup/plugin-swc": "0.1.0",
+    "rollup-plugin-chrome-extension": "0.3.0"
+  }
+}

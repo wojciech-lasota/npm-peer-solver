@@ -1,0 +1,12 @@
+{
+  "name": "case-052-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.0.10",
+    "@salesforce/vite-plugin-ui-bundle": "1.117.2",
+    "@entur/vite-plugin-assets-json": "0.0.6"
+  }
+}

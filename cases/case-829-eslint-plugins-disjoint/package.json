@@ -1,0 +1,12 @@
+{
+  "name": "case-829-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.29.0",
+    "@darraghor/eslint-plugin-nestjs-typed": "3.0.0",
+    "@boehringer-ingelheim/eslint-config": "1.0.1"
+  }
+}

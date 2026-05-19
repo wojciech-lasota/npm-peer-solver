@@ -1,0 +1,12 @@
+{
+  "name": "case-661-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.10.0",
+    "@electron-toolkit/eslint-config-ts": "1.0.0",
+    "@elastic/eslint-plugin-eui": "0.0.1"
+  }
+}

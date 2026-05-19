@@ -1,0 +1,12 @@
+{
+  "name": "case-168-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.18",
+    "@angular/service-worker": "0.7.2",
+    "@progress/kendo-angular-scrollview": "0.10.0"
+  }
+}

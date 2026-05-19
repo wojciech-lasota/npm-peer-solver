@@ -1,0 +1,431 @@
+[
+  {
+    "packageName": "rollup",
+    "requestedRange": "4.17.2",
+    "candidates": [
+      {
+        "packageName": "rollup",
+        "version": "4.60.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.58.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.56.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.54.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "3.30.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "2.80.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "1.32.1",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "rollup-plugin-cleandir",
+    "requestedRange": "2.0.0",
+    "candidates": [
+      {
+        "packageName": "rollup-plugin-cleandir",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "rollup": ">=4.0.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-cleandir",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "rollup": ">=2.0.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-cleandir",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "rollup": ">=1.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "rollup-plugin-dts",
+    "requestedRange": "0.14.0",
+    "candidates": [
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.4.1",
+        "peerDependencies": {
+          "rollup": "^3.29.4 || ^4",
+          "typescript": "^4.5 || ^5.0 || ^6.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.4.0",
+        "peerDependencies": {
+          "rollup": "^3.29.4 || ^4",
+          "typescript": "^4.5 || ^5.0 || ^6.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.3.0",
+        "peerDependencies": {
+          "rollup": "^3.29.4 || ^4",
+          "typescript": "^4.5 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.2.3",
+        "peerDependencies": {
+          "rollup": "^3.29.4 || ^4",
+          "typescript": "^4.5 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.2.1",
+        "peerDependencies": {
+          "rollup": "^3.29.4 || ^4",
+          "typescript": "^4.5 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.2.0",
+        "peerDependencies": {
+          "rollup": "^3.29.4 || ^4",
+          "typescript": "^4.5 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.1.1",
+        "peerDependencies": {
+          "rollup": "^3.29.4 || ^4",
+          "typescript": "^4.5 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.1.0",
+        "peerDependencies": {
+          "rollup": "^3.29.4 || ^4",
+          "typescript": "^4.5 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.0.2",
+        "peerDependencies": {
+          "rollup": "^3.25",
+          "typescript": "^4.5 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.0.1",
+        "peerDependencies": {
+          "rollup": "^3.25",
+          "typescript": "^4.5 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "rollup": "^3.25.0",
+          "typescript": "^4.5 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "5.3.1",
+        "peerDependencies": {
+          "rollup": "^3.0",
+          "typescript": "^4.1 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "5.3.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0",
+          "typescript": "^4.1 || ^5.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "5.2.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0",
+          "typescript": "^4.1"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "5.1.1",
+        "peerDependencies": {
+          "rollup": "^3.0.0",
+          "typescript": "^4.1"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0",
+          "typescript": "^4.1"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "rollup": "^3.0.0",
+          "typescript": "^4.1"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "4.2.3",
+        "peerDependencies": {
+          "rollup": "^2.55",
+          "typescript": "^4.1"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "4.2.2",
+        "peerDependencies": {
+          "rollup": "^2.55",
+          "typescript": "^4.1"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "4.2.1",
+        "peerDependencies": {
+          "rollup": "^2.70",
+          "typescript": "^4.6"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "4.2.0",
+        "peerDependencies": {
+          "rollup": "^2.55",
+          "typescript": "^4.1"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "4.1.0",
+        "peerDependencies": {
+          "rollup": "^2.55",
+          "typescript": "~4.1 || ~4.2 || ~4.3 || ~4.4 || ~4.5"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "rollup": "^2.56.3",
+          "typescript": "^4.4.2"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "rollup": "^2.56.3",
+          "typescript": "^4.4.2"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "3.0.2",
+        "peerDependencies": {
+          "rollup": "^2.48.0",
+          "typescript": "^4.2.4"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "3.0.1",
+        "peerDependencies": {
+          "rollup": "^2.40.0",
+          "typescript": "^4.2.3"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "rollup": "^2.40.0",
+          "typescript": "^4.2.3"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "rollup": "^2.34.2",
+          "typescript": "^4.1.2"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "rollup": "^2.33.3",
+          "typescript": "^4.1.2"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-dts",
+        "version": "1.4.14",
+        "peerDependencies": {
+          "rollup": "^2.33.1",
+          "typescript": "^4.0.5"
+        }
+      }
+    ]
+  }
+]

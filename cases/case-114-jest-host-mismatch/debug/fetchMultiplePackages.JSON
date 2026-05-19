@@ -1,0 +1,3245 @@
+{
+  "jest": {
+    "name": "jest",
+    "dist-tags": {
+      "next": "30.0.0-rc.1",
+      "latest": "30.4.2"
+    },
+    "versions": {
+      "0.0.6": {
+        "name": "jest",
+        "version": "0.0.6"
+      },
+      "0.0.7": {
+        "name": "jest",
+        "version": "0.0.7"
+      },
+      "0.0.61": {
+        "name": "jest",
+        "version": "0.0.61"
+      },
+      "0.0.71": {
+        "name": "jest",
+        "version": "0.0.71"
+      },
+      "0.0.72": {
+        "name": "jest",
+        "version": "0.0.72"
+      },
+      "0.0.73": {
+        "name": "jest",
+        "version": "0.0.73"
+      },
+      "0.0.74": {
+        "name": "jest",
+        "version": "0.0.74"
+      },
+      "0.0.75": {
+        "name": "jest",
+        "version": "0.0.75"
+      },
+      "0.0.80": {
+        "name": "jest",
+        "version": "0.0.80"
+      },
+      "0.0.81": {
+        "name": "jest",
+        "version": "0.0.81"
+      },
+      "0.0.76": {
+        "name": "jest",
+        "version": "0.0.76"
+      },
+      "0.0.78": {
+        "name": "jest",
+        "version": "0.0.78"
+      },
+      "0.0.79": {
+        "name": "jest",
+        "version": "0.0.79"
+      },
+      "0.0.82": {
+        "name": "jest",
+        "version": "0.0.82"
+      },
+      "0.0.83": {
+        "name": "jest",
+        "version": "0.0.83"
+      },
+      "0.0.84": {
+        "name": "jest",
+        "version": "0.0.84"
+      },
+      "0.0.85": {
+        "name": "jest",
+        "version": "0.0.85"
+      },
+      "0.0.86": {
+        "name": "jest",
+        "version": "0.0.86"
+      },
+      "0.0.87": {
+        "name": "jest",
+        "version": "0.0.87"
+      },
+      "0.0.88": {
+        "name": "jest",
+        "version": "0.0.88"
+      },
+      "0.0.89": {
+        "name": "jest",
+        "version": "0.0.89"
+      },
+      "0.0.90": {
+        "name": "jest",
+        "version": "0.0.90"
+      },
+      "0.0.91": {
+        "name": "jest",
+        "version": "0.0.91"
+      },
+      "0.0.92": {
+        "name": "jest",
+        "version": "0.0.92"
+      },
+      "0.0.93": {
+        "name": "jest",
+        "version": "0.0.93"
+      },
+      "0.0.94": {
+        "name": "jest",
+        "version": "0.0.94"
+      },
+      "0.0.95": {
+        "name": "jest",
+        "version": "0.0.95"
+      },
+      "0.0.96": {
+        "name": "jest",
+        "version": "0.0.96"
+      },
+      "0.0.97": {
+        "name": "jest",
+        "version": "0.0.97"
+      },
+      "0.0.98": {
+        "name": "jest",
+        "version": "0.0.98"
+      },
+      "0.0.99": {
+        "name": "jest",
+        "version": "0.0.99"
+      },
+      "0.1.0": {
+        "name": "jest",
+        "version": "0.1.0"
+      },
+      "0.1.1": {
+        "name": "jest",
+        "version": "0.1.1"
+      },
+      "0.1.2": {
+        "name": "jest",
+        "version": "0.1.2"
+      },
+      "0.1.21": {
+        "name": "jest",
+        "version": "0.1.21"
+      },
+      "0.1.22": {
+        "name": "jest",
+        "version": "0.1.22"
+      },
+      "0.1.30": {
+        "name": "jest",
+        "version": "0.1.30"
+      },
+      "0.1.31": {
+        "name": "jest",
+        "version": "0.1.31"
+      },
+      "0.1.32": {
+        "name": "jest",
+        "version": "0.1.32"
+      },
+      "0.1.33": {
+        "name": "jest",
+        "version": "0.1.33"
+      },
+      "0.1.34": {
+        "name": "jest",
+        "version": "0.1.34"
+      },
+      "0.1.35": {
+        "name": "jest",
+        "version": "0.1.35"
+      },
+      "0.1.37": {
+        "name": "jest",
+        "version": "0.1.37"
+      },
+      "0.1.39": {
+        "name": "jest",
+        "version": "0.1.39"
+      },
+      "0.1.40": {
+        "name": "jest",
+        "version": "0.1.40"
+      },
+      "12.1.0": {
+        "name": "jest",
+        "version": "12.1.0"
+      },
+      "12.1.0-alpha1": {
+        "name": "jest",
+        "version": "12.1.0-alpha1"
+      },
+      "12.1.1": {
+        "name": "jest",
+        "version": "12.1.1"
+      },
+      "12.1.1-alpha.2935e14d": {
+        "name": "jest",
+        "version": "12.1.1-alpha.2935e14d"
+      },
+      "12.1.2-alpha.a482b15c": {
+        "name": "jest",
+        "version": "12.1.2-alpha.a482b15c"
+      },
+      "12.1.2-alpha.6230044c": {
+        "name": "jest",
+        "version": "12.1.2-alpha.6230044c"
+      },
+      "12.1.3-alpha.6230044c": {
+        "name": "jest",
+        "version": "12.1.3-alpha.6230044c"
+      },
+      "12.1.4-alpha.a737c6e5": {
+        "name": "jest",
+        "version": "12.1.4-alpha.a737c6e5"
+      },
+      "12.1.5-alpha.b5322422": {
+        "name": "jest",
+        "version": "12.1.5-alpha.b5322422"
+      },
+      "13.0.0": {
+        "name": "jest",
+        "version": "13.0.0"
+      },
+      "13.1.0": {
+        "name": "jest",
+        "version": "13.1.0"
+      },
+      "13.1.1": {
+        "name": "jest",
+        "version": "13.1.1"
+      },
+      "13.1.2": {
+        "name": "jest",
+        "version": "13.1.2"
+      },
+      "13.1.3": {
+        "name": "jest",
+        "version": "13.1.3"
+      },
+      "13.2.0": {
+        "name": "jest",
+        "version": "13.2.0"
+      },
+      "13.2.1": {
+        "name": "jest",
+        "version": "13.2.1"
+      },
+      "13.2.2": {
+        "name": "jest",
+        "version": "13.2.2"
+      },
+      "13.2.3": {
+        "name": "jest",
+        "version": "13.2.3"
+      },
+      "13.3.0-alpha.a44f195f": {
+        "name": "jest",
+        "version": "13.3.0-alpha.a44f195f"
+      },
+      "13.3.0-alpha.4eb0c908": {
+        "name": "jest",
+        "version": "13.3.0-alpha.4eb0c908"
+      },
+      "13.2.3-alpha.ffc7404b": {
+        "name": "jest",
+        "version": "13.2.3-alpha.ffc7404b"
+      },
+      "13.3.0-alpha.ffc7404b": {
+        "name": "jest",
+        "version": "13.3.0-alpha.ffc7404b"
+      },
+      "13.3.0-alpha.8b48d59e": {
+        "name": "jest",
+        "version": "13.3.0-alpha.8b48d59e"
+      },
+      "13.3.0-alpha.g8b48d59": {
+        "name": "jest",
+        "version": "13.3.0-alpha.g8b48d59"
+      },
+      "13.4.0-alpha.d2632006": {
+        "name": "jest",
+        "version": "13.4.0-alpha.d2632006"
+      },
+      "14.0.0": {
+        "name": "jest",
+        "version": "14.0.0"
+      },
+      "14.0.1": {
+        "name": "jest",
+        "version": "14.0.1"
+      },
+      "14.1.0": {
+        "name": "jest",
+        "version": "14.1.0"
+      },
+      "14.2.0-alpha.ca8bfb6e": {
+        "name": "jest",
+        "version": "14.2.0-alpha.ca8bfb6e"
+      },
+      "14.2.1-alpha.e21d71a4": {
+        "name": "jest",
+        "version": "14.2.1-alpha.e21d71a4"
+      },
+      "14.2.2-alpha.22bd3c33": {
+        "name": "jest",
+        "version": "14.2.2-alpha.22bd3c33"
+      },
+      "14.3.0-alpha.d13c163e": {
+        "name": "jest",
+        "version": "14.3.0-alpha.d13c163e"
+      },
+      "14.3.1-alpha.410cb91a": {
+        "name": "jest",
+        "version": "14.3.1-alpha.410cb91a"
+      },
+      "14.3.2-alpha.83c25417": {
+        "name": "jest",
+        "version": "14.3.2-alpha.83c25417"
+      },
+      "15.0.0": {
+        "name": "jest",
+        "version": "15.0.0"
+      },
+      "15.0.1": {
+        "name": "jest",
+        "version": "15.0.1"
+      },
+      "15.0.2": {
+        "name": "jest",
+        "version": "15.0.2"
+      },
+      "15.1.0": {
+        "name": "jest",
+        "version": "15.1.0"
+      },
+      "15.1.1": {
+        "name": "jest",
+        "version": "15.1.1"
+      },
+      "15.2.0-alpha.c681f819": {
+        "name": "jest",
+        "version": "15.2.0-alpha.c681f819"
+      },
+      "16.0.0": {
+        "name": "jest",
+        "version": "16.0.0"
+      },
+      "16.0.1": {
+        "name": "jest",
+        "version": "16.0.1"
+      },
+      "16.0.2": {
+        "name": "jest",
+        "version": "16.0.2"
+      },
+      "16.1.0-alpha.691b0e22": {
+        "name": "jest",
+        "version": "16.1.0-alpha.691b0e22"
+      },
+      "17.0.0": {
+        "name": "jest",
+        "version": "17.0.0"
+      },
+      "17.0.1": {
+        "name": "jest",
+        "version": "17.0.1"
+      },
+      "17.0.2": {
+        "name": "jest",
+        "version": "17.0.2"
+      },
+      "17.0.3": {
+        "name": "jest",
+        "version": "17.0.3"
+      },
+      "18.0.0": {
+        "name": "jest",
+        "version": "18.0.0"
+      },
+      "18.1.0": {
+        "name": "jest",
+        "version": "18.1.0"
+      },
+      "18.5.0-alpha.7da3df39": {
+        "name": "jest",
+        "version": "18.5.0-alpha.7da3df39"
+      },
+      "19.0.0": {
+        "name": "jest",
+        "version": "19.0.0"
+      },
+      "19.0.1": {
+        "name": "jest",
+        "version": "19.0.1"
+      },
+      "19.0.2": {
+        "name": "jest",
+        "version": "19.0.2"
+      },
+      "19.1.0-alpha.eed82034": {
+        "name": "jest",
+        "version": "19.1.0-alpha.eed82034"
+      },
+      "19.2.0-alpha.993e64af": {
+        "name": "jest",
+        "version": "19.2.0-alpha.993e64af"
+      },
+      "19.3.0-alpha.85402254": {
+        "name": "jest",
+        "version": "19.3.0-alpha.85402254"
+      },
+      "20.0.0": {
+        "name": "jest",
+        "version": "20.0.0"
+      },
+      "20.0.1": {
+        "name": "jest",
+        "version": "20.0.1"
+      },
+      "20.0.2": {
+        "name": "jest",
+        "version": "20.0.2"
+      },
+      "20.0.3": {
+        "name": "jest",
+        "version": "20.0.3"
+      },
+      "20.0.4": {
+        "name": "jest",
+        "version": "20.0.4"
+      },
+      "20.1.0-alpha.1": {
+        "name": "jest",
+        "version": "20.1.0-alpha.1"
+      },
+      "20.1.0-alpha.2": {
+        "name": "jest",
+        "version": "20.1.0-alpha.2"
+      },
+      "20.1.0-alpha.3": {
+        "name": "jest",
+        "version": "20.1.0-alpha.3"
+      },
+      "20.1.0-beta.1": {
+        "name": "jest",
+        "version": "20.1.0-beta.1"
+      },
+      "20.1.0-chi.1": {
+        "name": "jest",
+        "version": "20.1.0-chi.1"
+      },
+      "20.1.0-delta.1": {
+        "name": "jest",
+        "version": "20.1.0-delta.1"
+      },
+      "20.1.0-delta.2": {
+        "name": "jest",
+        "version": "20.1.0-delta.2"
+      },
+      "20.1.0-delta.3": {
+        "name": "jest",
+        "version": "20.1.0-delta.3"
+      },
+      "20.1.0-delta.4": {
+        "name": "jest",
+        "version": "20.1.0-delta.4"
+      },
+      "20.1.0-delta.5": {
+        "name": "jest",
+        "version": "20.1.0-delta.5"
+      },
+      "20.1.0-echo.1": {
+        "name": "jest",
+        "version": "20.1.0-echo.1"
+      },
+      "21.0.0-alpha.1": {
+        "name": "jest",
+        "version": "21.0.0-alpha.1"
+      },
+      "21.0.0-alpha.2": {
+        "name": "jest",
+        "version": "21.0.0-alpha.2"
+      },
+      "21.0.0-beta.1": {
+        "name": "jest",
+        "version": "21.0.0-beta.1"
+      },
+      "21.0.0": {
+        "name": "jest",
+        "version": "21.0.0"
+      },
+      "21.0.1": {
+        "name": "jest",
+        "version": "21.0.1"
+      },
+      "21.0.2": {
+        "name": "jest",
+        "version": "21.0.2"
+      },
+      "21.1.0": {
+        "name": "jest",
+        "version": "21.1.0"
+      },
+      "21.2.0": {
+        "name": "jest",
+        "version": "21.2.0"
+      },
+      "21.2.1": {
+        "name": "jest",
+        "version": "21.2.1"
+      },
+      "21.3.0-alpha.1e3ee68e": {
+        "name": "jest",
+        "version": "21.3.0-alpha.1e3ee68e"
+      },
+      "21.3.0-alpha.eff7a1cf": {
+        "name": "jest",
+        "version": "21.3.0-alpha.eff7a1cf"
+      },
+      "21.3.0-beta.1": {
+        "name": "jest",
+        "version": "21.3.0-beta.1"
+      },
+      "21.3.0-beta.2": {
+        "name": "jest",
+        "version": "21.3.0-beta.2"
+      },
+      "21.3.0-beta.3": {
+        "name": "jest",
+        "version": "21.3.0-beta.3"
+      },
+      "21.3.0-beta.4": {
+        "name": "jest",
+        "version": "21.3.0-beta.4"
+      },
+      "21.3.0-beta.5": {
+        "name": "jest",
+        "version": "21.3.0-beta.5"
+      },
+      "21.3.0-beta.6": {
+        "name": "jest",
+        "version": "21.3.0-beta.6"
+      },
+      "21.3.0-beta.7": {
+        "name": "jest",
+        "version": "21.3.0-beta.7"
+      },
+      "21.3.0-beta.8": {
+        "name": "jest",
+        "version": "21.3.0-beta.8"
+      },
+      "21.3.0-beta.9": {
+        "name": "jest",
+        "version": "21.3.0-beta.9"
+      },
+      "21.3.0-beta.10": {
+        "name": "jest",
+        "version": "21.3.0-beta.10"
+      },
+      "21.3.0-beta.11": {
+        "name": "jest",
+        "version": "21.3.0-beta.11"
+      },
+      "21.3.0-beta.12": {
+        "name": "jest",
+        "version": "21.3.0-beta.12"
+      },
+      "21.3.0-beta.13": {
+        "name": "jest",
+        "version": "21.3.0-beta.13"
+      },
+      "21.3.0-beta.14": {
+        "name": "jest",
+        "version": "21.3.0-beta.14"
+      },
+      "21.3.0-beta.15": {
+        "name": "jest",
+        "version": "21.3.0-beta.15"
+      },
+      "22.0.0": {
+        "name": "jest",
+        "version": "22.0.0"
+      },
+      "22.0.1": {
+        "name": "jest",
+        "version": "22.0.1"
+      },
+      "22.0.2": {
+        "name": "jest",
+        "version": "22.0.2"
+      },
+      "22.0.3": {
+        "name": "jest",
+        "version": "22.0.3"
+      },
+      "22.0.4": {
+        "name": "jest",
+        "version": "22.0.4"
+      },
+      "22.0.5": {
+        "name": "jest",
+        "version": "22.0.5"
+      },
+      "22.0.6": {
+        "name": "jest",
+        "version": "22.0.6"
+      },
+      "22.1.0": {
+        "name": "jest",
+        "version": "22.1.0"
+      },
+      "22.1.1": {
+        "name": "jest",
+        "version": "22.1.1"
+      },
+      "22.1.2": {
+        "name": "jest",
+        "version": "22.1.2"
+      },
+      "22.1.3": {
+        "name": "jest",
+        "version": "22.1.3"
+      },
+      "22.1.4": {
+        "name": "jest",
+        "version": "22.1.4"
+      },
+      "22.2.0": {
+        "name": "jest",
+        "version": "22.2.0"
+      },
+      "22.2.1": {
+        "name": "jest",
+        "version": "22.2.1"
+      },
+      "22.2.2": {
+        "name": "jest",
+        "version": "22.2.2"
+      },
+      "22.3.0": {
+        "name": "jest",
+        "version": "22.3.0"
+      },
+      "22.4.0": {
+        "name": "jest",
+        "version": "22.4.0"
+      },
+      "22.4.1": {
+        "name": "jest",
+        "version": "22.4.1"
+      },
+      "22.4.2": {
+        "name": "jest",
+        "version": "22.4.2"
+      },
+      "23.0.0-alpha.1": {
+        "name": "jest",
+        "version": "23.0.0-alpha.1"
+      },
+      "22.4.3": {
+        "name": "jest",
+        "version": "22.4.3"
+      },
+      "23.0.0-alpha.2": {
+        "name": "jest",
+        "version": "23.0.0-alpha.2"
+      },
+      "23.0.0-alpha.4": {
+        "name": "jest",
+        "version": "23.0.0-alpha.4"
+      },
+      "23.0.0-alpha.5": {
+        "name": "jest",
+        "version": "23.0.0-alpha.5"
+      },
+      "23.0.0-alpha.5r": {
+        "name": "jest",
+        "version": "23.0.0-alpha.5r"
+      },
+      "23.0.0-alpha.6r": {
+        "name": "jest",
+        "version": "23.0.0-alpha.6r"
+      },
+      "23.0.0-alpha.7": {
+        "name": "jest",
+        "version": "23.0.0-alpha.7"
+      },
+      "23.0.0-beta.0": {
+        "name": "jest",
+        "version": "23.0.0-beta.0"
+      },
+      "23.0.0-beta.1": {
+        "name": "jest",
+        "version": "23.0.0-beta.1"
+      },
+      "23.0.0-beta.2": {
+        "name": "jest",
+        "version": "23.0.0-beta.2"
+      },
+      "23.0.0-alpha.3r": {
+        "name": "jest",
+        "version": "23.0.0-alpha.3r"
+      },
+      "23.0.0-beta.3r": {
+        "name": "jest",
+        "version": "23.0.0-beta.3r"
+      },
+      "23.0.0-charlie.0": {
+        "name": "jest",
+        "version": "23.0.0-charlie.0"
+      },
+      "23.0.0-charlie.1": {
+        "name": "jest",
+        "version": "23.0.0-charlie.1"
+      },
+      "23.0.0-charlie.2": {
+        "name": "jest",
+        "version": "23.0.0-charlie.2"
+      },
+      "22.4.4": {
+        "name": "jest",
+        "version": "22.4.4"
+      },
+      "23.0.0-charlie.3": {
+        "name": "jest",
+        "version": "23.0.0-charlie.3"
+      },
+      "23.0.0-charlie.4": {
+        "name": "jest",
+        "version": "23.0.0-charlie.4"
+      },
+      "23.0.0": {
+        "name": "jest",
+        "version": "23.0.0"
+      },
+      "23.0.1": {
+        "name": "jest",
+        "version": "23.0.1"
+      },
+      "23.1.0": {
+        "name": "jest",
+        "version": "23.1.0"
+      },
+      "23.2.0": {
+        "name": "jest",
+        "version": "23.2.0"
+      },
+      "23.3.0": {
+        "name": "jest",
+        "version": "23.3.0"
+      },
+      "23.4.0": {
+        "name": "jest",
+        "version": "23.4.0"
+      },
+      "23.4.1": {
+        "name": "jest",
+        "version": "23.4.1"
+      },
+      "23.4.2": {
+        "name": "jest",
+        "version": "23.4.2"
+      },
+      "23.5.0": {
+        "name": "jest",
+        "version": "23.5.0"
+      },
+      "23.6.0": {
+        "name": "jest",
+        "version": "23.6.0"
+      },
+      "24.0.0-alpha.0": {
+        "name": "jest",
+        "version": "24.0.0-alpha.0"
+      },
+      "24.0.0-alpha.1": {
+        "name": "jest",
+        "version": "24.0.0-alpha.1"
+      },
+      "24.0.0-alpha.2": {
+        "name": "jest",
+        "version": "24.0.0-alpha.2"
+      },
+      "24.0.0-alpha.3": {
+        "name": "jest",
+        "version": "24.0.0-alpha.3"
+      },
+      "24.0.0-alpha.4": {
+        "name": "jest",
+        "version": "24.0.0-alpha.4"
+      },
+      "24.0.0-alpha.5": {
+        "name": "jest",
+        "version": "24.0.0-alpha.5"
+      },
+      "24.0.0-alpha.6": {
+        "name": "jest",
+        "version": "24.0.0-alpha.6"
+      },
+      "24.0.0-alpha.7": {
+        "name": "jest",
+        "version": "24.0.0-alpha.7"
+      },
+      "24.0.0-alpha.8": {
+        "name": "jest",
+        "version": "24.0.0-alpha.8"
+      },
+      "24.0.0-alpha.9": {
+        "name": "jest",
+        "version": "24.0.0-alpha.9"
+      },
+      "24.0.0-alpha.10": {
+        "name": "jest",
+        "version": "24.0.0-alpha.10"
+      },
+      "24.0.0-alpha.11": {
+        "name": "jest",
+        "version": "24.0.0-alpha.11"
+      },
+      "24.0.0-alpha.12": {
+        "name": "jest",
+        "version": "24.0.0-alpha.12"
+      },
+      "24.0.0-alpha.13": {
+        "name": "jest",
+        "version": "24.0.0-alpha.13"
+      },
+      "24.0.0-alpha.14": {
+        "name": "jest",
+        "version": "24.0.0-alpha.14"
+      },
+      "24.0.0-alpha.15": {
+        "name": "jest",
+        "version": "24.0.0-alpha.15"
+      },
+      "24.0.0-alpha.16": {
+        "name": "jest",
+        "version": "24.0.0-alpha.16"
+      },
+      "24.0.0": {
+        "name": "jest",
+        "version": "24.0.0"
+      },
+      "24.1.0": {
+        "name": "jest",
+        "version": "24.1.0"
+      },
+      "24.2.0-alpha.0": {
+        "name": "jest",
+        "version": "24.2.0-alpha.0"
+      },
+      "24.3.0": {
+        "name": "jest",
+        "version": "24.3.0"
+      },
+      "24.3.1": {
+        "name": "jest",
+        "version": "24.3.1"
+      },
+      "24.4.0": {
+        "name": "jest",
+        "version": "24.4.0"
+      },
+      "24.5.0": {
+        "name": "jest",
+        "version": "24.5.0"
+      },
+      "24.6.0": {
+        "name": "jest",
+        "version": "24.6.0"
+      },
+      "24.7.0": {
+        "name": "jest",
+        "version": "24.7.0"
+      },
+      "24.7.1": {
+        "name": "jest",
+        "version": "24.7.1"
+      },
+      "24.8.0": {
+        "name": "jest",
+        "version": "24.8.0"
+      },
+      "24.9.0": {
+        "name": "jest",
+        "version": "24.9.0"
+      },
+      "25.0.0": {
+        "name": "jest",
+        "version": "25.0.0"
+      },
+      "25.1.0": {
+        "name": "jest",
+        "version": "25.1.0"
+      },
+      "25.2.0-alpha.86": {
+        "name": "jest",
+        "version": "25.2.0-alpha.86"
+      },
+      "25.2.0": {
+        "name": "jest",
+        "version": "25.2.0"
+      },
+      "25.2.1-alpha.1": {
+        "name": "jest",
+        "version": "25.2.1-alpha.1"
+      },
+      "25.2.1-alpha.2": {
+        "name": "jest",
+        "version": "25.2.1-alpha.2"
+      },
+      "25.2.1": {
+        "name": "jest",
+        "version": "25.2.1"
+      },
+      "25.2.2": {
+        "name": "jest",
+        "version": "25.2.2"
+      },
+      "25.2.3": {
+        "name": "jest",
+        "version": "25.2.3"
+      },
+      "25.2.4": {
+        "name": "jest",
+        "version": "25.2.4"
+      },
+      "25.2.6": {
+        "name": "jest",
+        "version": "25.2.6"
+      },
+      "25.2.7": {
+        "name": "jest",
+        "version": "25.2.7"
+      },
+      "25.3.0": {
+        "name": "jest",
+        "version": "25.3.0"
+      },
+      "25.4.0": {
+        "name": "jest",
+        "version": "25.4.0"
+      },
+      "25.5.0": {
+        "name": "jest",
+        "version": "25.5.0"
+      },
+      "25.5.1": {
+        "name": "jest",
+        "version": "25.5.1"
+      },
+      "25.5.2": {
+        "name": "jest",
+        "version": "25.5.2"
+      },
+      "25.5.3": {
+        "name": "jest",
+        "version": "25.5.3"
+      },
+      "25.5.4": {
+        "name": "jest",
+        "version": "25.5.4"
+      },
+      "26.0.0-alpha.0": {
+        "name": "jest",
+        "version": "26.0.0-alpha.0"
+      },
+      "26.0.0-alpha.1": {
+        "name": "jest",
+        "version": "26.0.0-alpha.1"
+      },
+      "26.0.0-alpha.2": {
+        "name": "jest",
+        "version": "26.0.0-alpha.2"
+      },
+      "26.0.0": {
+        "name": "jest",
+        "version": "26.0.0"
+      },
+      "26.0.1-alpha.0": {
+        "name": "jest",
+        "version": "26.0.1-alpha.0"
+      },
+      "26.0.1": {
+        "name": "jest",
+        "version": "26.0.1"
+      },
+      "26.1.0": {
+        "name": "jest",
+        "version": "26.1.0"
+      },
+      "26.2.0": {
+        "name": "jest",
+        "version": "26.2.0"
+      },
+      "26.2.1": {
+        "name": "jest",
+        "version": "26.2.1"
+      },
+      "26.2.2": {
+        "name": "jest",
+        "version": "26.2.2"
+      },
+      "26.3.0": {
+        "name": "jest",
+        "version": "26.3.0"
+      },
+      "26.4.0": {
+        "name": "jest",
+        "version": "26.4.0"
+      },
+      "26.4.1": {
+        "name": "jest",
+        "version": "26.4.1"
+      },
+      "26.4.2": {
+        "name": "jest",
+        "version": "26.4.2"
+      },
+      "26.5.0": {
+        "name": "jest",
+        "version": "26.5.0"
+      },
+      "26.5.2": {
+        "name": "jest",
+        "version": "26.5.2"
+      },
+      "26.5.3": {
+        "name": "jest",
+        "version": "26.5.3"
+      },
+      "26.6.0": {
+        "name": "jest",
+        "version": "26.6.0"
+      },
+      "26.6.1": {
+        "name": "jest",
+        "version": "26.6.1"
+      },
+      "26.6.2": {
+        "name": "jest",
+        "version": "26.6.2"
+      },
+      "26.6.3": {
+        "name": "jest",
+        "version": "26.6.3"
+      },
+      "27.0.0-next.0": {
+        "name": "jest",
+        "version": "27.0.0-next.0"
+      },
+      "27.0.0-next.1": {
+        "name": "jest",
+        "version": "27.0.0-next.1"
+      },
+      "27.0.0-next.2": {
+        "name": "jest",
+        "version": "27.0.0-next.2"
+      },
+      "27.0.0-next.3": {
+        "name": "jest",
+        "version": "27.0.0-next.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.4": {
+        "name": "jest",
+        "version": "27.0.0-next.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.5": {
+        "name": "jest",
+        "version": "27.0.0-next.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.6": {
+        "name": "jest",
+        "version": "27.0.0-next.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.7": {
+        "name": "jest",
+        "version": "27.0.0-next.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.8": {
+        "name": "jest",
+        "version": "27.0.0-next.8",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.9": {
+        "name": "jest",
+        "version": "27.0.0-next.9",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.10": {
+        "name": "jest",
+        "version": "27.0.0-next.10",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0-next.11": {
+        "name": "jest",
+        "version": "27.0.0-next.11",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.0": {
+        "name": "jest",
+        "version": "27.0.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.1": {
+        "name": "jest",
+        "version": "27.0.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.2": {
+        "name": "jest",
+        "version": "27.0.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.3": {
+        "name": "jest",
+        "version": "27.0.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.4": {
+        "name": "jest",
+        "version": "27.0.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0"
+        }
+      },
+      "27.0.5": {
+        "name": "jest",
+        "version": "27.0.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.0.6": {
+        "name": "jest",
+        "version": "27.0.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.1.0": {
+        "name": "jest",
+        "version": "27.1.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.1.1": {
+        "name": "jest",
+        "version": "27.1.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.0": {
+        "name": "jest",
+        "version": "27.2.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.1": {
+        "name": "jest",
+        "version": "27.2.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.2": {
+        "name": "jest",
+        "version": "27.2.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.3": {
+        "name": "jest",
+        "version": "27.2.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.4": {
+        "name": "jest",
+        "version": "27.2.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.2.5": {
+        "name": "jest",
+        "version": "27.2.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.3.0": {
+        "name": "jest",
+        "version": "27.3.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.3.1": {
+        "name": "jest",
+        "version": "27.3.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.0": {
+        "name": "jest",
+        "version": "27.4.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.1": {
+        "name": "jest",
+        "version": "27.4.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.2": {
+        "name": "jest",
+        "version": "27.4.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.3": {
+        "name": "jest",
+        "version": "27.4.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.4": {
+        "name": "jest",
+        "version": "27.4.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.5": {
+        "name": "jest",
+        "version": "27.4.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.6": {
+        "name": "jest",
+        "version": "27.4.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.4.7": {
+        "name": "jest",
+        "version": "27.4.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.5.0": {
+        "name": "jest",
+        "version": "27.5.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "27.5.1": {
+        "name": "jest",
+        "version": "27.5.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.0": {
+        "name": "jest",
+        "version": "28.0.0-alpha.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.1": {
+        "name": "jest",
+        "version": "28.0.0-alpha.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.2": {
+        "name": "jest",
+        "version": "28.0.0-alpha.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.3": {
+        "name": "jest",
+        "version": "28.0.0-alpha.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.4": {
+        "name": "jest",
+        "version": "28.0.0-alpha.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.5": {
+        "name": "jest",
+        "version": "28.0.0-alpha.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.6": {
+        "name": "jest",
+        "version": "28.0.0-alpha.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.7": {
+        "name": "jest",
+        "version": "28.0.0-alpha.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.8": {
+        "name": "jest",
+        "version": "28.0.0-alpha.8",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.9": {
+        "name": "jest",
+        "version": "28.0.0-alpha.9",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.10": {
+        "name": "jest",
+        "version": "28.0.0-alpha.10",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0-alpha.11": {
+        "name": "jest",
+        "version": "28.0.0-alpha.11",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.0": {
+        "name": "jest",
+        "version": "28.0.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.1": {
+        "name": "jest",
+        "version": "28.0.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.2": {
+        "name": "jest",
+        "version": "28.0.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.0.3": {
+        "name": "jest",
+        "version": "28.0.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.1.0": {
+        "name": "jest",
+        "version": "28.1.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.1.1": {
+        "name": "jest",
+        "version": "28.1.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.1.2": {
+        "name": "jest",
+        "version": "28.1.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "28.1.3": {
+        "name": "jest",
+        "version": "28.1.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.0": {
+        "name": "jest",
+        "version": "29.0.0-alpha.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.1": {
+        "name": "jest",
+        "version": "29.0.0-alpha.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.3": {
+        "name": "jest",
+        "version": "29.0.0-alpha.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.4": {
+        "name": "jest",
+        "version": "29.0.0-alpha.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.5": {
+        "name": "jest",
+        "version": "29.0.0-alpha.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0-alpha.6": {
+        "name": "jest",
+        "version": "29.0.0-alpha.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.0": {
+        "name": "jest",
+        "version": "29.0.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.1": {
+        "name": "jest",
+        "version": "29.0.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.2": {
+        "name": "jest",
+        "version": "29.0.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.0.3": {
+        "name": "jest",
+        "version": "29.0.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.1.0": {
+        "name": "jest",
+        "version": "29.1.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.1.1": {
+        "name": "jest",
+        "version": "29.1.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.1.2": {
+        "name": "jest",
+        "version": "29.1.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.2.0": {
+        "name": "jest",
+        "version": "29.2.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.2.1": {
+        "name": "jest",
+        "version": "29.2.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.2.2": {
+        "name": "jest",
+        "version": "29.2.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.3.0": {
+        "name": "jest",
+        "version": "29.3.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.3.1": {
+        "name": "jest",
+        "version": "29.3.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.4.0": {
+        "name": "jest",
+        "version": "29.4.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.4.1": {
+        "name": "jest",
+        "version": "29.4.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.4.2": {
+        "name": "jest",
+        "version": "29.4.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.4.3": {
+        "name": "jest",
+        "version": "29.4.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.5.0": {
+        "name": "jest",
+        "version": "29.5.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.0": {
+        "name": "jest",
+        "version": "29.6.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.1": {
+        "name": "jest",
+        "version": "29.6.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.2": {
+        "name": "jest",
+        "version": "29.6.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.3": {
+        "name": "jest",
+        "version": "29.6.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.6.4": {
+        "name": "jest",
+        "version": "29.6.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "29.7.0": {
+        "name": "jest",
+        "version": "29.7.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.1": {
+        "name": "jest",
+        "version": "30.0.0-alpha.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.2": {
+        "name": "jest",
+        "version": "30.0.0-alpha.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.3": {
+        "name": "jest",
+        "version": "30.0.0-alpha.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.4": {
+        "name": "jest",
+        "version": "30.0.0-alpha.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.5": {
+        "name": "jest",
+        "version": "30.0.0-alpha.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.6": {
+        "name": "jest",
+        "version": "30.0.0-alpha.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-alpha.7": {
+        "name": "jest",
+        "version": "30.0.0-alpha.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.2": {
+        "name": "jest",
+        "version": "30.0.0-beta.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.3": {
+        "name": "jest",
+        "version": "30.0.0-beta.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.4": {
+        "name": "jest",
+        "version": "30.0.0-beta.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.5": {
+        "name": "jest",
+        "version": "30.0.0-beta.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.6": {
+        "name": "jest",
+        "version": "30.0.0-beta.6",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.7": {
+        "name": "jest",
+        "version": "30.0.0-beta.7",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.8": {
+        "name": "jest",
+        "version": "30.0.0-beta.8",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-beta.9": {
+        "name": "jest",
+        "version": "30.0.0-beta.9",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0-rc.1": {
+        "name": "jest",
+        "version": "30.0.0-rc.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.0": {
+        "name": "jest",
+        "version": "30.0.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.1": {
+        "name": "jest",
+        "version": "30.0.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.2": {
+        "name": "jest",
+        "version": "30.0.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.3": {
+        "name": "jest",
+        "version": "30.0.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.4": {
+        "name": "jest",
+        "version": "30.0.4",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.0.5": {
+        "name": "jest",
+        "version": "30.0.5",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.1.0": {
+        "name": "jest",
+        "version": "30.1.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.1.1": {
+        "name": "jest",
+        "version": "30.1.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.1.2": {
+        "name": "jest",
+        "version": "30.1.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.1.3": {
+        "name": "jest",
+        "version": "30.1.3",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.2.0": {
+        "name": "jest",
+        "version": "30.2.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.3.0": {
+        "name": "jest",
+        "version": "30.3.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.4.0": {
+        "name": "jest",
+        "version": "30.4.0",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.4.1": {
+        "name": "jest",
+        "version": "30.4.1",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      },
+      "30.4.2": {
+        "name": "jest",
+        "version": "30.4.2",
+        "peerDependencies": {
+          "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+        }
+      }
+    }
+  },
+  "jest-preset-ignite": {
+    "name": "jest-preset-ignite",
+    "dist-tags": {
+      "latest": "0.6.1"
+    },
+    "versions": {
+      "0.1.0": {
+        "name": "jest-preset-ignite",
+        "version": "0.1.0",
+        "peerDependencies": {
+          "react-native": "^0.53.0",
+          "jest": "^22.4.2",
+          "typescript": "^2.7.2"
+        }
+      },
+      "0.1.1": {
+        "name": "jest-preset-ignite",
+        "version": "0.1.1",
+        "peerDependencies": {
+          "react-native": "^0.53.0",
+          "jest": "^22.4.2",
+          "typescript": "^2.7.2"
+        }
+      },
+      "0.2.0": {
+        "name": "jest-preset-ignite",
+        "version": "0.2.0",
+        "peerDependencies": {
+          "react-native": "^0.53.0",
+          "jest": "^22.4.2",
+          "typescript": "^2.7.2"
+        }
+      },
+      "0.3.0": {
+        "name": "jest-preset-ignite",
+        "version": "0.3.0",
+        "peerDependencies": {
+          "react-native": "^0.53.0",
+          "jest": "^22.4.2",
+          "typescript": "^2.7.2"
+        }
+      },
+      "0.4.0": {
+        "name": "jest-preset-ignite",
+        "version": "0.4.0",
+        "peerDependencies": {
+          "react-native": "^0.53.0",
+          "jest": "^22.4.2",
+          "typescript": "^2.7.2"
+        }
+      },
+      "0.4.1": {
+        "name": "jest-preset-ignite",
+        "version": "0.4.1",
+        "peerDependencies": {
+          "react-native": ">=0.53.0",
+          "jest": "^22.4.2",
+          "typescript": "^2.7.2"
+        }
+      },
+      "0.5.0": {
+        "name": "jest-preset-ignite",
+        "version": "0.5.0",
+        "peerDependencies": {
+          "react-native": ">=0.53.0",
+          "jest": "^22.4.2",
+          "typescript": "^2.7.2"
+        }
+      },
+      "0.6.0": {
+        "name": "jest-preset-ignite",
+        "version": "0.6.0",
+        "peerDependencies": {
+          "react-native": ">=0.56.0",
+          "jest": "^22.4.2 || ^23",
+          "typescript": "^2.7 || ^3"
+        }
+      },
+      "0.6.1": {
+        "name": "jest-preset-ignite",
+        "version": "0.6.1",
+        "peerDependencies": {
+          "react-native": ">=0.56.0",
+          "jest": "^23.6",
+          "typescript": "^3"
+        }
+      }
+    }
+  },
+  "@lwc/jest-resolver": {
+    "name": "@lwc/jest-resolver",
+    "dist-tags": {
+      "spring-19": "0.34.7",
+      "summer-19": "0.37.4-220.2",
+      "winter-19": "0.40.1-222.1",
+      "summer20": "4.5.2-226.0",
+      "winter21": "9.0.0-228.0",
+      "spring21": "9.0.0-230.0",
+      "summer21": "10.0.2",
+      "winter22": "11.0.1",
+      "spring23": "11.5.4",
+      "spring24": "14.2.1",
+      "summer24": "14.3.1",
+      "next": "15.0.0-alpha.2",
+      "winter25": "19.0.0",
+      "summer25": "19.1.1",
+      "spring25": "19.2.1",
+      "spring26": "19.2.0",
+      "canary": "19.5.0-alpha.0",
+      "latest": "19.6.1"
+    },
+    "versions": {
+      "0.33.17-alpha04": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.17-alpha04"
+      },
+      "0.33.17": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.17"
+      },
+      "0.33.13": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.13"
+      },
+      "0.33.14": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.14"
+      },
+      "0.33.10": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.10"
+      },
+      "0.33.18": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.18"
+      },
+      "0.33.19": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.19"
+      },
+      "0.33.20": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.20"
+      },
+      "0.33.21": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.21"
+      },
+      "0.33.22": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.22"
+      },
+      "0.33.23": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.23"
+      },
+      "0.33.24": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.24"
+      },
+      "0.33.25": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.25"
+      },
+      "0.33.26": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.26"
+      },
+      "0.33.27-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.27-alpha1"
+      },
+      "0.33.27-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.27-alpha2"
+      },
+      "0.33.28-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha1"
+      },
+      "0.33.28-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha2"
+      },
+      "0.33.28-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha3"
+      },
+      "0.33.28-1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-1"
+      },
+      "0.33.28-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha4"
+      },
+      "0.33.28-alpha5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-alpha5"
+      },
+      "0.34.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.0"
+      },
+      "0.35.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.0"
+      },
+      "0.34.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.0-alpha1"
+      },
+      "0.35.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.1"
+      },
+      "0.33.28-2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-2"
+      },
+      "0.33.28-3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-3"
+      },
+      "0.33.28-4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-4"
+      },
+      "0.33.28-5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.33.28-5"
+      },
+      "0.35.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.2"
+      },
+      "0.35.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.3"
+      },
+      "0.35.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.4"
+      },
+      "0.34.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.1"
+      },
+      "0.34.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.2"
+      },
+      "0.35.5-alpha-1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.5-alpha-1"
+      },
+      "0.35.5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.5"
+      },
+      "0.34.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.3"
+      },
+      "0.34.4-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.4-alpha1"
+      },
+      "0.35.6-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.6-alpha1"
+      },
+      "0.35.6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.6"
+      },
+      "0.34.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.4"
+      },
+      "0.35.7-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7-alpha2"
+      },
+      "0.34.5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.5"
+      },
+      "0.35.7-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7-alpha3"
+      },
+      "0.35.7-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7-alpha4"
+      },
+      "0.35.7": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7"
+      },
+      "0.34.6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.6"
+      },
+      "0.35.9": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.9"
+      },
+      "0.36.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha1"
+      },
+      "0.35.7-test1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.7-test1"
+      },
+      "0.36.0-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha2"
+      },
+      "0.36.0-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha3"
+      },
+      "0.36.0-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha4"
+      },
+      "0.35.10": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.10"
+      },
+      "0.36.0-alpha5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha5"
+      },
+      "0.36.0-alpha6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-alpha6"
+      },
+      "0.35.11": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.11"
+      },
+      "0.34.7": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.7"
+      },
+      "0.35.11-test1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.11-test1"
+      },
+      "0.36.0-beta1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-beta1"
+      },
+      "0.36.0-beta2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-beta2"
+      },
+      "0.36.0-beta3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-beta3"
+      },
+      "0.36.0-beta4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0-beta4"
+      },
+      "0.35.12": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.35.12"
+      },
+      "0.36.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.0"
+      },
+      "0.36.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.36.1"
+      },
+      "0.37.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.0"
+      },
+      "0.37.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.1"
+      },
+      "0.34.8": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.34.8"
+      },
+      "0.37.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.2"
+      },
+      "0.37.3-alpha": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha"
+      },
+      "0.37.3-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha2"
+      },
+      "0.37.3-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha3"
+      },
+      "0.37.3-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha4"
+      },
+      "0.37.3-alpha5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha5"
+      },
+      "0.37.3-alpha6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha6"
+      },
+      "0.37.3-alpha7": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha7"
+      },
+      "0.37.3-alpha8": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha8"
+      },
+      "0.37.3-alpha9": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha9"
+      },
+      "0.37.3-alpha10": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3-alpha10"
+      },
+      "0.38.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.0-alpha1"
+      },
+      "0.38.0-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.0-alpha2"
+      },
+      "0.38.0-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.0-alpha3"
+      },
+      "0.38.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.0"
+      },
+      "0.38.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.1"
+      },
+      "0.38.1-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.1-alpha1"
+      },
+      "0.39.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.0"
+      },
+      "0.38.2-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.2-alpha1"
+      },
+      "0.38.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.38.2"
+      },
+      "0.39.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1"
+      },
+      "0.37.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.3"
+      },
+      "0.37.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4"
+      },
+      "0.37.4-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4-alpha1"
+      },
+      "0.37.4-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4-alpha2"
+      },
+      "0.39.2-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.2-alpha1"
+      },
+      "0.39.2-alpha5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.2-alpha5"
+      },
+      "0.39.2-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.2-alpha2"
+      },
+      "0.39.1-222.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1-222.1"
+      },
+      "0.39.1-222.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1-222.2"
+      },
+      "0.39.2-alpha6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.2-alpha6"
+      },
+      "0.37.4-220.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4-220.1"
+      },
+      "0.39.1-222.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1-222.3"
+      },
+      "0.37.4-220.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.37.4-220.2"
+      },
+      "0.39.1-222.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.39.1-222.4"
+      },
+      "0.40.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.0"
+      },
+      "0.40.1-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-alpha1"
+      },
+      "0.40.1-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-alpha2"
+      },
+      "0.40.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1"
+      },
+      "0.40.1-222.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.1"
+      },
+      "0.40.1-ekashida1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-ekashida1"
+      },
+      "0.40.2-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.2-alpha1"
+      },
+      "0.40.2-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.2-alpha.0"
+      },
+      "0.40.2-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.2-alpha.2"
+      },
+      "1.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.0.0-alpha.0"
+      },
+      "1.0.0-alpha.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.0.0-alpha.1"
+      },
+      "1.0.0-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.0.0-alpha.2"
+      },
+      "1.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.0.0"
+      },
+      "0.40.1-222.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.2"
+      },
+      "0.40.1-222.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.3"
+      },
+      "0.40.1-222.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.4"
+      },
+      "0.40.1-222.5": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.5"
+      },
+      "0.40.1-222.6": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.6"
+      },
+      "0.40.1-222.7": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.7"
+      },
+      "0.40.1-222.8": {
+        "name": "@lwc/jest-resolver",
+        "version": "0.40.1-222.8"
+      },
+      "1.1.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "1.1.0-alpha1",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.1.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.1.1-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.1.1-alpha.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.2.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "2.3.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "2.3.0-alpha1",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.1",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.2",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.4",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.5": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.5",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.6": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.6",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.7": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.7",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.8": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.8",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.9": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.9",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.10": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.10",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.11": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.11",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0-alpha.12": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0-alpha.12",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "3.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.0.0-alpha.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0-224.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0-224.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.2.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.2.0-alpha.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.2.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0-224.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0-224.1",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.3.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.3.0",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0-224.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0-224.2",
+        "peerDependencies": {
+          "@lwc/module-resolver": "*"
+        }
+      },
+      "4.1.0-224.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.1.0-224.3"
+      },
+      "4.3.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.3.1"
+      },
+      "4.4.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.4.0"
+      },
+      "4.4.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.4.1"
+      },
+      "4.4.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.4.2"
+      },
+      "4.5.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.5.0"
+      },
+      "4.5.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.5.1"
+      },
+      "4.5.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.5.2"
+      },
+      "5.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "5.0.0"
+      },
+      "5.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "5.0.1"
+      },
+      "6.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "6.0.0"
+      },
+      "7.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "7.0.0"
+      },
+      "4.5.2-226.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "4.5.2-226.0"
+      },
+      "8.0.0-alpha1": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0-alpha1",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "8.0.0-alpha2": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0-alpha2",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "8.0.0-alpha3": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0-alpha3",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "8.0.0-alpha4": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0-alpha4",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "8.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "jest": "^25.5.4"
+        }
+      },
+      "9.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "jest": ">=25.5.4"
+        }
+      },
+      "9.0.0-228.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "9.0.0-228.0",
+        "peerDependencies": {
+          "jest": ">=25.5.4"
+        }
+      },
+      "9.0.0-230.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "9.0.0-230.0",
+        "peerDependencies": {
+          "jest": ">=25.5.4"
+        }
+      },
+      "10.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "jest": "^26"
+        }
+      },
+      "10.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "jest": "^26"
+        }
+      },
+      "10.0.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "10.0.2",
+        "peerDependencies": {
+          "jest": "^26"
+        }
+      },
+      "11.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.0.1",
+        "peerDependencies": {
+          "jest": "^26"
+        }
+      },
+      "11.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.1.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.2.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.2.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.2.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.2.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.2.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.3.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.3.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27"
+        }
+      },
+      "11.4.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.4.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28"
+        }
+      },
+      "11.5.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.5.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.5.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.5.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.3",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.5.4": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.5.4",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.6.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.6.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.7.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.7.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.7.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.7.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "11.8.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "11.8.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "12.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "12.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "12.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "12.0.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "12.0.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "12.0.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "12.0.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "12.0.3",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "13.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "13.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0-alpha.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0-alpha.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0-alpha.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0-alpha.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0-alpha.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0-alpha.3",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.1.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.1.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.1.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.2.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.2.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.2.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.3.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.3.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.3.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "14.4.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "14.4.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "15.0.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "15.0.0-alpha.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "15.0.0-alpha.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "15.0.0-alpha.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "15.0.0-alpha.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "15.0.0-alpha.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "15.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "15.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.0.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.0.1",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.0.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.0.2",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.0.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.0.3",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "16.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "16.1.0",
+        "peerDependencies": {
+          "jest": "^26 || ^27 || ^28 || ^29"
+        }
+      },
+      "17.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "17.0.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "17.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "17.0.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.0.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.0.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.0.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.0.3": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.0.3",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.1.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.1.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.1.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "18.1.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "18.1.2",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.0.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.0.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.1.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.1.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.1.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.1.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.1.2": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.1.2",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.2.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.2.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.2.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.2.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.4.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.4.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29"
+        }
+      },
+      "19.5.0-alpha.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.5.0-alpha.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29 || ^30"
+        }
+      },
+      "19.5.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.5.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29 || ^30"
+        }
+      },
+      "19.6.0": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.6.0",
+        "peerDependencies": {
+          "jest": "^28 || ^29 || ^30"
+        }
+      },
+      "19.6.1": {
+        "name": "@lwc/jest-resolver",
+        "version": "19.6.1",
+        "peerDependencies": {
+          "jest": "^28 || ^29 || ^30"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-406-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "27.4.4",
+    "jest-cucumber": "1.0.0",
+    "@lwc/jest-serializer": "8.0.0"
+  }
+}

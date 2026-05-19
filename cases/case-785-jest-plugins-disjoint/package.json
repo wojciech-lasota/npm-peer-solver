@@ -1,0 +1,12 @@
+{
+  "name": "case-785-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "27.4.0",
+    "@vue/cli-plugin-unit-jest": "5.0.0",
+    "@lwc/jest-preset": "8.0.0"
+  }
+}

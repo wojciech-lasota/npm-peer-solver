@@ -1,0 +1,12 @@
+{
+  "name": "case-147-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@awmottaz/prettier-plugin-void-html": "1.0.0",
+    "@procore/hammer-format-prettier": "1.0.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-954-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.2.4",
+    "@rozenite/vite-plugin": "1.0.0",
+    "@spiriit/vite-plugin-svg-spritemap": "1.0.0"
+  }
+}

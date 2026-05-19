@@ -1,0 +1,12 @@
+{
+  "name": "case-082-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "@quramy/jest-prisma-core": "1.1.1",
+    "@oriflame/jest-preset": "5.15.10"
+  }
+}

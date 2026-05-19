@@ -1,0 +1,12 @@
+{
+  "name": "case-011-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "20.1.4",
+    "@angular/material-moment-adapter": "5.0.0",
+    "@fortawesome/angular-fontawesome": "0.2.0"
+  }
+}

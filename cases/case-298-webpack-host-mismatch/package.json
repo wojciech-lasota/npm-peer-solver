@@ -1,0 +1,12 @@
+{
+  "name": "case-298-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "css-url-loader": "2.0.1",
+    "copy-webpack-plugin": "14.0.0"
+  }
+}

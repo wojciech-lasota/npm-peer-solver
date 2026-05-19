@@ -1,0 +1,12 @@
+{
+  "name": "case-003-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@homer0/prettier-plugin-jsdoc": "10.0.0",
+    "@jpp-toolkit/prettier-plugin-packagejson": "0.0.12"
+  }
+}

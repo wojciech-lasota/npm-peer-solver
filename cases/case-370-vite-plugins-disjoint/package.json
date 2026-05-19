@@ -1,0 +1,12 @@
+{
+  "name": "case-370-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "8.0.9",
+    "@salesforce/vite-plugin-ui-bundle": "1.117.2",
+    "@linaria/vite": "4.2.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-627-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.14.1",
+    "@markw65/prettier-plugin-monkeyc": "1.0.9",
+    "@prettier/plugin-php": "0.1.0"
+  }
+}

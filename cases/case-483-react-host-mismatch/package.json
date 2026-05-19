@@ -1,0 +1,12 @@
+{
+  "name": "case-483-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-navigation/elements": "2.0.0",
+    "@react-aria/calendar": "3.0.3"
+  }
+}

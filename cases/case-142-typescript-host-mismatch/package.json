@@ -1,0 +1,12 @@
+{
+  "name": "case-142-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "@zerollup/ts-helpers": "1.6.5",
+    "@typescript-eslint/experimental-utils": "4.23.0"
+  }
+}

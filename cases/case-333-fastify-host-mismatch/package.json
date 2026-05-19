@@ -1,0 +1,12 @@
+{
+  "name": "case-333-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@tsed/platform-fastify": "8.8.0",
+    "@scalar/fastify-api-reference": "1.25.94"
+  }
+}

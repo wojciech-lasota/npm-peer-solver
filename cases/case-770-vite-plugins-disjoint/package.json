@@ -1,0 +1,12 @@
+{
+  "name": "case-770-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.1.9",
+    "@tanstack/devtools-vite": "0.2.3",
+    "@prefresh/vite": "0.6.0"
+  }
+}

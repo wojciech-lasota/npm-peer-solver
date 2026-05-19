@@ -1,0 +1,12 @@
+{
+  "name": "case-516-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "4.45.0",
+    "@barretter/remove-unused-files-webpack-plugin": "4.0.0",
+    "@clayne/string-replace-loader": "1.0.5"
+  }
+}

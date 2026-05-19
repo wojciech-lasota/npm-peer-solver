@@ -1,0 +1,12 @@
+{
+  "name": "case-995-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "18.2.0",
+    "@progress/kendo-angular-indicators": "0.1.0",
+    "@angular/elements": "11.0.0"
+  }
+}

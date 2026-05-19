@@ -1,0 +1,12 @@
+{
+  "name": "case-491-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "2.3.2",
+    "@prettier/plugin-ruby": "4.0.2",
+    "@ianvs/prettier-plugin-sort-imports": "3.2.0"
+  }
+}

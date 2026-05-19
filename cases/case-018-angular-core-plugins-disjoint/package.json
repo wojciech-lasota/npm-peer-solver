@@ -1,0 +1,12 @@
+{
+  "name": "case-018-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "20.3.3",
+    "@angular-slider/ngx-slider": "2.0.0",
+    "@okta/okta-angular": "0.0.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-162-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.71.0",
+    "@plugin-web-update-notification/webpack": "0.4.1",
+    "copy-pkg-json-webpack-plugin": "0.0.29"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-081-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.4.11",
+    "@mertasan/tailwindcss-variables": "1.0.0",
+    "@duskmoon-dev/core": "0.1.0"
+  }
+}

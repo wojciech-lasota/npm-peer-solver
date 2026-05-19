@@ -1,0 +1,12 @@
+{
+  "name": "case-564-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@emdzej/keycloak-api-keys-fastify": "0.1.0",
+    "@fgiova/fastify-sqs-consumer": "3.0.1"
+  }
+}

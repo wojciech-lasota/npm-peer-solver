@@ -1,0 +1,816 @@
+[
+  {
+    "packageName": "vite",
+    "requestedRange": "4.3.1",
+    "candidates": [
+      {
+        "packageName": "vite",
+        "version": "8.0.13",
+        "peerDependencies": {
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "@vitejs/devtools": "^0.1.18",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "sass-embedded": "^1.70.0",
+          "stylus": ">=0.54.8",
+          "sugarss": "^5.0.0",
+          "terser": "^5.16.0",
+          "tsx": "^4.8.1",
+          "yaml": "^2.4.2"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.12",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.18"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.11",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.18"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.10",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.9",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.8",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.7",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.6",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.5",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.4",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0 || ^0.28.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.3",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.2",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.1",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.1.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "esbuild": "^0.27.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "sass-embedded": "^1.70.0",
+          "@vitejs/devtools": "^0.0.0-alpha.31"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.3.3",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.3.2",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.3.1",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.3.0",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.2.7",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.2.6",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.2.4",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.2.3",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.2.2",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.2.1",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "7.2.0",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "^4.0.0",
+          "sass": "^1.70.0",
+          "yaml": "^2.4.2",
+          "stylus": ">=0.54.8",
+          "terser": "^5.16.0",
+          "sugarss": "^5.0.0",
+          "@types/node": "^20.19.0 || >=22.12.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "^1.70.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "6.4.2",
+        "peerDependencies": {
+          "tsx": "^4.8.1",
+          "jiti": ">=1.21.0",
+          "less": "*",
+          "sass": "*",
+          "yaml": "^2.4.2",
+          "stylus": "*",
+          "terser": "^5.16.0",
+          "sugarss": "*",
+          "@types/node": "^18.0.0 || ^20.0.0 || >=22.0.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "*"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "5.4.21",
+        "peerDependencies": {
+          "less": "*",
+          "sass": "*",
+          "stylus": "*",
+          "terser": "^5.4.0",
+          "sugarss": "*",
+          "@types/node": "^18.0.0 || >=20.0.0",
+          "lightningcss": "^1.21.0",
+          "sass-embedded": "*"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "4.5.14",
+        "peerDependencies": {
+          "less": "*",
+          "sass": "*",
+          "stylus": "*",
+          "terser": "^5.4.0",
+          "sugarss": "*",
+          "@types/node": ">= 14",
+          "lightningcss": "^1.21.0"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "3.2.11",
+        "peerDependencies": {
+          "less": "*",
+          "sass": "*",
+          "stylus": "*",
+          "terser": "^5.4.0",
+          "sugarss": "*",
+          "@types/node": ">= 14"
+        }
+      },
+      {
+        "packageName": "vite",
+        "version": "2.9.18",
+        "peerDependencies": {
+          "less": "*",
+          "sass": "*",
+          "stylus": "*"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@geajs/vite-plugin",
+    "requestedRange": "1.0.0",
+    "candidates": [
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.3.1",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.2.3",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.2.2",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.1.3",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.28",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.27",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.26",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.24",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.23",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.22",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.21",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.20",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.19",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.18",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.17",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.16",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.15",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.14",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.13",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.12",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.11",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.10",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.9",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.7",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@geajs/vite-plugin",
+        "version": "1.0.6",
+        "peerDependencies": {
+          "vite": "^8.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@adonisjs/vite",
+    "requestedRange": "2.0.0",
+    "candidates": [
+      {
+        "packageName": "@adonisjs/vite",
+        "version": "5.1.1",
+        "peerDependencies": {
+          "vite": "^7.0.0",
+          "edge.js": "^6.0.1",
+          "@adonisjs/core": "^7.0.0-next.3 || ^7.0.0",
+          "@adonisjs/shield": "^9.0.0-next.0 || ^9.0.0",
+          "@adonisjs/assembler": "^8.0.0-next.10 || ^8.0.0"
+        }
+      },
+      {
+        "packageName": "@adonisjs/vite",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "vite": "^7.0.0",
+          "edge.js": "^6.0.1",
+          "@adonisjs/core": "^7.0.0-next.3 || ^7.0.0",
+          "@adonisjs/shield": "^9.0.0-next.0 || ^9.0.0",
+          "@adonisjs/assembler": "^8.0.0-next.10 || ^8.0.0"
+        }
+      },
+      {
+        "packageName": "@adonisjs/vite",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "vite": "^6.0.0",
+          "edge.js": "^6.0.1",
+          "@adonisjs/core": "^6.3.0",
+          "@adonisjs/shield": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@adonisjs/vite",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "vite": "^5.1.4",
+          "edge.js": "^6.0.1",
+          "@adonisjs/core": "^6.3.0",
+          "@adonisjs/shield": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@adonisjs/vite",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "vite": "^5.0.11",
+          "edge.js": "^6.0.1",
+          "@adonisjs/core": "^6.2.0",
+          "@adonisjs/shield": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@adonisjs/vite",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "vite": "^4.0.0 || ^5.0.0",
+          "edge.js": "^6.0.0",
+          "@adonisjs/core": "^6.1.5-32",
+          "@adonisjs/shield": "^8.0.0-9"
+        }
+      },
+      {
+        "packageName": "@adonisjs/vite",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "vite": "^4.0.0 || ^5.0.0",
+          "edge.js": "^6.0.0",
+          "@adonisjs/core": "^6.1.5-32",
+          "@adonisjs/shield": "^8.0.0-9"
+        }
+      },
+      {
+        "packageName": "@adonisjs/vite",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "vite": "^4.4.11",
+          "edge.js": "^6.0.0-8",
+          "@adonisjs/core": "^6.1.5-28",
+          "@adonisjs/shield": "^8.0.0-8"
+        }
+      }
+    ]
+  }
+]

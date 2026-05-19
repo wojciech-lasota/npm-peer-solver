@@ -1,0 +1,12 @@
+{
+  "name": "case-506-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.18.0",
+    "@book000/eslint-config": "1.1.0",
+    "@anolilab/eslint-config": "1.0.0"
+  }
+}

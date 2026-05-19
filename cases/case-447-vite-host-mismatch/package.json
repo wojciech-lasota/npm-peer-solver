@@ -1,0 +1,12 @@
+{
+  "name": "case-447-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@deno/vite-plugin": "0.0.1",
+    "@adonisjs/vite": "4.0.0"
+  }
+}

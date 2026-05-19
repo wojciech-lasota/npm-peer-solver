@@ -1,0 +1,12 @@
+{
+  "name": "case-711-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.105.0",
+    "@mpjs/mp-plugin-webpack": "1.0.0",
+    "camunda-modeler-webpack-plugin": "0.2.0"
+  }
+}

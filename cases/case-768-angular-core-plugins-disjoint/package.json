@@ -1,0 +1,12 @@
+{
+  "name": "case-768-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "16.2.7",
+    "@progress/kendo-angular-sortable": "0.3.1",
+    "@herd/angular-client": "0.52.0"
+  }
+}

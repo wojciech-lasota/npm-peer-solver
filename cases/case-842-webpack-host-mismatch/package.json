@@ -1,0 +1,12 @@
+{
+  "name": "case-842-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "@serwist/webpack-plugin": "8.0.0",
+    "@webpack-contrib/config-loader": "1.1.2"
+  }
+}

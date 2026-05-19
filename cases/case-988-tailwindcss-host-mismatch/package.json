@@ -1,0 +1,12 @@
+{
+  "name": "case-988-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@hyoban/eslint-plugin-tailwindcss": "3.18.0",
+    "@djangocfg/ui-core": "2.1.115"
+  }
+}

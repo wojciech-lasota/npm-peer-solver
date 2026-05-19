@@ -1,0 +1,12 @@
+{
+  "name": "case-007-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "13.2.3",
+    "@tdd-buffet/jest-config": "1.0.0",
+    "jest-preset-ngs": "1.0.5"
+  }
+}

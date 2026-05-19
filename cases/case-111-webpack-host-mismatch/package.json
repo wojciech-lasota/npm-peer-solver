@@ -1,0 +1,12 @@
+{
+  "name": "case-111-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "css-mqpacker-webpack-plugin": "0.1.0",
+    "add-asset-html-webpack-plugin": "3.2.1"
+  }
+}

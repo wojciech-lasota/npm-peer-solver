@@ -1,0 +1,12 @@
+{
+  "name": "case-715-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@linaria/vite": "4.2.3",
+    "@metagptx/web-sdk": "0.0.6"
+  }
+}

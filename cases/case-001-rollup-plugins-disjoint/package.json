@@ -1,0 +1,12 @@
+{
+  "name": "case-001-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "3.26.1",
+    "@lang/rollup-plugin-dts": "2.0.1",
+    "@formatjs/unplugin": "1.0.0"
+  }
+}

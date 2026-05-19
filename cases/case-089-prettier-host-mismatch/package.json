@@ -1,0 +1,12 @@
+{
+  "name": "case-089-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@luca-iachini/prettier-plugin-fluent": "1.0.4",
+    "@sanity/prettier-plugin-groq": "0.0.2"
+  }
+}

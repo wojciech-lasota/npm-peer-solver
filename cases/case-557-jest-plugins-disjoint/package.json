@@ -1,0 +1,12 @@
+{
+  "name": "case-557-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "16.0.2",
+    "jest-transformer-svg": "1.0.0",
+    "jest-specific-snapshot": "0.1.0"
+  }
+}

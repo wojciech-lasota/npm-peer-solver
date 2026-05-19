@@ -1,0 +1,12 @@
+{
+  "name": "case-596-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "5.4.0",
+    "@hono/eslint-config": "1.0.0",
+    "@guardian/eslint-config-typescript": "1.0.0"
+  }
+}

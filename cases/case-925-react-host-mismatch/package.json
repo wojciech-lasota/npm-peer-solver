@@ -1,0 +1,12 @@
+{
+  "name": "case-925-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-spring/shared": "9.0.0",
+    "@react-aria/table": "3.2.1"
+  }
+}

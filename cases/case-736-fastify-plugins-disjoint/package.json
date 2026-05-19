@@ -1,0 +1,12 @@
+{
+  "name": "case-736-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "3.16.0",
+    "@polar-sh/fastify": "0.1.1",
+    "@sp-uvb/fastify": "0.1.0"
+  }
+}

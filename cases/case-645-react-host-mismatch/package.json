@@ -1,0 +1,12 @@
+{
+  "name": "case-645-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/i18n": "3.0.0",
+    "@react-aria/select": "3.17.1"
+  }
+}

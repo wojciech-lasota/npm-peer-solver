@@ -1,0 +1,12 @@
+{
+  "name": "case-106-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "1.8.5",
+    "@formatjs/ts-transformer": "2.4.2",
+    "rollup-plugin-typescript2": "0.0.1"
+  }
+}

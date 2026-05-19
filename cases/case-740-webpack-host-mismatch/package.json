@@ -1,0 +1,12 @@
+{
+  "name": "case-740-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "@lvl/wxapp-webpack-plugin": "0.1.0",
+    "@insin/npm-install-webpack-plugin": "5.0.0"
+  }
+}

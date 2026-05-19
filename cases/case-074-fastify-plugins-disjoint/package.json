@@ -1,0 +1,12 @@
+{
+  "name": "case-074-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "5.7.4",
+    "@sp-uvb/fastify": "0.1.0",
+    "@jerome1337/fastify-enforce-routes-pattern": "1.0.1"
+  }
+}

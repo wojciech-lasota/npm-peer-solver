@@ -1,0 +1,12 @@
+{
+  "name": "case-490-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "5.8.3",
+    "rollup-plugin-typescript2": "0.0.1",
+    "typescript-tuple": "1.0.1"
+  }
+}

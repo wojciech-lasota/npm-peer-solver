@@ -1,0 +1,12 @@
+{
+  "name": "case-266-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "9.1.0",
+    "@atomic-tools/eslint-config-atomic": "1.0.0",
+    "@haraka/eslint-config": "1.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-901-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "29.3.0",
+    "jest-cucumber": "1.0.0",
+    "jest-image-snapshot": "0.1.0"
+  }
+}

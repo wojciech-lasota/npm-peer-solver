@@ -1,0 +1,12 @@
+{
+  "name": "case-632-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "6.0.0",
+    "@cyco130/vite-plugin-mdx": "0.0.2",
+    "@nabla/vite-plugin-eslint": "1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-096-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.37",
+    "jest-preset-stylelint": "6.0.0",
+    "jest-preset-ec0lint-style": "1.0.1"
+  }
+}

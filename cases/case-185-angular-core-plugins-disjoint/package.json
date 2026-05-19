@@ -1,0 +1,12 @@
+{
+  "name": "case-185-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "20.1.1",
+    "@casl/angular": "0.1.1",
+    "@angular/google-maps": "9.0.0"
+  }
+}

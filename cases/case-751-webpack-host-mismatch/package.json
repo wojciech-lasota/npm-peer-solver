@@ -1,0 +1,12 @@
+{
+  "name": "case-751-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "copy-pkg-json-webpack-plugin": "0.0.29",
+    "babel-minify-webpack-plugin": "0.2.0"
+  }
+}

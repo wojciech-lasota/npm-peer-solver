@@ -1,0 +1,12 @@
+{
+  "name": "case-159-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.97.1",
+    "@ngtools/webpack": "1.2.0",
+    "create-file-webpack-plugin": "1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-565-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-mock-extended": "1.0.2",
+    "@ta-interaktiv/jest-preset": "2.1.2"
+  }
+}

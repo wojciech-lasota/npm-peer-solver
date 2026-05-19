@@ -1,0 +1,12 @@
+{
+  "name": "case-125-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "detective-typescript": "13.0.0",
+    "@rollup/plugin-typescript": "10.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-449-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "2.3.0",
+    "@nice-move/prettier-plugin-package-json": "0.0.0",
+    "@sanity-labs/prettier-plugin-groq": "0.1.0"
+  }
+}

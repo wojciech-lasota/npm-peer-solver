@@ -1,0 +1,12 @@
+{
+  "name": "case-057-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/datepicker": "3.0.0",
+    "@react-spring/web": "9.7.4"
+  }
+}

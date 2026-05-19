@@ -1,0 +1,12 @@
+{
+  "name": "case-257-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.0.5",
+    "@dhiwise/component-tagger": "1.0.0",
+    "@module-federation/vite": "1.9.7"
+  }
+}

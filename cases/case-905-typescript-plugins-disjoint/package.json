@@ -1,0 +1,12 @@
+{
+  "name": "case-905-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "2.8.3",
+    "@typescript-eslint/project-service": "8.33.1",
+    "@typescript-eslint/eslint-plugin": "0.1.0"
+  }
+}

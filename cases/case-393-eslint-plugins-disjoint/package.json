@@ -1,0 +1,12 @@
+{
+  "name": "case-393-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.3.0",
+    "@gravity-ui/eslint-config": "1.0.0",
+    "@commercetools-frontend/eslint-config-mc-app": "6.0.0"
+  }
+}

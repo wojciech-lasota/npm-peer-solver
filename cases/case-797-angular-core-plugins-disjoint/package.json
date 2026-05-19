@@ -1,0 +1,12 @@
+{
+  "name": "case-797-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "18.0.7",
+    "@coreui/angular": "2.0.0",
+    "@angular/material": "5.0.0"
+  }
+}

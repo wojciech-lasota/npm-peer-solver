@@ -1,0 +1,12 @@
+{
+  "name": "case-502-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "2.10.0",
+    "@fastify/schedule": "2.0.0",
+    "@aegisx/fastify-multipart": "1.0.0"
+  }
+}

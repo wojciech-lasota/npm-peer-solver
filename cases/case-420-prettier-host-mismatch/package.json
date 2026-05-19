@@ -1,0 +1,12 @@
+{
+  "name": "case-420-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@belt/prettier-plugin": "0.0.3",
+    "@imforce/prettier-plugin-jssp": "0.0.1"
+  }
+}

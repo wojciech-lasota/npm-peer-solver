@@ -1,0 +1,12 @@
+{
+  "name": "case-846-rollup-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.0.0",
+    "@wwa/rollup-plugin-terser": "1.0.0",
+    "rollup-plugin-deassert": "1.3.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-454-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/select": "3.0.0",
+    "@react-stately/calendar": "3.8.0"
+  }
+}

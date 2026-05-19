@@ -1,0 +1,12 @@
+{
+  "name": "case-220-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.8.0",
+    "@deriv-com/eslint-config-deriv": "2.2.0",
+    "@hono/eslint-config": "1.0.0"
+  }
+}

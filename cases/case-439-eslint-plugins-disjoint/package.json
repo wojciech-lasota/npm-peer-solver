@@ -1,0 +1,12 @@
+{
+  "name": "case-439-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "9.20.0",
+    "@equisoft/eslint-config-typescript-react": "0.0.1",
+    "@amedia/eslint-config-jest": "5.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-684-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@clerk/fastify": "0.1.1",
+    "@prefabs.tech/saas-fastify": "0.25.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-702-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.2.14",
+    "@preact/preset-vite": "1.0.0",
+    "@crxjs/vite-plugin": "2.4.0"
+  }
+}

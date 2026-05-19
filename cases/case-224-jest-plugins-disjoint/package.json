@@ -1,0 +1,12 @@
+{
+  "name": "case-224-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.35",
+    "@vue/vue2-jest": "26.0.1",
+    "jest-mock-vscode": "0.1.1"
+  }
+}

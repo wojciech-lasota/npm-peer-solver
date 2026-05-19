@@ -1,0 +1,451 @@
+[
+  {
+    "packageName": "webpack",
+    "requestedRange": "5.97.1",
+    "candidates": [
+      {
+        "packageName": "webpack",
+        "version": "5.106.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.103.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.9",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.8",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.7",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.6",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "4.47.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "3.12.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "2.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "1.15.0",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@ngtools/webpack",
+    "requestedRange": "1.2.0",
+    "candidates": [
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.1",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.2.0",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.1.5",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "21.1.4",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.9 <6.0",
+          "@angular/compiler-cli": "^21.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "20.3.26",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.8 <6.0",
+          "@angular/compiler-cli": "^20.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "19.2.26",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.5 <5.9",
+          "@angular/compiler-cli": "^19.0.0 || ^19.2.0-next.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "18.2.21",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.4 <5.6",
+          "@angular/compiler-cli": "^18.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "17.3.17",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=5.2 <5.5",
+          "@angular/compiler-cli": "^17.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "16.2.16",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=4.9.3 <5.2",
+          "@angular/compiler-cli": "^16.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "15.2.11",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=4.8.2 <5.0",
+          "@angular/compiler-cli": "^15.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "14.2.13",
+        "peerDependencies": {
+          "webpack": "^5.54.0",
+          "typescript": ">=4.6.2 <4.9",
+          "@angular/compiler-cli": "^14.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "13.3.11",
+        "peerDependencies": {
+          "webpack": "^5.30.0",
+          "typescript": ">=4.4.3 <4.7",
+          "@angular/compiler-cli": "^13.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "12.2.18",
+        "peerDependencies": {
+          "webpack": "^5.30.0",
+          "typescript": "~4.2.3 || ~4.3.2",
+          "@angular/compiler-cli": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "11.2.19",
+        "peerDependencies": {
+          "webpack": "^4.0.0",
+          "typescript": "~4.0.0 || ~4.1.0",
+          "@angular/compiler-cli": "^11.0.0 || ^11.2.0-next"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "10.2.4",
+        "peerDependencies": {
+          "webpack": "^4.0.0",
+          "typescript": ">=3.9 < 4.1",
+          "@angular/compiler-cli": "^10.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "9.1.15",
+        "peerDependencies": {
+          "webpack": "^4.0.0",
+          "typescript": ">=3.6 < 3.9",
+          "@angular/compiler-cli": ">=9.0.0 < 10"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "8.3.29",
+        "peerDependencies": {
+          "webpack": "^4.0.0",
+          "typescript": ">=3.4 < 3.6",
+          "@angular/compiler-cli": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "7.3.10",
+        "peerDependencies": {
+          "webpack": "^4.0.0",
+          "typescript": ">=2.4.0 < 3.3",
+          "@angular/compiler-cli": ">=5.0.0 <8.0.0 || ^7.0.0-beta.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "6.2.9",
+        "peerDependencies": {
+          "webpack": "^4.0.0",
+          "typescript": "~2.4.0 || ~2.5.0 || ~2.6.0 || ~2.7.0 || ~2.8.0 || ~2.9.0"
+        }
+      },
+      {
+        "packageName": "@ngtools/webpack",
+        "version": "1.10.2",
+        "peerDependencies": {
+          "webpack": "^2.2.0 || ^3.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "create-file-webpack-plugin",
+    "requestedRange": "1.0.0",
+    "candidates": [
+      {
+        "packageName": "create-file-webpack-plugin",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "webpack": ">=4"
+        }
+      },
+      {
+        "packageName": "create-file-webpack-plugin",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "webpack": ">=4"
+        }
+      }
+    ]
+  }
+]

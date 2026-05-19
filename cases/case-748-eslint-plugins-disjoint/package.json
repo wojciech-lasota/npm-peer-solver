@@ -1,0 +1,12 @@
+{
+  "name": "case-748-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "6.1.0",
+    "@commercetools-backend/eslint-config-node": "21.3.0",
+    "@hazmi35/eslint-config": "14.0.0"
+  }
+}

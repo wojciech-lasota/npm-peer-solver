@@ -1,0 +1,12 @@
+{
+  "name": "case-120-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@designbycode/tailwindcss-stripes": "1.0.5",
+    "@tailwindcss/line-clamp": "0.3.0"
+  }
+}

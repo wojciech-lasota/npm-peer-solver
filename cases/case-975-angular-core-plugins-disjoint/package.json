@@ -1,0 +1,12 @@
+{
+  "name": "case-975-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.10",
+    "@progress/kendo-angular-notification": "0.1.0",
+    "@progress/kendo-angular-sortable": "0.3.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-317-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "9.6.0",
+    "@babel/eslint-plugin": "7.22.10",
+    "@boehringer-ingelheim/eslint-config": "8.0.0"
+  }
+}

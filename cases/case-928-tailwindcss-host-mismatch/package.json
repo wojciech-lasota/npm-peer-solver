@@ -1,0 +1,12 @@
+{
+  "name": "case-928-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@joyfour/tailwind-plugin-template": "0.0.1",
+    "@designbycode/tailwindcss-text-shadow": "1.2.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-716-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "4.16.2",
+    "@pikku/fastify-plugin": "0.10.0",
+    "@sp-uvb/fastify": "0.1.0"
+  }
+}

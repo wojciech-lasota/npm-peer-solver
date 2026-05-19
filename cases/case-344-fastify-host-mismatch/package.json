@@ -1,0 +1,12 @@
+{
+  "name": "case-344-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@classytic/arc": "1.0.0",
+    "@marcalexiei/fastify-type-provider-zod": "2.0.2"
+  }
+}

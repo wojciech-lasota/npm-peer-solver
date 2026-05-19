@@ -1,0 +1,12 @@
+{
+  "name": "case-675-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@headlessui/tailwindcss": "0.1.0",
+    "@yet3/tailwindcss-bg-patterns": "1.1.0"
+  }
+}

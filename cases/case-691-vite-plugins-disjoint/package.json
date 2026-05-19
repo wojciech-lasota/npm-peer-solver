@@ -1,0 +1,12 @@
+{
+  "name": "case-691-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.2.3",
+    "@pyreon/vite-plugin": "0.1.0",
+    "@embroider/vite": "0.1.0"
+  }
+}

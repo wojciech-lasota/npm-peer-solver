@@ -1,0 +1,12 @@
+{
+  "name": "case-031-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "21.0.0",
+    "@angular/service-worker": "0.7.2",
+    "@jsonforms/angular-material": "2.2.0"
+  }
+}

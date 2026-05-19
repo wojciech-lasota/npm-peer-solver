@@ -1,0 +1,12 @@
+{
+  "name": "case-279-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "3.2.4",
+    "@koha-community/prettier-plugin-template-toolkit": "2.0.1",
+    "prettier-plugin-apex": "1.0.0"
+  }
+}

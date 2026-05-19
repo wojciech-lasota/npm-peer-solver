@@ -1,0 +1,12 @@
+{
+  "name": "case-200-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "3.5.0",
+    "@fredluetkemeier/prettier-plugin-css-order": "1.1.0",
+    "@arnaud-barre/prettier-plugin-sort-imports": "0.1.0"
+  }
+}

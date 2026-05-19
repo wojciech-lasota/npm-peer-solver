@@ -1,0 +1,12 @@
+{
+  "name": "case-686-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@getlarge/nestjs-tools-fastify-upload": "0.1.0",
+    "@trymarket/fastify": "0.1.0"
+  }
+}

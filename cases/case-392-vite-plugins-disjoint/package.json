@@ -1,0 +1,12 @@
+{
+  "name": "case-392-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.0.5",
+    "@remcovaes/web-test-runner-vite-plugin": "1.0.0",
+    "@open-xchange/vite-plugin-po2json": "1.0.0"
+  }
+}

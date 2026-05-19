@@ -1,0 +1,12 @@
+{
+  "name": "case-025-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.13.1",
+    "@seletskiy/plugin-pug": "1.4.1",
+    "@taiga-ui/prettier-plugin-backticks": "1.0.0"
+  }
+}

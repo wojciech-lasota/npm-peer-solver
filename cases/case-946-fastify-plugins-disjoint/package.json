@@ -1,0 +1,12 @@
+{
+  "name": "case-946-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "5.8.0",
+    "@prefabs.tech/fastify-error-handler": "0.89.0",
+    "@mcansh/remix-fastify": "1.5.0"
+  }
+}

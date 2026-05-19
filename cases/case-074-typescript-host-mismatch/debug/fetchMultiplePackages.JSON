@@ -15057,8 +15057,8 @@
     "name": "typescript-eslint",
     "dist-tags": {
       "rc-v8": "8.0.0-alpha.62",
-      "latest": "8.59.3",
-      "canary": "8.59.4-alpha.2"
+      "latest": "8.59.4",
+      "canary": "8.59.5-alpha.2"
     },
     "versions": {
       "0.0.1-alpha.0": {
@@ -24423,14 +24423,102 @@
           "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
           "typescript": ">=4.8.4 <6.1.0"
         }
+      },
+      "8.59.4-alpha.3": {
+        "name": "typescript-eslint",
+        "version": "8.59.4-alpha.3",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.4": {
+        "name": "typescript-eslint",
+        "version": "8.59.4-alpha.4",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.5": {
+        "name": "typescript-eslint",
+        "version": "8.59.4-alpha.5",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.6": {
+        "name": "typescript-eslint",
+        "version": "8.59.4-alpha.6",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.7": {
+        "name": "typescript-eslint",
+        "version": "8.59.4-alpha.7",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.8": {
+        "name": "typescript-eslint",
+        "version": "8.59.4-alpha.8",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.9": {
+        "name": "typescript-eslint",
+        "version": "8.59.4-alpha.9",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4": {
+        "name": "typescript-eslint",
+        "version": "8.59.4",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.5-alpha.0": {
+        "name": "typescript-eslint",
+        "version": "8.59.5-alpha.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.5-alpha.1": {
+        "name": "typescript-eslint",
+        "version": "8.59.5-alpha.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.5-alpha.2": {
+        "name": "typescript-eslint",
+        "version": "8.59.5-alpha.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
       }
     }
   },
   "@typescript-eslint/project-service": {
     "name": "@typescript-eslint/project-service",
     "dist-tags": {
-      "latest": "8.59.3",
-      "canary": "8.59.4-alpha.2"
+      "latest": "8.59.4",
+      "canary": "8.59.5-alpha.2"
     },
     "versions": {
       "8.32.2-alpha.12": {
@@ -27519,6 +27607,83 @@
         "peerDependencies": {
           "typescript": ">=4.8.4 <6.1.0"
         }
+      },
+      "8.59.4-alpha.3": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.4-alpha.3",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.4": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.4-alpha.4",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.5": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.4-alpha.5",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.6": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.4-alpha.6",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.7": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.4-alpha.7",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.8": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.4-alpha.8",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.9": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.4-alpha.9",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.4",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.5-alpha.0": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.5-alpha.0",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.5-alpha.1": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.5-alpha.1",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.5-alpha.2": {
+        "name": "@typescript-eslint/project-service",
+        "version": "8.59.5-alpha.2",
+        "peerDependencies": {
+          "typescript": ">=4.8.4 <6.1.0"
+        }
       }
     }
   },
@@ -27531,8 +27696,8 @@
       "rc-v": "6.0.0-alpha.58",
       "rc-v6": "7.0.0-alpha.0",
       "rc-v8": "8.0.0-alpha.62",
-      "latest": "8.59.3",
-      "canary": "8.59.4-alpha.2"
+      "latest": "8.59.4",
+      "canary": "8.59.5-alpha.2"
     },
     "versions": {
       "0.0.1-alpha.0": {
@@ -60979,6 +61144,94 @@
           "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
           "typescript": ">=4.8.4 <6.1.0"
         }
+      },
+      "8.59.4-alpha.3": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.4-alpha.3",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.4": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.4-alpha.4",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.5": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.4-alpha.5",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.6": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.4-alpha.6",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.7": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.4-alpha.7",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.8": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.4-alpha.8",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4-alpha.9": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.4-alpha.9",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.4": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.4",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.5-alpha.0": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.5-alpha.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.5-alpha.1": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.5-alpha.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      "8.59.5-alpha.2": {
+        "name": "@typescript-eslint/parser",
+        "version": "8.59.5-alpha.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
       }
     }
   },
@@ -79348,8 +79601,8 @@
       "rc-v": "6.0.0-alpha.58",
       "rc-v6": "7.0.0-alpha.0",
       "rc-v8": "8.0.0-alpha.62",
-      "latest": "8.59.3",
-      "canary": "8.59.4-alpha.2"
+      "latest": "8.59.4",
+      "canary": "8.59.5-alpha.2"
     },
     "versions": {
       "0.0.1-alpha.0": {
@@ -116605,6 +116858,105 @@
           "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
           "typescript": ">=4.8.4 <6.1.0",
           "@typescript-eslint/parser": "^8.59.4-alpha.2"
+        }
+      },
+      "8.59.4-alpha.3": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.4-alpha.3",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.4-alpha.3"
+        }
+      },
+      "8.59.4-alpha.4": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.4-alpha.4",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.4-alpha.4"
+        }
+      },
+      "8.59.4-alpha.5": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.4-alpha.5",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.4-alpha.5"
+        }
+      },
+      "8.59.4-alpha.6": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.4-alpha.6",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.4-alpha.6"
+        }
+      },
+      "8.59.4-alpha.7": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.4-alpha.7",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.4-alpha.7"
+        }
+      },
+      "8.59.4-alpha.8": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.4-alpha.8",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.4-alpha.8"
+        }
+      },
+      "8.59.4-alpha.9": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.4-alpha.9",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.4-alpha.9"
+        }
+      },
+      "8.59.4": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.4",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.4"
+        }
+      },
+      "8.59.5-alpha.0": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.5-alpha.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.5-alpha.0"
+        }
+      },
+      "8.59.5-alpha.1": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.5-alpha.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.5-alpha.1"
+        }
+      },
+      "8.59.5-alpha.2": {
+        "name": "@typescript-eslint/eslint-plugin",
+        "version": "8.59.5-alpha.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0",
+          "@typescript-eslint/parser": "^8.59.5-alpha.2"
         }
       }
     }

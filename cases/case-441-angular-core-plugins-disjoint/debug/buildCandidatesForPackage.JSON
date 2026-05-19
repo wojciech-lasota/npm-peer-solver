@@ -1,0 +1,917 @@
+[
+  {
+    "packageName": "@angular/core",
+    "requestedRange": "20.3.3",
+    "candidates": [
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.13"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.9"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.8"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.7"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.6"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.2"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "20.3.21",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0",
+          "@angular/compiler": "20.3.21"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "19.2.22",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "17.3.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "16.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "15.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0 || ~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "13.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "12.2.17",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "11.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "^0.10.2 || ^0.11.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "10.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "9.1.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "tslib": "^1.10.0",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "8.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.4.0",
+          "zone.js": "~0.9.1"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "7.2.16",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "6.1.10",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "5.2.11",
+        "peerDependencies": {
+          "rxjs": "^5.5.0",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "4.4.7",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "2.4.10",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.7.2"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@formio/angular",
+    "requestedRange": "5.0.0",
+    "candidates": [
+      {
+        "packageName": "@formio/angular",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.13.0 || ~0.14.0 || ~0.15.0",
+          "@formio/js": "^5.0.0",
+          "@angular/core": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^20.0.0",
+          "ngx-bootstrap": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^18.0.0 || ^19.0.0 || ^20.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^20.0.0",
+          "@angular/elements": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^20.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.13.0 || ~0.14.0 || ~0.15.0",
+          "@formio/js": "^5.0.0",
+          "@angular/core": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^20.0.0",
+          "ngx-bootstrap": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^18.0.0 || ^19.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^20.0.0",
+          "@angular/elements": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^20.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "9.0.2",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.13.0 || ~0.14.0 || ~0.15.0",
+          "@formio/js": "^5.0.0",
+          "@angular/core": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+          "ngx-bootstrap": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^18.0.0 || ^19.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+          "@angular/elements": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "9.0.1",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.13.0 || ~0.14.0 || ~0.15.0",
+          "@formio/js": "^5.0.0",
+          "@angular/core": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+          "ngx-bootstrap": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^18.0.0 || ^19.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+          "@angular/elements": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.13.0 || ~0.14.0 || ~0.15.0",
+          "@formio/js": "^5.2.0-rc.8",
+          "@angular/core": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+          "ngx-bootstrap": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^18.0.0 || ^19.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+          "@angular/elements": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "8.1.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.13.0 || ~0.14.0",
+          "@formio/js": "^5.0.0",
+          "@angular/core": "^16.0.0 || ^17.0.0 || ^18.0.0",
+          "ngx-bootstrap": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^18.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0 || ^18.0.0",
+          "@angular/elements": "^16.0.0 || ^17.0.0 || ^18.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.13.0 || ~0.14.0",
+          "@formio/js": "^5.0.0",
+          "@angular/core": "^16.0.0 || ^17.0.0 || ^18.0.0",
+          "ngx-bootstrap": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^18.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0 || ^18.0.0",
+          "@angular/elements": "^16.0.0 || ^17.0.0 || ^18.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "7.5.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.13.0 || ~0.14.0",
+          "@formio/js": "^5.0.0",
+          "@angular/core": "^16.0.0 || ^17.0.0 || ^18.0.0",
+          "ngx-bootstrap": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^18.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0 || ^18.0.0",
+          "@angular/elements": "^16.0.0 || ^17.0.0 || ^18.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.13.0 || ~0.14.0",
+          "formiojs": "^4.18.0",
+          "@angular/core": "^16.0.0 || ^17.0.0",
+          "ngx-bootstrap": "^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0",
+          "@angular/elements": "^16.0.0 || ^17.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "6.5.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4 || ~0.12.0 || ~0.13.0",
+          "@formio/js": "^5.0.0-rc.39",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "ngx-bootstrap": "^10.2.0",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "6.0.2",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4 || ~0.12.0 || ~0.13.0",
+          "formiojs": "^4.18.0",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "ngx-bootstrap": "^11.0.2",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "6.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4 || ~0.12.0 || ~0.13.0",
+          "formiojs": "^4.18.0",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "ngx-bootstrap": "^10.2.0",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.3.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.14.1",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0 || ^13.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.13",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.19.2-rc.1",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.12",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.18.0-rc.1",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.11",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.18.0-rc.1",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.10",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.17.2",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.9",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.17.2",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.8",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.17.0-rc.7",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.7",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.16.0-rc.8",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.6",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.14.7",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.5",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.14.7",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.4",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.14.7",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.3",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.14.7",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.2",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.13.8",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.2.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "~0.11.4",
+          "formiojs": "^4.13.8",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0|| ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.1.1",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "^0.8.0",
+          "formiojs": "^4.13.2",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0"
+        }
+      },
+      {
+        "packageName": "@formio/angular",
+        "version": "5.1.0",
+        "peerDependencies": {
+          "lodash": "^4.17.20",
+          "zone.js": "^0.8.0",
+          "formiojs": "^4.13.0",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "ngx-bootstrap": "^5.6.1",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/elements": "^9.0.0 || ^10.0.0 || ^11.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@coveo/atomic-angular",
+    "requestedRange": "0.0.1",
+    "candidates": [
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.11.3",
+        "peerDependencies": {
+          "@angular/core": "14 - 21",
+          "@angular/common": "14 - 21",
+          "@coveo/headless": "^3.50.1"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.11.2",
+        "peerDependencies": {
+          "@angular/core": "14 - 21",
+          "@angular/common": "14 - 21",
+          "@coveo/headless": "^3.50.1"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.11.1",
+        "peerDependencies": {
+          "@angular/core": "14 - 21",
+          "@angular/common": "14 - 21",
+          "@coveo/headless": "^3.50.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.11.0",
+        "peerDependencies": {
+          "@angular/core": "14 - 21",
+          "@angular/common": "14 - 21",
+          "@coveo/headless": "3.49.4"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.17",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.49.3"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.15",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.49.2"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.14",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.49.1"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.13",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.49.1"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.12",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.49.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.10",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.48.1"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.9",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.48.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.8",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.47.2"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.7",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.47.1"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.6",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.47.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.5",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.46.1"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.4",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.46.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.3",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.45.1"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.2",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.45.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.1",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.44.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.10.0",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.39.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.9.0",
+        "peerDependencies": {
+          "@angular/core": "14 - 20",
+          "@angular/common": "14 - 20",
+          "@coveo/headless": "3.38.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.8.0",
+        "peerDependencies": {
+          "@angular/core": "14 - 19",
+          "@angular/common": "14 - 19",
+          "@coveo/headless": "3.35.1"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.7.17",
+        "peerDependencies": {
+          "@angular/core": "14 - 19",
+          "@angular/common": "14 - 19",
+          "@coveo/headless": "3.35.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.7.16",
+        "peerDependencies": {
+          "@angular/core": "14 - 19",
+          "@angular/common": "14 - 19",
+          "@coveo/headless": "3.34.2"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.7.15",
+        "peerDependencies": {
+          "@angular/core": "14 - 19",
+          "@angular/common": "14 - 19",
+          "@coveo/headless": "3.34.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.7.14",
+        "peerDependencies": {
+          "@angular/core": "14 - 19",
+          "@angular/common": "14 - 19",
+          "@coveo/headless": "3.33.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.7.13",
+        "peerDependencies": {
+          "@angular/core": "14 - 19",
+          "@angular/common": "14 - 19",
+          "@coveo/headless": "3.32.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "3.7.12",
+        "peerDependencies": {
+          "@angular/core": "14 - 19",
+          "@angular/common": "14 - 19",
+          "@coveo/headless": "3.32.0"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "2.28.8",
+        "peerDependencies": {
+          "@angular/core": "14 - 17",
+          "@angular/common": "14 - 17",
+          "@coveo/headless": "2.80.7"
+        }
+      },
+      {
+        "packageName": "@coveo/atomic-angular",
+        "version": "1.34.1",
+        "peerDependencies": {
+          "@angular/core": "^13.1.0",
+          "@angular/common": "^13.1.0"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "case-128-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "6.0.6",
+    "@module-federation/vite": "1.12.0",
+    "@froxz/vite-plugin-s3": "1.2.0"
+  }
+}

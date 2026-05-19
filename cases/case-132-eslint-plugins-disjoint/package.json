@@ -1,0 +1,12 @@
+{
+  "name": "case-132-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "6.8.0",
+    "@eslint-recommended/eslint-config-typescript": "0.1.0",
+    "@hono/eslint-config": "1.0.0"
+  }
+}

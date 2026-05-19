@@ -1,0 +1,12 @@
+{
+  "name": "case-550-rollup-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.0.0",
+    "rollup-plugin-bundle-stats": "4.7.0",
+    "@optimize-lodash/rollup-plugin": "4.0.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-350-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "5.7.2",
+    "@ogcio/fastify-logging-wrapper": "5.4.0",
+    "@fastify/type-provider-json-schema-to-ts": "1.0.0"
+  }
+}

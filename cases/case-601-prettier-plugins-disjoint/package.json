@@ -1,0 +1,12 @@
+{
+  "name": "case-601-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "3.4.0",
+    "prettier-plugin-bbnf": "0.1.0",
+    "@markw65/prettier-plugin-monkeyc": "1.0.9"
+  }
+}

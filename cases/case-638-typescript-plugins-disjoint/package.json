@@ -1,0 +1,12 @@
+{
+  "name": "case-638-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "2.3.3",
+    "@zerollup/ts-transform-paths": "1.7.4",
+    "awesome-typescript-loader": "3.5.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-414-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "27.0.5",
+    "jest-jquery-matchers": "2.0.0",
+    "jest-html-reporter": "0.1.0"
+  }
+}

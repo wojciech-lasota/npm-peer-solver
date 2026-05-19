@@ -1,0 +1,642 @@
+[
+  {
+    "packageName": "typescript",
+    "requestedRange": "0.8.0",
+    "candidates": [
+      {
+        "packageName": "typescript",
+        "version": "6.0.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "6.0.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.9.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.9.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.8.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.8.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.7.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.7.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.6.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.6.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.5.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.5.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.5.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.4.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.4.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.4.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.4.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.3.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.3.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.2.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.1.6",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.1.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.1.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.0.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.0.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.0.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "4.9.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "3.9.10",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "2.9.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "1.8.10",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "typescript-eslint",
+    "requestedRange": "8.18.0",
+    "candidates": [
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.59.4",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.59.3",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.59.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.59.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.59.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.58.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.58.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.58.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.57.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.57.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.57.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.56.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.56.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.55.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.54.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.53.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.53.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.52.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.51.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.50.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.50.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.49.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.48.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.48.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.47.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.46.4",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.46.3",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.46.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "8.46.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "typescript-eslint",
+        "version": "7.18.0",
+        "peerDependencies": {
+          "eslint": "^8.56.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@typescript-eslint/parser",
+    "requestedRange": "8.29.0",
+    "candidates": [
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.59.4",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.59.3",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.59.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.59.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.59.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.58.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.58.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.58.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.1.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.57.2",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.57.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.57.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.56.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.56.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.55.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.54.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.53.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.53.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.52.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.51.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.50.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.50.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.49.0",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "8.48.1",
+        "peerDependencies": {
+          "eslint": "^8.57.0 || ^9.0.0",
+          "typescript": ">=4.8.4 <6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "7.18.0",
+        "peerDependencies": {
+          "eslint": "^8.56.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "6.21.0",
+        "peerDependencies": {
+          "eslint": "^7.0.0 || ^8.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "5.62.0",
+        "peerDependencies": {
+          "eslint": "^6.0.0 || ^7.0.0 || ^8.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "4.33.0",
+        "peerDependencies": {
+          "eslint": "^5.0.0 || ^6.0.0 || ^7.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "3.10.1",
+        "peerDependencies": {
+          "eslint": "^5.0.0 || ^6.0.0 || ^7.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "2.34.0",
+        "peerDependencies": {
+          "eslint": "^5.0.0 || ^6.0.0"
+        }
+      },
+      {
+        "packageName": "@typescript-eslint/parser",
+        "version": "1.13.0",
+        "peerDependencies": {
+          "eslint": "^5.0.0"
+        }
+      }
+    ]
+  }
+]

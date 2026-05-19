@@ -1,0 +1,12 @@
+{
+  "name": "case-348-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "@xmgh/stylelint-webpack-plugin": "1.0.0",
+    "copy-asset-in-memory-webpack-plugin": "3.0.2"
+  }
+}

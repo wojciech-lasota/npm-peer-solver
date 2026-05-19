@@ -1,0 +1,12 @@
+{
+  "name": "case-471-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@hyperlimit/fastify": "1.0.0",
+    "@glidemq/fastify": "0.3.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-047-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@mcansh/remix-fastify": "1.5.0",
+    "@universal-rate-limit/fastify": "1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-285-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/button": "3.0.0",
+    "@react-aria/grid": "3.7.1"
+  }
+}

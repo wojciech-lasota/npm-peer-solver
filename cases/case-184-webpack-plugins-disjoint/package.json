@@ -1,0 +1,12 @@
+{
+  "name": "case-184-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.102.0",
+    "alter-css-url-loader": "1.1.0",
+    "@indiv/indiv-loader": "2.0.4"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-475-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "29.6.4",
+    "@lwc/jest-preset": "0.33.17",
+    "jest-specific-snapshot": "0.1.0"
+  }
+}

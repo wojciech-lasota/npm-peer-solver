@@ -1,0 +1,12 @@
+{
+  "name": "case-816-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "6.2.0",
+    "@unocss/vite": "0.31.0",
+    "@metagptx/web-sdk": "0.0.52"
+  }
+}

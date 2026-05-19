@@ -1,0 +1,12 @@
+{
+  "name": "case-641-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "16.0.0",
+    "@emphori/jest-preset": "0.0.1",
+    "@vue/vue3-jest": "26.0.1"
+  }
+}

@@ -1,0 +1,229 @@
+[
+  {
+    "packageName": "rollup",
+    "requestedRange": "4.4.1",
+    "candidates": [
+      {
+        "packageName": "rollup",
+        "version": "4.60.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.58.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.56.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.54.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "3.30.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "2.80.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "1.32.1",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "rollup-plugin-cjs-es",
+    "requestedRange": "0.1.1",
+    "candidates": [
+      {
+        "packageName": "rollup-plugin-cjs-es",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "rollup": "^4.1.4"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-cjs-es",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "rollup": "^3.2.2"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-cjs-es",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "rollup": "^2.77.2"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-cjs-es",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "rollup": "^2.23.0"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-cjs-es",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "rollup": "^2.0.5"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "rollup-plugin-babel-runtime-external",
+    "requestedRange": "1.0.2",
+    "candidates": [
+      {
+        "packageName": "rollup-plugin-babel-runtime-external",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "babel-runtime": ">=6.25.0",
+          "rollup": ">=0.45.2"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-babel-runtime-external",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "babel-runtime": "^6.25.0",
+          "rollup": "^0.45.2"
+        }
+      },
+      {
+        "packageName": "rollup-plugin-babel-runtime-external",
+        "version": "1.0.2",
+        "peerDependencies": {
+          "babel-runtime": "^6.25.0",
+          "rollup": "^0.45.2"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "case-851-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "12.1.1",
+    "@haojian-app/jest-preset": "1.1.0",
+    "@vue/vue2-jest": "26.0.1"
+  }
+}

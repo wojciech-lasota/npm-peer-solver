@@ -1,0 +1,12 @@
+{
+  "name": "case-976-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.10.0",
+    "@sylphlab/prettier-config": "0.2.0",
+    "@yoy20/prettier-plugin-css-order": "1.0.0"
+  }
+}

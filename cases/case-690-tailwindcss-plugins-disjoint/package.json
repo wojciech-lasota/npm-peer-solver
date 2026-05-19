@@ -1,0 +1,12 @@
+{
+  "name": "case-690-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.4.19",
+    "@themosaad/tailwindcss-capsize": "0.1.2",
+    "@tailwind-plugin/expose-colors": "1.1.0"
+  }
+}

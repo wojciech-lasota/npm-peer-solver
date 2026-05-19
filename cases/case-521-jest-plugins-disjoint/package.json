@@ -1,0 +1,12 @@
+{
+  "name": "case-521-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "29.4.3",
+    "@oriflame/jest-preset": "5.15.8",
+    "jest-bench": "0.1.0"
+  }
+}

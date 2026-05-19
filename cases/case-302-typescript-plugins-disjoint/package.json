@@ -1,0 +1,12 @@
+{
+  "name": "case-302-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "3.1.3",
+    "ts-type-forge": "0.1.0",
+    "@formatjs/ts-transformer": "2.4.2"
+  }
+}

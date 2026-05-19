@@ -1,0 +1,12 @@
+{
+  "name": "case-208-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "typescript-tuple": "1.0.1",
+    "ts-type-forge": "3.0.0"
+  }
+}

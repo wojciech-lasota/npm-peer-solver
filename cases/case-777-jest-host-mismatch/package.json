@@ -1,0 +1,12 @@
+{
+  "name": "case-777-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "json5-jest": "2.0.0",
+    "@glen/jest-raw-loader": "0.0.1"
+  }
+}

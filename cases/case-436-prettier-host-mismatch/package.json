@@ -1,0 +1,12 @@
+{
+  "name": "case-436-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@procore/hammer-format-prettier": "0.1.0",
+    "prettier-plugin-align-comments": "2.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-170-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@12degrees/stateful-fastify": "0.1.2",
+    "@node-telescope/fastify": "0.1.0"
+  }
+}

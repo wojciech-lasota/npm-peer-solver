@@ -1,0 +1,12 @@
+{
+  "name": "case-219-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "@vxna/mini-html-webpack-template": "0.0.2",
+    "@clayne/string-replace-loader": "1.2.1"
+  }
+}

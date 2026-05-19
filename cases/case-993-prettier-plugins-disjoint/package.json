@@ -1,0 +1,12 @@
+{
+  "name": "case-993-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.17.1",
+    "@elegantech/prettier-multi-config": "1.0.1",
+    "@mattinton/prettier-plugin-tidy-imports": "1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-336-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/visually-hidden": "3.0.0",
+    "@react-stately/overlays": "3.1.6"
+  }
+}

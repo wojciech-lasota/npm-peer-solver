@@ -1,0 +1,5014 @@
+{
+  "generatedAt": "2026-05-10T17:43:39.994Z",
+  "casesDir": "/Users/wojciechlasota/MEGAsync/Development/npm-peer-solver-ts/cases",
+  "solverPath": "/Users/wojciechlasota/MEGAsync/Development/npm-peer-solver-ts/dist/cli.js",
+  "filter": null,
+  "total": 1000,
+  "counts": {
+    "SAT": 967,
+    "UNSAT": 33,
+    "ERROR": 0
+  },
+  "cases": [
+    {
+      "name": "case-001-rollup-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-002-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-003-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-004-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-005-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-006-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-007-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-008-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-009-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-010-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-011-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-012-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-013-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-014-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-015-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-016-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-017-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-018-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-019-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-020-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-021-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-022-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-023-prettier-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-024-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-025-prettier-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-026-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-027-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-028-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-029-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-030-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-031-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-032-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-033-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-034-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-035-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-036-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-037-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-038-tailwindcss-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-039-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-040-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-041-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-042-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-043-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-044-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-045-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-046-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-047-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-048-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-049-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-050-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-051-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-052-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-053-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-054-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-055-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-056-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-057-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-058-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-059-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-060-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-061-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-062-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-063-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-064-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-065-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-066-prettier-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-067-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-068-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-069-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-070-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-071-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-072-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-073-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-074-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-075-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-076-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-077-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-078-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-079-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-080-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-081-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-082-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-083-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-084-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-085-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-086-tailwindcss-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-087-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-088-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-089-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-090-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-091-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-092-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-093-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-094-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-095-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-096-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-097-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-098-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-099-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-100-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-1000-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-101-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-102-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-103-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-104-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-105-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-106-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-107-babel-core-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-108-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-109-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-110-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-111-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-112-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-113-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-114-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-115-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-116-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-117-jest-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-118-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-119-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-120-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-121-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-122-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-123-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-124-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-125-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-126-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-127-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-128-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-129-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-130-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-131-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-132-eslint-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-133-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-134-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-135-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-136-babel-core-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-137-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-138-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-139-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-140-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-141-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-142-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-143-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-144-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-145-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-146-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-147-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-148-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-149-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-150-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-151-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-152-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-153-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-154-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-155-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-156-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-157-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-158-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-159-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-160-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-161-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-162-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-163-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-164-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-165-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-166-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-167-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-168-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-169-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-170-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-171-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-172-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-173-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-174-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-175-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-176-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-177-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-178-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-179-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-180-rollup-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-181-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-182-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-183-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-184-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-185-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-186-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-187-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-188-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-189-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-190-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-191-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-192-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-193-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-194-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-195-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-196-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-197-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-198-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-199-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-200-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-201-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-202-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-203-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-204-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-205-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-206-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-207-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-208-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-209-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-210-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-211-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-212-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-213-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-214-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-215-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-216-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-217-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-218-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-219-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-220-eslint-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-221-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-222-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-223-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-224-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-225-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-226-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-227-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-228-babel-core-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-229-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-230-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-231-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-232-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-233-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-234-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-235-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-236-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-237-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-238-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-239-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-240-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-241-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-242-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-243-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-244-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-245-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-246-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-247-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-248-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-249-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-250-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-251-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-252-tailwindcss-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-253-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-254-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-255-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-256-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-257-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-258-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-259-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-260-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-261-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-262-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-263-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-264-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-265-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-266-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-267-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-268-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-269-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-270-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-271-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-272-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-273-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-274-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-275-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-276-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-277-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-278-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-279-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-280-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-281-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-282-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-283-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-284-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-285-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-286-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-287-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-288-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-289-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-290-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-291-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-292-vite-host-mismatch",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-293-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-294-webpack-host-mismatch",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-295-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-296-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-297-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-298-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-299-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-300-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-301-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-302-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-303-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-304-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-305-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-306-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-307-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-308-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-309-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-310-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-311-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-312-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-313-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-314-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-315-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-316-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-317-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-318-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-319-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-320-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-321-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-322-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-323-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-324-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-325-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-326-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-327-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-328-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-329-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-330-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-331-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-332-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-333-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-334-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-335-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-336-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-337-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-338-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-339-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-340-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-341-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-342-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-343-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-344-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-345-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-346-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-347-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-348-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-349-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-350-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-351-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-352-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-353-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-354-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-355-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-356-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-357-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-358-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-359-babel-core-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-360-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-361-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-362-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-363-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-364-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-365-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-366-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-367-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-368-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-369-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-370-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-371-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-372-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-373-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-374-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-375-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-376-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-377-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-378-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-379-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-380-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-381-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-382-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-383-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-384-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-385-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-386-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-387-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-388-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-389-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-390-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-391-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-392-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-393-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-394-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-395-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-396-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-397-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-398-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-399-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-400-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-401-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-402-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-403-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-404-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-405-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-406-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-407-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-408-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-409-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-410-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-411-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-412-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-413-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-414-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-415-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-416-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-417-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-418-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-419-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-420-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-421-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-422-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-423-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-424-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-425-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-426-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-427-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-428-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-429-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-430-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-431-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-432-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-433-webpack-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-434-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-435-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-436-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-437-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-438-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-439-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-440-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-441-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-442-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-443-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-444-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-445-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-446-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-447-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-448-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-449-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-450-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-451-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-452-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-453-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-454-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-455-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-456-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-457-webpack-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-458-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-459-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-460-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-461-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-462-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-463-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-464-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-465-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-466-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-467-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-468-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-469-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-470-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-471-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-472-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-473-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-474-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-475-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-476-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-477-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-478-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-479-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-480-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-481-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-482-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-483-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-484-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-485-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-486-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-487-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-488-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-489-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-490-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-491-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-492-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-493-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-494-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-495-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-496-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-497-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-498-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-499-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-500-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-501-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-502-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-503-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-504-prettier-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-505-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-506-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-507-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-508-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-509-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-510-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-511-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-512-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-513-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-514-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-515-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-516-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-517-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-518-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-519-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-520-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-521-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-522-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-523-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-524-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-525-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-526-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-527-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-528-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-529-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-530-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-531-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-532-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-533-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-534-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-535-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-536-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-537-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-538-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-539-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-540-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-541-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-542-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-543-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-544-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-545-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-546-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-547-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-548-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-549-vite-host-mismatch",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-550-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-551-webpack-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-552-vite-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-553-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-554-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-555-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-556-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-557-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-558-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-559-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-560-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-561-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-562-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-563-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-564-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-565-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-566-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-567-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-568-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-569-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-570-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-571-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-572-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-573-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-574-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-575-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-576-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-577-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-578-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-579-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-580-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-581-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-582-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-583-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-584-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-585-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-586-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-587-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-588-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-589-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-590-prettier-host-mismatch",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-591-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-592-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-593-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-594-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-595-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-596-eslint-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-597-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-598-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-599-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-600-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-601-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-602-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-603-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-604-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-605-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-606-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-607-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-608-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-609-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-610-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-611-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-612-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-613-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-614-tailwindcss-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-615-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-616-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-617-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-618-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-619-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-620-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-621-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-622-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-623-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-624-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-625-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-626-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-627-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-628-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-629-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-630-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-631-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-632-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-633-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-634-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-635-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-636-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-637-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-638-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-639-prettier-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-640-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-641-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-642-vite-host-mismatch",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-643-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-644-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-645-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-646-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-647-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-648-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-649-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-650-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-651-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-652-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-653-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-654-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-655-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-656-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-657-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-658-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-659-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-660-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-661-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-662-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-663-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-664-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-665-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-666-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-667-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-668-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-669-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-670-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-671-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-672-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-673-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-674-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-675-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-676-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-677-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-678-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-679-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-680-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-681-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-682-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-683-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-684-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-685-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-686-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-687-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-688-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-689-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-690-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-691-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-692-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-693-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-694-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-695-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-696-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-697-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-698-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-699-babel-core-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-700-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-701-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-702-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-703-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-704-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-705-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-706-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-707-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-708-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-709-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-710-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-711-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-712-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-713-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-714-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-715-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-716-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-717-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-718-rollup-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-719-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-720-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-721-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-722-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-723-prettier-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-724-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-725-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-726-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-727-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-728-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-729-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-730-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-731-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-732-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-733-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-734-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-735-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-736-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-737-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-738-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-739-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-740-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-741-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-742-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-743-prettier-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-744-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-745-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-746-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-747-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-748-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-749-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-750-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-751-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-752-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-753-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-754-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-755-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-756-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-757-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-758-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-759-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-760-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-761-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-762-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-763-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-764-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-765-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-766-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-767-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-768-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-769-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-770-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-771-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-772-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-773-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-774-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-775-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-776-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-777-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-778-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-779-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-780-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-781-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-782-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-783-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-784-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-785-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-786-eslint-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-787-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-788-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-789-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-790-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-791-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-792-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-793-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-794-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-795-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-796-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-797-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-798-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-799-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-800-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-801-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-802-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-803-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-804-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-805-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-806-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-807-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-808-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-809-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-810-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-811-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-812-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-813-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-814-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-815-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-816-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-817-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-818-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-819-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-820-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-821-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-822-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-823-babel-core-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-824-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-825-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-826-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-827-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-828-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-829-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-830-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-831-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-832-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-833-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-834-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-835-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-836-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-837-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-838-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-839-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-840-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-841-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-842-webpack-host-mismatch",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-843-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-844-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-845-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-846-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-847-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-848-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-849-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-850-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-851-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-852-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-853-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-854-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-855-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-856-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-857-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-858-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-859-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-860-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-861-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-862-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-863-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-864-prettier-host-mismatch",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-865-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-866-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-867-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-868-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-869-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-870-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-871-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-872-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-873-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-874-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-875-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-876-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-877-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-878-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-879-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-880-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-881-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-882-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-883-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-884-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-885-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-886-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-887-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-888-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-889-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-890-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-891-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-892-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-893-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-894-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-895-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-896-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-897-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-898-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-899-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-900-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-901-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-902-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-903-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-904-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-905-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-906-prettier-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-907-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-908-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-909-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-910-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-911-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-912-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-913-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-914-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-915-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-916-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-917-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-918-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-919-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-920-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-921-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-922-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-923-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-924-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-925-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-926-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-927-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-928-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-929-typescript-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-930-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-931-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-932-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-933-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-934-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-935-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-936-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-937-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-938-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-939-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-940-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-941-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-942-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-943-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-944-react-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-945-jest-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-946-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-947-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-948-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-949-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-950-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-951-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-952-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-953-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-954-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-955-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-956-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-957-vite-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-958-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-959-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-960-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-961-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-962-webpack-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-963-fastify-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-964-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-965-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-966-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-967-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-968-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-969-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-970-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-971-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-972-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-973-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-974-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-975-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-976-prettier-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-977-eslint-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-978-prettier-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-979-typescript-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-980-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-981-rollup-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-982-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-983-jest-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-984-webpack-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-985-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-986-rollup-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-987-react-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-988-tailwindcss-host-mismatch",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-989-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-990-tailwindcss-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-991-fastify-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-992-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-993-prettier-plugins-disjoint",
+      "status": "UNSAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-994-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-995-angular-core-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-996-tailwindcss-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-997-eslint-plugins-disjoint",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-998-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    },
+    {
+      "name": "case-999-vite-host-mismatch",
+      "status": "SAT",
+      "firstLine": "npm-peer-solver"
+    }
+  ]
+}

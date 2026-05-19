@@ -1,0 +1,12 @@
+{
+  "name": "case-261-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "prettier-plugin-angular": "0.1.0",
+    "@ovotech/prettier-plugin-pgsql": "0.8.9"
+  }
+}

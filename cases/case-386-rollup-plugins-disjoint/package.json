@@ -1,0 +1,12 @@
+{
+  "name": "case-386-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.10.0",
+    "@rollup/plugin-replace": "2.2.0",
+    "@ironkinoko/rollup-plugin-styles": "4.0.0"
+  }
+}

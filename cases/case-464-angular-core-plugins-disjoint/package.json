@@ -1,0 +1,12 @@
+{
+  "name": "case-464-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "21.0.2",
+    "@angular/platform-browser": "2.0.0",
+    "@fullcalendar/angular": "4.1.0"
+  }
+}

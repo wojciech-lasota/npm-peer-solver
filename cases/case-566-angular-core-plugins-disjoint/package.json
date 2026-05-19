@@ -1,0 +1,12 @@
+{
+  "name": "case-566-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "17.3.2",
+    "@angular/youtube-player": "8.2.0",
+    "@progress/kendo-angular-pager": "4.0.0"
+  }
+}

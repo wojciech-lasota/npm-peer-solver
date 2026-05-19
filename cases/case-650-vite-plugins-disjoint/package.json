@@ -1,0 +1,12 @@
+{
+  "name": "case-650-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.5.11",
+    "@spiriit/vite-plugin-svg-spritemap": "5.0.0",
+    "@hitachivantara/app-shell-vite-plugin": "0.18.2"
+  }
+}

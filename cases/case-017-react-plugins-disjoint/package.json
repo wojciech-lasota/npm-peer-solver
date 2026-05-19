@@ -1,0 +1,12 @@
+{
+  "name": "case-017-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.7.1",
+    "@react-email/row": "0.0.6",
+    "@edsdk/n1ed-react": "1.0.2"
+  }
+}

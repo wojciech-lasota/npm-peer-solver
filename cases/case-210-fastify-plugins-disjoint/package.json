@@ -1,0 +1,12 @@
+{
+  "name": "case-210-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "3.21.3",
+    "@giogaspa/fastify-multitenant": "1.0.0",
+    "@fastify/schedule": "2.0.0"
+  }
+}

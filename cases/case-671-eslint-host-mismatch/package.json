@@ -1,0 +1,12 @@
+{
+  "name": "case-671-eslint-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "4.18.1",
+    "@amedia/eslint-config-base": "3.5.1",
+    "@cksource-cs/eslint-config-cs-module": "1.3.4"
+  }
+}

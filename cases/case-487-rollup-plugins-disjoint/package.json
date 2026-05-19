@@ -1,0 +1,12 @@
+{
+  "name": "case-487-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.16.1",
+    "@rollup/plugin-beep": "0.1.0",
+    "@pixi/webworker-plugins": "0.1.0"
+  }
+}

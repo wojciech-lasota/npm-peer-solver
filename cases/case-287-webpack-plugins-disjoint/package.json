@@ -1,0 +1,12 @@
+{
+  "name": "case-287-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.76.1",
+    "@cypress/webpack-preprocessor": "4.0.0",
+    "assets-webpack-plugin": "7.0.0"
+  }
+}

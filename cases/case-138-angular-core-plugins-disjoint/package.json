@@ -1,0 +1,12 @@
+{
+  "name": "case-138-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "16.1.2",
+    "@angular-architects/module-federation": "14.3.11",
+    "@jsonforms/angular-material": "2.2.0"
+  }
+}

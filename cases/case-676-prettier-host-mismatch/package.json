@@ -1,0 +1,12 @@
+{
+  "name": "case-676-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "@134dd3v/prettier-plugin-solidity": "1.1.1",
+    "@ilyamatsuev/prettier-plugin-apex": "3.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-924-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.2.0",
+    "@equisoft/eslint-config-react": "0.0.2",
+    "@algoan/eslint-config": "2.0.0"
+  }
+}

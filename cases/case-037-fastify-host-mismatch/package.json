@@ -1,0 +1,12 @@
+{
+  "name": "case-037-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@fastify/schedule": "2.0.0",
+    "@fastify/request-context": "5.1.0"
+  }
+}

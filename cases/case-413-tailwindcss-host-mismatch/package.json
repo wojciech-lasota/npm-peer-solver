@@ -1,0 +1,12 @@
+{
+  "name": "case-413-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@herb-tools/tailwind-class-sorter": "0.5.0",
+    "@joyfour/tailwind-plugin-template": "0.0.3"
+  }
+}

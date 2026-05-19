@@ -1,0 +1,12 @@
+{
+  "name": "case-624-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.99.0",
+    "@lastos/lapp-node-loader": "1.0.0",
+    "@sentry/webpack-plugin": "5.0.0"
+  }
+}

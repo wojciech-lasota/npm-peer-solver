@@ -1,0 +1,12 @@
+{
+  "name": "case-363-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/overlays": "3.0.0",
+    "@react-aria/grid": "3.14.2"
+  }
+}

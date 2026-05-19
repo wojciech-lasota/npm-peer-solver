@@ -1,0 +1,12 @@
+{
+  "name": "case-812-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@entur/vite-plugin-assets-json": "0.0.6",
+    "@crxjs/vite-plugin": "1.0.11"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-575-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@ortha/server-platform-database": "0.0.3",
+    "@12degrees/stateful-fastify": "0.1.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-640-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "9.33.0",
+    "@cksource-cs/eslint-config-cs-module": "3.0.0",
+    "@amedia/eslint-config-jest": "3.5.1"
+  }
+}

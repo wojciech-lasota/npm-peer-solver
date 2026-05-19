@@ -1,0 +1,12 @@
+{
+  "name": "case-313-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-stately/combobox": "3.0.0",
+    "@react-stately/toast": "3.1.2"
+  }
+}

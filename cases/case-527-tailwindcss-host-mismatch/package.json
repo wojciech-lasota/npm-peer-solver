@@ -1,0 +1,12 @@
+{
+  "name": "case-527-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@savaryna/tailwindcss-material-symbols": "1.0.0",
+    "@payfit/unity-themes": "2.29.11"
+  }
+}

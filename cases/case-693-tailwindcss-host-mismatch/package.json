@@ -1,0 +1,12 @@
+{
+  "name": "case-693-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@jeegscreator/scroll-view-animation": "0.0.1",
+    "@designbycode/tailwindcss-text-stroke": "1.2.1"
+  }
+}

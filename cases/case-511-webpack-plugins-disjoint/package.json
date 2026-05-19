@@ -1,0 +1,12 @@
+{
+  "name": "case-511-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.70.0",
+    "babel-loader": "4.0.0",
+    "@cerner/duplicate-package-checker-webpack-plugin": "2.0.0"
+  }
+}

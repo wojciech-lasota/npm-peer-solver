@@ -1,0 +1,608 @@
+[
+  {
+    "packageName": "webpack",
+    "requestedRange": "5.76.1",
+    "candidates": [
+      {
+        "packageName": "webpack",
+        "version": "5.106.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.103.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.9",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.8",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.7",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.6",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "4.47.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "3.12.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "2.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "1.15.0",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@cypress/webpack-preprocessor",
+    "requestedRange": "4.0.0",
+    "candidates": [
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "7.1.0",
+        "peerDependencies": {
+          "@babel/core": "^7.28.0",
+          "@babel/preset-env": "^7.26.0",
+          "babel-loader": "^9 || ^10",
+          "webpack": "^5"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "7.0.2",
+        "peerDependencies": {
+          "webpack": "^5",
+          "@babel/core": "^7.28.0",
+          "babel-loader": "^9 || ^10",
+          "@babel/preset-env": "^7.26.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "7.0.1",
+        "peerDependencies": {
+          "webpack": "^5",
+          "@babel/core": "^7.28.0",
+          "babel-loader": "^9 || ^10",
+          "@babel/preset-env": "^7.26.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "webpack": "^5",
+          "@babel/core": "^7.25.2",
+          "babel-loader": "^9 || ^10",
+          "@babel/preset-env": "^7.25.3"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "6.0.4",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.25.2",
+          "babel-loader": "^8.3 || ^9 || ^10",
+          "@babel/preset-env": "^7.25.3"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "6.0.3",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.25.2",
+          "babel-loader": "^8.3 || ^9",
+          "@babel/preset-env": "^7.25.3"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "6.0.2",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.3 || ^9",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "6.0.1",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.3 || ^9",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.3 || ^9",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.17.1",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2 || ^9",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.17.0",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2 || ^9",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.16.3",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2 || ^9",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.16.2",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2 || ^9",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.16.1",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.16.0",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.15.7",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.15.6",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.15.5",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.15.4",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.15.3",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.15.2",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.15.1",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.15.0",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.14.0",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.13.1",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "5.13.0",
+        "peerDependencies": {
+          "webpack": "^4 || ^5",
+          "@babel/core": "^7.0.1",
+          "babel-loader": "^8.0.2",
+          "@babel/preset-env": "^7.0.0"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "4.1.5",
+        "peerDependencies": {
+          "webpack": "^4.18.1"
+        }
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "3.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "2.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@cypress/webpack-preprocessor",
+        "version": "1.1.3",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "assets-webpack-plugin",
+    "requestedRange": "7.0.0",
+    "candidates": [
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "7.1.1",
+        "peerDependencies": {
+          "webpack": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "7.1.0",
+        "peerDependencies": {
+          "webpack": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "webpack": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "6.1.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "6.1.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "6.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "6.0.6",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "6.0.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "6.0.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "6.0.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "6.0.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "6.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "5.1.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "5.1.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "5.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "5.0.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "5.0.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "5.0.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "5.0.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "5.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "5.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "4.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "3.10.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "3.9.12",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "3.9.11",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "3.9.10",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "3.9.9",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "3.9.8",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "3.9.7",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "assets-webpack-plugin",
+        "version": "2.3.0",
+        "peerDependencies": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "case-381-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@prefabs.tech/fastify-mailer": "0.88.0",
+    "@coobaha/typed-fastify": "2.2.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-093-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.4.5",
+    "@formatjs/vite-plugin": "1.0.1",
+    "@roots/vite-plugin": "1.0.0"
+  }
+}

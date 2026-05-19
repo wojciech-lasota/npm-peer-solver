@@ -1,0 +1,12 @@
+{
+  "name": "case-181-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "4.45.0",
+    "@ideavo/webpack-tagger": "1.0.0",
+    "coffee-loader": "0.6.1"
+  }
+}

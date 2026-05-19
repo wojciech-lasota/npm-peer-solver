@@ -1,0 +1,12 @@
+{
+  "name": "case-259-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "21.2.8",
+    "@angular-material-components/moment-adapter": "1.0.1",
+    "@angular/material-date-fns-adapter": "0.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-569-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-stately/menu": "3.0.0",
+    "@react-navigation/core": "5.12.5"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-072-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "2.15.0",
+    "@coobaha/typed-fastify": "0.1.0",
+    "@prefabs.tech/fastify-config": "0.88.0"
+  }
+}

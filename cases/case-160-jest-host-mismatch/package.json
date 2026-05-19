@@ -1,0 +1,12 @@
+{
+  "name": "case-160-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-chrome": "0.6.0",
+    "jest-runner-eslint": "0.10.0"
+  }
+}

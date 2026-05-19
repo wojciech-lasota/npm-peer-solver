@@ -1,0 +1,12 @@
+{
+  "name": "case-857-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.1.0",
+    "@laynezh/vite-plugin-lib-assets": "0.5.23",
+    "@lingui/vite-plugin": "6.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-710-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.35.0",
+    "@lastos/lapp-node-loader": "1.0.0",
+    "add-asset-webpack-plugin": "2.0.0"
+  }
+}

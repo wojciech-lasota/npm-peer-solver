@@ -1,0 +1,12 @@
+{
+  "name": "case-535-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "4.45.0",
+    "@ideavo/webpack-tagger": "1.0.0",
+    "@lvl/wxapp-webpack-plugin": "0.2.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-431-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "cosmiconfig-typescript-loader": "0.0.2",
+    "ts-node-dev": "1.1.7"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-832-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "16.2.6",
+    "@angular/router": "3.0.0",
+    "@ionic/angular": "4.0.0"
+  }
+}

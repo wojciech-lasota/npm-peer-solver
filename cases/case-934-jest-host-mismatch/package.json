@@ -1,0 +1,12 @@
+{
+  "name": "case-934-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-allure2-reporter": "1.1.0",
+    "@minna-ui/jest-config": "0.7.0"
+  }
+}

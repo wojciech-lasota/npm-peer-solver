@@ -1,0 +1,12 @@
+{
+  "name": "case-648-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "4.0.2",
+    "@sp-uvb/fastify": "0.1.0",
+    "@jackdbd/fastify-introspection-endpoint": "1.1.6"
+  }
+}

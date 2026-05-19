@@ -1,0 +1,12 @@
+{
+  "name": "case-192-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.7",
+    "@angular/service-worker": "0.7.2",
+    "@angular-redux/store": "7.0.0"
+  }
+}

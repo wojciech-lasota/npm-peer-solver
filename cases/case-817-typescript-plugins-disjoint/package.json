@@ -1,0 +1,12 @@
+{
+  "name": "case-817-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "2.1.4",
+    "@typescript-eslint/eslint-plugin": "0.1.0",
+    "ts-type-forge": "0.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-416-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "17.0.0",
+    "@angular/fire": "5.0.0",
+    "@angular/compiler-cli": "0.2.0"
+  }
+}

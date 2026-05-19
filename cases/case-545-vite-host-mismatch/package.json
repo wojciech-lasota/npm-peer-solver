@@ -1,0 +1,12 @@
+{
+  "name": "case-545-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@modyfi/vite-plugin-yaml": "1.0.0",
+    "@varlock/vite-integration": "0.0.8"
+  }
+}

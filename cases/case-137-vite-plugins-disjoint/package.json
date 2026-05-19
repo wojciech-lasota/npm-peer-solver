@@ -1,0 +1,12 @@
+{
+  "name": "case-137-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.5.1",
+    "@crxjs/vite-plugin": "2.4.0",
+    "@honkhonk/vite-plugin-svgr": "1.0.0"
+  }
+}

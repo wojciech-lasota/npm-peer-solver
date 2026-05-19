@@ -1,0 +1,12 @@
+{
+  "name": "case-444-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "27.5.0",
+    "jest-preset-stylelint": "2.0.0",
+    "@sucrase/jest-plugin": "3.0.0"
+  }
+}

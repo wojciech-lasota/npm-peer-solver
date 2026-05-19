@@ -1,0 +1,12 @@
+{
+  "name": "case-086-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.0.13",
+    "@studiometa/webpack-config-preset-tailwindcss-4": "6.3.1",
+    "@imwebme/clay-theme-tailwindcss": "0.0.1"
+  }
+}

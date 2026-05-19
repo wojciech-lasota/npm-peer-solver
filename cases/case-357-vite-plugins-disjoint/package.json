@@ -1,0 +1,12 @@
+{
+  "name": "case-357-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "6.1.5",
+    "@defstudio/vite-livewire-plugin": "0.0.1",
+    "@geajs/vite-plugin": "1.0.0"
+  }
+}

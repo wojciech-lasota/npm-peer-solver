@@ -1,0 +1,12 @@
+{
+  "name": "case-878-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.12.2",
+    "@codecov/webpack-plugin": "1.0.0",
+    "@cypress/webpack-preprocessor": "4.0.0"
+  }
+}

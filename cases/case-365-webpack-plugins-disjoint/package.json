@@ -1,0 +1,12 @@
+{
+  "name": "case-365-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.64.0",
+    "create-file-plugin-webpack": "1.0.1",
+    "@ngtools/webpack": "1.2.0"
+  }
+}

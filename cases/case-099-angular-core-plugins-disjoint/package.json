@@ -1,0 +1,12 @@
+{
+  "name": "case-099-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.13",
+    "@angular/compiler": "2.0.0",
+    "@kolkov/angular-editor": "0.1.0"
+  }
+}

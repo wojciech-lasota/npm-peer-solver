@@ -1,0 +1,12 @@
+{
+  "name": "case-617-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "ts-declaration-location": "1.0.0",
+    "ts-loader": "1.2.0"
+  }
+}

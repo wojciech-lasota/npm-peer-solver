@@ -1,0 +1,12 @@
+{
+  "name": "case-441-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "20.3.3",
+    "@formio/angular": "5.0.0",
+    "@coveo/atomic-angular": "0.0.1"
+  }
+}

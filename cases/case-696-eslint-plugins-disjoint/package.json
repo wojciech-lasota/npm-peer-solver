@@ -1,0 +1,12 @@
+{
+  "name": "case-696-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "9.30.1",
+    "@book000/eslint-config": "1.1.0",
+    "@amedia/eslint-config-base": "3.5.1"
+  }
+}

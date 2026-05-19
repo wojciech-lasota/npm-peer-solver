@@ -1,0 +1,12 @@
+{
+  "name": "case-782-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-preset-ns": "0.1.0",
+    "@fastcms/jest-preset": "3.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-625-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@neupauer/tailwindcss-plugin-separated": "1.0.1",
+    "@heroui/theme": "2.4.5"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-034-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.6",
+    "@angular/material-date-fns-adapter": "0.0.0",
+    "@progress/kendo-angular-dateinputs": "0.1.0"
+  }
+}

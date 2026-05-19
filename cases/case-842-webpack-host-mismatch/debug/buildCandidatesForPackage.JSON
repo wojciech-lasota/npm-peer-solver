@@ -1,0 +1,461 @@
+[
+  {
+    "packageName": "webpack",
+    "requestedRange": "5.2.1",
+    "candidates": [
+      {
+        "packageName": "webpack",
+        "version": "5.106.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.103.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.9",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.8",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.7",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.6",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "4.47.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "3.12.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "2.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "1.15.0",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@serwist/webpack-plugin",
+    "requestedRange": "8.0.0",
+    "candidates": [
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.11",
+        "peerDependencies": {
+          "typescript": ">=5.0.0",
+          "webpack": "4.4.0 || ^5.9.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.10",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.9",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.8",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.7",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.6",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.5",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.4",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.3",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.2",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.1",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.5.0",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.4.4",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.4.3",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.4.2",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.4.1",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.4.0",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.3.1",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.3.0",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.2.3",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.2.2",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.2.1",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.2.0",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.1.1",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.1.0",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.0.15",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.0.14",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.0.13",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "9.0.12",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0",
+          "typescript": ">=5.0.0"
+        }
+      },
+      {
+        "packageName": "@serwist/webpack-plugin",
+        "version": "8.4.4",
+        "peerDependencies": {
+          "webpack": "4.4.0 || ^5.9.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@webpack-contrib/config-loader",
+    "requestedRange": "1.1.2",
+    "candidates": [
+      {
+        "packageName": "@webpack-contrib/config-loader",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "webpack": "^4.3.0"
+        }
+      },
+      {
+        "packageName": "@webpack-contrib/config-loader",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "webpack": "^4.3.0"
+        }
+      },
+      {
+        "packageName": "@webpack-contrib/config-loader",
+        "version": "1.1.3",
+        "peerDependencies": {
+          "webpack": "^4.3.0"
+        }
+      },
+      {
+        "packageName": "@webpack-contrib/config-loader",
+        "version": "1.1.2",
+        "peerDependencies": {
+          "webpack": "^4.3.0"
+        }
+      },
+      {
+        "packageName": "@webpack-contrib/config-loader",
+        "version": "1.1.1",
+        "peerDependencies": {
+          "chalk": "^2.1.0",
+          "webpack": "^4.3.0"
+        }
+      },
+      {
+        "packageName": "@webpack-contrib/config-loader",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "chalk": "^2.1.0",
+          "webpack": "^4.3.0"
+        }
+      },
+      {
+        "packageName": "@webpack-contrib/config-loader",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "chalk": "^2.1.0",
+          "webpack": "^4.3.0"
+        }
+      }
+    ]
+  }
+]

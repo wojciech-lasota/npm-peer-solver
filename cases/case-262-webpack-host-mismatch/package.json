@@ -1,0 +1,12 @@
+{
+  "name": "case-262-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "babel-loader": "4.0.0",
+    "@4c/unused-files-webpack-plugin": "4.0.0"
+  }
+}

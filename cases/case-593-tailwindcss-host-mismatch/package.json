@@ -1,0 +1,12 @@
+{
+  "name": "case-593-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@yet3/tailwindcss-fluid-text": "1.0.0",
+    "@hasparus/eslint-plugin-tailwindcss": "3.17.5"
+  }
+}

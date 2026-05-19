@@ -1,0 +1,350 @@
+[
+  {
+    "packageName": "prettier",
+    "requestedRange": "3.3.2",
+    "candidates": [
+      {
+        "packageName": "prettier",
+        "version": "3.8.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.8.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.8.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.6.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.6.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.6.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.4.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.4.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.4.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "2.8.8",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "1.19.1",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@awmottaz/prettier-plugin-void-html",
+    "requestedRange": "1.0.0",
+    "candidates": [
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "2.1.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.8.x"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.7.x"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.10.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.7.x"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.9.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.6.x"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.8.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.5.x"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.7.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.4.x"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.6.1",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.3.x"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.6.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.3.x"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.5.0",
+        "peerDependencies": {
+          "prettier": ">=3.0.0 <3.3.0"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.4.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.2.1"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.3.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.2.0"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.1.1"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.1.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.1.0"
+        }
+      },
+      {
+        "packageName": "@awmottaz/prettier-plugin-void-html",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "prettier": "^3.0.3"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@ilyamatsuev/prettier-plugin-apex",
+    "requestedRange": "2.0.0",
+    "candidates": [
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "3.1.2",
+        "peerDependencies": {
+          "prettier": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "3.1.1",
+        "peerDependencies": {
+          "prettier": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "3.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "prettier": "^3.0.0"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "2.3.0",
+        "peerDependencies": {
+          "prettier": "^3.0.0-alpha"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "2.2.0",
+        "peerDependencies": {
+          "prettier": ">= 2.7.x"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "2.1.1",
+        "peerDependencies": {
+          "prettier": ">= 2.7.x"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "2.1.0",
+        "peerDependencies": {
+          "prettier": ">= 2.7.x"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "2.0.3",
+        "peerDependencies": {
+          "prettier": ">= 2.7.x"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "prettier": ">= 2.7.x"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "prettier": ">= 2.7.x"
+        }
+      },
+      {
+        "packageName": "@ilyamatsuev/prettier-plugin-apex",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "prettier": "^2.0.0"
+        }
+      }
+    ]
+  }
+]

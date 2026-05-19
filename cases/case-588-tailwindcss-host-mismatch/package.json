@@ -1,0 +1,12 @@
+{
+  "name": "case-588-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@imwebme/clay-theme-tailwindcss": "0.0.1",
+    "@joyfour/tailwind-plugin-template": "0.0.4"
+  }
+}

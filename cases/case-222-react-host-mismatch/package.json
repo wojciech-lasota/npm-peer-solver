@@ -1,0 +1,12 @@
+{
+  "name": "case-222-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/breadcrumbs": "3.0.0",
+    "@react-aria/searchfield": "3.7.9"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-260-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@i18next-selector/vite-plugin": "0.0.3",
+    "@rys-fe/vite-plugin-theme": "0.8.5"
+  }
+}

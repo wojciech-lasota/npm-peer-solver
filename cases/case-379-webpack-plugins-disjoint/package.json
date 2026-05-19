@@ -1,0 +1,12 @@
+{
+  "name": "case-379-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.58.2",
+    "@pmmmwh/react-refresh-webpack-plugin": "0.4.0",
+    "copy-pkg-json-webpack-plugin": "0.0.29"
+  }
+}

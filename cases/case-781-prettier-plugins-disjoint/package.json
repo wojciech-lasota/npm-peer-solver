@@ -1,0 +1,12 @@
+{
+  "name": "case-781-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.7.3",
+    "@hubspot/prettier-plugin-hubl": "0.2.1",
+    "@ttskch/prettier-plugin-tailwindcss-anywhere": "0.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-603-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "4.11.0",
+    "@prefabs.tech/fastify-firebase": "0.88.0",
+    "@lokalise/fastify-extras": "2.0.0"
+  }
+}

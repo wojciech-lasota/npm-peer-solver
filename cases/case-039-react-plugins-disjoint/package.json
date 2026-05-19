@@ -1,0 +1,12 @@
+{
+  "name": "case-039-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "19.1.0",
+    "@react-aria/tooltip": "3.0.0",
+    "@react-email/render": "0.0.16"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-492-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.7.0",
+    "@amedia/eslint-config-svelte": "7.0.0",
+    "@dfinity/eslint-config-oisy-wallet": "0.1.0"
+  }
+}

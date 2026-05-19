@@ -1,0 +1,909 @@
+[
+  {
+    "packageName": "@angular/core",
+    "requestedRange": "16.2.12",
+    "candidates": [
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.13"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.9"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.8"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.7"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.6"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.2"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "20.3.21",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0",
+          "@angular/compiler": "20.3.21"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "19.2.22",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "17.3.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "16.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "15.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0 || ~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "13.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "12.2.17",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "11.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "^0.10.2 || ^0.11.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "10.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "9.1.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "tslib": "^1.10.0",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "8.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.4.0",
+          "zone.js": "~0.9.1"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "7.2.16",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "6.1.10",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "5.2.11",
+        "peerDependencies": {
+          "rxjs": "^5.5.0",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "4.4.7",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "2.4.10",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.7.2"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular/cdk",
+    "requestedRange": "5.0.0",
+    "candidates": [
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.1",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.2.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.1.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "21.1.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "20.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^20.0.0 || ^21.0.0",
+          "@angular/common": "^20.0.0 || ^21.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "19.2.19",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^19.0.0 || ^20.0.0",
+          "@angular/common": "^19.0.0 || ^20.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^18.0.0 || ^19.0.0",
+          "@angular/common": "^18.0.0 || ^19.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "17.3.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^17.0.0 || ^18.0.0",
+          "@angular/common": "^17.0.0 || ^18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "16.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^16.0.0 || ^17.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "15.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^15.0.0 || ^16.0.0",
+          "@angular/common": "^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "14.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^14.0.0 || ^15.0.0",
+          "@angular/common": "^14.0.0 || ^15.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "13.3.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^13.0.0 || ^14.0.0-0",
+          "@angular/common": "^13.0.0 || ^14.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "12.2.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0-0",
+          "@angular/common": "^12.0.0 || ^13.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "11.2.13",
+        "peerDependencies": {
+          "@angular/core": "^11.0.0 || ^12.0.0-0",
+          "@angular/common": "^11.0.0 || ^12.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "10.2.7",
+        "peerDependencies": {
+          "@angular/core": "^10.0.0 || ^11.0.0-0",
+          "@angular/common": "^10.0.0 || ^11.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "9.2.4",
+        "peerDependencies": {
+          "tslib": "^1.9.0",
+          "@angular/core": "^9.0.0 || ^10.0.0-0",
+          "@angular/common": "^9.0.0 || ^10.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "8.2.3",
+        "peerDependencies": {
+          "@angular/core": "^8.0.0 || ^9.0.0-0",
+          "@angular/common": "^8.0.0 || ^9.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "7.3.7",
+        "peerDependencies": {
+          "@angular/core": ">=7.0.0",
+          "@angular/common": ">=7.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "6.4.7",
+        "peerDependencies": {
+          "@angular/core": ">=6.0.0-beta.0 <7.0.0",
+          "@angular/common": ">=6.0.0-beta.0 <7.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/cdk",
+        "version": "5.2.5",
+        "peerDependencies": {
+          "@angular/core": ">=5.0.0 <7.0.0",
+          "@angular/common": ">=5.0.0 <7.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular/material-experimental",
+    "requestedRange": "6.0.0",
+    "candidates": [
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.11",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.11",
+          "@angular/cdk-experimental": "21.2.11",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.10",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.10",
+          "@angular/cdk-experimental": "21.2.10",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.9",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.9",
+          "@angular/cdk-experimental": "21.2.9",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.8",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.8",
+          "@angular/cdk-experimental": "21.2.8",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.7",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.7",
+          "@angular/cdk-experimental": "21.2.7",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.6",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.6",
+          "@angular/cdk-experimental": "21.2.6",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.5",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.5",
+          "@angular/cdk-experimental": "21.2.5",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.4",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.4",
+          "@angular/cdk-experimental": "21.2.4",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.3",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.3",
+          "@angular/cdk-experimental": "21.2.3",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.2",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.2",
+          "@angular/cdk-experimental": "21.2.2",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.1",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.1",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.1",
+          "@angular/cdk-experimental": "21.2.1",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.2.0",
+        "peerDependencies": {
+          "@angular/cdk": "21.2.0",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.2.0",
+          "@angular/cdk-experimental": "21.2.0",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.1.6",
+        "peerDependencies": {
+          "@angular/cdk": "21.1.6",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.1.6",
+          "@angular/cdk-experimental": "21.1.6",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "21.1.5",
+        "peerDependencies": {
+          "@angular/cdk": "21.1.5",
+          "@angular/core": "^21.0.0 || ^22.0.0",
+          "@angular/forms": "^21.0.0 || ^22.0.0",
+          "@angular/common": "^21.0.0 || ^22.0.0",
+          "@angular/material": "21.1.5",
+          "@angular/cdk-experimental": "21.1.5",
+          "@angular/platform-browser": "^21.0.0 || ^22.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "20.2.14",
+        "peerDependencies": {
+          "@angular/cdk": "20.2.14",
+          "@angular/core": "^20.0.0 || ^21.0.0",
+          "@angular/forms": "^20.0.0 || ^21.0.0",
+          "@angular/common": "^20.0.0 || ^21.0.0",
+          "@angular/material": "20.2.14",
+          "@angular/cdk-experimental": "20.2.14",
+          "@angular/platform-browser": "^20.0.0 || ^21.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "19.2.19",
+        "peerDependencies": {
+          "@angular/cdk": "19.2.19",
+          "@angular/core": "^19.0.0 || ^20.0.0",
+          "@angular/forms": "^19.0.0 || ^20.0.0",
+          "@angular/common": "^19.0.0 || ^20.0.0",
+          "@angular/material": "19.2.19",
+          "@angular/cdk-experimental": "19.2.19",
+          "@angular/platform-browser": "^19.0.0 || ^20.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "@angular/cdk": "18.2.14",
+          "@angular/core": "^18.0.0 || ^19.0.0",
+          "@angular/forms": "^18.0.0 || ^19.0.0",
+          "@angular/common": "^18.0.0 || ^19.0.0",
+          "@angular/material": "18.2.14",
+          "@angular/animations": "^18.0.0 || ^19.0.0",
+          "@angular/platform-browser": "^18.0.0 || ^19.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "17.3.10",
+        "peerDependencies": {
+          "@angular/cdk": "17.3.10",
+          "@angular/core": "^17.0.0 || ^18.0.0",
+          "@angular/forms": "^17.0.0 || ^18.0.0",
+          "@angular/common": "^17.0.0 || ^18.0.0",
+          "@angular/material": "17.3.10",
+          "@angular/animations": "^17.0.0 || ^18.0.0",
+          "@angular/platform-browser": "^17.0.0 || ^18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "16.2.14",
+        "peerDependencies": {
+          "@angular/cdk": "16.2.14",
+          "@angular/core": "^16.0.0 || ^17.0.0",
+          "@angular/forms": "^16.0.0 || ^17.0.0",
+          "@angular/common": "^16.0.0 || ^17.0.0",
+          "@angular/material": "16.2.14",
+          "@angular/animations": "^16.0.0 || ^17.0.0",
+          "@angular/platform-browser": "^16.0.0 || ^17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "15.2.9",
+        "peerDependencies": {
+          "@angular/cdk": "15.2.9",
+          "@angular/core": "^15.0.0 || ^16.0.0",
+          "@angular/forms": "^15.0.0 || ^16.0.0",
+          "@angular/common": "^15.0.0 || ^16.0.0",
+          "@angular/material": "15.2.9",
+          "@angular/animations": "^15.0.0 || ^16.0.0",
+          "@angular/platform-browser": "^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "14.2.7",
+        "peerDependencies": {
+          "@angular/cdk": "14.2.7",
+          "@angular/core": "^14.0.0 || ^15.0.0",
+          "@angular/forms": "^14.0.0 || ^15.0.0",
+          "@angular/common": "^14.0.0 || ^15.0.0",
+          "@angular/material": "14.2.7",
+          "@angular/animations": "^14.0.0 || ^15.0.0",
+          "@angular/platform-browser": "^14.0.0 || ^15.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "13.3.9",
+        "peerDependencies": {
+          "@angular/cdk": "13.3.9",
+          "@angular/core": "^13.0.0 || ^14.0.0-0",
+          "@angular/forms": "^13.0.0 || ^14.0.0-0",
+          "@angular/common": "^13.0.0 || ^14.0.0-0",
+          "@angular/material": "13.3.9",
+          "@angular/animations": "^13.0.0 || ^14.0.0-0",
+          "material-components-web": "14.0.0-canary.9736ddce9.0",
+          "@angular/platform-browser": "^13.0.0 || ^14.0.0-0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "12.2.13",
+        "peerDependencies": {
+          "@angular/core": "^12.0.0 || ^13.0.0-0",
+          "@angular/material": "12.2.13",
+          "material-components-web": "13.0.0-canary.0a9069300.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "11.2.13",
+        "peerDependencies": {
+          "@angular/core": "^11.0.0 || ^12.0.0-0",
+          "@angular/material": "11.2.13",
+          "material-components-web": "^11.0.0-canary.3201cae47.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "10.2.7",
+        "peerDependencies": {
+          "@angular/core": "^10.0.0 || ^11.0.0-0",
+          "@angular/material": "10.2.7",
+          "material-components-web": "^8.0.0-canary.911014711.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "9.2.4",
+        "peerDependencies": {
+          "tslib": "^1.9.0",
+          "@angular/core": "^9.0.0 || ^10.0.0-0",
+          "@angular/material": "9.2.4",
+          "material-components-web": "^6.0.0-canary.265ecbad5.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "8.2.3",
+        "peerDependencies": {
+          "@angular/core": "^8.0.0 || ^9.0.0-0",
+          "@angular/material": "8.2.3",
+          "material-components-web": "^4.0.0-alpha.0"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "7.3.7",
+        "peerDependencies": {
+          "@angular/core": ">=7.0.0",
+          "@angular/material": "7.3.7"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "6.4.7",
+        "peerDependencies": {
+          "@angular/core": ">=6.0.0-beta.0 <7.0.0",
+          "@angular/material": "6.4.7"
+        }
+      },
+      {
+        "packageName": "@angular/material-experimental",
+        "version": "5.2.5",
+        "peerDependencies": {
+          "@angular/core": ">=5.0.0 <7.0.0",
+          "@angular/material": "5.2.5"
+        }
+      }
+    ]
+  }
+]

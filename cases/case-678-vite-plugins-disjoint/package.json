@@ -1,0 +1,12 @@
+{
+  "name": "case-678-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.0.0",
+    "@bugsnag/vite-plugin-bugsnag": "1.0.0",
+    "@froxz/vite-plugin-s3": "1.2.0"
+  }
+}

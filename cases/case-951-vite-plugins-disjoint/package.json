@@ -1,0 +1,12 @@
+{
+  "name": "case-951-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.4.2",
+    "@svg-use/vite": "1.1.0",
+    "@pyreon/vite-plugin": "0.2.0"
+  }
+}

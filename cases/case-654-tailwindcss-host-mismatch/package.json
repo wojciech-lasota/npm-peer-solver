@@ -1,0 +1,12 @@
+{
+  "name": "case-654-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@catppuccin/tailwindcss": "0.1.2",
+    "@renseiai/agentfactory-dashboard": "0.8.45"
+  }
+}

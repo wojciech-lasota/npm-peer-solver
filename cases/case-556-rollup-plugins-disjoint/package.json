@@ -1,0 +1,12 @@
+{
+  "name": "case-556-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.9.2",
+    "@codecov/rollup-plugin": "1.0.0",
+    "@rbnlffl/rollup-plugin-eslint": "0.1.4"
+  }
+}

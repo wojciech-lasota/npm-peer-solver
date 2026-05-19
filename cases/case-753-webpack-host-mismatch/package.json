@@ -1,0 +1,12 @@
+{
+  "name": "case-753-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "compression-webpack-plugin": "0.1.0",
+    "context-map-webpack-plugin": "0.1.0"
+  }
+}

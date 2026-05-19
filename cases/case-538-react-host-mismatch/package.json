@@ -1,0 +1,12 @@
+{
+  "name": "case-538-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-aria/switch": "3.0.0",
+    "@react-aria/textfield": "3.5.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-742-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@ogcio/fastify-logging-wrapper": "5.4.0",
+    "@waylaidwanderer/fastify-sse-v2": "3.1.0"
+  }
+}

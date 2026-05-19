@@ -1,0 +1,246 @@
+{
+  "generatedAt": "2026-05-10T17:44:54.991Z",
+  "casesDir": "/Users/wojciechlasota/MEGAsync/Development/npm-peer-solver-ts/cases",
+  "filter": null,
+  "names": [
+    "case-001-rollup-plugins-disjoint",
+    "case-023-prettier-plugins-disjoint",
+    "case-025-prettier-plugins-disjoint",
+    "case-038-tailwindcss-plugins-disjoint",
+    "case-066-prettier-plugins-disjoint",
+    "case-086-tailwindcss-plugins-disjoint",
+    "case-117-jest-plugins-disjoint",
+    "case-132-eslint-plugins-disjoint",
+    "case-180-rollup-plugins-disjoint",
+    "case-220-eslint-plugins-disjoint",
+    "case-252-tailwindcss-plugins-disjoint",
+    "case-292-vite-host-mismatch",
+    "case-294-webpack-host-mismatch",
+    "case-433-webpack-plugins-disjoint",
+    "case-457-webpack-plugins-disjoint",
+    "case-504-prettier-plugins-disjoint",
+    "case-549-vite-host-mismatch",
+    "case-551-webpack-plugins-disjoint",
+    "case-552-vite-plugins-disjoint",
+    "case-590-prettier-host-mismatch",
+    "case-596-eslint-plugins-disjoint",
+    "case-614-tailwindcss-plugins-disjoint",
+    "case-639-prettier-plugins-disjoint",
+    "case-642-vite-host-mismatch",
+    "case-718-rollup-plugins-disjoint",
+    "case-723-prettier-plugins-disjoint",
+    "case-743-prettier-plugins-disjoint",
+    "case-786-eslint-plugins-disjoint",
+    "case-842-webpack-host-mismatch",
+    "case-864-prettier-host-mismatch",
+    "case-906-prettier-plugins-disjoint",
+    "case-988-tailwindcss-host-mismatch",
+    "case-993-prettier-plugins-disjoint"
+  ],
+  "total": 33,
+  "counts": {
+    "genuineUnsat": 33,
+    "falseUnsat": 0,
+    "error": 0
+  },
+  "cases": [
+    {
+      "name": "case-001-rollup-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-023-prettier-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-025-prettier-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-038-tailwindcss-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-066-prettier-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-086-tailwindcss-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-117-jest-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-132-eslint-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-180-rollup-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-220-eslint-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-252-tailwindcss-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-292-vite-host-mismatch",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-294-webpack-host-mismatch",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-433-webpack-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-457-webpack-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-504-prettier-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-549-vite-host-mismatch",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-551-webpack-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-552-vite-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-590-prettier-host-mismatch",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-596-eslint-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-614-tailwindcss-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-639-prettier-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-642-vite-host-mismatch",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-718-rollup-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-723-prettier-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-743-prettier-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-786-eslint-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-842-webpack-host-mismatch",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-864-prettier-host-mismatch",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-906-prettier-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-988-tailwindcss-host-mismatch",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    },
+    {
+      "name": "case-993-prettier-plugins-disjoint",
+      "outcome": "GENUINE_UNSAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE | npm error ERESOLVE could not resolve"
+    }
+  ]
+}

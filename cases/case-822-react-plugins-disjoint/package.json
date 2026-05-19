@@ -1,0 +1,12 @@
+{
+  "name": "case-822-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.2.4",
+    "@react-leaflet/core": "3.0.0",
+    "@react-aria/form": "3.0.0"
+  }
+}

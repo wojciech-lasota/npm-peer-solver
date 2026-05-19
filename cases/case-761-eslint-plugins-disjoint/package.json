@@ -1,0 +1,12 @@
+{
+  "name": "case-761-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "5.15.0",
+    "@eslint/json": "0.1.0",
+    "@bifravst/eslint-config-typescript": "1.0.0"
+  }
+}

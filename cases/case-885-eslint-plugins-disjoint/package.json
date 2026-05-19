@@ -1,0 +1,12 @@
+{
+  "name": "case-885-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.38.0",
+    "@dcl/eslint-config": "3.0.0",
+    "@deriv-com/eslint-config-deriv": "2.2.0"
+  }
+}

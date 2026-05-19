@@ -1,0 +1,12 @@
+{
+  "name": "case-868-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.2.8",
+    "@joshwooding/vite-plugin-react-docgen-typescript": "0.1.0",
+    "@salesforce/vite-plugin-ui-bundle": "1.117.2"
+  }
+}

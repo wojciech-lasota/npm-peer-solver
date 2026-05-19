@@ -1,0 +1,12 @@
+{
+  "name": "case-029-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.10.0",
+    "@department-of-veterans-affairs/eslint-plugin": "1.1.0",
+    "@bn-digital/eslint-config": "1.20.2"
+  }
+}

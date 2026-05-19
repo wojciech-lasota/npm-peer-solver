@@ -1,0 +1,12 @@
+{
+  "name": "case-124-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "@vue/vue3-jest": "26.0.1",
+    "jest-cucumber": "1.0.15"
+  }
+}

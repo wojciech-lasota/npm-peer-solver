@@ -1,0 +1,12 @@
+{
+  "name": "case-694-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.2.10",
+    "@formatjs/unplugin": "1.0.0",
+    "@crxjs/vite-plugin": "1.0.0"
+  }
+}

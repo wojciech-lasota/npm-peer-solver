@@ -1,0 +1,12 @@
+{
+  "name": "case-952-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.0.3",
+    "@beeq/tailwindcss": "1.0.0",
+    "@skeletonlabs/skeleton": "3.0.0"
+  }
+}

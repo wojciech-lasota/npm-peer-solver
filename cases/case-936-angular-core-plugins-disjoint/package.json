@@ -1,0 +1,12 @@
+{
+  "name": "case-936-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.9",
+    "@progress/kendo-angular-inputs": "0.10.2",
+    "@progress/kendo-angular-excel-export": "0.1.0"
+  }
+}

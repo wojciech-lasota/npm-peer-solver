@@ -1,0 +1,12 @@
+{
+  "name": "case-161-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@aeolun/fastify-zod-openapi": "4.1.2",
+    "@scalar/fastify-api-reference": "1.28.30"
+  }
+}

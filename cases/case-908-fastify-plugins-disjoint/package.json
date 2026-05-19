@@ -1,0 +1,12 @@
+{
+  "name": "case-908-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "3.29.2",
+    "@ogcio/fastify-o11y": "4.0.1",
+    "@jackdbd/fastify-authorization-endpoint": "1.1.6"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-253-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "babel-loader": "4.0.0",
+    "@friends-of-js/yaml-loader": "1.0.4"
+  }
+}

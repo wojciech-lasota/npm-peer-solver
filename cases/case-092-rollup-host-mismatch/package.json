@@ -1,0 +1,12 @@
+{
+  "name": "case-092-rollup-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.0.0",
+    "@honeybadger-io/rollup-plugin": "5.4.1",
+    "rollup-plugin-auto-entry": "1.0.5"
+  }
+}

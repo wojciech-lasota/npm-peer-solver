@@ -1,0 +1,12 @@
+{
+  "name": "case-945-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "23.3.0",
+    "@oriflame/jest-preset": "5.15.8",
+    "@lwc/jest-preset": "8.0.0"
+  }
+}

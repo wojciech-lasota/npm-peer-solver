@@ -1,0 +1,901 @@
+[
+  {
+    "packageName": "@angular/core",
+    "requestedRange": "17.0.0",
+    "candidates": [
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.13"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.9"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.8"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.7"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.6"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0 || ~0.16.0",
+          "@angular/compiler": "21.2.2"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "20.3.21",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0",
+          "@angular/compiler": "20.3.21"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "19.2.22",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.15.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.10"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "17.3.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.14.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "16.2.12",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "15.2.10",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0 || ~0.13.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4 || ~0.12.0"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "13.4.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "12.2.17",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.0.0",
+          "zone.js": "~0.11.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "11.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "^0.10.2 || ^0.11.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "10.2.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "9.1.13",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "tslib": "^1.10.0",
+          "zone.js": "~0.10.3"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "8.2.14",
+        "peerDependencies": {
+          "rxjs": "^6.4.0",
+          "zone.js": "~0.9.1"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "7.2.16",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "6.1.10",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "zone.js": "~0.8.26"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "5.2.11",
+        "peerDependencies": {
+          "rxjs": "^5.5.0",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "4.4.7",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.8.4"
+        }
+      },
+      {
+        "packageName": "@angular/core",
+        "version": "2.4.10",
+        "peerDependencies": {
+          "rxjs": "^5.0.1",
+          "zone.js": "^0.7.2"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular/fire",
+    "requestedRange": "5.0.0",
+    "candidates": [
+      {
+        "packageName": "@angular/fire",
+        "version": "20.0.1",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^20.0.0",
+          "firebase-tools": "^14.0.0",
+          "@angular/common": "^20.0.0",
+          "@angular/platform-server": "^20.0.0",
+          "@angular/platform-browser": "^20.0.0",
+          "@angular/platform-browser-dynamic": "^20.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "20.0.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^20.0.0",
+          "firebase-tools": "^14.0.0",
+          "@angular/common": "^20.0.0",
+          "@angular/platform-server": "^20.0.0",
+          "@angular/platform-browser": "^20.0.0",
+          "@angular/platform-browser-dynamic": "^20.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "19.2.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^19.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^19.0.0",
+          "@angular/platform-server": "^19.0.0",
+          "@angular/platform-browser": "^19.0.0",
+          "@angular/platform-browser-dynamic": "^19.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "19.1.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^19.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^19.0.0",
+          "@angular/platform-server": "^19.0.0",
+          "@angular/platform-browser": "^19.0.0",
+          "@angular/platform-browser-dynamic": "^19.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "19.0.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^19.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^19.0.0",
+          "@angular/platform-server": "^19.0.0",
+          "@angular/platform-browser": "^19.0.0",
+          "@angular/platform-browser-dynamic": "^19.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "18.0.1",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^18.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^18.0.0",
+          "@angular/platform-browser": "^18.0.0",
+          "@angular/platform-browser-dynamic": "^18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "18.0.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^18.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^18.0.0",
+          "@angular/platform-browser": "^18.0.0",
+          "@angular/platform-browser-dynamic": "^18.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "17.1.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^17.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^17.0.0",
+          "@angular/platform-browser": "^17.0.0",
+          "@angular/platform-browser-dynamic": "^17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "17.0.1",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^17.0.0",
+          "firebase-tools": "^13.0.0",
+          "@angular/common": "^17.0.0",
+          "@angular/platform-browser": "^17.0.0",
+          "@angular/platform-browser-dynamic": "^17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "17.0.0",
+        "peerDependencies": {
+          "rxjs": "~7.8.0",
+          "@angular/core": "^17.0.0",
+          "firebase-tools": "^12.0.0",
+          "@angular/common": "^17.0.0",
+          "@angular/platform-browser": "^17.0.0",
+          "@angular/platform-browser-dynamic": "^17.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "16.0.0",
+        "peerDependencies": {
+          "rxjs": "^6.5.3 || ^7.4.0",
+          "@angular/core": "^16.0.0",
+          "firebase-tools": "^12.0.0",
+          "@angular/common": "^16.0.0",
+          "@angular/platform-browser": "^16.0.0",
+          "@angular/platform-browser-dynamic": "^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.6.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.6.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.5.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0 || ^11.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.4.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0 || ^11.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.4.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0 || ^14.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0 || ^14.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.3.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "@angular/core": "^12.0.0 || ^13.0.0",
+          "firebase-tools": "^9.9.0 || ^10.0.0",
+          "@angular/common": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.2.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.4.0",
+          "@angular/core": "^12.0.0 || ^13.0.0",
+          "firebase-tools": "^9.9.0",
+          "@angular/common": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.2.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.4.0",
+          "@angular/core": "^12.0.0 || ^13.0.0",
+          "firebase-tools": "^9.9.0",
+          "@angular/common": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser": "^12.0.0 || ^13.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0 || ^13.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.1.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.1.0",
+          "@angular/core": "^12.0.0",
+          "firebase-tools": "^9.9.0",
+          "@angular/common": "^12.0.0",
+          "@schematics/angular": "^12.0.0",
+          "@angular-devkit/architect": "> 0.1200.0 < 0.1300.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular-devkit/schematics": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.1.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0 || ^7.0.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.1.0",
+          "@angular/core": "^12.0.0",
+          "firebase-tools": "^9.9.0",
+          "@angular/common": "^12.0.0",
+          "@schematics/angular": "^12.0.0",
+          "@angular-devkit/architect": "> 0.1200.0 < 0.1300.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular-devkit/schematics": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.4",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.3",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.2",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.1",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "rxjs": "~6.6.0",
+          "rxfire": "^6.0.0",
+          "firebase": "^9.0.0",
+          "@angular/core": "^12.0.0",
+          "@angular/common": "^12.0.0",
+          "@angular/platform-browser": "^12.0.0",
+          "@angular/platform-browser-dynamic": "^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "6.1.5",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "firebase": "^7.0 || ^8.0",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/platform-browser": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
+          "@angular/platform-browser-dynamic": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "6.1.4",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "firebase": "^7.0 || ^8.0",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/platform-browser": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/platform-browser-dynamic": "^9.0.0 || ^10.0.0 || ^11.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "6.1.3",
+        "peerDependencies": {
+          "rxjs": "^6.5.3",
+          "firebase": "^7.0.0 || ^8.0.0",
+          "@angular/core": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/common": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/platform-browser": "^9.0.0 || ^10.0.0 || ^11.0.0",
+          "@angular/platform-browser-dynamic": "^9.0.0 || ^10.0.0 || ^11.0.0"
+        }
+      },
+      {
+        "packageName": "@angular/fire",
+        "version": "5.4.2",
+        "peerDependencies": {
+          "rxjs": "^6.0.0",
+          "firebase": ">= 5.5.7 <8",
+          "@angular/core": ">=6.0.0 <9 || ^9.0.0-0",
+          "@angular/common": ">=6.0.0 <9 || ^9.0.0-0",
+          "@angular/platform-browser": ">=6.0.0 <9 || ^9.0.0-0",
+          "@angular/platform-browser-dynamic": ">=6.0.0 <9 || ^9.0.0-0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@angular/compiler-cli",
+    "requestedRange": "0.2.0",
+    "candidates": [
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.13",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.13"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.12",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.11",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.10",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.9",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.9"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.8",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.8"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.7",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.7"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.6",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.6"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.5",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.4",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.4"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.3",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.3"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "21.2.2",
+        "peerDependencies": {
+          "typescript": ">=5.9 <6.1",
+          "@angular/compiler": "21.2.2"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "20.3.21",
+        "peerDependencies": {
+          "typescript": ">=5.8 <6.0",
+          "@angular/compiler": "20.3.21"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "19.2.22",
+        "peerDependencies": {
+          "typescript": ">=5.5 <5.9",
+          "@angular/compiler": "19.2.22"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "18.2.14",
+        "peerDependencies": {
+          "typescript": ">=5.4 <5.6",
+          "@angular/compiler": "18.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "17.3.12",
+        "peerDependencies": {
+          "typescript": ">=5.2 <5.5",
+          "@angular/compiler": "17.3.12"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "16.2.12",
+        "peerDependencies": {
+          "typescript": ">=4.9.3 <5.2",
+          "@angular/compiler": "16.2.12"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "15.2.10",
+        "peerDependencies": {
+          "typescript": ">=4.8.2 <5.0",
+          "@angular/compiler": "15.2.10"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "14.3.0",
+        "peerDependencies": {
+          "typescript": ">=4.6.2 <4.9",
+          "@angular/compiler": "14.3.0"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "13.4.0",
+        "peerDependencies": {
+          "typescript": ">=4.4.2 <4.7",
+          "@angular/compiler": "13.4.0"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "12.2.17",
+        "peerDependencies": {
+          "typescript": ">=4.2.3 <4.4",
+          "@angular/compiler": "12.2.17"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "11.2.14",
+        "peerDependencies": {
+          "typescript": ">=4.0 <4.2",
+          "@angular/compiler": "11.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "10.2.5",
+        "peerDependencies": {
+          "typescript": ">=3.9 <4.1",
+          "@angular/compiler": "10.2.5"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "9.1.13",
+        "peerDependencies": {
+          "tslib": "^1.10.0",
+          "typescript": ">=3.6 <3.9",
+          "@angular/compiler": "9.1.13"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "8.2.14",
+        "peerDependencies": {
+          "typescript": ">=3.4 <3.6",
+          "@angular/compiler": "8.2.14"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "7.2.16",
+        "peerDependencies": {
+          "typescript": ">=3.1.1 <3.3",
+          "@angular/compiler": "7.2.16"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "6.1.10",
+        "peerDependencies": {
+          "typescript": ">=2.7.2 <2.10",
+          "@angular/compiler": "6.1.10"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "5.2.11",
+        "peerDependencies": {
+          "typescript": ">=2.4.2 <2.7",
+          "@angular/compiler": "5.2.11"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "4.4.7",
+        "peerDependencies": {
+          "typescript": "^2.0.2",
+          "@angular/core": "4.4.7",
+          "@angular/compiler": "4.4.7"
+        }
+      },
+      {
+        "packageName": "@angular/compiler-cli",
+        "version": "2.4.10",
+        "peerDependencies": {
+          "typescript": "^2.0.2",
+          "@angular/core": "2.4.10",
+          "@angular/compiler": "2.4.10"
+        }
+      }
+    ]
+  }
+]

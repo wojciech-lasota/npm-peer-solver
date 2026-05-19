@@ -1,0 +1,12 @@
+{
+  "name": "case-126-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "18.2.0",
+    "@progress/kendo-angular-sortable": "0.10.0",
+    "@angular/service-worker": "0.7.2"
+  }
+}

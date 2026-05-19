@@ -1,0 +1,12 @@
+{
+  "name": "case-701-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "16.8.1",
+    "@react-navigation/elements": "2.0.0",
+    "@react-spring/animated": "9.2.0"
+  }
+}

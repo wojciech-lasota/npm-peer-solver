@@ -1,0 +1,12 @@
+{
+  "name": "case-765-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.14.2",
+    "@yutengjing/prettier-config": "0.0.1",
+    "ember-template-lint-plugin-prettier": "0.0.3"
+  }
+}

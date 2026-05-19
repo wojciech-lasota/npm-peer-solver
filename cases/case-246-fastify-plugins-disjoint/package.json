@@ -1,0 +1,12 @@
+{
+  "name": "case-246-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.14.1",
+    "@fastify/passport": "1.0.0",
+    "@fastify/sse": "0.1.0"
+  }
+}

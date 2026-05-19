@@ -1,0 +1,12 @@
+{
+  "name": "case-734-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.3",
+    "@coveo/atomic-angular": "0.0.1",
+    "@angular/material": "5.0.0"
+  }
+}

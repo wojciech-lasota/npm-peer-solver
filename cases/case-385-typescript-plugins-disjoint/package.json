@@ -1,0 +1,12 @@
+{
+  "name": "case-385-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "2.6.1",
+    "@formatjs/ts-transformer": "2.4.2",
+    "@kubb/ts-codegen": "1.4.2"
+  }
+}

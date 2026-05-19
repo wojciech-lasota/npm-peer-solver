@@ -1,0 +1,12 @@
+{
+  "name": "case-115-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "@soda/friendly-errors-webpack-plugin": "1.7.1",
+    "@size-limit/webpack-why": "7.0.5"
+  }
+}

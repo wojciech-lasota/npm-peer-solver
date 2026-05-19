@@ -1,0 +1,12 @@
+{
+  "name": "case-267-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "20.1.3",
+    "@ionic/angular": "4.0.0",
+    "@angular/material-date-fns-adapter": "0.0.0"
+  }
+}

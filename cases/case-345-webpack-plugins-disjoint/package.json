@@ -1,0 +1,12 @@
+{
+  "name": "case-345-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.8.0",
+    "css-loader": "1.0.0",
+    "@ideavo/webpack-tagger": "1.0.0"
+  }
+}

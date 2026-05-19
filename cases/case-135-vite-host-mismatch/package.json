@@ -1,0 +1,12 @@
+{
+  "name": "case-135-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@formatjs/vite-plugin": "1.0.1",
+    "@geajs/vite-plugin": "1.0.15"
+  }
+}

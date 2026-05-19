@@ -1,0 +1,12 @@
+{
+  "name": "case-207-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "ember-template-lint-plugin-prettier": "0.0.3",
+    "@castlabs/prettier-tsdoc-plugin": "0.5.6"
+  }
+}

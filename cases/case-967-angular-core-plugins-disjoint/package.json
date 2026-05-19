@@ -1,0 +1,12 @@
+{
+  "name": "case-967-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "17.0.6",
+    "@angular/material-date-fns-adapter": "0.0.0",
+    "@herd/angular-client": "0.52.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-080-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "16.0.4",
+    "@progress/kendo-angular-excel-export": "0.1.0",
+    "@progress/kendo-angular-menu": "2.0.0"
+  }
+}

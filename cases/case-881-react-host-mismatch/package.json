@@ -1,0 +1,12 @@
+{
+  "name": "case-881-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-spring/animated": "9.0.0",
+    "@react-aria/menu": "3.4.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-182-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "4.26.2",
+    "@prefabs.tech/fastify-config": "0.88.0",
+    "@ogcio/fastify-o11y": "4.0.1"
+  }
+}

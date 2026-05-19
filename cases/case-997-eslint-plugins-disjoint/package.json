@@ -1,0 +1,12 @@
+{
+  "name": "case-997-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.3.1",
+    "@alexlit/config-eslint": "0.19.2",
+    "@graphql-eslint/eslint-plugin": "4.0.0"
+  }
+}

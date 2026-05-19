@@ -1,0 +1,12 @@
+{
+  "name": "case-713-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "18.1.0",
+    "@coreui/angular": "2.0.0",
+    "@angular/youtube-player": "8.2.0"
+  }
+}

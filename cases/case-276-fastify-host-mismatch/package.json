@@ -1,0 +1,12 @@
+{
+  "name": "case-276-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@fastify/passport": "1.0.0",
+    "@aaboamer/fastify-plugin": "1.0.0"
+  }
+}

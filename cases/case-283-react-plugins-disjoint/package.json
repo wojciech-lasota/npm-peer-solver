@@ -1,0 +1,12 @@
+{
+  "name": "case-283-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "19.2.2",
+    "@react-navigation/native": "7.0.0",
+    "@react-spring/shared": "9.2.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-685-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.14.6",
+    "@react-navigation/core": "7.0.4",
+    "@react-stately/menu": "3.0.0"
+  }
+}

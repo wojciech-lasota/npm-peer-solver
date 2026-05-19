@@ -1,0 +1,12 @@
+{
+  "name": "case-347-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.2.11",
+    "@deno/vite-plugin": "0.0.1",
+    "@open-xchange/vite-plugin-ox-css": "1.0.0"
+  }
+}

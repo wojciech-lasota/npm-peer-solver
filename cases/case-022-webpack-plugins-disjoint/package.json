@@ -1,0 +1,12 @@
+{
+  "name": "case-022-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.42.1",
+    "add-asset-html-webpack-plugin": "6.0.0",
+    "@webpack-contrib/config-loader": "0.1.0"
+  }
+}

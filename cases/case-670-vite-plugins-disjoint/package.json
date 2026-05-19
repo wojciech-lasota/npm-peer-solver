@@ -1,0 +1,12 @@
+{
+  "name": "case-670-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.2.6",
+    "@cyco130/vite-plugin-mdx": "0.0.2",
+    "@roots/vite-plugin": "1.0.0"
+  }
+}

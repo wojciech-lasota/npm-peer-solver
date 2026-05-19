@@ -1,0 +1,12 @@
+{
+  "name": "case-400-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "16.2.5",
+    "@progress/kendo-angular-l10n": "0.1.0",
+    "@angular/cdk": "5.0.0"
+  }
+}

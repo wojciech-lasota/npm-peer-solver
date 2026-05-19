@@ -1,0 +1,12 @@
+{
+  "name": "case-411-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.1.7",
+    "@bugsnag/vite-plugin-bugsnag": "1.0.0",
+    "@netlify/vite-plugin-tanstack-start": "0.0.0"
+  }
+}

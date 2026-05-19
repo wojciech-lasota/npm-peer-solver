@@ -1,0 +1,12 @@
+{
+  "name": "case-410-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.12.1",
+    "bundle-stats-webpack-plugin": "2.4.0",
+    "babel-loader": "4.0.0"
+  }
+}

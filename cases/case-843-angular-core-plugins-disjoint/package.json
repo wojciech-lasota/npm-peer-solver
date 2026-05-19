@@ -1,0 +1,12 @@
+{
+  "name": "case-843-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "18.2.4",
+    "@knapsack/renderer-angular": "4.67.6",
+    "@progress/kendo-angular-schematics": "11.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-271-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.1.0",
+    "@angular/material": "5.0.0",
+    "@okta/okta-angular": "0.0.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-403-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "browser-sync-webpack-plugin": "0.1.0",
+    "@serwist/webpack-plugin": "8.0.1"
+  }
+}

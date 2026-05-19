@@ -1,0 +1,12 @@
+{
+  "name": "case-254-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-email/render": "0.0.16",
+    "@react-aria/dialog": "3.1.6"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-806-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.0.0",
+    "@react-scan/vite-plugin-react-scan": "0.1.0",
+    "@ryoppippi/vite-plugin-cloudflare-redirect": "1.1.3"
+  }
+}

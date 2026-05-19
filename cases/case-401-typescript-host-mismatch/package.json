@@ -1,0 +1,12 @@
+{
+  "name": "case-401-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "@zerollup/ts-helpers": "1.6.5",
+    "cosmiconfig-typescript-loader": "1.0.7"
+  }
+}

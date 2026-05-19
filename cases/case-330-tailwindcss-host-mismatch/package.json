@@ -1,0 +1,12 @@
+{
+  "name": "case-330-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@nuxt/ui": "4.4.0",
+    "@halvaradop/tailwindcss-utilities": "1.0.0"
+  }
+}

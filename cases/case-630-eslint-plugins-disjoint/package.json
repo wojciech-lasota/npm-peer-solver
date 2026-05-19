@@ -1,0 +1,12 @@
+{
+  "name": "case-630-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.5.0",
+    "@department-of-veterans-affairs/eslint-plugin": "1.1.0",
+    "@dcl/eslint-config": "1.0.0"
+  }
+}

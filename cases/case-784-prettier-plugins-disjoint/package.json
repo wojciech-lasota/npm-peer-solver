@@ -1,0 +1,12 @@
+{
+  "name": "case-784-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "2.8.0",
+    "@prettier/plugin-pug": "1.0.0",
+    "@procore/hammer-format-prettier": "0.1.0"
+  }
+}

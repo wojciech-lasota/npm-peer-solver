@@ -1,0 +1,12 @@
+{
+  "name": "case-948-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.15.0",
+    "@alexlit/config-eslint": "0.19.2",
+    "@cksource-cs/eslint-config-cs-module": "3.0.0"
+  }
+}

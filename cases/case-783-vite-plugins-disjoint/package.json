@@ -1,0 +1,12 @@
+{
+  "name": "case-783-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.2.0",
+    "@ryoppippi/vite-plugin-cloudflare-redirect": "1.1.1",
+    "@crxjs/vite-plugin": "1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-586-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@prefabs.tech/stateful-fastify": "0.5.0",
+    "@hyperlimit/fastify": "1.0.6"
+  }
+}

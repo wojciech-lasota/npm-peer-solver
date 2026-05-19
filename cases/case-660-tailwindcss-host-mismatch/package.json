@@ -1,0 +1,12 @@
+{
+  "name": "case-660-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@kimesh/tailwindcss": "0.0.1",
+    "@mertasan/tailwindcss-variables": "1.1.2"
+  }
+}

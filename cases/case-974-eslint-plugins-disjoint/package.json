@@ -1,0 +1,12 @@
+{
+  "name": "case-974-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "5.12.1",
+    "@electron-toolkit/eslint-config": "2.0.0",
+    "@hono/eslint-config": "0.0.1"
+  }
+}

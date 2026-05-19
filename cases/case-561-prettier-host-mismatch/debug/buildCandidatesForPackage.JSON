@@ -1,0 +1,387 @@
+[
+  {
+    "packageName": "prettier",
+    "requestedRange": "0.0.1",
+    "candidates": [
+      {
+        "packageName": "prettier",
+        "version": "3.8.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.8.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.8.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.6.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.6.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.6.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.5.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.4.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.4.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.4.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.3.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "3.2.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "2.8.8",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "prettier",
+        "version": "1.19.1",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@pebrianz/prettier-plugin-void-html",
+    "requestedRange": "2.0.0",
+    "candidates": [
+      {
+        "packageName": "@pebrianz/prettier-plugin-void-html",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "prettier": "3.0.0 - 3.5.x"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "prettier-plugin-antlers",
+    "requestedRange": "1.1.13",
+    "candidates": [
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "2.0.5",
+        "peerDependencies": {
+          "prettier": ">=3"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "2.0.4",
+        "peerDependencies": {
+          "prettier": ">=3"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "2.0.3",
+        "peerDependencies": {
+          "prettier": ">=3"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "2.0.2",
+        "peerDependencies": {
+          "prettier": ">=3"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "2.0.1",
+        "peerDependencies": {
+          "prettier": ">=3"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "prettier": ">=3"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.9",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.8",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.7",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.6",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.5",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.4",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.3",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.2",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.1",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.2.0",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.27",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.26",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.25",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.23",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.22",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.21",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.20",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.19",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.18",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.17",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.16",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.15",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.14",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      },
+      {
+        "packageName": "prettier-plugin-antlers",
+        "version": "1.1.13",
+        "peerDependencies": {
+          "prettier": ">=2.2.0"
+        }
+      }
+    ]
+  }
+]

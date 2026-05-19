@@ -1,0 +1,12 @@
+{
+  "name": "case-186-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "3.2.1",
+    "@seletskiy/plugin-pug": "1.4.1",
+    "@typesugar/prettier-plugin": "0.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-699-babel-core-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@babel/core": "7.0.0",
+    "@1stg/babel-preset": "0.1.0",
+    "@babel/plugin-transform-async-generator-functions": "7.26.8"
+  }
+}

@@ -1,0 +1,374 @@
+[
+  {
+    "packageName": "webpack",
+    "requestedRange": "5.2.1",
+    "candidates": [
+      {
+        "packageName": "webpack",
+        "version": "5.106.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.106.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.105.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.104.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.103.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.102.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.101.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.100.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.9",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.8",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.7",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.6",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "5.99.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "4.47.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "3.12.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "2.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "webpack",
+        "version": "1.15.0",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "compression-webpack-plugin",
+    "requestedRange": "0.1.0",
+    "candidates": [
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "12.0.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "11.1.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "11.0.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "9.2.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "9.1.2",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "9.1.1",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "9.1.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "9.0.1",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "8.0.1",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "7.1.2",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "7.1.1",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "7.1.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "webpack": "^5.1.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "6.1.2",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "6.1.1",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "6.1.0",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "6.0.5",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "6.0.4",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "6.0.3",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "6.0.2",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "6.0.1",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "5.0.2",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "webpack": "^4.0.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "3.1.0",
+        "peerDependencies": {
+          "webpack": "^4.3.0 || ^5.0.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "webpack": "^4.3.0"
+        }
+      },
+      {
+        "packageName": "compression-webpack-plugin",
+        "version": "1.1.12",
+        "peerDependencies": {
+          "webpack": "^2.0.0 || ^3.0.0 || ^4.0.0"
+        }
+      }
+    ]
+  }
+]

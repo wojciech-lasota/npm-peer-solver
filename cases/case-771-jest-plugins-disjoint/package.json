@@ -1,0 +1,12 @@
+{
+  "name": "case-771-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "30.4.2",
+    "jest-chrome": "0.6.0",
+    "@haojian-app/jest-preset": "1.1.0"
+  }
+}

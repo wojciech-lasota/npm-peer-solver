@@ -1,0 +1,12 @@
+{
+  "name": "case-020-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "2.9.16",
+    "@griffel/vite-plugin": "0.1.0",
+    "@94ai/vite-plugin-vue2": "1.0.0"
+  }
+}

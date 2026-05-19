@@ -1,0 +1,12 @@
+{
+  "name": "case-046-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "16.4.0",
+    "@react-email/render": "0.0.16",
+    "@react-stately/select": "3.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-437-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.4.0",
+    "@linaria/vite": "4.2.3",
+    "@varlock/vite-integration": "0.0.1"
+  }
+}

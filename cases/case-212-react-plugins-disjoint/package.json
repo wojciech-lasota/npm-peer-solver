@@ -1,0 +1,12 @@
+{
+  "name": "case-212-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "18.0.0",
+    "@react-aria/live-announcer": "3.0.0",
+    "@react-leaflet/core": "2.0.0"
+  }
+}

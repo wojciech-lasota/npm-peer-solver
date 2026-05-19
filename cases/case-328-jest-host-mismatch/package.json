@@ -1,0 +1,12 @@
+{
+  "name": "case-328-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "@lwc/jest-jsdom-test-env": "17.0.1",
+    "jest-mock-vscode": "2.0.0"
+  }
+}

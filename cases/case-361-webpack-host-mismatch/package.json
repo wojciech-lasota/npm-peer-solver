@@ -1,0 +1,12 @@
+{
+  "name": "case-361-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "@flexis/srcset-loader": "0.0.0",
+    "compression-webpack-plugin": "9.1.1"
+  }
+}

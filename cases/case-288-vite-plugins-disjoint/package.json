@@ -1,0 +1,12 @@
+{
+  "name": "case-288-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.0.7",
+    "@salesforce/vite-plugin-ui-bundle": "1.117.2",
+    "@dyad-sh/react-vite-component-tagger": "0.8.0"
+  }
+}

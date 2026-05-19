@@ -1,0 +1,12 @@
+{
+  "name": "case-153-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "6.4.0",
+    "@dfinity/eslint-config-oisy-wallet": "0.0.1",
+    "@1password/eslint-config": "6.0.0"
+  }
+}

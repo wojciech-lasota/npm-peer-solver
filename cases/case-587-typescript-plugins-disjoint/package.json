@@ -1,0 +1,12 @@
+{
+  "name": "case-587-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "4.9.4",
+    "ts-essentials": "3.0.0",
+    "fork-ts-checker-webpack-plugin": "0.1.0"
+  }
+}

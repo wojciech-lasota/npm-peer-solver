@@ -1,0 +1,12 @@
+{
+  "name": "case-306-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.0.5",
+    "@open-xchange/vite-plugin-po2json": "1.0.0",
+    "@sveltejs/vite-plugin-svelte": "1.0.0"
+  }
+}

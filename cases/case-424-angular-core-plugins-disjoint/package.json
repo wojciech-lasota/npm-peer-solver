@@ -1,0 +1,12 @@
+{
+  "name": "case-424-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.1.4",
+    "@progress/kendo-angular-popup": "0.10.2",
+    "@fullcalendar/angular": "4.1.0"
+  }
+}

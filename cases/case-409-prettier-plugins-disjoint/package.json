@@ -1,0 +1,12 @@
+{
+  "name": "case-409-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.15.2",
+    "prettier-markdown-table": "1.0.3",
+    "@cprecioso/prettier-plugin-package-json": "1.0.0"
+  }
+}

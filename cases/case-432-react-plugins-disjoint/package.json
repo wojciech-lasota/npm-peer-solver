@@ -1,0 +1,12 @@
+{
+  "name": "case-432-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "19.0.1",
+    "@react-aria/progress": "3.0.0",
+    "@react-leaflet/core": "1.0.0"
+  }
+}

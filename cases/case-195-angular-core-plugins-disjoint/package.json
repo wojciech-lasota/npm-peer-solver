@@ -1,0 +1,12 @@
+{
+  "name": "case-195-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "18.1.5",
+    "@progress/kendo-angular-gauges": "0.1.0",
+    "@okta/okta-angular": "5.2.0"
+  }
+}

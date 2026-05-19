@@ -1,0 +1,457 @@
+[
+  {
+    "packageName": "rollup",
+    "requestedRange": "3.21.5",
+    "candidates": [
+      {
+        "packageName": "rollup",
+        "version": "4.60.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.60.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.59.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.58.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.57.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.56.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.55.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.54.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.53.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "4.52.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "3.30.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "2.80.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "rollup",
+        "version": "1.32.1",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@rollup/plugin-url",
+    "requestedRange": "4.0.0",
+    "candidates": [
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "8.0.2",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "8.0.1",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "8.0.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "7.0.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "6.1.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "5.0.1",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "4.0.2",
+        "peerDependencies": {
+          "rollup": "^1.20.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "4.0.1",
+        "peerDependencies": {
+          "rollup": "^1.20.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-url",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@rollup/plugin-commonjs",
+    "requestedRange": "12.0.0",
+    "candidates": [
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "29.0.2",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "29.0.1",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "29.0.0",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.9",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.8",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.7",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.6",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.5",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.4",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.3",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.2",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.1",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "28.0.0",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "27.0.0",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "26.0.3",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "25.0.8",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0||^4.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "24.1.0",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "23.0.7",
+        "peerDependencies": {
+          "rollup": "^2.68.0||^3.0.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "22.0.2",
+        "peerDependencies": {
+          "rollup": "^2.68.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "21.1.0",
+        "peerDependencies": {
+          "rollup": "^2.38.3"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "20.0.0",
+        "peerDependencies": {
+          "rollup": "^2.38.3"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "19.0.2",
+        "peerDependencies": {
+          "rollup": "^2.38.3"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "18.1.0",
+        "peerDependencies": {
+          "rollup": "^2.30.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "17.1.0",
+        "peerDependencies": {
+          "rollup": "^2.30.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "16.0.0",
+        "peerDependencies": {
+          "rollup": "^2.30.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "15.1.0",
+        "peerDependencies": {
+          "rollup": "^2.22.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "14.0.0",
+        "peerDependencies": {
+          "rollup": "^2.3.4"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "13.0.2",
+        "peerDependencies": {
+          "rollup": "^2.3.4"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "12.0.0",
+        "peerDependencies": {
+          "rollup": "^2.3.4"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-commonjs",
+        "version": "11.1.0",
+        "peerDependencies": {
+          "rollup": "^1.20.0||^2.0.0"
+        }
+      }
+    ]
+  }
+]

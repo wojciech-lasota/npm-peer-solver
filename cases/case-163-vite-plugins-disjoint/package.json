@@ -1,0 +1,12 @@
+{
+  "name": "case-163-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.3.6",
+    "@nabla/vite-plugin-eslint": "1.0.0",
+    "@netlify/vite-plugin": "0.2.0"
+  }
+}

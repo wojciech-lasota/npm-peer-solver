@@ -1,0 +1,12 @@
+{
+  "name": "case-486-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@kui-dashboard/tailwindcss-plugin": "0.1.0",
+    "@patryk_walach/tailwind-variants": "0.2.0"
+  }
+}

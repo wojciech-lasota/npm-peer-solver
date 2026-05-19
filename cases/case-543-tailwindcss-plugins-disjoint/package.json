@@ -1,0 +1,12 @@
+{
+  "name": "case-543-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "4.0.6",
+    "@neupauer/tailwindcss-plugin-colors": "1.0.0",
+    "@headlessui/tailwindcss": "0.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-647-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "3.27.2",
+    "@rollup/plugin-babel": "5.0.0",
+    "rollup-plugin-dts": "5.0.0"
+  }
+}

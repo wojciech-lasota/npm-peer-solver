@@ -1,0 +1,12 @@
+{
+  "name": "case-714-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.9",
+    "@ttskch/prettier-plugin-tailwindcss-anywhere": "0.0.0",
+    "@azabraao/prettier-plugin-css-order": "1.3.0"
+  }
+}

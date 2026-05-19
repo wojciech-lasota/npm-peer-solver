@@ -1,0 +1,250 @@
+[
+  {
+    "packageName": "fastify",
+    "requestedRange": "5.2.2",
+    "candidates": [
+      {
+        "packageName": "fastify",
+        "version": "5.8.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.6.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.6.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.6.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.5.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.4.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.3.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.3.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.3.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.3.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.2.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.2.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.2.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "5.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "4.29.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "4.29.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "3.29.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "2.15.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "fastify",
+        "version": "1.14.6",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@fastify/schedule",
+    "requestedRange": "2.0.0",
+    "candidates": [
+      {
+        "packageName": "@fastify/schedule",
+        "version": "6.0.0",
+        "peerDependencies": {
+          "toad-scheduler": ">=2.0.0"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "5.0.2",
+        "peerDependencies": {
+          "toad-scheduler": ">=2.0.0"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "5.0.1",
+        "peerDependencies": {
+          "fastify": "^5.0.0",
+          "toad-scheduler": ">= 2.0.0 < 4"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "5.0.0",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "toad-scheduler": ">= 2.0.0 < 4"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "4.1.1",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "toad-scheduler": ">= 2.0.0 < 4"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "4.1.0",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "toad-scheduler": "^2.0.0"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "4.0.0",
+        "peerDependencies": {
+          "fastify": "^4.0.0",
+          "toad-scheduler": "^2.0.0"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "3.0.2",
+        "peerDependencies": {
+          "fastify": "^4.0.0-rc.3",
+          "toad-scheduler": "^1.0.2"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "3.0.1",
+        "peerDependencies": {
+          "fastify": "^4.0.0-rc.3",
+          "toad-scheduler": "^1.0.2"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "3.0.0",
+        "peerDependencies": {
+          "fastify": "^4.0.0-rc.3",
+          "toad-scheduler": "^1.0.2"
+        }
+      },
+      {
+        "packageName": "@fastify/schedule",
+        "version": "2.0.0",
+        "peerDependencies": {
+          "fastify": "^3.0.0",
+          "toad-scheduler": "^1.0.2"
+        }
+      }
+    ]
+  }
+]

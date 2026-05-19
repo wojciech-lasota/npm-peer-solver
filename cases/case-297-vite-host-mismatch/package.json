@@ -1,0 +1,12 @@
+{
+  "name": "case-297-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@preact/preset-vite": "1.0.0",
+    "@open-xchange/vite-plugin-po2json": "1.1.5"
+  }
+}

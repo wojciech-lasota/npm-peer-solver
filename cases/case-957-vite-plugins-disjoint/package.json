@@ -1,0 +1,12 @@
+{
+  "name": "case-957-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "5.2.2",
+    "@cyco130/vite-plugin-mdx": "0.0.2",
+    "@deno/vite-plugin": "0.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-360-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "ts-migrate-plugins": "0.1.25",
+    "@rollup/plugin-typescript": "10.0.1"
+  }
+}

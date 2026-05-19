@@ -1,0 +1,12 @@
+{
+  "name": "case-229-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "@lwc/jest-preset": "0.33.17",
+    "@stryker-mutator/jest-runner": "6.2.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-234-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "22.4.3",
+    "jest-preset-ec0lint-style": "1.0.1",
+    "@astolat/jest-config": "0.0.2"
+  }
+}

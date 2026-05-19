@@ -1,0 +1,12 @@
+{
+  "name": "case-626-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.8.2",
+    "@ianvs/prettier-plugin-sort-imports": "3.2.0",
+    "prettier-plugin-angular": "0.1.0"
+  }
+}

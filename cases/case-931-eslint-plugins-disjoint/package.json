@@ -1,0 +1,12 @@
+{
+  "name": "case-931-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "7.32.0",
+    "@angular-eslint/eslint-plugin-template": "18.0.0",
+    "@grafana/eslint-config": "2.0.0"
+  }
+}

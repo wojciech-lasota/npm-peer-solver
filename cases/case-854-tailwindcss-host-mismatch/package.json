@@ -1,0 +1,12 @@
+{
+  "name": "case-854-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@vuestic/tailwind": "0.1.0",
+    "@igorkowalczyk/is-browser": "3.0.0"
+  }
+}

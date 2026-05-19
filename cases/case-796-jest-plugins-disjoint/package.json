@@ -1,0 +1,12 @@
+{
+  "name": "case-796-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "15.1.1",
+    "vue-jest": "4.0.0",
+    "jest-when": "4.0.0"
+  }
+}

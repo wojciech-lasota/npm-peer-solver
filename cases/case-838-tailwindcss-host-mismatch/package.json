@@ -1,0 +1,12 @@
+{
+  "name": "case-838-tailwindcss-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.0.4",
+    "@bosh-code/tsdown-plugin-tailwindcss": "1.0.0",
+    "@tailwindcss/line-clamp": "0.2.0"
+  }
+}

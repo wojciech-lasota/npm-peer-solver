@@ -1,0 +1,12 @@
+{
+  "name": "case-763-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.100.0",
+    "@pixolith/external-svg-sprite-loader": "6.1.11",
+    "@lagunovsky/svelte-svg-pre-loader": "1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-953-vite-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.1.4",
+    "@cloudflare/vite-plugin": "0.0.1",
+    "@defstudio/vite-livewire-plugin": "0.0.1"
+  }
+}

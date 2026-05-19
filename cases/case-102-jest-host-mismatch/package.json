@@ -1,0 +1,12 @@
+{
+  "name": "case-102-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-preset-ignite": "0.1.0",
+    "jest-dynalite": "1.0.2"
+  }
+}

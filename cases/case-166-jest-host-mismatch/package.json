@@ -1,0 +1,12 @@
+{
+  "name": "case-166-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-xml-matcher": "1.0.0",
+    "@wordpress/jest-preset-default": "11.13.5"
+  }
+}

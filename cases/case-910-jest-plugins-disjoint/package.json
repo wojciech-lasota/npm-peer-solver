@@ -1,0 +1,12 @@
+{
+  "name": "case-910-jest-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "28.0.0",
+    "@lwc/jest-serializer": "8.0.0",
+    "jest-when": "4.0.0"
+  }
+}

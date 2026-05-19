@@ -1,0 +1,602 @@
+[
+  {
+    "packageName": "typescript",
+    "requestedRange": "0.8.0",
+    "candidates": [
+      {
+        "packageName": "typescript",
+        "version": "6.0.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "6.0.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.9.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.9.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.8.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.8.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.7.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.7.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.6.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.6.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.5.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.5.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.5.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.4.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.4.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.4.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.4.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.3.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.3.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.2.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.1.6",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.1.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.1.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.0.4",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.0.3",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "5.0.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "4.9.5",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "3.9.10",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "2.9.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "typescript",
+        "version": "1.8.10",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "detective-typescript",
+    "requestedRange": "13.0.0",
+    "candidates": [
+      {
+        "packageName": "detective-typescript",
+        "version": "14.1.2",
+        "peerDependencies": {
+          "typescript": "^5.4.4 || ^6.0.2"
+        }
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "14.1.1",
+        "peerDependencies": {
+          "typescript": "^5.4.4 || ^6.0.2"
+        }
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "14.1.0",
+        "peerDependencies": {
+          "typescript": "^5.4.4 || ^6.0.2"
+        }
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "14.0.0",
+        "peerDependencies": {
+          "typescript": "^5.4.4"
+        }
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "13.0.1",
+        "peerDependencies": {
+          "typescript": "^5.4.4"
+        }
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "13.0.0",
+        "peerDependencies": {
+          "typescript": "^5.4.4"
+        }
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "12.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "11.2.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "11.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "11.0.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "11.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "11.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "10.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "9.1.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "9.1.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "9.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "8.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "8.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "7.0.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "7.0.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "7.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "6.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "5.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "5.7.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "5.6.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "5.6.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "4.1.2",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "3.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "2.0.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "detective-typescript",
+        "version": "1.0.1",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@rollup/plugin-typescript",
+    "requestedRange": "10.0.1",
+    "candidates": [
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "12.3.0",
+        "peerDependencies": {
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "tslib": "*",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "12.2.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "12.1.4",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "12.1.3",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "12.1.2",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "12.1.1",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "12.1.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "12.0.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "11.1.6",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "11.1.5",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0||^4.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "11.1.4",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "11.1.3",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "11.1.2",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "11.1.1",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "11.1.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "11.0.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "9.0.2",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "9.0.1",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "9.0.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0||^3.0.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "8.5.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "8.4.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "8.3.4",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "8.3.3",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0",
+          "typescript": ">=3.7.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "6.1.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0",
+          "typescript": ">=3.4.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "5.0.2",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^2.14.0",
+          "typescript": ">=3.4.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "4.1.2",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^1.20.0||^2.0.0",
+          "typescript": ">=2.1.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "3.1.1",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^1.20.0",
+          "typescript": ">=2.1.0"
+        }
+      },
+      {
+        "packageName": "@rollup/plugin-typescript",
+        "version": "2.1.0",
+        "peerDependencies": {
+          "tslib": "*",
+          "rollup": "^1.20.0",
+          "typescript": ">=2.1.0"
+        }
+      }
+    ]
+  }
+]

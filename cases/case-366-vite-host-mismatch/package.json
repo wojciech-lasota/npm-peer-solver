@@ -1,0 +1,12 @@
+{
+  "name": "case-366-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "2.9.16",
+    "@dyad-sh/react-vite-component-tagger": "0.8.0",
+    "@usehercules/vite": "1.0.36"
+  }
+}

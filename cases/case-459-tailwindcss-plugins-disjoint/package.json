@@ -1,0 +1,12 @@
+{
+  "name": "case-459-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "1.7.0",
+    "@rvxlab/tailwind-plugin-ios-full-height": "1.0.0",
+    "@meetdomaine/tailwind-syrah": "1.0.0"
+  }
+}

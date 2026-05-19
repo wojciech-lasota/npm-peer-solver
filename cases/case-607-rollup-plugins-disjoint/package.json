@@ -1,0 +1,12 @@
+{
+  "name": "case-607-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "3.27.0",
+    "@posthog/rollup-plugin": "0.0.0",
+    "rollup-plugin-cjs-check": "1.0.0"
+  }
+}

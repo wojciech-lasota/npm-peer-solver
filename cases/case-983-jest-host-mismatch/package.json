@@ -1,0 +1,12 @@
+{
+  "name": "case-983-jest-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "jest": "0.1.22",
+    "jest-preset-ec0lint-style": "1.0.1",
+    "@wordpress/jest-puppeteer-axe": "5.1.0"
+  }
+}

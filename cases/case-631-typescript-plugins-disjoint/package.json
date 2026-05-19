@@ -1,0 +1,12 @@
+{
+  "name": "case-631-typescript-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "4.3.2",
+    "@typescript-eslint/parser": "8.18.0",
+    "fork-ts-checker-webpack-plugin": "0.1.0"
+  }
+}

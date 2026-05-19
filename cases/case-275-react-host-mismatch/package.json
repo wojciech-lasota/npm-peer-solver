@@ -1,0 +1,12 @@
+{
+  "name": "case-275-react-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.0.1",
+    "@react-stately/datepicker": "3.0.0",
+    "@react-aria/overlays": "3.10.1"
+  }
+}

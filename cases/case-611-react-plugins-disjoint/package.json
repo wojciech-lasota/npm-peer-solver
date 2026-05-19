@@ -1,0 +1,12 @@
+{
+  "name": "case-611-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "0.11.0",
+    "@react-email/row": "0.0.6",
+    "@react-stately/tabs": "3.0.0"
+  }
+}

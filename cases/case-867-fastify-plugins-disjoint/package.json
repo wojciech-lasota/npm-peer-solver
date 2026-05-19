@@ -1,0 +1,12 @@
+{
+  "name": "case-867-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "4.6.0",
+    "@as-integrations/fastify": "0.10.0",
+    "@prefabs.tech/fastify-error-handler": "0.89.0"
+  }
+}

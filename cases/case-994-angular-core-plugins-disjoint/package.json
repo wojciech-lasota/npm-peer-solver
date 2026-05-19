@@ -1,0 +1,12 @@
+{
+  "name": "case-994-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "18.1.1",
+    "@formio/angular": "5.0.0",
+    "@angular/google-maps": "12.0.0"
+  }
+}

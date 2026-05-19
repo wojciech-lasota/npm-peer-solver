@@ -1,0 +1,12 @@
+{
+  "name": "case-984-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "4.45.0",
+    "@dyad-sh/nextjs-webpack-component-tagger": "0.8.0",
+    "@serwist/webpack-plugin": "9.5.7"
+  }
+}

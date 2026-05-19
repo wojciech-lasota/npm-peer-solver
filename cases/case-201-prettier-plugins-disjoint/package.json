@@ -1,0 +1,12 @@
+{
+  "name": "case-201-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.18.1",
+    "prettier-config-spellbookx": "0.1.0",
+    "@shopify/prettier-plugin-liquid": "0.1.2"
+  }
+}

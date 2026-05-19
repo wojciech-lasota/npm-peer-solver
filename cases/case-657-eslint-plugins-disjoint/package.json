@@ -1,0 +1,12 @@
+{
+  "name": "case-657-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.15.0",
+    "@deriv-com/eslint-config-deriv": "2.2.0",
+    "@bonniernews/eslint-config": "2.0.0"
+  }
+}

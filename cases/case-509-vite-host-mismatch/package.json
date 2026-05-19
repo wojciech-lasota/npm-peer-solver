@@ -1,0 +1,12 @@
+{
+  "name": "case-509-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@joshwooding/vite-plugin-react-docgen-typescript": "0.1.0",
+    "@by-association-only/vite-plugin-shopify-clean": "2.2.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-378-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "16.4.2",
+    "@react-aria/interactions": "3.0.0",
+    "@react-navigation/core": "7.0.4"
+  }
+}

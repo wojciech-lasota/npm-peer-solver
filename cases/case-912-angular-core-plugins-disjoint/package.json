@@ -1,0 +1,12 @@
+{
+  "name": "case-912-angular-core-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@angular/core": "19.2.14",
+    "@progress/kendo-angular-icons": "0.1.0",
+    "@maskito/angular": "0.1.0"
+  }
+}

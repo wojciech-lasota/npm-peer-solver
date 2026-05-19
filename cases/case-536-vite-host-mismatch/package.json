@@ -1,0 +1,12 @@
+{
+  "name": "case-536-vite-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "vite": "4.3.1",
+    "@netlify/vite-plugin-tanstack-start": "0.0.0",
+    "@metagptx/vite-plugin-source-locator": "0.0.3"
+  }
+}

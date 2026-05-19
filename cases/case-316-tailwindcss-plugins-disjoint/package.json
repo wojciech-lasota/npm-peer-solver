@@ -1,0 +1,12 @@
+{
+  "name": "case-316-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.4.12",
+    "@designbycode/tailwindcss-text-stroke": "1.2.0",
+    "@themosaad/tailwindcss-capsize": "0.1.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-861-typescript-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "typescript": "0.8.0",
+    "ts-data-forge": "1.0.0",
+    "detective-typescript": "14.1.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "case-225-fastify-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "4.24.0",
+    "@prefabs.tech/fastify-mailer": "0.88.0",
+    "@fastify/type-provider-typebox": "0.1.0"
+  }
+}

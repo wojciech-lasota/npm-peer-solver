@@ -1,0 +1,12 @@
+{
+  "name": "case-294-webpack-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.2.1",
+    "@clayne/string-replace-loader": "1.0.5",
+    "css-fix-url-loader": "1.0.1"
+  }
+}

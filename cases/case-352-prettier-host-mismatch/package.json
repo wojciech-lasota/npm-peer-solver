@@ -1,0 +1,12 @@
+{
+  "name": "case-352-prettier-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "0.0.1",
+    "prettier-plugin-bbnf": "0.1.0",
+    "@re-taro/prettier-plugin-curly-and-jsdoc": "1.2.0"
+  }
+}

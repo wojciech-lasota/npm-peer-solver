@@ -1,0 +1,558 @@
+[
+  {
+    "packageName": "eslint",
+    "requestedRange": "4.18.1",
+    "candidates": [
+      {
+        "packageName": "eslint",
+        "version": "10.4.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.3.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.2.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.1.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "10.0.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.4",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.3",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.2",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.1",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.39.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.38.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.37.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.36.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.35.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.34.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.33.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.32.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "9.31.0",
+        "peerDependencies": {
+          "jiti": "*"
+        }
+      },
+      {
+        "packageName": "eslint",
+        "version": "8.57.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "7.32.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "6.8.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "5.16.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "4.19.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "3.19.0",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "2.13.1",
+        "peerDependencies": {}
+      },
+      {
+        "packageName": "eslint",
+        "version": "1.10.3",
+        "peerDependencies": {}
+      }
+    ]
+  },
+  {
+    "packageName": "@amedia/eslint-config-prettier",
+    "requestedRange": "1.0.0",
+    "candidates": [
+      {
+        "packageName": "@amedia/eslint-config-prettier",
+        "version": "1.0.1",
+        "peerDependencies": {
+          "eslint": "9.x"
+        }
+      },
+      {
+        "packageName": "@amedia/eslint-config-prettier",
+        "version": "1.0.0",
+        "peerDependencies": {
+          "eslint": "9.x"
+        }
+      }
+    ]
+  },
+  {
+    "packageName": "@genesislcap/eslint-config",
+    "requestedRange": "14.134.0",
+    "candidates": [
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.438.1",
+        "peerDependencies": {
+          "@typescript-eslint/eslint-plugin": "^8.0.0",
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.438.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.437.6",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.437.5",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.437.4",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.437.3",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.437.2",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.437.1",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.437.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.436.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.435.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.434.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.433.1",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.433.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.432.2",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.432.1",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.432.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.431.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.430.2",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.430.1",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.430.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.429.3",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.429.2",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.429.1",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.429.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.428.1",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.428.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.427.1",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.427.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      },
+      {
+        "packageName": "@genesislcap/eslint-config",
+        "version": "14.426.0",
+        "peerDependencies": {
+          "eslint": ">= 9",
+          "eslint-plugin-import": "^2.27.5",
+          "eslint-plugin-prettier": "^5.0.0",
+          "eslint-plugin-unused-imports": "^4.0.0",
+          "@typescript-eslint/eslint-plugin": "^8.0.0"
+        }
+      }
+    ]
+  }
+]

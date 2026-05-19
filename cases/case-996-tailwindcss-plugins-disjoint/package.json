@@ -1,0 +1,12 @@
+{
+  "name": "case-996-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.0.4",
+    "@roots/bud-tailwindcss": "4.3.0",
+    "@astrojs/tailwind": "2.0.0"
+  }
+}

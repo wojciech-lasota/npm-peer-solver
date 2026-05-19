@@ -1,0 +1,12 @@
+{
+  "name": "case-595-rollup-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "4.16.1",
+    "rollup-plugin-bundle-analyzer": "1.6.0",
+    "rollup-plugin-delete": "0.1.1"
+  }
+}

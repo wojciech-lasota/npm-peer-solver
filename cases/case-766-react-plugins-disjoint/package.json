@@ -1,0 +1,12 @@
+{
+  "name": "case-766-react-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "react": "19.0.3",
+    "@fortawesome/react-fontawesome": "0.0.5",
+    "@react-aria/meter": "3.0.0"
+  }
+}

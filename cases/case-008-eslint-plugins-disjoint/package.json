@@ -1,0 +1,12 @@
+{
+  "name": "case-008-eslint-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eslint": "8.30.0",
+    "@guardian/eslint-config": "1.0.0",
+    "@alexlit/config-eslint": "0.19.2"
+  }
+}

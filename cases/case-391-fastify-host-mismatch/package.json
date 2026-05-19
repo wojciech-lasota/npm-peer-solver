@@ -1,0 +1,12 @@
+{
+  "name": "case-391-fastify-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "fastify": "1.10.0",
+    "@hyperlimit/fastify": "1.0.0",
+    "@prefabs.tech/saas-fastify": "0.22.2"
+  }
+}

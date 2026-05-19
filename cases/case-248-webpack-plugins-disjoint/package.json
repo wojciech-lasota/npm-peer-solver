@@ -1,0 +1,12 @@
+{
+  "name": "case-248-webpack-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "webpack": "5.90.2",
+    "@lvl/wxapp-webpack-plugin": "0.1.0",
+    "@size-limit/webpack-why": "8.2.0"
+  }
+}

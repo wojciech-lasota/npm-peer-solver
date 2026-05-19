@@ -1,0 +1,12 @@
+{
+  "name": "case-053-tailwindcss-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "3.0.21",
+    "@skeletonlabs/skeleton": "3.0.0",
+    "@savaryna/tailwindcss-material-symbols": "1.0.0"
+  }
+}

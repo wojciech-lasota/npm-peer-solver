@@ -1,0 +1,12 @@
+{
+  "name": "case-757-prettier-plugins-disjoint",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "prettier": "1.5.3",
+    "@yutengjing/prettier-config": "1.0.0",
+    "@serverless-guru/prettier-plugin-import-order": "0.1.0"
+  }
+}

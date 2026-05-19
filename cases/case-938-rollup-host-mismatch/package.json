@@ -1,0 +1,12 @@
+{
+  "name": "case-938-rollup-host-mismatch",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "rollup": "2.79.2",
+    "@formatjs/unplugin": "1.0.0",
+    "@ironkinoko/rollup-plugin-styles": "4.0.4"
+  }
+}
