@@ -51,6 +51,7 @@ Run the command in a directory that contains a `package.json`.
 | `npm run pipeline` | Generate cases and solve them |
 | `npm run pipeline:100` | Generate 100 cases and solve them |
 | `npm run verify` | Check selected `UNSAT` results with real `npm install` |
+| `npm run verify:sat` | Check selected `SAT` assignments by asking npm to install the solver's exact version set |
 | `npm run clean` | Remove `dist/` and `cases/` |
 | `npm run clean:dist` | Remove `dist/` only |
 | `npm run clean:cases` | Remove `cases/` only |

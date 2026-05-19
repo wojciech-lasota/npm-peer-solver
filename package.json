@@ -10,12 +10,12 @@
     "dev": "tsc -p tsconfig.build.json --watch",
     "typecheck": "tsc --noEmit",
     "generate": "tsx scripts/generate-cases.ts",
-    "generate:100:min-deps:10": "tsx scripts/generate-cases.ts --count 100 --min-deps 10",
     "generate:1000": "tsx scripts/generate-cases.ts --count 1000",
     "solve": "tsx scripts/run-cases.ts",
     "pipeline": "npm run generate && npm run solve",
     "pipeline:100": "tsx scripts/generate-cases.ts --count 100 && tsx scripts/run-cases.ts",
     "verify": "tsx scripts/verify-unsat.ts",
+    "verify:sat": "tsx scripts/verify-sat.ts",
     "clean": "rimraf dist cases",
     "clean:dist": "rimraf dist",
     "clean:cases": "rimraf cases"
