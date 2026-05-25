@@ -1,0 +1,6786 @@
+{
+  "generatedAt": "2026-05-19T11:48:26.307Z",
+  "casesDir": "/Users/wojciechlasota/MEGAsync/Development/npm-peer-solver-ts/cases",
+  "solverPath": "/Users/wojciechlasota/MEGAsync/Development/mgr gh/dist/cli.js",
+  "filter": null,
+  "names": null,
+  "solveReport": "/Users/wojciechlasota/MEGAsync/Development/npm-peer-solver-ts/reports/ch08/20260510-192529-solve.json",
+  "total": 967,
+  "counts": {
+    "verifiedSat": 890,
+    "falseSat": 72,
+    "nonSat": 0,
+    "error": 5
+  },
+  "cases": [
+    {
+      "name": "case-002-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-003-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 479ms"
+    },
+    {
+      "name": "case-004-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-005-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-006-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 856ms"
+    },
+    {
+      "name": "case-007-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-008-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 11s"
+    },
+    {
+      "name": "case-009-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-010-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-011-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-012-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 199ms"
+    },
+    {
+      "name": "case-013-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-014-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-015-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 364ms"
+    },
+    {
+      "name": "case-016-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-017-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-018-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-019-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 166ms"
+    },
+    {
+      "name": "case-020-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 889ms"
+    },
+    {
+      "name": "case-021-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 981ms"
+    },
+    {
+      "name": "case-022-webpack-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-024-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 867ms"
+    },
+    {
+      "name": "case-026-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-027-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-028-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 262ms"
+    },
+    {
+      "name": "case-029-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-030-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-031-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-032-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 14s"
+    },
+    {
+      "name": "case-033-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 814ms"
+    },
+    {
+      "name": "case-034-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-035-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-036-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-037-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 694ms"
+    },
+    {
+      "name": "case-039-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 989ms"
+    },
+    {
+      "name": "case-040-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-041-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-042-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-043-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 747ms"
+    },
+    {
+      "name": "case-044-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-045-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-046-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-047-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-048-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 905ms"
+    },
+    {
+      "name": "case-049-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 8s"
+    },
+    {
+      "name": "case-050-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 409ms"
+    },
+    {
+      "name": "case-051-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-052-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-053-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 387ms"
+    },
+    {
+      "name": "case-054-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 473ms"
+    },
+    {
+      "name": "case-055-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-056-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-057-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 923ms"
+    },
+    {
+      "name": "case-058-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-059-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-060-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 341ms"
+    },
+    {
+      "name": "case-061-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-062-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-063-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-064-vite-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-065-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-067-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 827ms"
+    },
+    {
+      "name": "case-068-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 675ms"
+    },
+    {
+      "name": "case-069-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 661ms"
+    },
+    {
+      "name": "case-070-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 753ms"
+    },
+    {
+      "name": "case-071-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 11s"
+    },
+    {
+      "name": "case-072-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-073-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 818ms"
+    },
+    {
+      "name": "case-074-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 399ms"
+    },
+    {
+      "name": "case-075-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 950ms"
+    },
+    {
+      "name": "case-076-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 384ms"
+    },
+    {
+      "name": "case-077-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-078-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-079-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 464ms"
+    },
+    {
+      "name": "case-080-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-081-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 551ms"
+    },
+    {
+      "name": "case-082-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-083-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 319ms"
+    },
+    {
+      "name": "case-084-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-085-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 329ms"
+    },
+    {
+      "name": "case-087-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-088-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-089-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 820ms"
+    },
+    {
+      "name": "case-090-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-091-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 538ms"
+    },
+    {
+      "name": "case-092-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 867ms"
+    },
+    {
+      "name": "case-093-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-094-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 708ms"
+    },
+    {
+      "name": "case-095-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-096-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-097-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-098-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-099-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 386ms"
+    },
+    {
+      "name": "case-100-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-1000-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-101-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 548ms"
+    },
+    {
+      "name": "case-102-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-103-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-104-angular-core-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-105-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-106-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-107-babel-core-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 414ms"
+    },
+    {
+      "name": "case-108-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 968ms"
+    },
+    {
+      "name": "case-109-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-110-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-111-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-112-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-113-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 16s"
+    },
+    {
+      "name": "case-114-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-115-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-116-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-118-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-119-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-120-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 310ms"
+    },
+    {
+      "name": "case-121-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 665ms"
+    },
+    {
+      "name": "case-122-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-123-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-124-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-125-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 883ms"
+    },
+    {
+      "name": "case-126-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 695ms"
+    },
+    {
+      "name": "case-127-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-128-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-129-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-130-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 777ms"
+    },
+    {
+      "name": "case-131-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-133-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 630ms"
+    },
+    {
+      "name": "case-134-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 936ms"
+    },
+    {
+      "name": "case-135-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-136-babel-core-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 533ms"
+    },
+    {
+      "name": "case-137-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-138-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-139-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 8s"
+    },
+    {
+      "name": "case-140-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 457ms"
+    },
+    {
+      "name": "case-141-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 994ms"
+    },
+    {
+      "name": "case-142-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-143-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-144-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 861ms"
+    },
+    {
+      "name": "case-145-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 234ms"
+    },
+    {
+      "name": "case-146-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 333ms"
+    },
+    {
+      "name": "case-147-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 781ms"
+    },
+    {
+      "name": "case-148-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 381ms"
+    },
+    {
+      "name": "case-149-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-150-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-151-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 935ms"
+    },
+    {
+      "name": "case-152-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 987ms"
+    },
+    {
+      "name": "case-153-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-154-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-155-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 815ms"
+    },
+    {
+      "name": "case-156-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 706ms"
+    },
+    {
+      "name": "case-157-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-158-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-159-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-160-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-161-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-162-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-163-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 8s"
+    },
+    {
+      "name": "case-164-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-165-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 170ms"
+    },
+    {
+      "name": "case-166-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-167-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-168-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-169-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-170-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-171-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-172-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-173-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-174-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-175-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 785ms"
+    },
+    {
+      "name": "case-176-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-177-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 496ms"
+    },
+    {
+      "name": "case-178-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 332ms"
+    },
+    {
+      "name": "case-179-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-181-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 685ms"
+    },
+    {
+      "name": "case-182-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-183-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-184-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-185-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-186-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 784ms"
+    },
+    {
+      "name": "case-187-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 857ms"
+    },
+    {
+      "name": "case-188-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 21s"
+    },
+    {
+      "name": "case-189-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-190-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-191-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 293ms"
+    },
+    {
+      "name": "case-192-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 428ms"
+    },
+    {
+      "name": "case-193-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 683ms"
+    },
+    {
+      "name": "case-194-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-195-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-196-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 965ms"
+    },
+    {
+      "name": "case-197-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-198-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-199-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-200-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 332ms"
+    },
+    {
+      "name": "case-201-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 849ms"
+    },
+    {
+      "name": "case-202-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-203-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-204-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-205-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 794ms"
+    },
+    {
+      "name": "case-206-angular-core-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-207-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-208-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 687ms"
+    },
+    {
+      "name": "case-209-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-210-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 425ms"
+    },
+    {
+      "name": "case-211-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-212-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 812ms"
+    },
+    {
+      "name": "case-213-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 430ms"
+    },
+    {
+      "name": "case-214-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-215-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-216-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-217-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 335ms"
+    },
+    {
+      "name": "case-218-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-219-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-221-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-222-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-223-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-224-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-225-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 507ms"
+    },
+    {
+      "name": "case-226-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-227-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 281ms"
+    },
+    {
+      "name": "case-228-babel-core-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-229-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 8s"
+    },
+    {
+      "name": "case-230-jest-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-231-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-232-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 869ms"
+    },
+    {
+      "name": "case-233-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 350ms"
+    },
+    {
+      "name": "case-234-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-235-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 10s"
+    },
+    {
+      "name": "case-236-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 399ms"
+    },
+    {
+      "name": "case-237-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-238-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-239-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-240-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-241-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 868ms"
+    },
+    {
+      "name": "case-242-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 855ms"
+    },
+    {
+      "name": "case-243-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-244-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-245-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-246-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-247-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 340ms"
+    },
+    {
+      "name": "case-248-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-249-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-250-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 745ms"
+    },
+    {
+      "name": "case-251-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-253-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-254-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-255-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-256-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-257-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-258-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 789ms"
+    },
+    {
+      "name": "case-259-angular-core-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-260-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 625ms"
+    },
+    {
+      "name": "case-261-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 165ms"
+    },
+    {
+      "name": "case-262-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-263-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 891ms"
+    },
+    {
+      "name": "case-264-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 614ms"
+    },
+    {
+      "name": "case-265-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 674ms"
+    },
+    {
+      "name": "case-266-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-267-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 888ms"
+    },
+    {
+      "name": "case-268-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-269-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-270-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-271-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 738ms"
+    },
+    {
+      "name": "case-272-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 757ms"
+    },
+    {
+      "name": "case-273-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 851ms"
+    },
+    {
+      "name": "case-274-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 10s"
+    },
+    {
+      "name": "case-275-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 659ms"
+    },
+    {
+      "name": "case-276-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 296ms"
+    },
+    {
+      "name": "case-277-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-278-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 166ms"
+    },
+    {
+      "name": "case-279-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-280-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-281-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 738ms"
+    },
+    {
+      "name": "case-282-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 163ms"
+    },
+    {
+      "name": "case-283-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-284-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-285-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 617ms"
+    },
+    {
+      "name": "case-286-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 9s"
+    },
+    {
+      "name": "case-287-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-288-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-289-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 470ms"
+    },
+    {
+      "name": "case-290-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-291-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-293-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-295-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-296-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-297-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-298-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 888ms"
+    },
+    {
+      "name": "case-299-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-300-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 863ms"
+    },
+    {
+      "name": "case-301-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-302-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 475ms"
+    },
+    {
+      "name": "case-303-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-304-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-305-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 850ms"
+    },
+    {
+      "name": "case-306-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-307-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-308-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-309-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 735ms"
+    },
+    {
+      "name": "case-310-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-311-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 931ms"
+    },
+    {
+      "name": "case-312-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-313-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 940ms"
+    },
+    {
+      "name": "case-314-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-315-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-316-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 365ms"
+    },
+    {
+      "name": "case-317-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-318-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 463ms"
+    },
+    {
+      "name": "case-319-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-320-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 166ms"
+    },
+    {
+      "name": "case-321-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-322-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-323-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 951ms"
+    },
+    {
+      "name": "case-324-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 545ms"
+    },
+    {
+      "name": "case-325-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 397ms"
+    },
+    {
+      "name": "case-326-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-327-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-328-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-329-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-330-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 18s"
+    },
+    {
+      "name": "case-331-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 261ms"
+    },
+    {
+      "name": "case-332-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-333-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 8s"
+    },
+    {
+      "name": "case-334-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-335-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-336-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-337-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-338-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 529ms"
+    },
+    {
+      "name": "case-339-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 17s"
+    },
+    {
+      "name": "case-340-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 11s"
+    },
+    {
+      "name": "case-341-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-342-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-343-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-344-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 13s"
+    },
+    {
+      "name": "case-345-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-346-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 541ms"
+    },
+    {
+      "name": "case-347-vite-plugins-disjoint",
+      "outcome": "ERROR",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code E404"
+    },
+    {
+      "name": "case-348-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-349-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-350-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-351-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 820ms"
+    },
+    {
+      "name": "case-352-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-353-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-354-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-355-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-356-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-357-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-358-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 687ms"
+    },
+    {
+      "name": "case-359-babel-core-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 530ms"
+    },
+    {
+      "name": "case-360-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 289ms"
+    },
+    {
+      "name": "case-361-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 10s"
+    },
+    {
+      "name": "case-362-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-363-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 591ms"
+    },
+    {
+      "name": "case-364-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-365-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-366-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 856ms"
+    },
+    {
+      "name": "case-367-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-368-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 825ms"
+    },
+    {
+      "name": "case-369-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-370-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-371-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-372-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-373-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-374-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-375-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 907ms"
+    },
+    {
+      "name": "case-376-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 344ms"
+    },
+    {
+      "name": "case-377-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-378-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 603ms"
+    },
+    {
+      "name": "case-379-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 471ms"
+    },
+    {
+      "name": "case-380-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-381-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-382-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-383-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-384-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-385-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 758ms"
+    },
+    {
+      "name": "case-386-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 873ms"
+    },
+    {
+      "name": "case-387-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-388-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-389-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 10s"
+    },
+    {
+      "name": "case-390-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-391-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 392ms"
+    },
+    {
+      "name": "case-392-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-393-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-394-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 702ms"
+    },
+    {
+      "name": "case-395-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-396-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 626ms"
+    },
+    {
+      "name": "case-397-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 728ms"
+    },
+    {
+      "name": "case-398-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 382ms"
+    },
+    {
+      "name": "case-399-webpack-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-400-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 883ms"
+    },
+    {
+      "name": "case-401-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 719ms"
+    },
+    {
+      "name": "case-402-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 9s"
+    },
+    {
+      "name": "case-403-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-404-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-405-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 304ms"
+    },
+    {
+      "name": "case-406-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-407-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-408-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 862ms"
+    },
+    {
+      "name": "case-409-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-410-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-411-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 17s"
+    },
+    {
+      "name": "case-412-jest-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-413-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 209ms"
+    },
+    {
+      "name": "case-414-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-415-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-416-angular-core-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-417-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-418-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-419-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-420-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 163ms"
+    },
+    {
+      "name": "case-421-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-422-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 785ms"
+    },
+    {
+      "name": "case-423-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-424-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-425-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-426-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-427-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-428-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-429-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 11s"
+    },
+    {
+      "name": "case-430-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 261ms"
+    },
+    {
+      "name": "case-431-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 775ms"
+    },
+    {
+      "name": "case-432-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 693ms"
+    },
+    {
+      "name": "case-434-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-435-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 920ms"
+    },
+    {
+      "name": "case-436-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 427ms"
+    },
+    {
+      "name": "case-437-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-438-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 759ms"
+    },
+    {
+      "name": "case-439-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ETARGET"
+    },
+    {
+      "name": "case-440-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-441-angular-core-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-442-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-443-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 357ms"
+    },
+    {
+      "name": "case-444-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-445-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 644ms"
+    },
+    {
+      "name": "case-446-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-447-vite-host-mismatch",
+      "outcome": "ERROR",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code E404"
+    },
+    {
+      "name": "case-448-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-449-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 159ms"
+    },
+    {
+      "name": "case-450-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 393ms"
+    },
+    {
+      "name": "case-451-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-452-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 857ms"
+    },
+    {
+      "name": "case-453-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-454-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 684ms"
+    },
+    {
+      "name": "case-455-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-456-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-458-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 243ms"
+    },
+    {
+      "name": "case-459-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 741ms"
+    },
+    {
+      "name": "case-460-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-461-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-462-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-463-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 671ms"
+    },
+    {
+      "name": "case-464-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 273ms"
+    },
+    {
+      "name": "case-465-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 653ms"
+    },
+    {
+      "name": "case-466-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 571ms"
+    },
+    {
+      "name": "case-467-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 584ms"
+    },
+    {
+      "name": "case-468-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 769ms"
+    },
+    {
+      "name": "case-469-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 633ms"
+    },
+    {
+      "name": "case-470-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 11s"
+    },
+    {
+      "name": "case-471-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 391ms"
+    },
+    {
+      "name": "case-472-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 365ms"
+    },
+    {
+      "name": "case-473-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-474-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 551ms"
+    },
+    {
+      "name": "case-475-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-476-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-477-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-478-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-479-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 475ms"
+    },
+    {
+      "name": "case-480-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 568ms"
+    },
+    {
+      "name": "case-481-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-482-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 752ms"
+    },
+    {
+      "name": "case-483-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-484-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 544ms"
+    },
+    {
+      "name": "case-485-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-486-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 196ms"
+    },
+    {
+      "name": "case-487-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-488-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 522ms"
+    },
+    {
+      "name": "case-489-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-490-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 453ms"
+    },
+    {
+      "name": "case-491-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 469ms"
+    },
+    {
+      "name": "case-492-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-493-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-494-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-495-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 964ms"
+    },
+    {
+      "name": "case-496-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-497-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-498-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-499-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-500-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-501-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-502-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 560ms"
+    },
+    {
+      "name": "case-503-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-505-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 9s"
+    },
+    {
+      "name": "case-506-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 14s"
+    },
+    {
+      "name": "case-507-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-508-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 327ms"
+    },
+    {
+      "name": "case-509-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-510-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 483ms"
+    },
+    {
+      "name": "case-511-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 927ms"
+    },
+    {
+      "name": "case-512-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 932ms"
+    },
+    {
+      "name": "case-513-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-514-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-515-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-516-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-517-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 613ms"
+    },
+    {
+      "name": "case-518-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 949ms"
+    },
+    {
+      "name": "case-519-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-520-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 831ms"
+    },
+    {
+      "name": "case-521-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-522-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 662ms"
+    },
+    {
+      "name": "case-523-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 854ms"
+    },
+    {
+      "name": "case-524-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-525-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-526-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 300ms"
+    },
+    {
+      "name": "case-527-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-528-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-529-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-530-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 763ms"
+    },
+    {
+      "name": "case-531-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 15s"
+    },
+    {
+      "name": "case-532-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 810ms"
+    },
+    {
+      "name": "case-533-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-534-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 771ms"
+    },
+    {
+      "name": "case-535-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 856ms"
+    },
+    {
+      "name": "case-536-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-537-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-538-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 583ms"
+    },
+    {
+      "name": "case-539-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-540-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-541-jest-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-542-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-543-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 441ms"
+    },
+    {
+      "name": "case-544-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 738ms"
+    },
+    {
+      "name": "case-545-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-546-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 9s"
+    },
+    {
+      "name": "case-547-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-548-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-550-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-553-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-554-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-555-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 842ms"
+    },
+    {
+      "name": "case-556-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-557-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-558-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 939ms"
+    },
+    {
+      "name": "case-559-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 475ms"
+    },
+    {
+      "name": "case-560-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 738ms"
+    },
+    {
+      "name": "case-561-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 415ms"
+    },
+    {
+      "name": "case-562-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-563-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-564-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-565-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-566-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-567-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 326ms"
+    },
+    {
+      "name": "case-568-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-569-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 643ms"
+    },
+    {
+      "name": "case-570-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-571-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-572-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-573-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-574-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 284ms"
+    },
+    {
+      "name": "case-575-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 311ms"
+    },
+    {
+      "name": "case-576-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 692ms"
+    },
+    {
+      "name": "case-577-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-578-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-579-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-580-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-581-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 595ms"
+    },
+    {
+      "name": "case-582-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 196ms"
+    },
+    {
+      "name": "case-583-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 9s"
+    },
+    {
+      "name": "case-584-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 195ms"
+    },
+    {
+      "name": "case-585-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-586-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-587-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-588-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-589-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-591-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 361ms"
+    },
+    {
+      "name": "case-592-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 807ms"
+    },
+    {
+      "name": "case-593-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 530ms"
+    },
+    {
+      "name": "case-594-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-595-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-597-jest-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-598-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-599-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 200ms"
+    },
+    {
+      "name": "case-600-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-601-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 294ms"
+    },
+    {
+      "name": "case-602-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-603-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 10s"
+    },
+    {
+      "name": "case-604-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-605-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-606-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 630ms"
+    },
+    {
+      "name": "case-607-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-608-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-609-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-610-react-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-611-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 530ms"
+    },
+    {
+      "name": "case-612-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-613-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 999ms"
+    },
+    {
+      "name": "case-615-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 519ms"
+    },
+    {
+      "name": "case-616-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-617-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 776ms"
+    },
+    {
+      "name": "case-618-webpack-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-619-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-620-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 797ms"
+    },
+    {
+      "name": "case-621-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-622-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-623-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 345ms"
+    },
+    {
+      "name": "case-624-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-625-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 885ms"
+    },
+    {
+      "name": "case-626-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 232ms"
+    },
+    {
+      "name": "case-627-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 161ms"
+    },
+    {
+      "name": "case-628-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 615ms"
+    },
+    {
+      "name": "case-629-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-630-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-631-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-632-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-633-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-634-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 158ms"
+    },
+    {
+      "name": "case-635-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-636-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 490ms"
+    },
+    {
+      "name": "case-637-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-638-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-640-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-641-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-643-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 510ms"
+    },
+    {
+      "name": "case-644-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-645-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 936ms"
+    },
+    {
+      "name": "case-646-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-647-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 661ms"
+    },
+    {
+      "name": "case-648-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-649-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-650-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 10s"
+    },
+    {
+      "name": "case-651-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-652-fastify-plugins-disjoint",
+      "outcome": "ERROR",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code EUNSUPPORTEDPROTOCOL"
+    },
+    {
+      "name": "case-653-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 442ms"
+    },
+    {
+      "name": "case-654-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 399ms"
+    },
+    {
+      "name": "case-655-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 468ms"
+    },
+    {
+      "name": "case-656-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 341ms"
+    },
+    {
+      "name": "case-657-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-658-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-659-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 556ms"
+    },
+    {
+      "name": "case-660-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 459ms"
+    },
+    {
+      "name": "case-661-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-662-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 720ms"
+    },
+    {
+      "name": "case-663-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 410ms"
+    },
+    {
+      "name": "case-664-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 868ms"
+    },
+    {
+      "name": "case-665-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 734ms"
+    },
+    {
+      "name": "case-666-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-667-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 723ms"
+    },
+    {
+      "name": "case-668-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 544ms"
+    },
+    {
+      "name": "case-669-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-670-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-671-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-672-jest-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-673-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 581ms"
+    },
+    {
+      "name": "case-674-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 539ms"
+    },
+    {
+      "name": "case-675-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 695ms"
+    },
+    {
+      "name": "case-676-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-677-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 158ms"
+    },
+    {
+      "name": "case-678-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-679-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-680-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-681-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 570ms"
+    },
+    {
+      "name": "case-682-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-683-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-684-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-685-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 728ms"
+    },
+    {
+      "name": "case-686-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 279ms"
+    },
+    {
+      "name": "case-687-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-688-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-689-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-690-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 325ms"
+    },
+    {
+      "name": "case-691-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-692-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-693-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 725ms"
+    },
+    {
+      "name": "case-694-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-695-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 520ms"
+    },
+    {
+      "name": "case-696-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-697-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-698-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-699-babel-core-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-700-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 853ms"
+    },
+    {
+      "name": "case-701-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-702-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-703-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 902ms"
+    },
+    {
+      "name": "case-704-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-705-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 869ms"
+    },
+    {
+      "name": "case-706-tailwindcss-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-707-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-708-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 489ms"
+    },
+    {
+      "name": "case-709-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 288ms"
+    },
+    {
+      "name": "case-710-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-711-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-712-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-713-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-714-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 940ms"
+    },
+    {
+      "name": "case-715-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-716-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 433ms"
+    },
+    {
+      "name": "case-717-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 16s"
+    },
+    {
+      "name": "case-719-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-720-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-721-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-722-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-724-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-725-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 12s"
+    },
+    {
+      "name": "case-726-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-727-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-728-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-729-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-730-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-731-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-732-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 13s"
+    },
+    {
+      "name": "case-733-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-734-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-735-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-736-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 292ms"
+    },
+    {
+      "name": "case-737-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-738-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-739-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-740-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-741-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-742-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-744-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-745-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-746-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 673ms"
+    },
+    {
+      "name": "case-747-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 570ms"
+    },
+    {
+      "name": "case-748-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-749-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 922ms"
+    },
+    {
+      "name": "case-750-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-751-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 485ms"
+    },
+    {
+      "name": "case-752-angular-core-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-753-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 653ms"
+    },
+    {
+      "name": "case-754-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 33s"
+    },
+    {
+      "name": "case-755-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-756-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-757-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-758-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-759-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 405ms"
+    },
+    {
+      "name": "case-760-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-761-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-762-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-763-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-764-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 578ms"
+    },
+    {
+      "name": "case-765-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-766-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 875ms"
+    },
+    {
+      "name": "case-767-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-768-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-769-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-770-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-771-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-772-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-773-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 636ms"
+    },
+    {
+      "name": "case-774-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 201ms"
+    },
+    {
+      "name": "case-775-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-776-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-777-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-778-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 433ms"
+    },
+    {
+      "name": "case-779-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-780-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-781-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 166ms"
+    },
+    {
+      "name": "case-782-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-783-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-784-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-785-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 16s"
+    },
+    {
+      "name": "case-787-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 397ms"
+    },
+    {
+      "name": "case-788-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-789-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 984ms"
+    },
+    {
+      "name": "case-790-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-791-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 272ms"
+    },
+    {
+      "name": "case-792-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-793-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-794-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-795-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-796-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-797-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-798-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-799-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-800-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 922ms"
+    },
+    {
+      "name": "case-801-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 20s"
+    },
+    {
+      "name": "case-802-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 711ms"
+    },
+    {
+      "name": "case-803-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-804-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 12s"
+    },
+    {
+      "name": "case-805-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-806-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-807-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 661ms"
+    },
+    {
+      "name": "case-808-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 8s"
+    },
+    {
+      "name": "case-809-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-810-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 730ms"
+    },
+    {
+      "name": "case-811-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-812-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 770ms"
+    },
+    {
+      "name": "case-813-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-814-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-815-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 330ms"
+    },
+    {
+      "name": "case-816-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-817-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-818-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-819-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 429ms"
+    },
+    {
+      "name": "case-820-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-821-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-822-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-823-babel-core-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 648ms"
+    },
+    {
+      "name": "case-824-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-825-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 288ms"
+    },
+    {
+      "name": "case-826-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-827-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 727ms"
+    },
+    {
+      "name": "case-828-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-829-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-830-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 991ms"
+    },
+    {
+      "name": "case-831-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 469ms"
+    },
+    {
+      "name": "case-832-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-833-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-834-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-835-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-836-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 592ms"
+    },
+    {
+      "name": "case-837-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 999ms"
+    },
+    {
+      "name": "case-838-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 783ms"
+    },
+    {
+      "name": "case-839-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-840-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-841-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 742ms"
+    },
+    {
+      "name": "case-843-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-844-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 10s"
+    },
+    {
+      "name": "case-845-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-846-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 833ms"
+    },
+    {
+      "name": "case-847-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-848-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-849-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-850-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-851-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-852-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-853-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-854-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 354ms"
+    },
+    {
+      "name": "case-855-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 655ms"
+    },
+    {
+      "name": "case-856-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 23s"
+    },
+    {
+      "name": "case-857-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-858-webpack-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-859-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 238ms"
+    },
+    {
+      "name": "case-860-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 909ms"
+    },
+    {
+      "name": "case-861-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 959ms"
+    },
+    {
+      "name": "case-862-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-863-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 10s"
+    },
+    {
+      "name": "case-865-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 510ms"
+    },
+    {
+      "name": "case-866-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-867-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-868-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-869-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-870-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-871-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-872-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-873-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-874-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-875-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-876-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 762ms"
+    },
+    {
+      "name": "case-877-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-878-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-879-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-880-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-881-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 755ms"
+    },
+    {
+      "name": "case-882-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-883-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 922ms"
+    },
+    {
+      "name": "case-884-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-885-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-886-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 163ms"
+    },
+    {
+      "name": "case-887-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 267ms"
+    },
+    {
+      "name": "case-888-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-889-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-890-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 428ms"
+    },
+    {
+      "name": "case-891-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 699ms"
+    },
+    {
+      "name": "case-892-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 546ms"
+    },
+    {
+      "name": "case-893-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 164ms"
+    },
+    {
+      "name": "case-894-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 766ms"
+    },
+    {
+      "name": "case-895-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-896-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 737ms"
+    },
+    {
+      "name": "case-897-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-898-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-899-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 530ms"
+    },
+    {
+      "name": "case-900-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-901-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-902-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-903-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-904-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-905-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-907-fastify-host-mismatch",
+      "outcome": "ERROR",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code EUNSUPPORTEDPROTOCOL"
+    },
+    {
+      "name": "case-908-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-909-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 161ms"
+    },
+    {
+      "name": "case-910-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-911-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-912-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-913-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-914-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-915-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 767ms"
+    },
+    {
+      "name": "case-916-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 628ms"
+    },
+    {
+      "name": "case-917-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-918-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 663ms"
+    },
+    {
+      "name": "case-919-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-920-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-921-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-922-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-923-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-924-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-925-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 825ms"
+    },
+    {
+      "name": "case-926-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 424ms"
+    },
+    {
+      "name": "case-927-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-928-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 206ms"
+    },
+    {
+      "name": "case-929-typescript-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-930-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-931-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-932-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 901ms"
+    },
+    {
+      "name": "case-933-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-934-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-935-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-936-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-937-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-938-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-939-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 320ms"
+    },
+    {
+      "name": "case-940-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-941-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-942-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 205ms"
+    },
+    {
+      "name": "case-943-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-944-react-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 741ms"
+    },
+    {
+      "name": "case-945-jest-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-946-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-947-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 431ms"
+    },
+    {
+      "name": "case-948-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-949-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 6s"
+    },
+    {
+      "name": "case-950-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 881ms"
+    },
+    {
+      "name": "case-951-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 4s"
+    },
+    {
+      "name": "case-952-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 417ms"
+    },
+    {
+      "name": "case-953-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-954-vite-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 8s"
+    },
+    {
+      "name": "case-955-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 833ms"
+    },
+    {
+      "name": "case-956-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-957-vite-plugins-disjoint",
+      "outcome": "ERROR",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code E404"
+    },
+    {
+      "name": "case-958-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 340ms"
+    },
+    {
+      "name": "case-959-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-960-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 11s"
+    },
+    {
+      "name": "case-961-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-962-webpack-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-963-fastify-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-964-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-965-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-966-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-967-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 376ms"
+    },
+    {
+      "name": "case-968-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 7s"
+    },
+    {
+      "name": "case-969-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 643ms"
+    },
+    {
+      "name": "case-970-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-971-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 839ms"
+    },
+    {
+      "name": "case-972-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-973-eslint-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-974-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-975-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-976-prettier-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-977-eslint-host-mismatch",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-978-prettier-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 168ms"
+    },
+    {
+      "name": "case-979-typescript-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-980-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 860ms"
+    },
+    {
+      "name": "case-981-rollup-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 1s"
+    },
+    {
+      "name": "case-982-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-983-jest-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-984-webpack-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-985-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 208ms"
+    },
+    {
+      "name": "case-986-rollup-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-987-react-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 3s"
+    },
+    {
+      "name": "case-989-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-990-tailwindcss-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 726ms"
+    },
+    {
+      "name": "case-991-fastify-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    },
+    {
+      "name": "case-992-eslint-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-994-angular-core-plugins-disjoint",
+      "outcome": "FALSE_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 1,
+      "note": "npm error code ERESOLVE"
+    },
+    {
+      "name": "case-995-angular-core-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 734ms"
+    },
+    {
+      "name": "case-996-tailwindcss-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 22s"
+    },
+    {
+      "name": "case-997-eslint-plugins-disjoint",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-998-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 5s"
+    },
+    {
+      "name": "case-999-vite-host-mismatch",
+      "outcome": "VERIFIED_SAT",
+      "solverStatus": "SAT",
+      "exitCode": 0,
+      "note": "up to date in 2s"
+    }
+  ]
+}
